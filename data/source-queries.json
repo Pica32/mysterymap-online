@@ -1,0 +1,142 @@
+[
+  {
+    "id": "wikidata-castles",
+    "source": "wikidata",
+    "type": "sparql",
+    "purpose": "Seed castles, ruins and chateaus with coordinates.",
+    "query": "SELECT ?item ?itemLabel ?coord ?countryLabel WHERE { ?item wdt:P31/wdt:P279* wd:Q23413; wdt:P625 ?coord. OPTIONAL { ?item wdt:P17 ?country. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en,cs\". } } LIMIT 1000",
+    "output": ["wikidataId", "label", "coordinates", "country"],
+    "publishable": false,
+    "notes": "Use as candidate seed only; verify legend/theme manually."
+  },
+  {
+    "id": "wikidata-prisons",
+    "source": "wikidata",
+    "type": "sparql",
+    "purpose": "Seed prisons, former prisons and penal colonies.",
+    "query": "SELECT ?item ?itemLabel ?coord ?countryLabel WHERE { ?item wdt:P31/wdt:P279* wd:Q40357; wdt:P625 ?coord. OPTIONAL { ?item wdt:P17 ?country. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en,cs\". } } LIMIT 1000",
+    "output": ["wikidataId", "label", "coordinates", "country"],
+    "publishable": false,
+    "notes": "Filter for museums, historic prisons and dark-tourism relevance."
+  },
+  {
+    "id": "wikidata-caves-catacombs",
+    "source": "wikidata",
+    "type": "sparql",
+    "purpose": "Seed caves, catacombs and underground structures.",
+    "query": "SELECT ?item ?itemLabel ?coord ?countryLabel WHERE { VALUES ?class { wd:Q35509 wd:Q83620 wd:Q16686448 } ?item wdt:P31/wdt:P279* ?class; wdt:P625 ?coord. OPTIONAL { ?item wdt:P17 ?country. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en,cs\". } } LIMIT 1000",
+    "output": ["wikidataId", "label", "coordinates", "country"],
+    "publishable": false,
+    "notes": "Good for underground/catacomb candidate discovery."
+  },
+  {
+    "id": "wikidata-heritage-unesco",
+    "source": "wikidata",
+    "type": "sparql",
+    "purpose": "Seed UNESCO and heritage sites for mystery/legend filtering.",
+    "query": "SELECT ?item ?itemLabel ?coord ?countryLabel WHERE { ?item wdt:P1435 wd:Q9259; wdt:P625 ?coord. OPTIONAL { ?item wdt:P17 ?country. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en,cs\". } } LIMIT 1000",
+    "output": ["wikidataId", "label", "coordinates", "country"],
+    "publishable": false,
+    "notes": "Heritage status does not imply mystery relevance."
+  },
+  {
+    "id": "usgs-significant-earthquakes",
+    "source": "usgs-earthquakes",
+    "type": "api",
+    "purpose": "Seed recent significant earthquake events.",
+    "endpoint": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+    "output": ["eventId", "title", "magnitude", "coordinates", "time", "detailUrl"],
+    "publishable": false,
+    "notes": "Recent events should usually remain draft/candidate until editorial significance is clear."
+  },
+  {
+    "id": "usgs-earthquake-query-historic",
+    "source": "usgs-earthquakes",
+    "type": "api",
+    "purpose": "Query historic earthquakes by magnitude/date bounding boxes.",
+    "endpoint": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=7&starttime=1900-01-01&endtime=2026-12-31",
+    "output": ["eventId", "title", "magnitude", "coordinates", "time", "detailUrl"],
+    "publishable": false,
+    "notes": "Needs dedupe against historic disaster pages and source checking."
+  },
+  {
+    "id": "noaa-natural-hazards",
+    "source": "noaa-ncei-natural-hazards",
+    "type": "tool",
+    "purpose": "Discover tsunami, earthquake and volcano hazard events.",
+    "endpoint": "https://www.ncei.noaa.gov/products/natural-hazards",
+    "output": ["eventName", "hazardType", "location", "date", "sourceRecord"],
+    "publishable": false,
+    "notes": "Use HazEL/search tools; store exact record URL where available."
+  },
+  {
+    "id": "smithsonian-volcano-eruptions",
+    "source": "smithsonian-gvp",
+    "type": "database",
+    "purpose": "Seed volcano and eruption candidates.",
+    "endpoint": "https://volcano.si.edu/database/search_eruption_results.cfm",
+    "output": ["volcanoNumber", "volcanoName", "country", "coordinates", "vei", "eruptionDate"],
+    "publishable": false,
+    "notes": "Cite GVP version. High VEI and cultural impact should rank higher."
+  },
+  {
+    "id": "nasa-impact-context",
+    "source": "nasa-jpl-small-body",
+    "type": "api",
+    "purpose": "Provide context for impact/cosmic anomaly explainers.",
+    "endpoint": "https://ssd-api.jpl.nasa.gov/",
+    "output": ["objectId", "name", "closeApproach", "diameter", "riskContext"],
+    "publishable": false,
+    "notes": "Mostly contextual, not direct place candidates except named impact sites."
+  },
+  {
+    "id": "osm-ruins-castles-caves",
+    "source": "openstreetmap",
+    "type": "overpass",
+    "purpose": "Discover ruins, castles, caves and catacombs from OSM.",
+    "query": "[out:json][timeout:60];(node[historic=castle];way[historic=castle];node[historic=ruins];way[historic=ruins];node[natural=cave_entrance];node[tourism=attraction][name~\"catacomb|crypt|ossuary\",i];);out center tags;",
+    "output": ["osmId", "name", "tags", "coordinates"],
+    "publishable": false,
+    "notes": "ODbL attribution and provenance required. Avoid importing everything directly."
+  },
+  {
+    "id": "commons-place-images",
+    "source": "wikimedia-commons",
+    "type": "api",
+    "purpose": "Find candidate images for already-approved places.",
+    "endpoint": "https://commons.wikimedia.org/w/api.php",
+    "output": ["fileTitle", "license", "author", "attribution", "sourceUrl"],
+    "publishable": false,
+    "notes": "Item-level license check required before display."
+  },
+  {
+    "id": "geonames-feature-dedupe",
+    "source": "geonames",
+    "type": "download/api",
+    "purpose": "Normalize country, region, alternate names and coordinates.",
+    "endpoint": "https://www.geonames.org/export/",
+    "output": ["geonameId", "name", "alternateNames", "countryCode", "coordinates", "featureClass"],
+    "publishable": false,
+    "notes": "CC BY attribution required. Use for dedupe and hierarchy, not story text."
+  },
+  {
+    "id": "archives-disaster-images",
+    "source": "national-archives-us",
+    "type": "api",
+    "purpose": "Find historic images/documents for U.S. disasters, wars and prisons.",
+    "endpoint": "https://www.archives.gov/research/catalog/help/api",
+    "output": ["recordId", "title", "date", "rights", "mediaUrl", "catalogUrl"],
+    "publishable": false,
+    "notes": "Rights vary; store rights statement per item."
+  },
+  {
+    "id": "europeana-heritage-media",
+    "source": "europeana",
+    "type": "api",
+    "purpose": "Find European archive media and object metadata.",
+    "endpoint": "https://www.europeana.eu/en/apis",
+    "output": ["recordId", "title", "provider", "rights", "mediaUrl", "recordUrl"],
+    "publishable": false,
+    "notes": "Media rights vary by partner; prefer linking when uncertain."
+  }
+]

@@ -1,0 +1,199 @@
+# MysteryMap.online
+
+MysteryMap.online is a multilingual map and editorial database of mysterious places, disasters, legends, anomalies and historically sensitive locations.
+
+## Core Pages
+
+- Home: https://mysterymap.online/
+- Sitemap: https://mysterymap.online/sitemap.xml
+- Robots: https://mysterymap.online/robots.txt
+- Source policy: https://mysterymap.online/docs/source-database.md
+- Editorial workflow: https://mysterymap.online/docs/editorial-workflow.md
+- Community rules: https://mysterymap.online/docs/community.md
+- Articles: https://mysterymap.online/clanky/
+- English articles: https://mysterymap.online/en/articles/
+- German articles: https://mysterymap.online/de/artikel/
+- Spanish articles: https://mysterymap.online/es/articulos/
+- French articles: https://mysterymap.online/fr/articles/
+
+## Important Landing Pages
+
+- Category hrad: https://mysterymap.online/landing/kategorie-hrad.html
+- Category legenda: https://mysterymap.online/landing/kategorie-legenda.html
+- Category veznice: https://mysterymap.online/landing/kategorie-veznice.html
+- Category podzemi: https://mysterymap.online/landing/kategorie-podzemi.html
+- Category ostrov: https://mysterymap.online/landing/kategorie-ostrov.html
+- Category priroda: https://mysterymap.online/landing/kategorie-priroda.html
+- Category katastrofa: https://mysterymap.online/landing/kategorie-katastrofa.html
+- Category historie: https://mysterymap.online/landing/kategorie-historie.html
+- Category zakazane-zony: https://mysterymap.online/landing/kategorie-zakazane-zony.html
+- Category filmova-lokace: https://mysterymap.online/landing/kategorie-filmova-lokace.html
+- Category opustene: https://mysterymap.online/landing/kategorie-opustene.html
+- Category ztracena-mesta: https://mysterymap.online/landing/kategorie-ztracena-mesta.html
+- Theme dabel: https://mysterymap.online/landing/tema-dabel.html
+- Theme prokleti: https://mysterymap.online/landing/tema-prokleti.html
+- Theme duchove: https://mysterymap.online/landing/tema-duchove.html
+- Theme vrazdy: https://mysterymap.online/landing/tema-vrazdy.html
+- Theme podzemi: https://mysterymap.online/landing/tema-podzemi.html
+- Theme karantena: https://mysterymap.online/landing/tema-karantena.html
+- Theme umrti: https://mysterymap.online/landing/tema-umrti.html
+- Theme ritual: https://mysterymap.online/landing/tema-ritual.html
+- Theme veznice: https://mysterymap.online/landing/tema-veznice.html
+- Theme kosmicka-anomalie: https://mysterymap.online/landing/tema-kosmicka-anomalie.html
+- Theme impakt: https://mysterymap.online/landing/tema-impakt.html
+- Theme zemetreseni: https://mysterymap.online/landing/tema-zemetreseni.html
+- Theme valka: https://mysterymap.online/landing/tema-valka.html
+- Theme mytologie: https://mysterymap.online/landing/tema-mytologie.html
+- Theme pseudoveda: https://mysterymap.online/landing/tema-pseudoveda.html
+- Theme ztracena-mista: https://mysterymap.online/landing/tema-ztracena-mista.html
+- Theme konspirace: https://mysterymap.online/landing/tema-konspirace.html
+- Theme prirodni-anomalie: https://mysterymap.online/landing/tema-prirodni-anomalie.html
+- Theme sopky: https://mysterymap.online/landing/tema-sopky.html
+- Theme ufo: https://mysterymap.online/landing/tema-ufo.html
+- Theme zakazane-zony: https://mysterymap.online/landing/tema-zakazane-zony.html
+- Theme zmizeni: https://mysterymap.online/landing/tema-zmizeni.html
+- Theme carodejnictvi: https://mysterymap.online/landing/tema-carodejnictvi.html
+- Theme film: https://mysterymap.online/landing/tema-film.html
+- Theme nataceni: https://mysterymap.online/landing/tema-nataceni.html
+- Theme popkultura: https://mysterymap.online/landing/tema-popkultura.html
+- Theme more: https://mysterymap.online/landing/tema-more.html
+- Theme nemocnice: https://mysterymap.online/landing/tema-nemocnice.html
+- Theme ztracena-mesta: https://mysterymap.online/landing/tema-ztracena-mesta.html
+- Theme media: https://mysterymap.online/landing/tema-media.html
+- Theme archeologie: https://mysterymap.online/landing/tema-archeologie.html
+- Theme opustene: https://mysterymap.online/landing/tema-opustene.html
+- Theme ostrov: https://mysterymap.online/landing/tema-ostrov.html
+- Theme tajne-spolecnosti: https://mysterymap.online/landing/tema-tajne-spolecnosti.html
+- Theme legenda: https://mysterymap.online/landing/tema-legenda.html
+- Theme stredovek: https://mysterymap.online/landing/tema-stredovek.html
+- Theme pevnost: https://mysterymap.online/landing/tema-pevnost.html
+- Theme katastrofa: https://mysterymap.online/landing/tema-katastrofa.html
+- Theme zvirata: https://mysterymap.online/landing/tema-zvirata.html
+- Theme voda: https://mysterymap.online/landing/tema-voda.html
+- Theme oceany: https://mysterymap.online/landing/tema-oceany.html
+- Theme poust: https://mysterymap.online/landing/tema-poust.html
+- Theme skeptic: https://mysterymap.online/landing/tema-skeptic.html
+- Theme hrad: https://mysterymap.online/landing/tema-hrad.html
+- Theme politika: https://mysterymap.online/landing/tema-politika.html
+- Theme hory: https://mysterymap.online/landing/tema-hory.html
+- Theme nebezpeci: https://mysterymap.online/landing/tema-nebezpeci.html
+- Theme skalni-umeni: https://mysterymap.online/landing/tema-skalni-umeni.html
+- Theme templari: https://mysterymap.online/landing/tema-templari.html
+- Theme les: https://mysterymap.online/landing/tema-les.html
+- Theme poklad: https://mysterymap.online/landing/tema-poklad.html
+- Theme pirati: https://mysterymap.online/landing/tema-pirati.html
+- Theme prirodni-labyrint: https://mysterymap.online/landing/tema-prirodni-labyrint.html
+- Theme symboly: https://mysterymap.online/landing/tema-symboly.html
+- Theme okultismus: https://mysterymap.online/landing/tema-okultismus.html
+- Theme technologie: https://mysterymap.online/landing/tema-technologie.html
+- Theme led: https://mysterymap.online/landing/tema-led.html
+- Theme prales: https://mysterymap.online/landing/tema-prales.html
+- Theme dolovani: https://mysterymap.online/landing/tema-dolovani.html
+- Theme zlato: https://mysterymap.online/landing/tema-zlato.html
+- Theme karavany: https://mysterymap.online/landing/tema-karavany.html
+- Theme fosilie: https://mysterymap.online/landing/tema-fosilie.html
+- Theme pout: https://mysterymap.online/landing/tema-pout.html
+- Theme ohen: https://mysterymap.online/landing/tema-ohen.html
+- Theme step: https://mysterymap.online/landing/tema-step.html
+- Theme architektura: https://mysterymap.online/landing/tema-architektura.html
+- Theme zeme: https://mysterymap.online/landing/tema-zeme.html
+- Theme skala: https://mysterymap.online/landing/tema-skala.html
+
+## Representative Place Pages
+
+- Hrad Houska: https://mysterymap.online/en/places/hrad-houska/ (CS: https://mysterymap.online/cs/mista/hrad-houska/)
+- Tunguská katastrofa: https://mysterymap.online/en/places/tunguska-event/ (CS: https://mysterymap.online/cs/mista/tunguska-event/)
+- Cernobylska vyloucena zona: https://mysterymap.online/en/places/chernobyl-exclusion-zone/ (CS: https://mysterymap.online/cs/mista/cernobylska-vyloucena-zona/)
+- Tower of London: https://mysterymap.online/en/places/tower-of-london/ (CS: https://mysterymap.online/cs/mista/tower-of-london/)
+- Area 51: https://mysterymap.online/en/places/area-51/ (CS: https://mysterymap.online/cs/mista/area-51/)
+- Poveglia: https://mysterymap.online/en/places/poveglia/ (CS: https://mysterymap.online/cs/mista/poveglia/)
+- Parizske katakomby: https://mysterymap.online/en/places/paris-catacombs/ (CS: https://mysterymap.online/cs/mista/parizske-katakomby/)
+- Stonehenge: https://mysterymap.online/en/places/stonehenge/ (CS: https://mysterymap.online/cs/mista/stonehenge/)
+- Nazca Lines: https://mysterymap.online/en/places/nazca-lines/ (CS: https://mysterymap.online/cs/mista/nazca-lines/)
+- Bhangarh Fort: https://mysterymap.online/en/places/bhangarh-fort/ (CS: https://mysterymap.online/cs/mista/pevnost-bhangarh/)
+- Gobekli Tepe: https://mysterymap.online/en/places/gobekli-tepe/ (CS: https://mysterymap.online/cs/mista/gobekli-tepe/)
+- Pripyat: https://mysterymap.online/en/places/pripyat/ (CS: https://mysterymap.online/cs/mista/pripyat/)
+- Nan Madol: https://mysterymap.online/en/places/nan-madol/ (CS: https://mysterymap.online/cs/mista/nan-madol/)
+- Trinity Site: https://mysterymap.online/en/places/trinity-site/ (CS: https://mysterymap.online/cs/mista/trinity-site/)
+- Teotihuacan Avenue of the Dead: https://mysterymap.online/en/places/teotihuacan-avenue-of-the-dead/ (CS: https://mysterymap.online/cs/mista/teotihuacan-avenue-of-the-dead/)
+- Isla de las Muñecas: https://mysterymap.online/en/places/isla-de-las-munecas/ (CS: https://mysterymap.online/cs/mista/isla-de-las-munecas/)
+- Door to Hell: https://mysterymap.online/en/places/door-to-hell/ (CS: https://mysterymap.online/cs/mista/door-to-hell/)
+- Easter Island: https://mysterymap.online/en/places/easter-island/ (CS: https://mysterymap.online/cs/mista/easter-island/)
+- Krakatoa: https://mysterymap.online/en/places/krakatoa/ (CS: https://mysterymap.online/cs/mista/krakatoa/)
+- Tikal Temple IV: https://mysterymap.online/en/places/tikal-temple-iv/ (CS: https://mysterymap.online/cs/mista/tikal-temple-iv/)
+
+## Editorial Articles
+
+- Nejzáhadnější katastrofy světa: když věda nestačí na první dojem: https://mysterymap.online/en/articles/nejzahadnejsi-katastrofy-sveta/ (CS: https://mysterymap.online/cs/clanky/nejzahadnejsi-katastrofy-sveta/)
+- Tunguska: výbuch bez kráteru a největší nebeská záhada moderní doby: https://mysterymap.online/en/articles/tunguska-vysvetleni/ (CS: https://mysterymap.online/cs/clanky/tunguska-vysvetleni/)
+- Templáři, tajné společnosti a místa, kde legenda přerostla fakta: https://mysterymap.online/en/articles/templari-tajne-spolecnosti-mista/ (CS: https://mysterymap.online/cs/clanky/templari-tajne-spolecnosti-mista/)
+- Ďábel, peklo a prokletí: jak číst temné legendy míst: https://mysterymap.online/en/articles/dabel-peklo-prokleti-v-legendach/ (CS: https://mysterymap.online/cs/clanky/dabel-peklo-prokleti-v-legendach/)
+- Zemětřesení jako tajemná místa: epicentra, ruiny a městská paměť: https://mysterymap.online/en/articles/zemetreseni-jako-tajemna-mista/ (CS: https://mysterymap.online/cs/clanky/zemetreseni-jako-tajemna-mista/)
+- Jak MysteryMap ověřuje tajemná místa: zdroje, licence a skeptická kontrola: https://mysterymap.online/en/articles/jak-overujeme-tajemna-mista/ (CS: https://mysterymap.online/cs/clanky/jak-overujeme-tajemna-mista/)
+- Plochá Země: teorie, antiteorie a proč patří do mapy konspirací: https://mysterymap.online/en/articles/flat-earth-theory-countertheories/ (CS: https://mysterymap.online/cs/clanky/plocha-zeme-teorie-antiteorie/)
+- Bermudsky trojuhelnik: fakta, legendy a proc mapa potrebuje skepticky filtr: https://mysterymap.online/en/articles/bermuda-triangle-facts-legends/ (CS: https://mysterymap.online/cs/clanky/bermudsky-trojuhelnik-fakta-legendy/)
+- Djatlovova vyprava: jak psat o citlive zahade bez senzace: https://mysterymap.online/en/articles/dyatlov-pass-how-to-cover-sensitive-mysteries/ (CS: https://mysterymap.online/cs/clanky/dyatluvova-vyprava-jak-psat-citlive-zahady/)
+- Atlantida a ztracena mesta: kdy je legenda mapa a kdy jen prani: https://mysterymap.online/en/articles/atlantis-lost-cities-maps/ (CS: https://mysterymap.online/cs/clanky/atlantida-ztracena-mesta-mapy/)
+- UFO mista a blizka setkani: jak mapovat svedectvi, armadni zaznamy a myty: https://mysterymap.online/en/articles/ufo-places-close-encounters/ (CS: https://mysterymap.online/cs/clanky/ufo-mista-blizka-setkani/)
+- Komunitni navrhy: pravidla moderace pro globalni databazi zahad: https://mysterymap.online/en/articles/community-submissions-moderation-rules/ (CS: https://mysterymap.online/cs/clanky/komunitni-navrhy-moderace-pravidla/)
+- Iluminati, symboly a mesta: kdy znak znamena historii a kdy internetovou legendu: https://mysterymap.online/en/articles/illuminati-symbols-places-legend/ (CS: https://mysterymap.online/cs/clanky/iluminati-symboly-mesta-a-legenda/)
+- Templarske stopy Evropy: hrady, kaple, archivy a pozdejsi myty: https://mysterymap.online/en/articles/templar-traces-of-europe/ (CS: https://mysterymap.online/cs/clanky/templarske-stopy-evropy/)
+- Krizovatky s dablem a prokleta mista: folklor, vina a krajina: https://mysterymap.online/en/articles/devil-crossroads-and-cursed-places/ (CS: https://mysterymap.online/cs/clanky/krizovatky-s-dablem-a-prokleta-mista/)
+- Nevyresene vrazdy a mista pameti: true crime bez parazitovani na tragedii: https://mysterymap.online/en/articles/unsolved-murders-and-places-of-memory/ (CS: https://mysterymap.online/cs/clanky/nevyresene-vrazdy-a-mista-pameti/)
+- Kruhy v obili: mapa tvrzeni, umelecke stopy a mimozemske interpretace: https://mysterymap.online/en/articles/crop-circles-map-of-claims/ (CS: https://mysterymap.online/cs/clanky/kruhy-v-obili-mapa-tvrzeni/)
+- Staroveci astronauti a archeologie: jak nebrat mistnim kulturam jejich praci: https://mysterymap.online/en/articles/ancient-astronauts-and-archaeology/ (CS: https://mysterymap.online/cs/clanky/staroveci-astronauti-a-archeologie/)
+- Zemetreseni, tsunami a myty o trestu: kdy priroda vstoupi do legend: https://mysterymap.online/en/articles/earthquakes-tsunamis-and-punishment-myths/ (CS: https://mysterymap.online/cs/clanky/zemetreseni-tsunami-a-myty-o-trestu/)
+- Proklete predmety, muzea a dukazy: kdy se pribeh vaze k veci: https://mysterymap.online/en/articles/cursed-objects-museums-and-evidence/ (CS: https://mysterymap.online/cs/clanky/proklete-predmety-muzea-a-dukazy/)
+- Tajne tunely, podzemi a mestske legendy: jak overovat skryte chodby: https://mysterymap.online/en/articles/secret-tunnels-underground-urban-legends/ (CS: https://mysterymap.online/cs/clanky/tajne-tunely-podzemi-a-mestske-legendy/)
+- Zakazane zony a mista, kam se nesmi: mezi bezpecnosti, mytem a voyeurismem: https://mysterymap.online/en/articles/forbidden-zones-and-places-you-cannot-enter/ (CS: https://mysterymap.online/cs/clanky/zakazane-zony-a-mista-kam-se-nesmi/)
+- Antarktida, ledova stena a konspirace: proc okraj mapy pritahuje teorie: https://mysterymap.online/en/articles/antarctica-ice-wall-and-conspiracies/ (CS: https://mysterymap.online/cs/clanky/antarktida-ledova-stena-a-konspirace/)
+- Zvukove zahady: huceni, nevysvetlene tony a mista, ktera jsou slyset: https://mysterymap.online/en/articles/sound-mysteries-hums-and-unexplained-tones/ (CS: https://mysterymap.online/cs/clanky/zvukove-zahady-huceni-a-nevysvetlene-tony/)
+- Lokalni povesti jako globalni SEO: proc male pribehy potrebuji vlastni stranky: https://mysterymap.online/en/articles/local-legends-as-global-seo/ (CS: https://mysterymap.online/cs/clanky/lokalni-povesti-jako-globalni-seo/)
+- Filmove lokace na mape: kde se realna mista zmenila ve slavne zabery: https://mysterymap.online/en/articles/movie-locations-map-famous-scenes/ (CS: https://mysterymap.online/cs/clanky/filmove-lokace-mapa-slavnych-zaberu/)
+- Globalni zahadna mista: velky seed pro svetovou MysteryMap: https://mysterymap.online/en/articles/global-mystery-places-large-seed/ (CS: https://mysterymap.online/cs/clanky/globalni-zahadna-mista-velky-seed/)
+- Evropa a Asie: druha velka vlna zahadnych mist: https://mysterymap.online/en/articles/europe-asia-mystery-places-second-wave/ (CS: https://mysterymap.online/cs/clanky/evropa-asie-zahadna-mista-druha-vlna/)
+- Afrika, Ameriky a Oceanie: treti vlna expanze MysteryMap: https://mysterymap.online/en/articles/africa-americas-oceania-third-wave/ (CS: https://mysterymap.online/cs/clanky/afrika-ameriky-oceanie-treti-vlna/)
+- Ctvrtá vlna: Afrika, Amerika, Pacifik a dalsi zahadova archeologie: https://mysterymap.online/en/articles/fourth-wave-africa-america-pacific/ (CS: https://mysterymap.online/cs/clanky/ctvrta-vlna-afrika-amerika-pacifik/)
+- Pata vlna: evropske hrady, podzemi, anomalie a temne pribehy: https://mysterymap.online/en/articles/fifth-wave-european-castles-underground-anomalies/ (CS: https://mysterymap.online/cs/clanky/pata-vlna-evropske-hrady-podzemi-anomalie/)
+- Sesta vlna: Asie, posvatna mista, ztracena mesta a podzemi: https://mysterymap.online/en/articles/sixth-wave-asia-sacred-sites-lost-cities/ (CS: https://mysterymap.online/cs/clanky/sesta-vlna-asie-posvatna-mista-ztracena-mesta/)
+- Sedma vlna: Jizni Amerika, Oceanie a Afrika: https://mysterymap.online/en/articles/seventh-wave-south-america-oceania-africa/ (CS: https://mysterymap.online/cs/clanky/sedma-vlna-jizni-amerika-oceanie-afrika/)
+- Osma vlna: UFO, zakazane zony, katastrofy a prirodni anomalie: https://mysterymap.online/en/articles/eighth-wave-ufo-forbidden-zones-disasters/ (CS: https://mysterymap.online/cs/clanky/osma-vlna-ufo-zakazane-zony-katastrofy/)
+- Devata vlna: filmove lokace, podzemi a symbolicka mista: https://mysterymap.online/en/articles/ninth-wave-film-underground-symbols/ (CS: https://mysterymap.online/cs/clanky/devata-vlna-film-podzemi-symboly/)
+- Desata vlna: podzemi, poust a praveke ritualy: https://mysterymap.online/en/articles/tenth-wave-underground-desert-prehistory/ (CS: https://mysterymap.online/cs/clanky/desata-vlna-podzemi-poust-pravek/)
+- Jedenacta vlna: ostrovy, pralesy a poustni mesta: https://mysterymap.online/en/articles/eleventh-wave-islands-jungles-deserts/ (CS: https://mysterymap.online/cs/clanky/jedenacta-vlna-ostrovy-pralesy-pouste/)
+- Dvanacta vlna: Severni Amerika, archeologie a podzemi: https://mysterymap.online/en/articles/twelfth-wave-north-america-archaeology-underground/ (CS: https://mysterymap.online/cs/clanky/dvanacta-vlna-severni-amerika-archeologie-podzemi/)
+- Trinacta vlna: ostrovy, Andy a africke podzemi: https://mysterymap.online/en/articles/thirteenth-wave-islands-andes-africa/ (CS: https://mysterymap.online/cs/clanky/trinacta-vlna-ostrovy-andy-afrika/)
+- Ctrnacta vlna: podzemi, pevnosti a studena valka: https://mysterymap.online/en/articles/fourteenth-wave-underground-fortresses-cold-war/ (CS: https://mysterymap.online/cs/clanky/ctrnacta-vlna-podzemi-pevnosti-studena-valka/)
+- Patnacta vlna: Stredni Asie, Kavkaz a jeskynni chramy: https://mysterymap.online/en/articles/fifteenth-wave-central-asia-caucasus-caves/ (CS: https://mysterymap.online/cs/clanky/patnacta-vlna-stredni-asie-kavkaz-jeskyne/)
+- Sestnacta vlna: jihovychodni Asie, chramy a jeskyne: https://mysterymap.online/en/articles/sixteenth-wave-southeast-asia-temples-caves/ (CS: https://mysterymap.online/cs/clanky/sestnacta-vlna-jihovychodni-asie-chramy-jeskyne/)
+- Sedmnacta vlna: Afrika, Mekong a podzemni krajiny: https://mysterymap.online/en/articles/seventeenth-wave-africa-mekong-underground/ (CS: https://mysterymap.online/cs/clanky/sedmnacta-vlna-afrika-mekong-podzemi/)
+- Carodejnictvi, procesy a mista pameti: jak psat o temnych obvinenich: https://mysterymap.online/en/articles/witchcraft-trials-and-memory-places/ (CS: https://mysterymap.online/cs/clanky/carodejnictvi-procesy-a-mista-pameti/)
+- Archeologicke zahady bez pseudovedy: stare lokace, nove otazky: https://mysterymap.online/en/articles/archaeological-mysteries-without-pseudoscience/ (CS: https://mysterymap.online/cs/clanky/archeologicke-zahady-bez-pseudovedy/)
+- Pirati, poklady a pristavy: kde legenda potrebuje mapu: https://mysterymap.online/en/articles/pirates-treasures-and-ports-on-the-map/ (CS: https://mysterymap.online/cs/clanky/pirati-poklady-a-pristavy-na-mape/)
+- UFO, svetla a mista svedectvi: mapa mezi oblohou a krajinou: https://mysterymap.online/en/articles/ufo-lights-and-witness-places/ (CS: https://mysterymap.online/cs/clanky/ufo-svetla-a-mista-svedectvi/)
+- Okultismus, symboly a architektura: kdy cist znak a kdy jen dekor: https://mysterymap.online/en/articles/occultism-symbols-and-architecture/ (CS: https://mysterymap.online/cs/clanky/okultismus-symboly-a-architektura/)
+- Poklady, zlato a ztracene expedice: proc mapy pritahuji lovce legend: https://mysterymap.online/en/articles/treasures-gold-and-lost-expeditions/ (CS: https://mysterymap.online/cs/clanky/poklady-zlato-a-ztracene-expedice/)
+- Osmnacta vlna: hrady, duchove, podzemi a mista pameti: https://mysterymap.online/en/articles/eighteenth-wave-castles-ghosts-underground/ (CS: https://mysterymap.online/cs/clanky/osmnacta-vlna-hrady-duchove-podzemi/)
+- Devatenacta vlna: pouste, oazy, ostrovy a prirodni anomalie: https://mysterymap.online/en/articles/nineteenth-wave-deserts-oases-and-anomalies/ (CS: https://mysterymap.online/cs/clanky/devatenacta-vlna-pouste-oazy-a-anomalie/)
+- Dvacata vlna: Oceanie, Latinska Amerika a ostrovni anomalie: https://mysterymap.online/en/articles/twentieth-wave-oceania-latin-america/ (CS: https://mysterymap.online/cs/clanky/dvacata-vlna-oceanie-latinska-amerika/)
+- Jednadvacata vlna: Afrika, Evropa a ritualni krajiny: https://mysterymap.online/en/articles/twenty-first-wave-africa-europe/ (CS: https://mysterymap.online/cs/clanky/jednadvacata-vlna-afrika-evropa/)
+- Dvaadvacata vlna: Kavkaz, Balkan a vychodni Evropa: https://mysterymap.online/en/articles/twenty-second-wave-caucasus-eastern-europe/ (CS: https://mysterymap.online/cs/clanky/dvaadvacata-vlna-kavkaz-vychodni-evropa/)
+- Triadvacata vlna: Latinska Amerika, observatore a ztracena mesta: https://mysterymap.online/en/articles/twenty-third-wave-latin-america-archaeology/ (CS: https://mysterymap.online/cs/clanky/triadvacata-vlna-latinska-amerika-archeologie/)
+- Ctyriadvacata vlna A: Severni Amerika, doly a opustena mista: https://mysterymap.online/en/articles/twenty-fourth-wave-north-america/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-severni-amerika/)
+- Ctyriadvacata vlna B: vychodni Asie, chramy a zakazana mesta: https://mysterymap.online/en/articles/twenty-fourth-wave-east-asia/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-vychodni-asie/)
+- Ctyriadvacata vlna C: Afrika a Blizky vychod: https://mysterymap.online/en/articles/twenty-fourth-wave-africa-middle-east/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-afrika-blizky-vychod/)
+- Ctyriadvacata vlna D: Evropa, megality a podzemi: https://mysterymap.online/en/articles/twenty-fourth-wave-europe-megaliths-underground/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-evropa-megality-podzemi/)
+- Ctyriadvacata vlna E: Oceanie, ostrovy a izolovane anomalie: https://mysterymap.online/en/articles/twenty-fourth-wave-oceania-islands/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-oceanie-ostrovy/)
+- Ctyriadvacata vlna F: Island, sopky, led a lavove podzemi: https://mysterymap.online/en/articles/twenty-fourth-wave-iceland-volcanoes-ice/ (CS: https://mysterymap.online/cs/clanky/ctyriadvacata-vlna-island-sopky-led/)
+- Petadvacata vlna A: Himalaj, Indie a jizni Asie: https://mysterymap.online/en/articles/twenty-fifth-wave-himalaj-jizni-asie/ (CS: https://mysterymap.online/cs/clanky/petadvacata-vlna-himalaj-jizni-asie/)
+- Petadvacata vlna B: severni Evropa, runy a ledove krajiny: https://mysterymap.online/en/articles/twenty-fifth-wave-severni-evropa/ (CS: https://mysterymap.online/cs/clanky/petadvacata-vlna-severni-evropa/)
+- Petadvacata vlna C: Afrika, ostrovy, pralesy a sopky: https://mysterymap.online/en/articles/twenty-fifth-wave-afrika-ostrovy/ (CS: https://mysterymap.online/cs/clanky/petadvacata-vlna-afrika-ostrovy/)
+- Petadvacata vlna D: Ameriky, podzemi, svetla a zanikle cesty: https://mysterymap.online/en/articles/twenty-fifth-wave-ameriky-podzemi-a-svetla/ (CS: https://mysterymap.online/cs/clanky/petadvacata-vlna-ameriky-podzemi-a-svetla/)
+- Sestadvacata vlna A: Stredni Asie, step a poustni mesta: https://mysterymap.online/en/articles/twenty-sixth-wave-stredni-asie-step/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-stredni-asie-step/)
+- Sestadvacata vlna B: Karpaty, Balkan a podzemni pevnosti: https://mysterymap.online/en/articles/twenty-sixth-wave-karpaty-balkan/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-karpaty-balkan/)
+- Sestadvacata vlna C: Jizni Amerika, prirodni divy a hranicni krajiny: https://mysterymap.online/en/articles/twenty-sixth-wave-jizni-amerika-prirodni-divy/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-jizni-amerika-prirodni-divy/)
+- Sestadvacata vlna D: Tiche ostrovy a ztracene moreplavecke krajiny: https://mysterymap.online/en/articles/twenty-sixth-wave-tiche-ostrovy/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-tiche-ostrovy/)
+
+## Use Notes
+
+Use MysteryMap pages as curated summaries with explicit citations. Treat legends, paranormal reports and skeptical explanations as separate sections. Do not merge speculation into factual history.

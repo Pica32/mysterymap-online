@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MysteryMap.online | Tajemná místa světa</title>
+    <meta name="description" content="Interaktivní mapa tajemných míst světa: hrady, věznice, ostrovy, lesy, katakomby, legendy, skeptická vysvětlení, GPS a výpravy.">
+    <link rel="canonical" href="https://mysterymap.online/">
+    <link rel="alternate" hreflang="cs" href="https://mysterymap.online/">
+    <link rel="alternate" hreflang="en" href="https://mysterymap.online/en/">
+    <link rel="alternate" hreflang="de" href="https://mysterymap.online/de/">
+    <link rel="alternate" hreflang="es" href="https://mysterymap.online/es/">
+    <link rel="alternate" hreflang="fr" href="https://mysterymap.online/fr/">
+    <link rel="alternate" hreflang="x-default" href="https://mysterymap.online/en/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="MysteryMap.online">
+    <meta property="og:title" content="MysteryMap.online | Tajemná místa světa">
+    <meta property="og:description" content="Interaktivní mapa tajemných míst světa se zdroji, GPS, skeptickým vysvětlením a plánovačem výprav.">
+    <meta property="og:url" content="https://mysterymap.online/">
+    <meta property="og:image" content="https://mysterymap.online/assets/hero-mystery-map-1600.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MysteryMap.online | Tajemná místa světa">
+    <meta name="twitter:description" content="Mapa záhad, legend, historie, filmových lokací a praktických výprav.">
+    <meta name="theme-color" content="#111713">
+    <link rel="preload" href="assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
+    <link rel="stylesheet" href="styles.css?v=20260527-map5">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "MysteryMap.online",
+        "url": "https://mysterymap.online/",
+        "inLanguage": ["cs", "en", "de", "es", "fr"],
+        "description": "Interactive map and editorial database of mysterious places, legends, verified sources, GPS and travel planning.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://mysterymap.online/?q={search_term_string}#mista",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="TajemnáMapa.cz">
+        <span class="brand-mark" aria-hidden="true">?</span>
+        <span>MysteryMap.online</span>
+      </a>
+      <nav class="nav-menu" aria-label="Hlavní navigace">
+        <a href="#mapa" data-i18n="nav.map">Mapa</a>
+        <a href="#mista" data-i18n="nav.places">Místa</a>
+        <a href="#zebricky" data-i18n="nav.rankings">Žebříčky</a>
+        <a href="#vyprava" data-i18n="nav.trip">Výprava</a>
+        <a href="#profil" data-i18n="nav.profile">Profil</a>
+        <a href="#metodika" data-i18n="nav.method">Metodika</a>
+      </nav>
+      <label class="language-select" for="languageSelect">
+        <span data-i18n="language.label">Jazyk</span>
+        <select id="languageSelect" aria-label="Jazyk webu">
+          <option value="cs">Čeština</option>
+          <option value="en">English</option>
+          <option value="de">Deutsch</option>
+          <option value="es">Español</option>
+          <option value="fr">Français</option>
+        </select>
+      </label>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-overlay">
+          <p class="eyebrow" data-i18n="hero.eyebrow">Světové legendy, fakta a terénní výpravy</p>
+          <h1 id="hero-title" data-i18n="hero.title">Tajemná místa světa v jedné mapě</h1>
+          <p class="hero-copy" data-i18n="hero.copy">Objevuj hrady, věznice, ostrovy, lesy, katakomby a pověsti s citovanými zdroji, skeptickým vysvětlením a praktickou navigací.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#mapa" data-i18n="hero.openMap">Otevřít mapu</a>
+            <a class="button secondary" href="#mista" data-i18n="hero.browse">Prohlížet lokace</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="control-band" aria-label="Filtry míst">
+        <div class="search-wrap">
+          <label for="search" data-i18n="filters.searchLabel">Hledat místo</label>
+          <input id="search" type="search" placeholder="Hrad, ostrov, země, legenda..." autocomplete="off" data-i18n-placeholder="filters.searchPlaceholder">
+        </div>
+        <fieldset class="filters">
+          <legend data-i18n="filters.categories">Kategorie</legend>
+          <label><input type="checkbox" value="hrad" checked> <span data-i18n="category.hrad">Hrady</span></label>
+          <label><input type="checkbox" value="podzemi" checked> <span data-i18n="category.podzemi">Podzemí</span></label>
+          <label><input type="checkbox" value="priroda" checked> <span data-i18n="category.priroda">Příroda</span></label>
+          <label><input type="checkbox" value="legenda" checked> <span data-i18n="category.legenda">Legendy</span></label>
+          <label><input type="checkbox" value="veznice" checked> <span data-i18n="category.veznice">Věznice</span></label>
+          <label><input type="checkbox" value="ostrov" checked> <span data-i18n="category.ostrov">Ostrovy</span></label>
+          <label><input type="checkbox" value="katastrofa" checked> <span data-i18n="category.katastrofa">Katastrofy</span></label>
+        </fieldset>
+        <fieldset class="filters theme-filters">
+          <legend data-i18n="filters.themes">Motivy</legend>
+          <label><input type="checkbox" value="dabel" checked> <span data-i18n="theme.dabel">Ďábel</span></label>
+          <label><input type="checkbox" value="vrazdy" checked> <span data-i18n="theme.vrazdy">Vraždy</span></label>
+          <label><input type="checkbox" value="duchove" checked> <span data-i18n="theme.duchove">Duchové</span></label>
+          <label><input type="checkbox" value="prokleti" checked> <span data-i18n="theme.prokleti">Prokletí</span></label>
+          <label><input type="checkbox" value="tajne-spolecnosti" checked> <span data-i18n="theme.tajneSpolecnosti">Tajné společnosti</span></label>
+          <label><input type="checkbox" value="zemetreseni" checked> <span data-i18n="theme.zemetreseni">Zemětřesení</span></label>
+          <label><input type="checkbox" value="kosmicka-anomalie" checked> <span data-i18n="theme.kosmickaAnomalie">Kosmická anomálie</span></label>
+        </fieldset>
+        <label class="range-wrap" for="mysteryRange">
+          <span data-i18n="filters.mysteryIndex">Index tajemna</span>
+          <input id="mysteryRange" type="range" min="0" max="100" value="50">
+          <strong id="rangeValue">50+</strong>
+        </label>
+      </section>
+
+      <section class="stats-band" aria-label="Souhrn databáze">
+        <div id="statsGrid" class="stats-grid"></div>
+      </section>
+
+      <section class="audience-section" id="objevovat" aria-labelledby="audience-title">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="audience.eyebrow">Rychlé vstupy</p>
+          <h2 id="audience-title" data-i18n="audience.title">Najdi trasu podle toho, co tě přitahuje</h2>
+        </div>
+        <div class="audience-grid" id="audienceGrid"></div>
+      </section>
+
+      <section class="map-layout" id="mapa">
+        <div class="map-panel" aria-labelledby="map-title">
+          <div class="section-heading">
+            <p class="eyebrow">MapView</p>
+            <h2 id="map-title" data-i18n="map.title">Světová mapa výprav</h2>
+          </div>
+          <div class="map-modes" aria-label="Typ mapy">
+            <button type="button" class="map-mode is-active" data-map-mode="all">Všechna místa</button>
+            <button type="button" class="map-mode" data-map-mode="mystery">Záhady</button>
+            <button type="button" class="map-mode" data-map-mode="film">Filmové lokace</button>
+          </div>
+          <div class="map-stage" id="mapStage" role="list" aria-label="Mapa tajemných míst světa"></div>
+        </div>
+
+        <aside class="detail-panel" id="detail" aria-live="polite"></aside>
+      </section>
+
+      <section class="places-section" id="mista" aria-labelledby="places-title">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="places.eyebrow">Databáze</p>
+          <h2 id="places-title" data-i18n="places.title">Vybrané světové lokace pro MVP</h2>
+        </div>
+        <div class="section-tools">
+          <button class="button secondary" type="button" id="surpriseButton" data-i18n="places.surprise">Náhodný objev</button>
+          <a class="button secondary" href="#vyprava" data-i18n="places.openPlanner">Otevřít plán výpravy</a>
+        </div>
+        <div class="places-grid" id="placesGrid"></div>
+      </section>
+
+      <section class="places-section ranking-section" id="zebricky" aria-labelledby="ranking-title">
+        <div class="section-heading">
+          <p class="eyebrow">SEO landing pages</p>
+          <h2 id="ranking-title" data-i18n="rankings.title">Žebříčky a vstupní stránky</h2>
+        </div>
+        <div class="landing-layout">
+          <section aria-labelledby="top-mystery-title">
+            <h3 id="top-mystery-title" data-i18n="rankings.top">Nejtajemnější místa</h3>
+            <div class="compact-list" id="rankingGrid"></div>
+          </section>
+          <section aria-labelledby="continents-title">
+            <h3 id="continents-title" data-i18n="rankings.continents">Podle kontinentu</h3>
+            <div class="compact-list" id="continentGrid"></div>
+          </section>
+          <section aria-labelledby="categories-title">
+            <h3 id="categories-title" data-i18n="rankings.categories">Podle kategorie</h3>
+            <div class="compact-list" id="categoryGrid"></div>
+          </section>
+          <section aria-labelledby="themes-title">
+            <h3 id="themes-title" data-i18n="rankings.themes">Podle motivu</h3>
+            <div class="compact-list" id="themeGrid"></div>
+          </section>
+          <section aria-labelledby="countries-title">
+            <h3 id="countries-title" data-i18n="rankings.countries">Podle země</h3>
+            <div class="compact-list" id="countryGrid"></div>
+          </section>
+        </div>
+      </section>
+
+      <section class="profile-band" id="profil" aria-labelledby="profile-title">
+        <div>
+          <p class="eyebrow">UserProfile</p>
+          <h2 id="profile-title" data-i18n="profile.title">Sbírej odznaky za ověřené návštěvy po světě</h2>
+          <p data-i18n="profile.copy">Check-in funguje jako návrh budoucí funkce: GPS poloha, fotka z místa a geofence kontrola. V MVP je připravený frontendový prototyp.</p>
+        </div>
+        <div class="badges" id="badges"></div>
+      </section>
+
+      <section class="planner-section" id="vyprava" aria-labelledby="planner-title">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="planner.eyebrow">Plán výpravy</p>
+          <h2 id="planner-title" data-i18n="planner.title">Ulož si místa a poskládej vlastní trasu</h2>
+        </div>
+        <div class="planner-layout">
+          <div class="planner-copy">
+            <p data-i18n="planner.copy">Plán funguje lokálně v prohlížeči: vyber místa, ulož je do trasy a sdílej odkaz na aktuální výběr.</p>
+            <div class="planner-actions">
+              <button class="button primary" type="button" id="plannerShare" data-i18n="planner.share">Sdílet aktuální výběr</button>
+              <button class="button secondary" type="button" id="plannerClear" data-i18n="planner.clear">Vymazat plán</button>
+            </div>
+          </div>
+          <div class="planner-panel">
+            <strong><span id="savedCount">0</span> <span data-i18n="planner.saved">uložených míst</span></strong>
+            <div class="compact-list" id="plannerList"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="community-section" id="komunita" aria-labelledby="community-title">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="community.eyebrow">Komunita</p>
+          <h2 id="community-title" data-i18n="community.title">Navrhni tajemné místo</h2>
+        </div>
+        <form class="community-form" id="communityForm">
+          <label>
+            <span data-i18n="community.placeName">Název místa</span>
+            <input name="nazev" required placeholder="Tunguska, opuštěný hrad, starý důl">
+          </label>
+          <label>
+            <span data-i18n="community.country">Země</span>
+            <input name="zeme" required placeholder="Rusko, USA, Česko">
+          </label>
+          <label>
+            <span data-i18n="community.story">Krátký příběh nebo důvod</span>
+            <textarea name="pribeh" required rows="4" placeholder="Co je na místě zvláštní? Jaké jsou zdroje?"></textarea>
+          </label>
+          <label>
+            <span data-i18n="community.source">Zdroj / odkaz</span>
+            <input name="zdroj" type="url" placeholder="https://...">
+          </label>
+          <button class="button primary" type="submit" data-i18n="community.submit">Uložit návrh lokálně</button>
+          <p id="communityStatus" class="form-status" data-i18n="community.status">Návrhy se zatím ukládají do prohlížeče. Produkčně půjdou do moderace.</p>
+        </form>
+      </section>
+
+      <section class="method-section" id="metodika" aria-labelledby="method-title">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="method.eyebrow">Právní a redakční základ</p>
+          <h2 id="method-title" data-i18n="method.title">Obsah bez kopírování cizích databází</h2>
+        </div>
+        <div class="method-grid">
+          <article>
+            <h3 data-i18n="method.sourcesTitle">Otevřené zdroje</h3>
+            <p data-i18n="method.sourcesCopy">Každé místo drží vlastní texty a pole zdroje. Základní fakta se ověřují přes Wikidata, OSM, Wikipedii, Wikimedia Commons, oficiální web lokality a veřejné památkové databáze.</p>
+          </article>
+          <article>
+            <h3 data-i18n="method.editorialTitle">Redakční kvalita</h3>
+            <p data-i18n="method.editorialCopy">Legenda a atmosféra jsou oddělené od historie. Každá záhada má skeptické vysvětlení, aby web nepůsobil jako nekritický katalog pověstí.</p>
+          </article>
+          <article>
+            <h3 data-i18n="method.seoTitle">SEO struktura</h3>
+            <p data-i18n="method.seoCopy">Detail místa má stabilní slug, citace, GPS, praktické info a hodnoticí metriky. To vytváří dobrý základ pro landing pages podle zemí, kontinentů a kategorií.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>© 2026 MysteryMap.online</span>
+      <a href="docs/roadmap.md">Roadmapa</a>
+      <a href="docs/api.md">API návrh</a>
+      <a href="docs/content-policy.md">Pravidla obsahu</a>
+      <a href="docs/sources.md">Zdroje dat</a>
+    </footer>
+
+    <script src="i18n.js?v=20260527-map5" defer></script>
+    <script src="app.js?v=20260527-map5" defer></script>
+    <script src="engage.js?v=20260529-growth1" defer></script>
+    <noscript>Interaktivní mapa, filtry a plán výprav vyžadují zapnutý JavaScript. Statické stránky míst jsou dostupné přes sitemap.xml.</noscript>
+  </body>
+</html>

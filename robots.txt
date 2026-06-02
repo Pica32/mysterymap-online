@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mysterymap.online/sitemap.xml
+
+LLM-Info: https://mysterymap.online/llms.txt
+Content-Index: https://mysterymap.online/data/search-index.json
+Primary-Map: https://mysterymap.online/#mapa

@@ -1,0 +1,2076 @@
+[
+  {
+    "nazev": "Lisabonské zemětřesení 1755",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Tohoku earthquake and tsunami 2011",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Haiti earthquake 2010",
+    "zeme": "Haiti",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Valdivia earthquake 1960",
+    "zeme": "Chile",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Tangshan earthquake 1976",
+    "zeme": "Čína",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Great Kantō earthquake 1923",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Nepal earthquake 2015",
+    "zeme": "Nepál",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Messina earthquake 1908",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Alaska earthquake 1964",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Indian Ocean earthquake and tsunami 2004",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Christchurch earthquake 2011",
+    "zeme": "Nový Zéland",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Mexico City earthquake 1985",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Pompeje",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Krakatoa",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Tambora",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Mount St. Helens",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Nevado del Ruiz",
+    "zeme": "Kolumbie",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Mount Pelée",
+    "zeme": "Martinik",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Santorini / Théra",
+    "zeme": "Řecko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Vesuv",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Etna",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Eyjafjallajökull",
+    "zeme": "Island",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hunga Tonga-Hunga Haʻapai",
+    "zeme": "Tonga",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Lake Nyos",
+    "zeme": "Kamerun",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Chicxulub crater",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Meteor Crater",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Vredefort crater",
+    "zeme": "Jižní Afrika",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Sudbury Basin",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Ries crater",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Kaali crater",
+    "zeme": "Estonsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Sikhote-Alin meteorite fall",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Chelyabinsk meteor",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Campo del Cielo",
+    "zeme": "Argentina",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Lonar Lake",
+    "zeme": "Indie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Bran",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Leap Castle",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Čachtický hrad",
+    "zeme": "Slovensko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Červený Kameň",
+    "zeme": "Slovensko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Predjamský hrad",
+    "zeme": "Slovinsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Moosham",
+    "zeme": "Rakousko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Dragsholm",
+    "zeme": "Dánsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Eltz",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Chillingham",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Burg Frankenstein",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Corvin",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hrad Zvíkov",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Rennes-le-Château",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Rosslyn Chapel",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Temple Church",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Tomar Convent of Christ",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Chinon Castle",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Laon Cathedral",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Oak Island",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Baphomet legend sites",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Montségur",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Glastonbury Tor",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Pařížské katakomby",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Kapucínská krypta v Palermu",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Sedlecká kostnice",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Kostnice v Évoře",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Derinkuyu",
+    "zeme": "Turecko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Edinburgh Vaults",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Jihlavské podzemí",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Neapolské podzemí",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Oděské katakomby",
+    "zeme": "Ukrajina",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Basilica Cistern",
+    "zeme": "Turecko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Alcatraz",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Port Arthur Historic Site",
+    "zeme": "Austrálie",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Eastern State Penitentiary",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Kilmainham Gaol",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Old Melbourne Gaol",
+    "zeme": "Austrálie",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Moundsville Penitentiary",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Bodie Ghost Town Jail",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Robben Island",
+    "zeme": "Jihoafrická republika",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Devil's Island",
+    "zeme": "Francouzská Guyana",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hoa Lo Prison",
+    "zeme": "Vietnam",
+    "kontinent": "Asie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Poveglia",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hashima Island",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Isla de las Muñecas",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Bermudský trojúhelník",
+    "zeme": "Atlantský oceán",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Eilean Mòr",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Roanoke Island",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "North Brother Island",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Sable Island",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Bouvet Island",
+    "zeme": "Norsko",
+    "kontinent": "Antarktida",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Clipperton Island",
+    "zeme": "Francie",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Dyatlov Pass",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Aokigahara",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Hoia Baciu Forest",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Bennington Triangle",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Skinwalker Ranch",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Nazca Lines",
+    "zeme": "Peru",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Plain of Jars",
+    "zeme": "Laos",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Stonehenge",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Carnac stones",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Devil's Tower",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "sensitive": false
+  },
+  {
+    "nazev": "Auschwitz-Birkenau",
+    "zeme": "Polsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Oradour-sur-Glane",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Hiroshima Peace Memorial",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Nagasaki Peace Park",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Lidice",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Khatyn Memorial",
+    "zeme": "Bělorusko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Tuol Sleng",
+    "zeme": "Kambodža",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Killing Fields of Choeung Ek",
+    "zeme": "Kambodža",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Srebrenica Memorial",
+    "zeme": "Bosna a Hercegovina",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  },
+  {
+    "nazev": "Ground Zero",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "sensitive": true
+  }
+]

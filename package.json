@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "validate:i18n": "node tools/validate-i18n.js",
+    "validate:sources": "node tools/validate-sources.js",
+    "validate:source-queries": "node tools/validate-source-queries.js",
+    "validate:articles": "node tools/validate-articles.js",
+    "validate:pages": "node tools/validate-built-pages.js",
+    "validate:performance": "node tools/validate-performance.js",
+    "validate:media": "node tools/validate-media.js",
+    "validate:search-index": "node tools/validate-search-index.js",
+    "prepare:deploy": "node tools/prepare-deploy.js",
+    "validate": "node tools/validate-data.js",
+    "enrich": "node tools/enrich-current-data.js",
+    "generate:candidates": "node tools/generate-bulk-candidates.js",
+    "import:candidates": "node tools/import-candidates.js",
+    "analyze:drafts": "node tools/analyze-drafts.js",
+    "build": "npm run validate:i18n && npm run validate:sources && npm run validate:source-queries && npm run validate:articles && npm run validate:media && npm run validate && node tools/build-static.js && npm run validate:pages && npm run validate:search-index && npm run validate:performance"
+  },
+  "devDependencies": {}
+}

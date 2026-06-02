@@ -1,0 +1,7 @@
+/places/:slug/ /en/places/:slug/ 301
+/orte/:slug/ /de/orte/:slug/ 301
+/lugares/:slug/ /es/lugares/:slug/ 301
+/lieux/:slug/ /fr/lieux/:slug/ 301
+/articles/:slug/ /en/articles/:slug/ 301
+/artikel/:slug/ /de/artikel/:slug/ 301
+/articulos/:slug/ /es/articulos/:slug/ 301

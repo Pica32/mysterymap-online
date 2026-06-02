@@ -1,0 +1,48 @@
+""" 
+Generuj webovou aplikaci TajemnáMapa.cz (česky), která umožní prohlížet a objevovat tajemná místa v ČR. 
+- Respektuj **právní podmínky**: neimportuj texty z Atlas Obscura, zkontroluj, aby nebyly porušeny autorské/DB práva; používej pouze otevřené zdroje (Wikidata CC0, OSM ODbL, ZABAGED, Wikipedia CC-BY-SA atp.) a ověřuj informace z více zdrojů s explicitními citacemi.
+- Každé místo má **detailní stránku** se strukturou: 
+  - *Nadpis:* název místa (např. Hrad Houska) 
+  - *Dramatický lead:* zajímavá otázka nebo úvod 
+  - *Sekce:* Záhada místa, Historie, Legenda, Paranormální svědectví, Skeptické vysvětlení, Mapa (GPS souřadnice, odkaz na navigaci), Praktické info (doprava, otevírací doba, vstupné), Atmosféra (popis), Hodnocení (metriku: index tajemna, aktivita, doloženost, nebezpečnost, přístupnost, atmosféra, noční vhodnost, vhodné pro děti). 
+- **Datové schéma JSON**: Objekt `misto` obsahuje pole: `id, nazev, gps{lat,lon}, kategorie[] , indexTajemna (int 0–100), paranormalniAktivita(enum), historickaDolozenost(enum), nebezpecnost(enum), pristupnost(enum), atmosfera(float), nocniVhodnost(bool), vhodneProDeti(bool), popisy{záhada, historie, legenda, paranormalni, skepticke}, obrazky[], audio[], zdroje[]`. 
+- **API endpointy** (REST/GraphQL): 
+  - `GET /api/mista` (vyhledávání, filtrování míst),
+  - `GET /api/misto/{id}` (detail lokace),
+  - `POST /api/misto` (vytvořit nové místo), 
+  - `PUT /api/misto/{id}`, `DELETE /api/misto/{id}`,
+  - `POST /api/checkin` (uživatel zpracuje check-in: ukáže GPS+foto, geofence fallback),
+  - `GET /api/uzivatel/{id}/odznaky` (uživatelův profil, XP, odznaky),
+  - `POST /api/uzivatel/auth` (registrace/login),
+  - `GET /api/odznaky` (seznam dostupných odznaků),
+  - `GET /api/sitemap.xml` (generování sitemapy). 
+- **Frontend (React/Vue) komponenty**:
+  - `MapView` – vykreslí mapu s ikonami míst, umožní filtrovat podle kategorie/metrik; 
+  - `MistoDetail` – zobrazí kompletní stránku místa (všechny sekce výše, odemykané audio); 
+  - `NavMenu` – navigace kategoriemi a SEO landing pages; 
+  - `CheckInButton` – provede GPS ověření a odesílá `POST /api/checkin`; 
+  - `UserProfile` – ukáže uživatelské statistiky (navštívená místa, odznaky). 
+- **MVP a roadmapa**: 
+  - *Fáze1 (MVP):* Webová aplikace s mapou a databází ~300 míst, detaily míst, základní UX (checkboxy), přihlášení, sbírání odznaků. 
+  - *Fáze2:* Přidání PWA funkcí (offline mapa, push notifikace), audio průvodci, pokročilé výzvy (denní úkoly, noční trasy), export/import uživatelských dat. 
+  - *Fáze3:* (volitelně) nativní mobilní appka, komunitní fóra, lokální custom trasy. 
+  - *Mermaid roadmap:* viz. níže. 
+- **Role a dovednosti:** 
+  - *Frontend dev:* React/Vue, JS, PWA, Leaflet/Mapbox 
+  - *Backend dev:* Node/Python, REST/GraphQL API, Postgres/PostGIS nebo Firebase 
+  - *UX/Gamifikační designér:* návrh odznaků, UI/UX herních prvků 
+  - *Redakce:* copywriting (česky), SEO specialist, historik/faktograf 
+  - *Grafik/Audio:* tvorba audioprůvodců, infografiky. 
+- **Redakční šablona (Markdown) pro Hrad Houska:** 
+  ```markdown
+  # Hrad Houska – Brána do pekla?  
+  **Záhada místa:** Unikátní hrad bez propusti do propasti v zemi...  
+  **Historie:** Počátky ve 13. stol., spojení s králem Přemyslem...  
+  **Legenda:** Místní pověsti praví, že Houska byla budována nad portálem do pekla【50†L166-L174】...  
+  **Paranormální svědectví:** Návštěvníci slyší podzemní kroky a hlasy.  
+  **Skeptické vysvětlení:** Skutečná propast byla zazděna kvůli nezdaru...  
+  **Mapa a GPS:** *50.0, 14.8* (okr. Praha-východ) – [Google Mapy](https://maps.google.com)  
+  **Praktické info:** Otevřeno 10–18, vstupné 50 Kč, volný přístup; doporučená turistika.  
+  **Atmosféra:** 5/5 (strašidelná, fotogenická)  
+  **Hodnocení:** *Tajemnost:* 92, *Aktivita:* vysoká, *Doloženost:* částečná, *Nebezpečnost:* nízká, *Přístupnost:* volný vstup, *Noční:* ano (prohlídky při svíčkách), *Děti:* NE (vysoké schody).
+  *Zdroj:* Wikipedia (CC BY-SA), záznamy NHM (volné dílo).  

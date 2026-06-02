@@ -1,0 +1,164 @@
+[
+  {
+    "nazev": "Pompeje",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": ["katastrofa", "legenda"],
+    "temata": ["sopky", "prokleti"],
+    "sourceHints": ["UNESCO", "Wikidata", "Wikipedia", "Parco archeologico di Pompei"]
+  },
+  {
+    "nazev": "Černobylská zóna",
+    "zeme": "Ukrajina",
+    "kontinent": "Evropa",
+    "kategorie": ["katastrofa", "legenda"],
+    "temata": ["valka", "prokleti"],
+    "sourceHints": ["IAEA", "Wikidata", "Wikipedia", "official exclusion zone sources"]
+  },
+  {
+    "nazev": "Fukušima Daiiči",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": ["katastrofa"],
+    "temata": ["zemetreseni", "sopky"],
+    "sourceHints": ["IAEA", "Japanese official sources", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Krakatoa",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": ["katastrofa", "priroda"],
+    "temata": ["sopky", "prokleti"],
+    "sourceHints": ["Smithsonian GVP", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Lisabonské zemětřesení 1755",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": ["katastrofa"],
+    "temata": ["zemetreseni", "prokleti"],
+    "sourceHints": ["Wikidata", "Wikipedia", "historical archives"]
+  },
+  {
+    "nazev": "Haiti earthquake 2010",
+    "zeme": "Haiti",
+    "kontinent": "Severní Amerika",
+    "kategorie": ["katastrofa"],
+    "temata": ["zemetreseni"],
+    "sourceHints": ["USGS", "UN", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Tohoku earthquake and tsunami 2011",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": ["katastrofa"],
+    "temata": ["zemetreseni"],
+    "sourceHints": ["USGS", "NOAA", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Hrad Bran",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": ["hrad", "legenda"],
+    "temata": ["duchove", "prokleti"],
+    "sourceHints": ["official castle website", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Rennes-le-Château",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": ["legenda"],
+    "temata": ["templari", "tajne-spolecnosti"],
+    "sourceHints": ["Wikidata", "Wikipedia", "municipal sources"]
+  },
+  {
+    "nazev": "Rosslyn Chapel",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": ["legenda"],
+    "temata": ["templari", "tajne-spolecnosti"],
+    "sourceHints": ["official chapel website", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Bermudský trojúhelník",
+    "zeme": "Atlantský oceán",
+    "kontinent": "Severní Amerika",
+    "kategorie": ["legenda", "katastrofa"],
+    "temata": ["kosmicka-anomalie", "prokleti"],
+    "sourceHints": ["NOAA", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Chicxulub crater",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": ["katastrofa", "priroda"],
+    "temata": ["impakt", "kosmicka-anomalie"],
+    "sourceHints": ["NASA", "USGS", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Lake Nyos",
+    "zeme": "Kamerun",
+    "kontinent": "Afrika",
+    "kategorie": ["katastrofa", "priroda"],
+    "temata": ["sopky", "prokleti"],
+    "sourceHints": ["USGS", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Dyatlov Pass",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": ["priroda", "legenda"],
+    "temata": ["prokleti", "kosmicka-anomalie"],
+    "sourceHints": ["Wikidata", "Wikipedia", "official investigation sources"]
+  },
+  {
+    "nazev": "Leap Castle",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "kategorie": ["hrad", "legenda"],
+    "temata": ["duchove", "vrazdy"],
+    "sourceHints": ["Wikidata", "Wikipedia", "local heritage sources"]
+  },
+  {
+    "nazev": "Čachtický hrad",
+    "zeme": "Slovensko",
+    "kontinent": "Evropa",
+    "kategorie": ["hrad", "legenda"],
+    "temata": ["vrazdy", "prokleti"],
+    "sourceHints": ["Wikidata", "Wikipedia", "Slovak heritage sources"]
+  },
+  {
+    "nazev": "Salem Witch Trials Memorial",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": ["legenda"],
+    "temata": ["vrazdy", "prokleti"],
+    "sourceHints": ["official Salem sources", "Wikidata", "Wikipedia"]
+  },
+  {
+    "nazev": "Auschwitz-Birkenau",
+    "zeme": "Polsko",
+    "kontinent": "Evropa",
+    "kategorie": ["katastrofa"],
+    "temata": ["valka", "vrazdy"],
+    "sourceHints": ["official museum", "UNESCO", "Wikidata", "Wikipedia"],
+    "sensitive": true
+  },
+  {
+    "nazev": "Oradour-sur-Glane",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": ["katastrofa"],
+    "temata": ["valka", "vrazdy"],
+    "sourceHints": ["official memorial", "Wikidata", "Wikipedia"],
+    "sensitive": true
+  },
+  {
+    "nazev": "Hashima Island",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": ["ostrov", "legenda"],
+    "temata": ["duchove", "valka"],
+    "sourceHints": ["UNESCO", "Wikidata", "Wikipedia"]
+  }
+]

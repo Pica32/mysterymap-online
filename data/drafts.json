@@ -1,0 +1,3332 @@
+[
+  {
+    "status": "candidate",
+    "id": "lisabonske-zemetreseni-1755",
+    "slug": "lisabonske-zemetreseni-1755",
+    "detailPath": "/mista/lisabonske-zemetreseni-1755/",
+    "nazev": "Lisabonské zemětřesení 1755",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "tohoku-earthquake-and-tsunami-2011",
+    "slug": "tohoku-earthquake-and-tsunami-2011",
+    "detailPath": "/mista/tohoku-earthquake-and-tsunami-2011/",
+    "nazev": "Tohoku earthquake and tsunami 2011",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "haiti-earthquake-2010",
+    "slug": "haiti-earthquake-2010",
+    "detailPath": "/mista/haiti-earthquake-2010/",
+    "nazev": "Haiti earthquake 2010",
+    "zeme": "Haiti",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "valdivia-earthquake-1960",
+    "slug": "valdivia-earthquake-1960",
+    "detailPath": "/mista/valdivia-earthquake-1960/",
+    "nazev": "Valdivia earthquake 1960",
+    "zeme": "Chile",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "tangshan-earthquake-1976",
+    "slug": "tangshan-earthquake-1976",
+    "detailPath": "/mista/tangshan-earthquake-1976/",
+    "nazev": "Tangshan earthquake 1976",
+    "zeme": "Čína",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "great-kanto-earthquake-1923",
+    "slug": "great-kanto-earthquake-1923",
+    "detailPath": "/mista/great-kanto-earthquake-1923/",
+    "nazev": "Great Kantō earthquake 1923",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "nepal-earthquake-2015",
+    "slug": "nepal-earthquake-2015",
+    "detailPath": "/mista/nepal-earthquake-2015/",
+    "nazev": "Nepal earthquake 2015",
+    "zeme": "Nepál",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "messina-earthquake-1908",
+    "slug": "messina-earthquake-1908",
+    "detailPath": "/mista/messina-earthquake-1908/",
+    "nazev": "Messina earthquake 1908",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "alaska-earthquake-1964",
+    "slug": "alaska-earthquake-1964",
+    "detailPath": "/mista/alaska-earthquake-1964/",
+    "nazev": "Alaska earthquake 1964",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "indian-ocean-earthquake-and-tsunami-2004",
+    "slug": "indian-ocean-earthquake-and-tsunami-2004",
+    "detailPath": "/mista/indian-ocean-earthquake-and-tsunami-2004/",
+    "nazev": "Indian Ocean earthquake and tsunami 2004",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "christchurch-earthquake-2011",
+    "slug": "christchurch-earthquake-2011",
+    "detailPath": "/mista/christchurch-earthquake-2011/",
+    "nazev": "Christchurch earthquake 2011",
+    "zeme": "Nový Zéland",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "mexico-city-earthquake-1985",
+    "slug": "mexico-city-earthquake-1985",
+    "detailPath": "/mista/mexico-city-earthquake-1985/",
+    "nazev": "Mexico City earthquake 1985",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "USGS",
+      "NOAA/NCEI"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "pompeje",
+    "slug": "pompeje",
+    "detailPath": "/mista/pompeje/",
+    "nazev": "Pompeje",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "krakatoa",
+    "slug": "krakatoa",
+    "detailPath": "/mista/krakatoa/",
+    "nazev": "Krakatoa",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "tambora",
+    "slug": "tambora",
+    "detailPath": "/mista/tambora/",
+    "nazev": "Tambora",
+    "zeme": "Indonésie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "mount-st-helens",
+    "slug": "mount-st-helens",
+    "detailPath": "/mista/mount-st-helens/",
+    "nazev": "Mount St. Helens",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "nevado-del-ruiz",
+    "slug": "nevado-del-ruiz",
+    "detailPath": "/mista/nevado-del-ruiz/",
+    "nazev": "Nevado del Ruiz",
+    "zeme": "Kolumbie",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "mount-pelee",
+    "slug": "mount-pelee",
+    "detailPath": "/mista/mount-pelee/",
+    "nazev": "Mount Pelée",
+    "zeme": "Martinik",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "santorini-thera",
+    "slug": "santorini-thera",
+    "detailPath": "/mista/santorini-thera/",
+    "nazev": "Santorini / Théra",
+    "zeme": "Řecko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "vesuv",
+    "slug": "vesuv",
+    "detailPath": "/mista/vesuv/",
+    "nazev": "Vesuv",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "etna",
+    "slug": "etna",
+    "detailPath": "/mista/etna/",
+    "nazev": "Etna",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "eyjafjallajokull",
+    "slug": "eyjafjallajokull",
+    "detailPath": "/mista/eyjafjallajokull/",
+    "nazev": "Eyjafjallajökull",
+    "zeme": "Island",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hunga-tonga-hunga-ha-apai",
+    "slug": "hunga-tonga-hunga-ha-apai",
+    "detailPath": "/mista/hunga-tonga-hunga-ha-apai/",
+    "nazev": "Hunga Tonga-Hunga Haʻapai",
+    "zeme": "Tonga",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "lake-nyos",
+    "slug": "lake-nyos",
+    "detailPath": "/mista/lake-nyos/",
+    "nazev": "Lake Nyos",
+    "zeme": "Kamerun",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "Smithsonian Global Volcanism Program",
+      "official local sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "chicxulub-crater",
+    "slug": "chicxulub-crater",
+    "detailPath": "/mista/chicxulub-crater/",
+    "nazev": "Chicxulub crater",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "meteor-crater",
+    "slug": "meteor-crater",
+    "detailPath": "/mista/meteor-crater/",
+    "nazev": "Meteor Crater",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "vredefort-crater",
+    "slug": "vredefort-crater",
+    "detailPath": "/mista/vredefort-crater/",
+    "nazev": "Vredefort crater",
+    "zeme": "Jižní Afrika",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "sudbury-basin",
+    "slug": "sudbury-basin",
+    "detailPath": "/mista/sudbury-basin/",
+    "nazev": "Sudbury Basin",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "ries-crater",
+    "slug": "ries-crater",
+    "detailPath": "/mista/ries-crater/",
+    "nazev": "Ries crater",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "kaali-crater",
+    "slug": "kaali-crater",
+    "detailPath": "/mista/kaali-crater/",
+    "nazev": "Kaali crater",
+    "zeme": "Estonsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "sikhote-alin-meteorite-fall",
+    "slug": "sikhote-alin-meteorite-fall",
+    "detailPath": "/mista/sikhote-alin-meteorite-fall/",
+    "nazev": "Sikhote-Alin meteorite fall",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "chelyabinsk-meteor",
+    "slug": "chelyabinsk-meteor",
+    "detailPath": "/mista/chelyabinsk-meteor/",
+    "nazev": "Chelyabinsk meteor",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "campo-del-cielo",
+    "slug": "campo-del-cielo",
+    "detailPath": "/mista/campo-del-cielo/",
+    "nazev": "Campo del Cielo",
+    "zeme": "Argentina",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "lonar-lake",
+    "slug": "lonar-lake",
+    "detailPath": "/mista/lonar-lake/",
+    "nazev": "Lonar Lake",
+    "zeme": "Indie",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa",
+      "priroda"
+    ],
+    "temata": [
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NASA",
+      "USGS"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-bran",
+    "slug": "hrad-bran",
+    "detailPath": "/mista/hrad-bran/",
+    "nazev": "Hrad Bran",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "leap-castle",
+    "slug": "leap-castle",
+    "detailPath": "/mista/leap-castle/",
+    "nazev": "Leap Castle",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "cachticky-hrad",
+    "slug": "cachticky-hrad",
+    "detailPath": "/mista/cachticky-hrad/",
+    "nazev": "Čachtický hrad",
+    "zeme": "Slovensko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-cerveny-kamen",
+    "slug": "hrad-cerveny-kamen",
+    "detailPath": "/mista/hrad-cerveny-kamen/",
+    "nazev": "Hrad Červený Kameň",
+    "zeme": "Slovensko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "predjamsky-hrad",
+    "slug": "predjamsky-hrad",
+    "detailPath": "/mista/predjamsky-hrad/",
+    "nazev": "Predjamský hrad",
+    "zeme": "Slovinsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-moosham",
+    "slug": "hrad-moosham",
+    "detailPath": "/mista/hrad-moosham/",
+    "nazev": "Hrad Moosham",
+    "zeme": "Rakousko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-dragsholm",
+    "slug": "hrad-dragsholm",
+    "detailPath": "/mista/hrad-dragsholm/",
+    "nazev": "Hrad Dragsholm",
+    "zeme": "Dánsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-eltz",
+    "slug": "hrad-eltz",
+    "detailPath": "/mista/hrad-eltz/",
+    "nazev": "Hrad Eltz",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-chillingham",
+    "slug": "hrad-chillingham",
+    "detailPath": "/mista/hrad-chillingham/",
+    "nazev": "Hrad Chillingham",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "burg-frankenstein",
+    "slug": "burg-frankenstein",
+    "detailPath": "/mista/burg-frankenstein/",
+    "nazev": "Burg Frankenstein",
+    "zeme": "Německo",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-corvin",
+    "slug": "hrad-corvin",
+    "detailPath": "/mista/hrad-corvin/",
+    "nazev": "Hrad Corvin",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hrad-zvikov",
+    "slug": "hrad-zvikov",
+    "detailPath": "/mista/hrad-zvikov/",
+    "nazev": "Hrad Zvíkov",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "rennes-le-chateau",
+    "slug": "rennes-le-chateau",
+    "detailPath": "/mista/rennes-le-chateau/",
+    "nazev": "Rennes-le-Château",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "rosslyn-chapel",
+    "slug": "rosslyn-chapel",
+    "detailPath": "/mista/rosslyn-chapel/",
+    "nazev": "Rosslyn Chapel",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "temple-church",
+    "slug": "temple-church",
+    "detailPath": "/mista/temple-church/",
+    "nazev": "Temple Church",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "tomar-convent-of-christ",
+    "slug": "tomar-convent-of-christ",
+    "detailPath": "/mista/tomar-convent-of-christ/",
+    "nazev": "Tomar Convent of Christ",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "chinon-castle",
+    "slug": "chinon-castle",
+    "detailPath": "/mista/chinon-castle/",
+    "nazev": "Chinon Castle",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "laon-cathedral",
+    "slug": "laon-cathedral",
+    "detailPath": "/mista/laon-cathedral/",
+    "nazev": "Laon Cathedral",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "oak-island",
+    "slug": "oak-island",
+    "detailPath": "/mista/oak-island/",
+    "nazev": "Oak Island",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "baphomet-legend-sites",
+    "slug": "baphomet-legend-sites",
+    "detailPath": "/mista/baphomet-legend-sites/",
+    "nazev": "Baphomet legend sites",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "montsegur",
+    "slug": "montsegur",
+    "detailPath": "/mista/montsegur/",
+    "nazev": "Montségur",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "glastonbury-tor",
+    "slug": "glastonbury-tor",
+    "detailPath": "/mista/glastonbury-tor/",
+    "nazev": "Glastonbury Tor",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "templari",
+      "tajne-spolecnosti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official local source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "parizske-katakomby",
+    "slug": "parizske-katakomby",
+    "detailPath": "/mista/parizske-katakomby/",
+    "nazev": "Pařížské katakomby",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "kapucinska-krypta-v-palermu",
+    "slug": "kapucinska-krypta-v-palermu",
+    "detailPath": "/mista/kapucinska-krypta-v-palermu/",
+    "nazev": "Kapucínská krypta v Palermu",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "sedlecka-kostnice",
+    "slug": "sedlecka-kostnice",
+    "detailPath": "/mista/sedlecka-kostnice/",
+    "nazev": "Sedlecká kostnice",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "kostnice-v-evore",
+    "slug": "kostnice-v-evore",
+    "detailPath": "/mista/kostnice-v-evore/",
+    "nazev": "Kostnice v Évoře",
+    "zeme": "Portugalsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "derinkuyu",
+    "slug": "derinkuyu",
+    "detailPath": "/mista/derinkuyu/",
+    "nazev": "Derinkuyu",
+    "zeme": "Turecko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "edinburgh-vaults",
+    "slug": "edinburgh-vaults",
+    "detailPath": "/mista/edinburgh-vaults/",
+    "nazev": "Edinburgh Vaults",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "jihlavske-podzemi",
+    "slug": "jihlavske-podzemi",
+    "detailPath": "/mista/jihlavske-podzemi/",
+    "nazev": "Jihlavské podzemí",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "neapolske-podzemi",
+    "slug": "neapolske-podzemi",
+    "detailPath": "/mista/neapolske-podzemi/",
+    "nazev": "Neapolské podzemí",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "odeske-katakomby",
+    "slug": "odeske-katakomby",
+    "detailPath": "/mista/odeske-katakomby/",
+    "nazev": "Oděské katakomby",
+    "zeme": "Ukrajina",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "basilica-cistern",
+    "slug": "basilica-cistern",
+    "detailPath": "/mista/basilica-cistern/",
+    "nazev": "Basilica Cistern",
+    "zeme": "Turecko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "podzemi",
+      "legenda"
+    ],
+    "temata": [
+      "podzemi",
+      "duchove"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "alcatraz",
+    "slug": "alcatraz",
+    "detailPath": "/mista/alcatraz/",
+    "nazev": "Alcatraz",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "port-arthur-historic-site",
+    "slug": "port-arthur-historic-site",
+    "detailPath": "/mista/port-arthur-historic-site/",
+    "nazev": "Port Arthur Historic Site",
+    "zeme": "Austrálie",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "eastern-state-penitentiary",
+    "slug": "eastern-state-penitentiary",
+    "detailPath": "/mista/eastern-state-penitentiary/",
+    "nazev": "Eastern State Penitentiary",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "kilmainham-gaol",
+    "slug": "kilmainham-gaol",
+    "detailPath": "/mista/kilmainham-gaol/",
+    "nazev": "Kilmainham Gaol",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "old-melbourne-gaol",
+    "slug": "old-melbourne-gaol",
+    "detailPath": "/mista/old-melbourne-gaol/",
+    "nazev": "Old Melbourne Gaol",
+    "zeme": "Austrálie",
+    "kontinent": "Oceánie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "moundsville-penitentiary",
+    "slug": "moundsville-penitentiary",
+    "detailPath": "/mista/moundsville-penitentiary/",
+    "nazev": "Moundsville Penitentiary",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "bodie-ghost-town-jail",
+    "slug": "bodie-ghost-town-jail",
+    "detailPath": "/mista/bodie-ghost-town-jail/",
+    "nazev": "Bodie Ghost Town Jail",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "robben-island",
+    "slug": "robben-island",
+    "detailPath": "/mista/robben-island/",
+    "nazev": "Robben Island",
+    "zeme": "Jihoafrická republika",
+    "kontinent": "Afrika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "devil-s-island",
+    "slug": "devil-s-island",
+    "detailPath": "/mista/devil-s-island/",
+    "nazev": "Devil's Island",
+    "zeme": "Francouzská Guyana",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hoa-lo-prison",
+    "slug": "hoa-lo-prison",
+    "detailPath": "/mista/hoa-lo-prison/",
+    "nazev": "Hoa Lo Prison",
+    "zeme": "Vietnam",
+    "kontinent": "Asie",
+    "kategorie": [
+      "veznice",
+      "legenda"
+    ],
+    "temata": [
+      "veznice",
+      "duchove",
+      "vrazdy"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "poveglia",
+    "slug": "poveglia",
+    "detailPath": "/mista/poveglia/",
+    "nazev": "Poveglia",
+    "zeme": "Itálie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hashima-island",
+    "slug": "hashima-island",
+    "detailPath": "/mista/hashima-island/",
+    "nazev": "Hashima Island",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "isla-de-las-munecas",
+    "slug": "isla-de-las-munecas",
+    "detailPath": "/mista/isla-de-las-munecas/",
+    "nazev": "Isla de las Muñecas",
+    "zeme": "Mexiko",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "bermudsky-trojuhelnik",
+    "slug": "bermudsky-trojuhelnik",
+    "detailPath": "/mista/bermudsky-trojuhelnik/",
+    "nazev": "Bermudský trojúhelník",
+    "zeme": "Atlantský oceán",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "eilean-mor",
+    "slug": "eilean-mor",
+    "detailPath": "/mista/eilean-mor/",
+    "nazev": "Eilean Mòr",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "roanoke-island",
+    "slug": "roanoke-island",
+    "detailPath": "/mista/roanoke-island/",
+    "nazev": "Roanoke Island",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "north-brother-island",
+    "slug": "north-brother-island",
+    "detailPath": "/mista/north-brother-island/",
+    "nazev": "North Brother Island",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "sable-island",
+    "slug": "sable-island",
+    "detailPath": "/mista/sable-island/",
+    "nazev": "Sable Island",
+    "zeme": "Kanada",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "bouvet-island",
+    "slug": "bouvet-island",
+    "detailPath": "/mista/bouvet-island/",
+    "nazev": "Bouvet Island",
+    "zeme": "Norsko",
+    "kontinent": "Antarktida",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "clipperton-island",
+    "slug": "clipperton-island",
+    "detailPath": "/mista/clipperton-island/",
+    "nazev": "Clipperton Island",
+    "zeme": "Francie",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "temata": [
+      "duchove",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "NOAA",
+      "OpenStreetMap"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "dyatlov-pass",
+    "slug": "dyatlov-pass",
+    "detailPath": "/mista/dyatlov-pass/",
+    "nazev": "Dyatlov Pass",
+    "zeme": "Rusko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "aokigahara",
+    "slug": "aokigahara",
+    "detailPath": "/mista/aokigahara/",
+    "nazev": "Aokigahara",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hoia-baciu-forest",
+    "slug": "hoia-baciu-forest",
+    "detailPath": "/mista/hoia-baciu-forest/",
+    "nazev": "Hoia Baciu Forest",
+    "zeme": "Rumunsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "bennington-triangle",
+    "slug": "bennington-triangle",
+    "detailPath": "/mista/bennington-triangle/",
+    "nazev": "Bennington Triangle",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "skinwalker-ranch",
+    "slug": "skinwalker-ranch",
+    "detailPath": "/mista/skinwalker-ranch/",
+    "nazev": "Skinwalker Ranch",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "nazca-lines",
+    "slug": "nazca-lines",
+    "detailPath": "/mista/nazca-lines/",
+    "nazev": "Nazca Lines",
+    "zeme": "Peru",
+    "kontinent": "Jižní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "plain-of-jars",
+    "slug": "plain-of-jars",
+    "detailPath": "/mista/plain-of-jars/",
+    "nazev": "Plain of Jars",
+    "zeme": "Laos",
+    "kontinent": "Asie",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "stonehenge",
+    "slug": "stonehenge",
+    "detailPath": "/mista/stonehenge/",
+    "nazev": "Stonehenge",
+    "zeme": "Spojené království",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "carnac-stones",
+    "slug": "carnac-stones",
+    "detailPath": "/mista/carnac-stones/",
+    "nazev": "Carnac stones",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "devil-s-tower",
+    "slug": "devil-s-tower",
+    "detailPath": "/mista/devil-s-tower/",
+    "nazev": "Devil's Tower",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "temata": [
+      "prokleti",
+      "prirodni-labyrint"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "OpenStreetMap",
+      "official heritage/tourism source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "auschwitz-birkenau",
+    "slug": "auschwitz-birkenau",
+    "detailPath": "/mista/auschwitz-birkenau/",
+    "nazev": "Auschwitz-Birkenau",
+    "zeme": "Polsko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "oradour-sur-glane",
+    "slug": "oradour-sur-glane",
+    "detailPath": "/mista/oradour-sur-glane/",
+    "nazev": "Oradour-sur-Glane",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "hiroshima-peace-memorial",
+    "slug": "hiroshima-peace-memorial",
+    "detailPath": "/mista/hiroshima-peace-memorial/",
+    "nazev": "Hiroshima Peace Memorial",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "nagasaki-peace-park",
+    "slug": "nagasaki-peace-park",
+    "detailPath": "/mista/nagasaki-peace-park/",
+    "nazev": "Nagasaki Peace Park",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "lidice",
+    "slug": "lidice",
+    "detailPath": "/mista/lidice/",
+    "nazev": "Lidice",
+    "zeme": "Česko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "khatyn-memorial",
+    "slug": "khatyn-memorial",
+    "detailPath": "/mista/khatyn-memorial/",
+    "nazev": "Khatyn Memorial",
+    "zeme": "Bělorusko",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "tuol-sleng",
+    "slug": "tuol-sleng",
+    "detailPath": "/mista/tuol-sleng/",
+    "nazev": "Tuol Sleng",
+    "zeme": "Kambodža",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "killing-fields-of-choeung-ek",
+    "slug": "killing-fields-of-choeung-ek",
+    "detailPath": "/mista/killing-fields-of-choeung-ek/",
+    "nazev": "Killing Fields of Choeung Ek",
+    "zeme": "Kambodža",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "srebrenica-memorial",
+    "slug": "srebrenica-memorial",
+    "detailPath": "/mista/srebrenica-memorial/",
+    "nazev": "Srebrenica Memorial",
+    "zeme": "Bosna a Hercegovina",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "ground-zero",
+    "slug": "ground-zero",
+    "detailPath": "/mista/ground-zero/",
+    "nazev": "Ground Zero",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "valka",
+      "vrazdy"
+    ],
+    "sensitive": true,
+    "sourceHints": [
+      "Wikidata",
+      "Wikipedia",
+      "National Archives / Europeana / DPLA / LOC",
+      "official memorial source"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "cernobylska-zona",
+    "slug": "cernobylska-zona",
+    "detailPath": "/mista/cernobylska-zona/",
+    "nazev": "Černobylská zóna",
+    "zeme": "Ukrajina",
+    "kontinent": "Evropa",
+    "kategorie": [
+      "katastrofa",
+      "legenda"
+    ],
+    "temata": [
+      "valka",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "IAEA",
+      "Wikidata",
+      "Wikipedia",
+      "official exclusion zone sources"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "fukusima-daiici",
+    "slug": "fukusima-daiici",
+    "detailPath": "/mista/fukusima-daiici/",
+    "nazev": "Fukušima Daiiči",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "kategorie": [
+      "katastrofa"
+    ],
+    "temata": [
+      "zemetreseni",
+      "sopky"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "IAEA",
+      "Japanese official sources",
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  },
+  {
+    "status": "candidate",
+    "id": "salem-witch-trials-memorial",
+    "slug": "salem-witch-trials-memorial",
+    "detailPath": "/mista/salem-witch-trials-memorial/",
+    "nazev": "Salem Witch Trials Memorial",
+    "zeme": "USA",
+    "kontinent": "Severní Amerika",
+    "kategorie": [
+      "legenda"
+    ],
+    "temata": [
+      "vrazdy",
+      "prokleti"
+    ],
+    "sensitive": false,
+    "sourceHints": [
+      "official Salem sources",
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "editorialChecklist": {
+      "coordinatesChecked": false,
+      "sourcesChecked": false,
+      "textWritten": false,
+      "sensitiveReviewed": false,
+      "readyToPublish": false
+    }
+  }
+]

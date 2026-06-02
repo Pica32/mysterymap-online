@@ -1,0 +1,3961 @@
+[
+  {
+    "id": "nejzahadnejsi-katastrofy-sveta",
+    "slug": "nejzahadnejsi-katastrofy-sveta",
+    "title": "Nejzáhadnější katastrofy světa: když věda nestačí na první dojem",
+    "description": "Přehled katastrof a anomálií, které vyvolaly legendy: Tunguska, zemětřesení, sopky, impakty a místa paměti.",
+    "category": "katastrofa",
+    "themes": [
+      "zemetreseni",
+      "sopky",
+      "impakt",
+      "kosmicka-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "tunguska-event",
+      "san-francisco-1906-earthquake"
+    ],
+    "sections": [
+      {
+        "heading": "Proč katastrofy vytvářejí legendy",
+        "body": "Katastrofa je okamžik, kdy se známý svět zhroutí rychleji, než ho lidé dokážou vysvětlit. Právě v téhle mezeře vznikají pověsti, konspirační teorie a silné příběhy. MysteryMap je zpracovává tak, že odděluje doložená fakta od svědectví a legend."
+      },
+      {
+        "heading": "Tunguska jako model moderní anomálie",
+        "body": "Tunguská katastrofa je výjimečná absencí klasického kráteru. Vědecké vysvětlení počítá s explozí kosmického tělesa v atmosféře, ale síla události a odlehlost místa z ní udělaly ideální půdu pro alternativní výklady."
+      },
+      {
+        "heading": "Zemětřesení a paměť měst",
+        "body": "Zemětřesení v San Franciscu z roku 1906 ukazuje, že i dobře doložená událost může fungovat jako tajemné místo. Ne proto, že by byla nadpřirozená, ale protože proměnila celé město v prostor kolektivní paměti."
+      },
+      {
+        "heading": "Jak číst katastrofické stránky",
+        "body": "U katastrofických míst je nutné dávat přednost vědeckým a oficiálním zdrojům: USGS, NOAA, NASA, Smithsonian GVP, archivům a paměťovým institucím. Folklor a svědectví patří do samostatné části, ne do historie."
+      }
+    ],
+    "sources": [
+      "usgs-earthquakes",
+      "noaa-ncei-natural-hazards",
+      "smithsonian-gvp",
+      "nasa-tunguska"
+    ]
+  },
+  {
+    "id": "tunguska-vysvetleni",
+    "slug": "tunguska-vysvetleni",
+    "title": "Tunguska: výbuch bez kráteru a největší nebeská záhada moderní doby",
+    "description": "Co se stalo nad Sibiří v roce 1908, proč chybí kráter a proč Tunguska dodnes přitahuje vědu i legendy.",
+    "category": "katastrofa",
+    "themes": [
+      "kosmicka-anomalie",
+      "impakt"
+    ],
+    "relatedPlaceIds": [
+      "tunguska-event"
+    ],
+    "sections": [
+      {
+        "heading": "Událost, která předběhla planetární obranu",
+        "body": "Tunguska připomíná, že i objekt, který nedopadne na zem jako klasický meteorit, může způsobit rozsáhlou zkázu. Proto patří mezi zásadní příběhy moderního uvažování o kosmickém riziku."
+      },
+      {
+        "heading": "Proč je absence kráteru tak silná",
+        "body": "Lidé očekávají u obrovské exploze viditelný kráter. Když chybí, vzniká prostor pro spekulace. Právě proto se Tunguska stala symbolem hranice mezi vědeckým vysvětlením a popkulturní záhadou."
+      },
+      {
+        "heading": "Skeptické jádro příběhu",
+        "body": "Nejpravděpodobnější vysvětlení pracuje s explozí asteroidu nebo podobného tělesa v atmosféře. Záhada tedy neleží v nadpřirozenu, ale ve vzácnosti, síle a neobvyklém průběhu události."
+      }
+    ],
+    "sources": [
+      "nasa-tunguska",
+      "nasa-earth-observatory",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "templari-tajne-spolecnosti-mista",
+    "slug": "templari-tajne-spolecnosti-mista",
+    "title": "Templáři, tajné společnosti a místa, kde legenda přerostla fakta",
+    "description": "Jak pracovat s templářskými a iluminátskými motivy bez senzacechtivosti a falešných tvrzení.",
+    "category": "legenda",
+    "themes": [
+      "templari",
+      "tajne-spolecnosti",
+      "iluminati"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska"
+    ],
+    "sections": [
+      {
+        "heading": "Proč tajné společnosti fungují v příbězích",
+        "body": "Motiv skryté organizace dává složitým dějinám jednoduchého původce. U míst spojených s templáři nebo ilumináty je proto nutné odlišovat historicky doložené vazby od moderních interpretací."
+      },
+      {
+        "heading": "Co musí stránka ověřit",
+        "body": "U každého místa je třeba doložit, zda existuje skutečná historická spojitost, nebo pouze pozdější legenda. Web nesmí tvrdit spojení s řádem či společností bez zdroje."
+      },
+      {
+        "heading": "Dobré propojení pro čtenáře",
+        "body": "Tematické landing pages propojí kaple, hrady, ruiny, města a archivy. Čtenář tak vidí mapu motivu, ne izolovanou senzaci."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "getty-tgn",
+      "world-historical-gazetteer"
+    ]
+  },
+  {
+    "id": "dabel-peklo-prokleti-v-legendach",
+    "slug": "dabel-peklo-prokleti-v-legendach",
+    "title": "Ďábel, peklo a prokletí: jak číst temné legendy míst",
+    "description": "Průvodce motivy ďábla, bran do pekla a prokletých míst s důrazem na folklor, historii a skeptické vysvětlení.",
+    "category": "legenda",
+    "themes": [
+      "dabel",
+      "prokleti",
+      "duchove"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska",
+      "poveglia"
+    ],
+    "sections": [
+      {
+        "heading": "Brána do pekla jako kulturní motiv",
+        "body": "Příběhy o bráně do pekla často vznikají u jeskyní, propastí, hradních kaplí nebo míst se silnou akustikou. Nejde jen o strach, ale o snahu dát neznámému prostoru jasný význam."
+      },
+      {
+        "heading": "Prokletí a vina",
+        "body": "Prokletá místa často nesou vzpomínku na násilí, epidemii, izolaci nebo špatné rozhodnutí. Téma prokletí proto může být způsobem, jak komunita vypráví o vině a následcích."
+      },
+      {
+        "heading": "Skeptický rámec",
+        "body": "Skeptické vysvětlení neznamená zesměšnění legendy. Znamená ukázat, co víme, co nevíme a proč může místo působit tak silně."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "openstreetmap",
+      "wikipedia",
+      "official-site"
+    ]
+  },
+  {
+    "id": "zemetreseni-jako-tajemna-mista",
+    "slug": "zemetreseni-jako-tajemna-mista",
+    "title": "Zemětřesení jako tajemná místa: epicentra, ruiny a městská paměť",
+    "description": "Jak vytvářet kvalitní stránky o zemětřeseních podle USGS, archivů a lokálních zdrojů.",
+    "category": "katastrofa",
+    "themes": [
+      "zemetreseni"
+    ],
+    "relatedPlaceIds": [
+      "san-francisco-1906-earthquake"
+    ],
+    "sections": [
+      {
+        "heading": "Epicentrum není celý příběh",
+        "body": "U zemětřesení je důležité rozlišit epicentrum, zasažené město, památník a dnešní turisticky čitelné místo. Pro čtenáře má smysl hlavně lokace, kde lze událost pochopit."
+      },
+      {
+        "heading": "Co brát z USGS",
+        "body": "USGS je vhodný pro magnitudu, čas, souřadnice, odborné popisy a historický kontext. Redakční text ale musí dodat lidský a místní význam, ne jen opsat geologická data."
+      },
+      {
+        "heading": "Citlivost a přesnost",
+        "body": "Nedávné tragédie nesmí být prezentované jako atrakce. Stránky mají pomáhat porozumět místu, riziku a paměti, ne z katastrofy dělat senzaci."
+      }
+    ],
+    "sources": [
+      "usgs-earthquakes",
+      "national-archives-us",
+      "noaa-ncei-natural-hazards"
+    ]
+  },
+  {
+    "id": "jak-overujeme-tajemna-mista",
+    "slug": "jak-overujeme-tajemna-mista",
+    "title": "Jak MysteryMap ověřuje tajemná místa: zdroje, licence a skeptická kontrola",
+    "description": "Metodika MysteryMap: otevřené zdroje, licence, oddělení faktů od legend a pravidla pro komunitní návrhy.",
+    "category": "metodika",
+    "themes": [
+      "zdroje",
+      "eeat",
+      "komunita"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska",
+      "tunguska-event",
+      "tower-of-london"
+    ],
+    "sections": [
+      {
+        "heading": "Nejdřív zdroje, potom příběh",
+        "body": "Každé místo potřebuje nejdřív identifikaci, souřadnice a zdroje. Teprve potom vzniká vlastní text. Tím se snižuje riziko kopírování cizích katalogů a neověřených tvrzení."
+      },
+      {
+        "heading": "Fakta, legenda, svědectví a skeptický pohled",
+        "body": "Stránky mají stabilní strukturu, aby čtenář věděl, co je historie, co je folklor, co je moderní svědectví a co je pravděpodobné vysvětlení."
+      },
+      {
+        "heading": "Komunita není automatická publikace",
+        "body": "Komunitní návrhy jsou cenné jako stopa, ale každý návrh prochází moderací. Zvlášť citlivá místa vyžadují kontrolu tónu a zdrojů."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "openstreetmap",
+      "wikimedia-commons",
+      "community-submissions"
+    ]
+  },
+  {
+    "id": "plocha-zeme-teorie-antiteorie",
+    "slug": "plocha-zeme-teorie-antiteorie",
+    "localizedSlugs": {
+      "en": "flat-earth-theory-countertheories",
+      "de": "flache-erde-theorie-und-gegentheorien",
+      "es": "tierra-plana-teoria-y-antiteorias",
+      "fr": "terre-plate-theorie-et-contre-theories"
+    },
+    "title": "Plochá Země: teorie, antiteorie a proč patří do mapy konspirací",
+    "description": "Redakční rozbor teorie o ploché Zemi, jejích navázaných tvrzení, antiteorií a způsobu, jak je zpracovat bez šíření dezinformací.",
+    "category": "konspirace",
+    "themes": [
+      "plocha-zeme",
+      "konspirace",
+      "antiteorie",
+      "pseudoveda"
+    ],
+    "relatedPlaceIds": [
+      "tunguska-event"
+    ],
+    "sections": [
+      {
+        "heading": "Proč sem plochá Země patří",
+        "body": "Plochá Země není tajemné místo, ale síť tvrzení, která se váže na mapy, póly, kosmos, NASA, navigaci a nedůvěru v instituce. MysteryMap ji proto nezpracovává jako fakt, ale jako konspirační motiv propojený s místy a zdroji."
+      },
+      {
+        "heading": "Základní tvrzení a jejich slabiny",
+        "body": "Typická tvrzení mluví o ledové stěně, zfalšovaných fotografiích Země, nemožnosti zakřivení nebo spiknutí letectví a kosmických agentur. Antiteorie stojí na navigaci, časových pásmech, stínech, satelitech, pozorování oblohy a opakovatelných měřeních."
+      },
+      {
+        "heading": "Jak to zpracovat bez podpory dezinformací",
+        "body": "Stránky s konspiračními motivy musí používat jasné popisky: tvrzení, kontext, ověřitelné protiargumenty a zdroje. Nesmí používat senzační jazyk, který teorii představí jako rovnocennou vědeckému konsenzu."
+      },
+      {
+        "heading": "Navázané teorie",
+        "body": "Na plochou Zemi se často lepí motivy falešného kosmického programu, utajené Antarktidy, světové vlády, manipulace map a falešných katastrof. Pro web je důležité držet tyto motivy v samostatném konspiračním štítku."
+      }
+    ],
+    "sources": [
+      "nasa-earth-observatory",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "bermudsky-trojuhelnik-fakta-legendy",
+    "slug": "bermudsky-trojuhelnik-fakta-legendy",
+    "localizedSlugs": {
+      "en": "bermuda-triangle-facts-legends",
+      "de": "bermudadreieck-fakten-legenden",
+      "es": "triangulo-de-las-bermudas-hechos-leyendas",
+      "fr": "triangle-des-bermudes-faits-legendes"
+    },
+    "title": "Bermudsky trojuhelnik: fakta, legendy a proc mapa potrebuje skepticky filtr",
+    "description": "Prehled motivu Bermudskeho trojuhelniku, jeho medialni historie, navigacnich rizik a zpusobu, jak oddelit legendu od dolozitelnych udalosti.",
+    "category": "anomálie",
+    "themes": [
+      "konspirace",
+      "zmizeni",
+      "oceany",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Proc se z more stala zahada",
+        "body": "Bermudsky trojuhelnik funguje jako mapa strachu: rozlehla oblast, lodni a letecke nehody, malo svedku a silna medialni zkratka. MysteryMap ho musi zpracovat jako kulturni motiv, ne jako dokaz paranormalni sily."
+      },
+      {
+        "heading": "Co overovat u kazde udalosti",
+        "body": "U kazdeho zmizeni je nutne overit datum, trasu, pocasi, typ plavidla nebo letadla, dostupne zachranne zaznamy a to, zda udalost opravdu patri do oblasti. Bez toho je z ni jen cast opakovane legendy."
+      },
+      {
+        "heading": "Antiteorie a prirozene vysvetleni",
+        "body": "Skepticky ramec pracuje s pocasim, navigaci, lidskou chybou, proudy, technickymi poruchami a selektivnim vyberem pribehu. Cilem neni znicit legendu, ale ukazat, ktere casti jsou dolozene a ktere vznikly az vypravenim."
+      }
+    ],
+    "sources": [
+      "noaa-ncei-natural-hazards",
+      "wikipedia",
+      "wikidata",
+      "openstreetmap"
+    ]
+  },
+  {
+    "id": "dyatluvova-vyprava-jak-psat-citlive-zahady",
+    "slug": "dyatluvova-vyprava-jak-psat-citlive-zahady",
+    "localizedSlugs": {
+      "en": "dyatlov-pass-how-to-cover-sensitive-mysteries",
+      "de": "djatlow-pass-sensible-raetsel-schreiben",
+      "es": "paso-dyatlov-como-tratar-misterios-sensibles",
+      "fr": "col-dyatlov-traiter-les-mysteres-sensibles"
+    },
+    "title": "Djatlovova vyprava: jak psat o citlive zahade bez senzace",
+    "description": "Metodicky clanek pro tragedie a zahadna umrti: prace se zdroji, obetmi, hypotezami, lokalnim kontextem a limity spekulaci.",
+    "category": "tragédie",
+    "themes": [
+      "zmizeni",
+      "umrti",
+      "antiteorie",
+      "komunita"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Tragedie neni atrakce",
+        "body": "U zahadnych umrti musi byt prvni pravidlo respekt k obetem a rodinam. Stranka muze popsat hypotezy, ale nesmi z obeti delat rekvizity pro senzaci nebo tvrdit veci, ktere zdroje nedokladaji."
+      },
+      {
+        "heading": "Stabilni struktura hypotez",
+        "body": "Kazda hypoteza ma mit vlastni blok: co tvrdi, proc vznikla, jake ma opory a jake slabiny. Tim web pomaha ctenari premyslet, misto aby ho tlacil k jedine dramaticke verzi."
+      },
+      {
+        "heading": "Proc patri do MysteryMap",
+        "body": "Takove pribehy propojuji geografii, extremni prirodu, archivni stopu a moderni internetove teorie. Prave proto potrebuji prisnejsi redakcni ton nez bezna legenda o hradu."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "world-historical-gazetteer",
+      "community-submissions"
+    ]
+  },
+  {
+    "id": "atlantida-ztracena-mesta-mapy",
+    "slug": "atlantida-ztracena-mesta-mapy",
+    "localizedSlugs": {
+      "en": "atlantis-lost-cities-maps",
+      "de": "atlantis-verlorene-staedte-karten",
+      "es": "atlantida-ciudades-perdidas-mapas",
+      "fr": "atlantide-cites-perdues-cartes"
+    },
+    "title": "Atlantida a ztracena mesta: kdy je legenda mapa a kdy jen prani",
+    "description": "Jak zpracovat Atlantidu, ztracena mesta a hypoteticke lokace tak, aby ctenar videl rozdil mezi textovou tradici, archeologii a spekulaci.",
+    "category": "legenda",
+    "themes": [
+      "ztracena-mesta",
+      "mytologie",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Ztracene mesto neni automaticky realna lokace",
+        "body": "Atlantida je silny kulturni obraz, ale web musi rozlisit literarni motiv, archeologickou hypotezu a turisticky vyklad. Mapovat lze i legendu, pokud je jasne oznacena jako legenda."
+      },
+      {
+        "heading": "Jak pracovat s kandidaty",
+        "body": "Kandidatni lokace by mely mit samostatny status: dolozena lokalita, hypoteticke spojeni, moderni interpretace nebo vyvracena teorie. Tak se da stavet rozsahla databaze bez mateni ctenare."
+      },
+      {
+        "heading": "Zdroje pred romantikou",
+        "body": "U ztracenych mest maji prednost archeologicke instituce, muzea, UNESCO, historicke gazetteery a odborne katalogy. Popularni videa nebo blogy mohou byt jen stopa, ne hlavni zdroj."
+      }
+    ],
+    "sources": [
+      "unesco-whc",
+      "world-historical-gazetteer",
+      "getty-tgn",
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ufo-mista-blizka-setkani",
+    "slug": "ufo-mista-blizka-setkani",
+    "localizedSlugs": {
+      "en": "ufo-places-close-encounters",
+      "de": "ufo-orte-nahe-begegnungen",
+      "es": "lugares-ovni-encuentros-cercanos",
+      "fr": "lieux-ovni-rencontres-rapprochees"
+    },
+    "title": "UFO mista a blizka setkani: jak mapovat svedectvi, armadni zaznamy a myty",
+    "description": "Pravidla pro stranky o UFO mistech: casova osa, typ svedectvi, dostupne dokumenty, skepticka vysvetleni a jasne oznaceni nejistoty.",
+    "category": "anomálie",
+    "themes": [
+      "ufo",
+      "konspirace",
+      "svědectví",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Svedectvi je stopa, ne dukaz",
+        "body": "UFO pribehy casto stoji na lidskem pozorovani. To je dulezite zachytit, ale jeste dulezitejsi je rozlisit primarni svedectvi, pozdejsi prevypraveni, uredni zaznam a moderni internetovou verzi."
+      },
+      {
+        "heading": "Co patri do kvalitni stranky",
+        "body": "Stranka ma obsahovat datum, cas, misto, pocasi, pocet svedku, typ objektu, dobove zdroje a skepticke moznosti: letadla, balony, astronomicke jevy, vojenske cviceni nebo opticke klamy."
+      },
+      {
+        "heading": "Proc lokalizovane slugy pomahaji",
+        "body": "U UFO tematu lide hledaji ve vlastnim jazyce. Samostatne slugy pro anglictinu, nemcinu, spanelstinu a francouzstinu pomahaji vyhledavacum pochopit, ze nejde o strojove zkopirovanou jednu adresu."
+      }
+    ],
+    "sources": [
+      "national-archives-us",
+      "library-of-congress",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "komunitni-navrhy-moderace-pravidla",
+    "slug": "komunitni-navrhy-moderace-pravidla",
+    "localizedSlugs": {
+      "en": "community-submissions-moderation-rules",
+      "de": "community-vorschlaege-moderationsregeln",
+      "es": "envios-comunidad-reglas-moderacion",
+      "fr": "contributions-communaute-regles-moderation"
+    },
+    "title": "Komunitni navrhy: pravidla moderace pro globalni databazi zahad",
+    "description": "Jak prijimat navrhy od lidi, chranit soukromi, overovat zdroje, hlidat autorska prava a pripravit komunitni vrstvu MysteryMap.",
+    "category": "metodika",
+    "themes": [
+      "komunita",
+      "zdroje",
+      "eeat"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Komunita jako radar",
+        "body": "Mistni lide znaji povesti, detaily a male lokace, ktere velke databaze neobsahuji. Komunitni formular ma proto slouzit jako radar na nove stopy, ne jako automaticky publikacni system."
+      },
+      {
+        "heading": "Minimalni pravidla prijmu",
+        "body": "Kazdy navrh ma mit polohu, nazev, jazyk, kratky popis, informaci o vlastnictvi fotek a alespon jednu overitelnou stopu. Citlive pribehy o zivych lidech vyzaduji prisnejsi kontrolu."
+      },
+      {
+        "heading": "Proc to posiluje E-E-A-T",
+        "body": "Dobre nastavena komunita pridava lokalni zkusenost, ale jen pokud je oddelena od redakcne overeneho obsahu. Moderacni status, zdroje a historie uprav jsou zaklad duvery."
+      }
+    ],
+    "sources": [
+      "community-submissions",
+      "wikidata",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "iluminati-symboly-mesta-a-legenda",
+    "slug": "iluminati-symboly-mesta-a-legenda",
+    "localizedSlugs": {
+      "en": "illuminati-symbols-places-legend",
+      "de": "illuminati-symbole-orte-legende",
+      "es": "illuminati-simbolos-lugares-leyenda",
+      "fr": "illuminati-symboles-lieux-legende"
+    },
+    "title": "Iluminati, symboly a mesta: kdy znak znamena historii a kdy internetovou legendu",
+    "description": "Pravidla pro praci s iluminatskymi motivy, symboly, architekturou a mestskymi legendami bez podpory nepodlozenych tvrzeni.",
+    "category": "konspirace",
+    "themes": [
+      "iluminati",
+      "tajne-spolecnosti",
+      "symboly",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Proc symboly pritahuji konspirace",
+        "body": "Symbol je zkratka. Oko, pyramida, kruh, hvezda nebo geometricky plan mesta muze mit historicky, nabozensky, heraldicky nebo ciste dekorativni vyznam. Konspiracni cteni casto preskakuje overeni puvodu symbolu."
+      },
+      {
+        "heading": "Jak overit spojeni s organizaci",
+        "body": "Stranka musi rozlisit dolozenou historickou organizaci, pozdejsi popkulturni vyklad a moderni internetovou teorii. Bez pramenu nema byt tvrzeni formulovano jako fakt."
+      },
+      {
+        "heading": "Vhodny styl pro MysteryMap",
+        "body": "Iluminatske motivy maji fungovat jako pruvodce kulturnim strachem ze skryte moci. Text ma ukazat zdroje, casovou osu a slabiny tvrzeni, ne jen opakovat viralni seznam symbolu."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "getty-tgn",
+      "world-historical-gazetteer"
+    ]
+  },
+  {
+    "id": "templarske-stopy-evropy",
+    "slug": "templarske-stopy-evropy",
+    "localizedSlugs": {
+      "en": "templar-traces-of-europe",
+      "de": "templer-spuren-europas",
+      "es": "huellas-templarias-de-europa",
+      "fr": "traces-templieres-europe"
+    },
+    "title": "Templarske stopy Evropy: hrady, kaple, archivy a pozdejsi myty",
+    "description": "Jak stavet tematickou mapu templarskych mist z dolozenych vazeb, archivnich stop a oddelenych legendarnich interpretaci.",
+    "category": "historie",
+    "themes": [
+      "templari",
+      "tajne-spolecnosti",
+      "ztracena-mista"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska"
+    ],
+    "sections": [
+      {
+        "heading": "Dolozena stopa pred legendou",
+        "body": "Templarske tema je silne, ale prave proto potrebuje presne stitky. Jedna vec je skutecna historicka drzba nebo radova kaple, druha pozdejsi legenda o pokladu, tajemnem kodu nebo skryte chodbe."
+      },
+      {
+        "heading": "Co sbirat do databaze",
+        "body": "U kazdeho kandidata se hodi ulozit typ vazby, casove obdobi, zdroj, stav dochovani a uroven jistoty. To umozni pozdeji filtrovat mapu na dolozena mista a na mista pouze legendami spojovana."
+      },
+      {
+        "heading": "Proc to funguje globalne",
+        "body": "Templarske legendy nejsou jen evropske. Pres knihy, filmy a turismus se z nich stal globalni motiv, ktery lide hledaji v mnoha jazycich a pod ruznymi lokalnimi nazvy."
+      }
+    ],
+    "sources": [
+      "getty-tgn",
+      "world-historical-gazetteer",
+      "wikidata",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "krizovatky-s-dablem-a-prokleta-mista",
+    "slug": "krizovatky-s-dablem-a-prokleta-mista",
+    "localizedSlugs": {
+      "en": "devil-crossroads-and-cursed-places",
+      "de": "teufelskreuzungen-und-verfluchte-orte",
+      "es": "cruces-del-diablo-y-lugares-malditos",
+      "fr": "carrefours-du-diable-et-lieux-maudits"
+    },
+    "title": "Krizovatky s dablem a prokleta mista: folklor, vina a krajina",
+    "description": "Tematicky pruvodce pro dabolske legendy, prokleta mista, krizovatky, brany do pekla a skepticka vysvetleni.",
+    "category": "legenda",
+    "themes": [
+      "dabel",
+      "prokleti",
+      "duchove",
+      "mytologie"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska",
+      "poveglia"
+    ],
+    "sections": [
+      {
+        "heading": "Krizovatka jako misto volby",
+        "body": "V mnoha kulturach je krizovatka hranicni prostor: clovek se rozhoduje, meni smer a vstupuje do nejasneho uzemi. Proto se k ni snadno vazi legendy o smlouve, trestu nebo setkani s nadprirozenem."
+      },
+      {
+        "heading": "Prokleti casto kryje skutecnou historii",
+        "body": "Za prokletim muze stat epidemie, nasili, vysidleni, nehoda nebo socialni stigma. Kvalitni stranka se proto pta, jaky skutecny pribeh mohl legendu vytvorit."
+      },
+      {
+        "heading": "Skepticky pohled nebere mistu silu",
+        "body": "Kdyz text vysvetli akustiku, tmu, izolaci, opusteni nebo lidskou pamet, neznamena to, ze misto ztraci atmosferu. Naopak ctenar dostane lepsi duvod, proc se mu tam legenda zda presvedciva."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "openstreetmap",
+      "wikipedia",
+      "community-submissions"
+    ]
+  },
+  {
+    "id": "nevyresene-vrazdy-a-mista-pameti",
+    "slug": "nevyresene-vrazdy-a-mista-pameti",
+    "localizedSlugs": {
+      "en": "unsolved-murders-and-places-of-memory",
+      "de": "ungeloeste-morde-und-erinnerungsorte",
+      "es": "asesinatos-sin-resolver-y-lugares-de-memoria",
+      "fr": "meurtres-non-resolus-et-lieux-de-memoire"
+    },
+    "title": "Nevyresene vrazdy a mista pameti: true crime bez parazitovani na tragedii",
+    "description": "Redakcni pravidla pro kriminalni a tragicka mista: presnost, soukromi, zdroje, jazyk a jasne oddeleni faktu od spekulace.",
+    "category": "tragédie",
+    "themes": [
+      "vrazdy",
+      "umrti",
+      "antiteorie",
+      "eeat"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Fakta pred dramatem",
+        "body": "True crime obsah potrebuje nejprisnejsi jazyk. Datum, misto, pravni status, zdroj a nejistota jsou dulezitejsi nez hororovy efekt. Neoverena obvineni a jmena zivych osob jsou vysoke riziko."
+      },
+      {
+        "heading": "Misto muze byt pamet, ne atrakce",
+        "body": "Nektere lokace jsou dulezite pro pochopeni udalosti, jine by se nemely propagovat jako cil navstevy. MysteryMap musi umet rozlisit verejny pamatnik, historicky kontext a soukromy prostor."
+      },
+      {
+        "heading": "Jak psat hypotezy",
+        "body": "Hypoteza patri do samostatne casti a musi byt oznacena jako hypoteza. Pokud neexistuje spolehlivy zdroj, patri maximalne do seznamu lidovych nebo medialnich motivu."
+      }
+    ],
+    "sources": [
+      "national-archives-us",
+      "library-of-congress",
+      "dpla",
+      "community-submissions"
+    ]
+  },
+  {
+    "id": "kruhy-v-obili-mapa-tvrzeni",
+    "slug": "kruhy-v-obili-mapa-tvrzeni",
+    "localizedSlugs": {
+      "en": "crop-circles-map-of-claims",
+      "de": "kornkreise-karte-der-behauptungen",
+      "es": "circulos-de-cultivos-mapa-de-afirmaciones",
+      "fr": "crop-circles-carte-des-affirmations"
+    },
+    "title": "Kruhy v obili: mapa tvrzeni, umelecke stopy a mimozemske interpretace",
+    "description": "Jak zpracovat kruhy v obili jako vizualni, folklorni a konspiracni fenomen s jasnym rozlisenim dolozenych a nedolozenych tvrzeni.",
+    "category": "anomálie",
+    "themes": [
+      "ufo",
+      "konspirace",
+      "svědectví",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Proc jsou kruhy tak silny obraz",
+        "body": "Kruh v poli je viditelny, fotogenicky a pusobi jako zprava shora. Prave proto se kolem nej rychle tvori teorie o mimozemstanech, energii, tajnych projektech nebo umeleckych akcich."
+      },
+      {
+        "heading": "Co musi obsahovat zaznam",
+        "body": "U kazdeho pripadu je potreba datum objevu, presna poloha, fotografie s licenci, vlastnik nebo verejny pristup, lokalni zdroj a informace, zda se autorstvi priznalo nebo vysetrovalo."
+      },
+      {
+        "heading": "Antiteorie a respekt k pozemkum",
+        "body": "Text musi pripominat, ze pole je casto soukromy majetek. Skepticke vysvetleni ma zahrnout lidskou tvorbu, mediální opakovani, letecke snimky a ekonomicky dopad na misto."
+      }
+    ],
+    "sources": [
+      "wikimedia-commons",
+      "openstreetmap",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "staroveci-astronauti-a-archeologie",
+    "slug": "staroveci-astronauti-a-archeologie",
+    "localizedSlugs": {
+      "en": "ancient-astronauts-and-archaeology",
+      "de": "praeastronautik-und-archaeologie",
+      "es": "antiguos-astronautas-y-arqueologia",
+      "fr": "anciens-astronautes-et-archeologie"
+    },
+    "title": "Staroveci astronauti a archeologie: jak nebrat mistnim kulturam jejich praci",
+    "description": "Skepticky a eticky ramec pro teorie o starovekych astronautech, monumentalnich stavbach a archeologickych mistech.",
+    "category": "konspirace",
+    "themes": [
+      "ufo",
+      "pseudoveda",
+      "mytologie",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Proc je tema citlive",
+        "body": "Teorie o starovekych astronautech casto tvrdi, ze mistni civilizace nemohly vytvorit vlastni stavby. To muze nechtene znehodnocovat jejich znalosti, organizaci a technologii."
+      },
+      {
+        "heading": "Jak mapovat bez prepisovani historie",
+        "body": "U kazde lokace je nutne dat prednost archeologickym zdrojum, muzeim, UNESCO a lokalnim institucim. Alternativni vyklad muze byt popsany jako moderni interpretace, ne jako rovnocenna historie."
+      },
+      {
+        "heading": "Dobra stranka ukazuje remeslo",
+        "body": "Misto jen otazky 'kdo to opravdu postavil' ma text vysvetlit material, pracovni techniky, krajinu, dataci a kulturni kontext. Tim je zahada bohatsi a presnejsi."
+      }
+    ],
+    "sources": [
+      "unesco-whc",
+      "wikidata",
+      "getty-tgn",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "zemetreseni-tsunami-a-myty-o-trestu",
+    "slug": "zemetreseni-tsunami-a-myty-o-trestu",
+    "localizedSlugs": {
+      "en": "earthquakes-tsunamis-and-punishment-myths",
+      "de": "erdbeben-tsunamis-und-strafmythen",
+      "es": "terremotos-tsunamis-y-mitos-de-castigo",
+      "fr": "seismes-tsunamis-et-mythes-de-punition"
+    },
+    "title": "Zemetreseni, tsunami a myty o trestu: kdy priroda vstoupi do legend",
+    "description": "Jak propojovat katastroficka mista, vedecke zdroje, lokalni pamet a myty o trestu nebo varovani bez zneuziti tragedie.",
+    "category": "katastrofa",
+    "themes": [
+      "zemetreseni",
+      "tsunami",
+      "mytologie",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [
+      "san-francisco-1906-earthquake"
+    ],
+    "sections": [
+      {
+        "heading": "Katastrofa hleda vyznam",
+        "body": "Po zemetreseni nebo tsunami lide casto hledaji duvod, vinu nebo varovani. Vznikaji pribehy o trestu, znamenich a mizejicich mestech. Tyto motivy patri do folkloru a pameti, ne do geologickeho vysvetleni."
+      },
+      {
+        "heading": "Vedecky zaklad",
+        "body": "USGS a NOAA davaji cas, magnitudu, mechanismus, epicentrum, tsunami data a hazardni kontext. Redakcni prace k tomu pridava mistni dopad, pamatniky a opatrny jazyk."
+      },
+      {
+        "heading": "Jak neublizit ctenari ani mistu",
+        "body": "Nedavne katastrofy vyzaduji citlivost. Text nema pusobit jako lov na senzaci, ale jako pruvodce pameti, rizikem a tim, jak prirodni udalost zmenila krajinu i vypraveni."
+      }
+    ],
+    "sources": [
+      "usgs-earthquakes",
+      "noaa-ncei-natural-hazards",
+      "noaa-tsunami",
+      "wikidata"
+    ]
+  },
+  {
+    "id": "proklete-predmety-muzea-a-dukazy",
+    "slug": "proklete-predmety-muzea-a-dukazy",
+    "localizedSlugs": {
+      "en": "cursed-objects-museums-and-evidence",
+      "de": "verfluchte-objekte-museen-und-belege",
+      "es": "objetos-malditos-museos-y-pruebas",
+      "fr": "objets-maudits-musees-et-preuves"
+    },
+    "title": "Proklete predmety, muzea a dukazy: kdy se pribeh vaze k veci",
+    "description": "Prace s prokletymi predmety, muzejnimi exponaty, vlastnickou historii, fotkami, licencemi a skeptickymi vysvetlenimi.",
+    "category": "legenda",
+    "themes": [
+      "prokleti",
+      "duchove",
+      "zdroje",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Predmet potrebuje provenienci",
+        "body": "U prokleteho predmetu je nejdulezitejsi cesta veci: kdo ji vlastnil, kdy se objevila, kdo pribeh zaznamenal a zda je predmet verejne dohledatelny. Bez provenience je to jen volne vypraveni."
+      },
+      {
+        "heading": "Muzeum neni automaticky dukaz paranormalna",
+        "body": "Muzejni nebo soukroma expozice muze dokazovat existenci predmetu a tradici vypraveni, ale ne nadprirozenou pricinu. Stranka musi tyto roviny jasne oddelit."
+      },
+      {
+        "heading": "Fotografie a licence",
+        "body": "U predmetu je obzvlast dulezite hlidat prava k fotografiim. Wikimedia Commons nebo vlastni komunitni fotka mohou pomoci, ale kazdy soubor potrebuje samostatnou licenci a atribuci."
+      }
+    ],
+    "sources": [
+      "wikimedia-commons",
+      "wikidata",
+      "wikipedia",
+      "community-submissions"
+    ]
+  },
+  {
+    "id": "tajne-tunely-podzemi-a-mestske-legendy",
+    "slug": "tajne-tunely-podzemi-a-mestske-legendy",
+    "localizedSlugs": {
+      "en": "secret-tunnels-underground-urban-legends",
+      "de": "geheime-tunnel-untergrund-stadtlegenden",
+      "es": "tuneles-secretos-subterraneos-leyendas-urbanas",
+      "fr": "tunnels-secrets-souterrains-legendes-urbaines"
+    },
+    "title": "Tajne tunely, podzemi a mestske legendy: jak overovat skryte chodby",
+    "description": "Metodika pro tajne tunely, katakomby, utajene chodby a podzemni legendy: zdroje, mapy, pristupnost, bezpecnost a skepticke vysvetleni.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "tajne-spolecnosti",
+      "konspirace",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [
+      "edinburgh-vaults",
+      "paris-catacombs",
+      "capuchin-crypt-brno"
+    ],
+    "sections": [
+      {
+        "heading": "Podzemi je idealni prostor pro dohady",
+        "body": "Chodby, sklepy a katakomby maji omezeny pristup, spatne svetlo a casto nejasnou dokumentaci. Proto se kolem nich rychle tvori pribehy o utajenem uniku, radovem ukrytu nebo zakazanych ritualech."
+      },
+      {
+        "heading": "Co musi byt dolozeno",
+        "body": "Dobra stranka odlisuje existujici podzemi od tvrzeni o tajnem propojeni. Dulezite jsou stare mapy, stavebni dokumentace, sprava objektu, archeologicke zpravy a aktualni pravidla vstupu."
+      },
+      {
+        "heading": "Bezpecnost pred senzaci",
+        "body": "U podzemi je nutne nevyzyvat k nelegalnimu vstupu. Prakticka cast ma smerovat na legalni prohlidky, verejne pristupne trasy a respekt k uzaveram."
+      }
+    ],
+    "sources": [
+      "openstreetmap",
+      "wikidata",
+      "world-historical-gazetteer",
+      "official-site"
+    ]
+  },
+  {
+    "id": "zakazane-zony-a-mista-kam-se-nesmi",
+    "slug": "zakazane-zony-a-mista-kam-se-nesmi",
+    "localizedSlugs": {
+      "en": "forbidden-zones-and-places-you-cannot-enter",
+      "de": "verbotene-zonen-und-orte-ohne-zutritt",
+      "es": "zonas-prohibidas-y-lugares-sin-acceso",
+      "fr": "zones-interdites-et-lieux-inaccessibles"
+    },
+    "title": "Zakazane zony a mista, kam se nesmi: mezi bezpecnosti, mytem a voyeurismem",
+    "description": "Jak popisovat nepristupna, vojenska, kontaminovana nebo posvatna mista bez navadeni k porusovani pravidel.",
+    "category": "anomálie",
+    "themes": [
+      "zakazane-zony",
+      "konspirace",
+      "komunita",
+      "eeat"
+    ],
+    "relatedPlaceIds": [
+      "poveglia"
+    ],
+    "sections": [
+      {
+        "heading": "Nepristupnost vytvari legendu",
+        "body": "Kdyz se na misto nesmi, roste kolem nej predstavivost. Zakaz vstupu muze byt kvuli bezpecnosti, soukromi, ochrane prirody, armade nebo posvatnemu statusu. Kazdy duvod znamena jinou redakcni odpovednost."
+      },
+      {
+        "heading": "Co web nesmi delat",
+        "body": "MysteryMap nema publikovat navody k neopravnenemu vstupu, obchazeni hlidani nebo hledani slabin. Misto toho ma vysvetlit kontext, rizika, legalni alternativy a zdroje."
+      },
+      {
+        "heading": "Jak zachovat hodnotu pro ctenare",
+        "body": "I nepristupna mista lze zpracovat pres historii, archivni mapy, verejne vyhlidky, muzea, oficialni dokumenty a bezpecnostni pravidla. Tajemstvi zustane, ale bez zbytecneho rizika."
+      }
+    ],
+    "sources": [
+      "official-site",
+      "openstreetmap",
+      "wikidata",
+      "national-archives-us"
+    ]
+  },
+  {
+    "id": "antarktida-ledova-stena-a-konspirace",
+    "slug": "antarktida-ledova-stena-a-konspirace",
+    "localizedSlugs": {
+      "en": "antarctica-ice-wall-and-conspiracies",
+      "de": "antarktis-eiswand-und-verschwoerungen",
+      "es": "antartida-muro-de-hielo-y-conspiraciones",
+      "fr": "antarctique-mur-de-glace-et-conspirations"
+    },
+    "title": "Antarktida, ledova stena a konspirace: proc okraj mapy pritahuje teorie",
+    "description": "Skepticky clanek o Antarktide v konspiracich: plocha Zeme, zakazane oblasti, expedice, satelity, mapy a vedecke vysvetleni.",
+    "category": "konspirace",
+    "themes": [
+      "plocha-zeme",
+      "zakazane-zony",
+      "konspirace",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Okraj mapy je silny symbol",
+        "body": "Antarktida je vzdaleny, extremni a regulovany kontinent. Prave proto se v konspiracich meni v ledovou stenu, branu k utajenemu svetu nebo dukaz globalniho utajeni."
+      },
+      {
+        "heading": "Co patri do fakticke vrstvy",
+        "body": "Do fakticke vrstvy patri mezinarodni dohody, vedecke stanice, expedice, satelitni snimky, mapy a klimaticka data. Tvrzeni o skrytem okraji sveta patri do jasne oznacene konspiracni vrstvy."
+      },
+      {
+        "heading": "Proc je to dulezite pro jazykove slugy",
+        "body": "Antarktidske konspirace se hledaji v mnoha jazycich a casto s lokalnimi nazvy. Samostatne slugy pro kazdy jazyk pomahaji vytvorit obsah, ktery neni jen prelozeny nadpis, ale samostatna vstupni stranka."
+      }
+    ],
+    "sources": [
+      "nasa-earth-observatory",
+      "natural-earth",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "zvukove-zahady-huceni-a-nevysvetlene-tony",
+    "slug": "zvukove-zahady-huceni-a-nevysvetlene-tony",
+    "localizedSlugs": {
+      "en": "sound-mysteries-hums-and-unexplained-tones",
+      "de": "klangraetsel-brummen-und-unerklaerte-toene",
+      "es": "misterios-sonoros-zumbidos-y-tonos-inexplicables",
+      "fr": "mysteres-sonores-bourdonnements-et-sons-inexpliques"
+    },
+    "title": "Zvukove zahady: huceni, nevysvetlene tony a mista, ktera jsou slyset",
+    "description": "Tematicky pruvodce pro zahadne zvuky, huceni, ozveny a akusticke anomalie s durazem na mereni, lokalni zdroje a prirozena vysvetleni.",
+    "category": "anomálie",
+    "themes": [
+      "svědectví",
+      "prirodni-anomalie",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [],
+    "sections": [
+      {
+        "heading": "Zvuk se spatne dokazuje",
+        "body": "Zvukove zahady jsou zradne, protoze zavisi na sluchu, miste, case, pocasi i psychickem stavu. Dva lide na stejnem miste nemusi slyset totéz."
+      },
+      {
+        "heading": "Co pomaha overit pribeh",
+        "body": "Uzitecne jsou nahravky, spektralni analyza, opakovatelnost, prumyslove zdroje, doprava, geologie, vitr, voda, rezonance konstrukci a lokalni svedectvi z ruznych casu."
+      },
+      {
+        "heading": "Proc patri na mapu",
+        "body": "Nektera mista jsou tajemna prave tim, ze nejsou jen videt, ale slyset. Spravne zpracovani musi spojit fyziku, mistni pamet a jasne oznacenou nejistotu."
+      }
+    ],
+    "sources": [
+      "community-submissions",
+      "openstreetmap",
+      "wikidata",
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "lokalni-povesti-jako-globalni-seo",
+    "slug": "lokalni-povesti-jako-globalni-seo",
+    "localizedSlugs": {
+      "en": "local-legends-as-global-seo",
+      "de": "lokale-legenden-als-globales-seo",
+      "es": "leyendas-locales-como-seo-global",
+      "fr": "legendes-locales-comme-seo-mondial"
+    },
+    "title": "Lokalni povesti jako globalni SEO: proc male pribehy potrebuji vlastni stranky",
+    "description": "Strategie pro budovani desitek tisic stranek MysteryMap: lokalni nazvy, jazykove slugy, zdroje, komunitni stopy a redakcni sablony.",
+    "category": "metodika",
+    "themes": [
+      "komunita",
+      "zdroje",
+      "eeat",
+      "antiteorie"
+    ],
+    "relatedPlaceIds": [
+      "hrad-houska",
+      "poveglia",
+      "tower-of-london"
+    ],
+    "sections": [
+      {
+        "heading": "Male misto muze byt velky dotaz",
+        "body": "Lide casto nehledaji obecne strasidelny hrad, ale konkretni mistni nazev, regionalni legendu nebo dotaz ve svem jazyce. Proto ma smysl stavet samostatne stranky i pro mensi mista."
+      },
+      {
+        "heading": "Sablona musi byt pevna, text ne",
+        "body": "Pro 30000 stranek je nutna stejna datova struktura: poloha, zdroje, historie, legenda, svedectvi, skepticke vysvetleni, prakticke info a komunitni stopa. Samotny text ale musi byt originalni a lokalni."
+      },
+      {
+        "heading": "Kdy stranku nepublikovat",
+        "body": "Kandidat bez zdroje, bez polohy nebo s rizikem pomluvy ma zustat v draftu. Objem obsahu je dulezity, ale kvalita indexace stoji na tom, ze publikovane stranky maji jasnou hodnotu."
+      }
+    ],
+    "sources": [
+      "community-submissions",
+      "wikidata",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "filmove-lokace-mapa-slavnych-zaberu",
+    "slug": "filmove-lokace-mapa-slavnych-zaberu",
+    "localizedSlugs": {
+      "cs": "filmove-lokace-mapa-slavnych-zaberu",
+      "en": "movie-locations-map-famous-scenes",
+      "de": "filmorte-karte-beruehmte-szenen",
+      "es": "mapa-lugares-cine-escenas-famosas",
+      "fr": "carte-lieux-tournage-scenes-cultes"
+    },
+    "title": "Filmove lokace na mape: kde se realna mista zmenila ve slavne zabery",
+    "description": "Mapa filmovych lokaci propojuje skutecna mista, filmovou pamet, GPS, zdroje a prakticke informace bez kopirovani cizich databazi.",
+    "category": "filmova-lokace",
+    "themes": [
+      "film",
+      "nataceni",
+      "mapa"
+    ],
+    "relatedPlaceIds": [
+      "hobbiton-movie-set",
+      "skellig-michael",
+      "dubrovnik-old-town",
+      "petra-treasury",
+      "kualoa-ranch",
+      "glenfinnan-viaduct"
+    ],
+    "sections": [
+      {
+        "heading": "Proc filmove lokace patri na MysteryMap",
+        "body": "Filmove misto neni jen turisticky bod. Je to prostor, kde se realna geografie potkava s pameti divaka. MysteryMap proto drzi vedle sebe skutecne souradnice, kulturni pribeh, prakticky pristup a jasne oddelene zdroje."
+      },
+      {
+        "heading": "Jak overovat slavny zaber",
+        "body": "U kazde lokace je nutne rozlisit oficialni informaci o nataceni, fanouskovsky odhad a obecnou popularni asociaci. Stranka ma fungovat jako mapa a rozcestnik, ne jako neovereny seznam scen."
+      },
+      {
+        "heading": "Fotografie a filmove zabery",
+        "body": "Samotne filmove snimky jsou vetsinou chranene autorskym pravem. Proto web preferuje vlastni texty, volne licencovane fotografie mista, odkazy na zdroje a zalozni hero vizual, pokud neni k dispozici bezpecne pouzitelna fotografie."
+      },
+      {
+        "heading": "Dalsi rozsireni",
+        "body": "Databazi lze rozsirovat pres Wikidata, UNESCO, oficialni turisticke weby, OpenStreetMap a licencovane fotografie z Wikimedia Commons. Priorita je kvalita, licence, jazykove slugy a pevna SEO struktura."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "wikimedia-commons",
+      "unesco-whc",
+      "official-site"
+    ]
+  },
+  {
+    "id": "globalni-zahadna-mista-velky-seed",
+    "slug": "globalni-zahadna-mista-velky-seed",
+    "localizedSlugs": {
+      "cs": "globalni-zahadna-mista-velky-seed",
+      "en": "global-mystery-places-large-seed",
+      "de": "globale-raetselorte-grosser-seed",
+      "es": "lugares-misteriosos-globales-seed",
+      "fr": "lieux-mysterieux-monde-grand-seed"
+    },
+    "title": "Globalni zahadna mista: velky seed pro svetovou MysteryMap",
+    "description": "Redakcni rozcestnik k velke davce svetovych zahadnych mist: hrady, podzemi, ostrovy, prirodni anomalie, ruiny, filmove lokace a skepticky overitelne zdroje.",
+    "category": "legenda",
+    "themes": [
+      "mapa",
+      "zdroje",
+      "komunita",
+      "overovani"
+    ],
+    "relatedPlaceIds": [
+      "winchester-mystery-house",
+      "stanley-hotel",
+      "eastern-state-penitentiary",
+      "alcatraz-island",
+      "villisca-axe-murder-house",
+      "bell-witch-cave",
+      "st-augustine-lighthouse",
+      "the-queen-mary",
+      "moundsville-penitentiary",
+      "trans-allegheny-lunatic-asylum",
+      "lemp-mansion",
+      "myrtles-plantation",
+      "bodie-state-historic-park",
+      "sedlec-ossuary",
+      "old-jewish-cemetery-prague",
+      "edinburgh-vaults",
+      "mary-king-s-close",
+      "pendle-hill",
+      "borley-rectory",
+      "highgate-cemetery",
+      "leap-castle",
+      "hellfire-club-dublin",
+      "chateau-de-brissac",
+      "catacombs-of-kom-el-shoqafa",
+      "valley-of-the-kings",
+      "great-sphinx-of-giza",
+      "derinkuyu-underground-city",
+      "gobekli-tepe",
+      "mount-nemrut",
+      "aokigahara"
+    ],
+    "sections": [
+      {
+        "heading": "Proc vznikl velky seed",
+        "body": "Cilem je dostat MysteryMap bliz k objemu velkych cestovatelskych databazi, ale bez kopirovani ciziho textu nebo cizi databaze. Seed vytvari vlastni profily s GPS, zdroji, kategoriemi a redakcnim ramcem."
+      },
+      {
+        "heading": "Jak se bude overovat dal",
+        "body": "Kazde misto ma zakladni zdrojovou stopu. Dalsi redakcni kolo musi pridavat lokalni autority, oficialni weby, licencovane fotografie, presne navstevnicke informace a lepsi jazykove lokalizace."
+      },
+      {
+        "heading": "Proc to pomaha SEO, GEO a LLM vyhledavani",
+        "body": "Stabilni slugy, hreflang, sitemap, JSON-LD, jasne oddeleni faktu od legend a zdrojove odkazy davaji vyhledavacum i jazykovym modelum citelny, strukturovany a rozsirivatelny katalog."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "geonames"
+    ]
+  },
+  {
+    "id": "evropa-asie-zahadna-mista-druha-vlna",
+    "slug": "evropa-asie-zahadna-mista-druha-vlna",
+    "localizedSlugs": {
+      "cs": "evropa-asie-zahadna-mista-druha-vlna",
+      "en": "europe-asia-mystery-places-second-wave",
+      "de": "europa-asien-raetselorte-zweite-welle",
+      "es": "europa-asia-lugares-misteriosos-segunda-ola",
+      "fr": "europe-asie-lieux-mysterieux-deuxieme-vague"
+    },
+    "title": "Evropa a Asie: druha velka vlna zahadnych mist",
+    "description": "Druha velka davka pro MysteryMap pridava hrady, podzemi, ruiny, poutni mista, prirodni anomalie a katastroficka mista napric Evropou a Asii.",
+    "category": "legenda",
+    "themes": [
+      "mapa",
+      "podzemi",
+      "mytologie",
+      "ztracena-mesta"
+    ],
+    "relatedPlaceIds": [
+      "chateau-de-chillon",
+      "predjama-castle",
+      "postojna-cave",
+      "buzludzha-monument",
+      "belogradchik-rocks",
+      "devil-s-throat-cave",
+      "monastery-of-saint-naum",
+      "devil-s-town",
+      "ossuary-of-saint-james-church-brno",
+      "kost-castle",
+      "spis-castle",
+      "bojnice-castle",
+      "wawel-dragon-s-den",
+      "wieliczka-salt-mine",
+      "wolf-s-lair",
+      "hill-of-crosses",
+      "kaali-crater",
+      "suomenlinna",
+      "borgvattnet-vicarage",
+      "houska-like-ale-s-stones",
+      "trolltunga",
+      "maeshowe",
+      "callanish-stones",
+      "dunwich",
+      "carnac-stones",
+      "mont-saint-michel",
+      "lascaux-cave",
+      "rennes-le-chateau",
+      "glastonbury-tor",
+      "tintagel-castle"
+    ],
+    "sections": [
+      {
+        "heading": "Proc druha vlna miri na Evropu a Asii",
+        "body": "Evropa a Asie maji hustou sit hradu, ruin, podzemnich mist, poutnich center a archeologickych lokalit. To jsou mista, ktera se dobre propojuji s kategoriemi, tematy a jazykovymi landing pages."
+      },
+      {
+        "heading": "Co je hotove a co je seed",
+        "body": "Kazdy profil ma GPS, zdrojovou stopu, kategorie, temata a vlastni detail. Cast textu je seedovy redakcni zaklad, ktery se ma postupne vylepsovat lokalnimi zdroji a fotografiemi s jasnou licenci."
+      },
+      {
+        "heading": "Jak se bude zvetsovat objem bez kopirovani",
+        "body": "Objem se da zvetsovat po kontinentech a typech mist. Nebereme cizi databazi jako textovou kopii; stavime vlastni katalog z verejne overitelnych zdroju, strukturovanych dat a redakcnich sablon."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "afrika-ameriky-oceanie-treti-vlna",
+    "slug": "afrika-ameriky-oceanie-treti-vlna",
+    "localizedSlugs": {
+      "cs": "afrika-ameriky-oceanie-treti-vlna",
+      "en": "africa-americas-oceania-third-wave",
+      "de": "afrika-amerika-ozeanien-dritte-welle",
+      "es": "africa-americas-oceania-tercera-ola",
+      "fr": "afrique-ameriques-oceanie-troisieme-vague"
+    },
+    "title": "Afrika, Ameriky a Oceanie: treti vlna expanze MysteryMap",
+    "description": "Treti vlna pridava africka pamatkova mista, jihoamericke archeologicke zahady, severoamericke legendy a oceanske posvatne i prirodni lokace.",
+    "category": "legenda",
+    "themes": [
+      "mapa",
+      "ztracena-mesta",
+      "prirodni-anomalie",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "timbuktu",
+      "djenne",
+      "ait-benhaddou",
+      "volubilis",
+      "siwa-oasis",
+      "abu-simbel",
+      "karnak-temple-complex",
+      "nabta-playa",
+      "meroe-pyramids",
+      "gedi-ruins",
+      "kilwa-kisiwani",
+      "rock-hewn-churches-of-lalibela",
+      "lake-turkana",
+      "namib-desert-fairy-circles",
+      "kolmanskop",
+      "twyfelfontein",
+      "brandberg-mountain",
+      "osun-osogbo-sacred-grove",
+      "benin-city-walls",
+      "goree-island",
+      "elmina-castle",
+      "cape-coast-castle",
+      "robben-island",
+      "sterkfontein-caves",
+      "tsodilo-hills",
+      "lamu-old-town",
+      "serra-da-capivara",
+      "valongo-wharf",
+      "pedra-da-gavea",
+      "chapada-diamantina"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle vlna vyrovnava mapu",
+        "body": "Predchozi expanze byla silna v Evrope a Asii. Treti vlna proto zamerne pridava Afriku, Jižní Ameriku, Oceanii a dalsi cast Severni Ameriky, aby mapa nebyla eurocentricka."
+      },
+      {
+        "heading": "Jak se pracuje s citlivymi misty",
+        "body": "U pametnich mist, kolonialnich pevnosti, otroctvi, valek a posvatnych tradic je dulezite drzet odstup od senzace. MysteryMap zde pouziva tajemno jako vstupni motiv, ale oddeluje fakta, legendu a respekt."
+      },
+      {
+        "heading": "Dalsi etapa",
+        "body": "Dalsi etapa muze pridavat stat po statu, doplnovat fotky s licenci a rozdelovat velke regiony na presnejsi lokalni profily. Seedove profily uz vytvari URL a interní propojeni."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "ctvrta-vlna-afrika-amerika-pacifik",
+    "slug": "ctvrta-vlna-afrika-amerika-pacifik",
+    "localizedSlugs": {
+      "cs": "ctvrta-vlna-afrika-amerika-pacifik",
+      "en": "fourth-wave-africa-america-pacific",
+      "de": "vierte-welle-afrika-amerika-pazifik",
+      "es": "cuarta-ola-africa-america-pacifico",
+      "fr": "quatrieme-vague-afrique-amerique-pacifique"
+    },
+    "title": "Ctvrtá vlna: Afrika, Amerika, Pacifik a dalsi zahadova archeologie",
+    "description": "Ctvrtá vlna rozsiruje MysteryMap o africka kralovska a poustni mista, americke zahady, pamatky predkolumbovskych kultur a pacificke posvatne lokace.",
+    "category": "legenda",
+    "themes": [
+      "mapa",
+      "archeologie",
+      "ufo",
+      "ztracena-mesta"
+    ],
+    "relatedPlaceIds": [
+      "axum",
+      "fasil-ghebbi",
+      "olduvai-gorge",
+      "zanzibar-stone-town",
+      "great-mosque-of-kairouan",
+      "carthage",
+      "dougga",
+      "matmata",
+      "leptis-magna",
+      "sabratha",
+      "tadrart-acacus",
+      "bandiagara-escarpment",
+      "lake-retba",
+      "mount-nyiragongo",
+      "rwenzori-mountains",
+      "mapungubwe",
+      "thulamela",
+      "makgadikgadi-pans",
+      "vredefort-dome",
+      "victoria-falls",
+      "mesa-verde",
+      "chaco-canyon",
+      "cahokia-mounds",
+      "serpent-mound",
+      "point-pleasant-mothman",
+      "salem-witch-trials-memorial",
+      "amityville-horror-house",
+      "skinwalker-ranch",
+      "roswell-ufo-museum",
+      "superstition-mountains"
+    ],
+    "sections": [
+      {
+        "heading": "Proc pribyla dalsi vlna",
+        "body": "Cilem je priblizit MysteryMap objemem velkym svetovym databazim, ale stavet vlastni katalog s jasnou strukturou. Kazde misto ma detail, zdroje, GPS, temata a vlastni URL."
+      },
+      {
+        "heading": "Silnejsi Amerika a Afrika",
+        "body": "Ctvrtá vlna posiluje Afriku a Severni Ameriku o archeologii, pamatniky, UFO myty, podzemi a prirodni anomalie. Diky tomu mapa neni jen evropsky seznam hradu."
+      },
+      {
+        "heading": "Co bude pokracovat",
+        "body": "Dalsi vlny muzou jit stat po statu a postupne pridavat fotky s licenci, lokalni autority, presnejsi jazyky a clanky pro velka temata jako UFO, ztracena mesta, katakomby nebo filmove lokace."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "pata-vlna-evropske-hrady-podzemi-anomalie",
+    "slug": "pata-vlna-evropske-hrady-podzemi-anomalie",
+    "localizedSlugs": {
+      "cs": "pata-vlna-evropske-hrady-podzemi-anomalie",
+      "en": "fifth-wave-european-castles-underground-anomalies",
+      "de": "fuenfte-welle-europaeische-burgen-untergrund-anomalien",
+      "es": "quinta-ola-castillos-subterraneos-anomalias-europa",
+      "fr": "cinquieme-vague-chateaux-souterrains-anomalies-europe"
+    },
+    "title": "Pata vlna: evropske hrady, podzemi, anomalie a temne pribehy",
+    "description": "Pata vlna zvetsuje MysteryMap o dalsi evropske hrady, podzemi, valecne ruiny, opticke a prirodni anomalie, posvatna mista a filmove lokace.",
+    "category": "hrad",
+    "themes": [
+      "hrad",
+      "podzemi",
+      "duchove",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "orava-castle",
+      "cachtice-castle",
+      "trencin-castle",
+      "devin-castle",
+      "trosky-castle",
+      "karlstejn-castle",
+      "loket-castle",
+      "zvikov-castle",
+      "bled-castle",
+      "trakai-island-castle",
+      "malbork-castle",
+      "ksiaz-castle",
+      "osowka-underground-city",
+      "wlodarz-complex",
+      "srebrna-gora-fortress",
+      "czocha-castle",
+      "eltz-castle",
+      "neuschwanstein-castle",
+      "frankenstein-castle",
+      "wewelsburg-castle",
+      "teufelsberg",
+      "beelitz-heilstatten",
+      "prora",
+      "drachenfels",
+      "hohenzollern-castle",
+      "maus-castle",
+      "branitz-pyramids",
+      "carnuntum",
+      "hallstatt-ossuary",
+      "hochosterwitz-castle"
+    ],
+    "sections": [
+      {
+        "heading": "Proc pata vlna posiluje Evropu",
+        "body": "Evropa ma mimoradne hustou sit hradu, katakomb, pohrebnich mist, valecnych ruin a folklornich lokalit. Tyto body dobre vytvareji interni prolinkovani a tematicke vstupni stranky."
+      },
+      {
+        "heading": "Seed neni konecny clanek",
+        "body": "Kazdy profil uz ma URL, GPS, zdroje, kategorie a strukturu. Dalsi redakce muze vybrat nejdulezitejsi mista a doplnit hlubsi lokalni zdroje, fotky a vlastni styl."
+      },
+      {
+        "heading": "Dalsi smer",
+        "body": "Po teto vlne je vhodne pokracovat ve specializovanych balicich: UFO mista, filmove lokace, katakomby, katastrofy, ztracena mesta a mista s overenymi fotografiemi."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "sesta-vlna-asie-posvatna-mista-ztracena-mesta",
+    "slug": "sesta-vlna-asie-posvatna-mista-ztracena-mesta",
+    "localizedSlugs": {
+      "cs": "sesta-vlna-asie-posvatna-mista-ztracena-mesta",
+      "en": "sixth-wave-asia-sacred-sites-lost-cities",
+      "de": "sechste-welle-asien-heilige-orte-verlorene-staedte",
+      "es": "sexta-ola-asia-lugares-sagrados-ciudades-perdidas",
+      "fr": "sixieme-vague-asie-lieux-sacres-cites-perdues"
+    },
+    "title": "Sesta vlna: Asie, posvatna mista, ztracena mesta a podzemi",
+    "description": "Sesta vlna posiluje Asii o chramy, jeskynni komplexy, ztracena mesta, horska poutni mista, geologicke anomalie a filmove krajiny.",
+    "category": "legenda",
+    "themes": [
+      "ritual",
+      "podzemi",
+      "ztracena-mesta",
+      "mytologie"
+    ],
+    "relatedPlaceIds": [
+      "mount-kailash",
+      "potala-palace",
+      "jokhang-temple",
+      "mount-wutai",
+      "longmen-grottoes",
+      "mogao-caves",
+      "yungang-grottoes",
+      "sanxingdui",
+      "lop-nur",
+      "loulan",
+      "jiuzhaigou",
+      "zhangjiajie",
+      "mount-emei",
+      "mausoleum-of-the-first-qin-emperor",
+      "kowloon-walled-city-park",
+      "taroko-gorge",
+      "yehliu-geopark",
+      "jeju-lava-tubes",
+      "gyeongju-tumuli",
+      "demilitarized-zone-korea",
+      "seongsan-ilchulbong",
+      "mount-osore",
+      "ise-grand-shrine",
+      "koyasan-okunoin",
+      "fushimi-inari-taisha",
+      "himeji-castle",
+      "okinawa-himeyuri-monument",
+      "shirakawa-go",
+      "taktsang-monastery",
+      "punakha-dzong"
+    ],
+    "sections": [
+      {
+        "heading": "Proc posilovat Asii",
+        "body": "Asie ma obrovskou hustotu posvatnych hor, jeskynnich chramu, ztracenych mest, poutnich center a archeologickych lokalit. Tyto profily tvori pevny zaklad pro globalni mapu."
+      },
+      {
+        "heading": "Jak je drzeny skepticky ramec",
+        "body": "U posvatnych a zive uctivanych mist je nutne respektovat lokalni tradici a jasne rozlisovat popis, legendu a sporne interpretace. Proto ma kazdy profil samostatnou skeptickou cast."
+      },
+      {
+        "heading": "Co se bude doplnovat",
+        "body": "Dalsi kroky jsou fotografie s licenci, lokalni zdroje, puvodni nazvy mist a hlubsi clanky pro nejdulezitejsi uzly jako Kailash, Mogao, Ellora, Hampi nebo Chaco podobne lokality."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "sedma-vlna-jizni-amerika-oceanie-afrika",
+    "slug": "sedma-vlna-jizni-amerika-oceanie-afrika",
+    "localizedSlugs": {
+      "cs": "sedma-vlna-jizni-amerika-oceanie-afrika",
+      "en": "seventh-wave-south-america-oceania-africa",
+      "de": "siebte-welle-suedamerika-ozeanien-afrika",
+      "es": "septima-ola-sudamerica-oceania-africa",
+      "fr": "septieme-vague-amerique-du-sud-oceanie-afrique"
+    },
+    "title": "Sedma vlna: Jizni Amerika, Oceanie a Afrika",
+    "description": "Sedma vlna vyrovnava mapu o andska ztracena mesta, tichomorske ostrovy, africka posvatna a poustni mista, sopky a katastroficke atoly.",
+    "category": "legenda",
+    "themes": [
+      "ztracena-mesta",
+      "oceany",
+      "sopky",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "choquequirao",
+      "kuelap",
+      "chan-chan",
+      "caral",
+      "marcahuasi",
+      "moray",
+      "ollantaytambo",
+      "pisac",
+      "qenko",
+      "waqrapukara",
+      "cerro-sechin",
+      "chavin-de-huantar",
+      "paramonga-fortress",
+      "puruchuco",
+      "el-brujo",
+      "huaca-de-la-luna",
+      "ciudad-sagrada-de-quilmes",
+      "talampaya",
+      "los-glaciares-perito-moreno",
+      "esteros-del-ibera",
+      "moai-quarry-rano-raraku",
+      "orongo",
+      "rano-kau",
+      "sewell-mining-town",
+      "valparaiso-funiculars",
+      "cerro-rico",
+      "valley-of-the-moon-bolivia",
+      "fort-samaipata",
+      "madidi",
+      "noel-kempff-mercado-national-park"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle vlna vyrovnava katalog",
+        "body": "Evropa a Asie uz maji silne zastoupeni, proto sedma vlna prida Jizni Ameriku, Oceanii a Afriku. Diky tomu mapa lepe pokryva svet a neni jen soubor evropskych hradů."
+      },
+      {
+        "heading": "Jak se drzi kvalita pri objemu",
+        "body": "Kazde misto ma GPS, zdrojovou stopu, kategorii, temata a stranku ve vsech jazykovych cestach. Seed neni finalni clanek, ale je validni zaklad pro sitemap a dalsi redakci."
+      },
+      {
+        "heading": "Dalsi smer",
+        "body": "Dalsi davky muzou jit po statech a typech: andska archeologie, pacificke ostrovy, africke pamatky, jaderne zony, sopky, podzemi a filmove lokace."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "osma-vlna-ufo-zakazane-zony-katastrofy",
+    "slug": "osma-vlna-ufo-zakazane-zony-katastrofy",
+    "localizedSlugs": {
+      "cs": "osma-vlna-ufo-zakazane-zony-katastrofy",
+      "en": "eighth-wave-ufo-forbidden-zones-disasters",
+      "de": "achte-welle-ufo-sperrzonen-katastrophen",
+      "es": "octava-ola-ufo-zonas-prohibidas-catastrofes",
+      "fr": "huitieme-vague-ovni-zones-interdites-catastrophes"
+    },
+    "title": "Osma vlna: UFO, zakazane zony, katastrofy a prirodni anomalie",
+    "description": "Osma vlna pridava UFO mista, jaderne a toxicke zony, katastroficke krajiny, sopky, podzemi, opticke iluze a dalsi body s jasnym skeptickym ramcem.",
+    "category": "katastrofa",
+    "themes": [
+      "ufo",
+      "zakazane-zony",
+      "katastrofa",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "rendlesham-forest",
+      "warminster-thing",
+      "bonnybridge-ufo-triangle",
+      "dulce-base",
+      "mount-weather",
+      "cheyenne-mountain-complex",
+      "dugway-proving-ground",
+      "nevada-test-site",
+      "trinity-site",
+      "hanford-site",
+      "yucca-mountain",
+      "wipp-carlsbad",
+      "sl-1-reactor-site",
+      "love-canal",
+      "times-beach",
+      "waverly-hills-sanatorium",
+      "rolling-hills-asylum",
+      "lizzie-borden-house",
+      "bachelor-s-grove-cemetery",
+      "clinton-road",
+      "bridgewater-triangle",
+      "brown-mountain-lights",
+      "minerva-monster-site",
+      "flatwoods-monster-site",
+      "kelly-hopkinsville-encounter-site",
+      "kecksburg-ufo-site",
+      "shag-harbour-ufo-site",
+      "falcon-lake-incident-site",
+      "sable-island",
+      "frank-slide"
+    ],
+    "sections": [
+      {
+        "heading": "Proc pridavat i sporna mista",
+        "body": "UFO a konspiracni lokality lide hledaji, ale prave proto musi byt zpracovane opatrne. MysteryMap oddeluje tvrzeni, popkulturu, historii, zdroje a skepticke vysvetleni."
+      },
+      {
+        "heading": "Katastrofy jako silna tematicka vrstva",
+        "body": "Jaderne testy, toxicke havarie, sopky a prirodni katastrofy vytvareji skutecna mista pameti. Nejsou potreba vymyslene senzace, protoze samotna historie je dost silna."
+      },
+      {
+        "heading": "Dalsi smer",
+        "body": "Po osme vlne ma smysl rozdelit index podle kontinentu nebo lazy-loadovat hledani, pokud katalog poroste k tisicum mist. Datova struktura je na to pripravena."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "usgs-earthquakes"
+    ]
+  },
+  {
+    "id": "devata-vlna-film-podzemi-symboly",
+    "slug": "devata-vlna-film-podzemi-symboly",
+    "localizedSlugs": {
+      "cs": "devata-vlna-film-podzemi-symboly",
+      "en": "ninth-wave-film-underground-symbols",
+      "de": "neunte-welle-film-untergrund-symbole",
+      "es": "novena-ola-cine-subterraneo-simbolos",
+      "fr": "neuvieme-vague-film-souterrains-symboles"
+    },
+    "title": "Devata vlna: filmove lokace, podzemi a symbolicka mista",
+    "description": "Devata vlna pridava filmove krajiny, kaple, podzemi, monumenty, ztracena mista a dalsi lokace, ktere dobre posiluji tematicke landing pages.",
+    "category": "filmova-lokace",
+    "themes": [
+      "film",
+      "podzemi",
+      "tajne-spolecnosti",
+      "ztracena-mesta"
+    ],
+    "relatedPlaceIds": [
+      "cinecitta-studios",
+      "matera-film-caves",
+      "ouarzazate-atlas-studios",
+      "wadi-musa-film-gateway",
+      "tatooine-star-wars-sets",
+      "mos-espa-set",
+      "vasquez-rocks",
+      "monument-valley-film-view",
+      "dead-horse-point",
+      "redwood-national-park-film-forest",
+      "mordor-tongariro",
+      "mount-sunday-edoras",
+      "milford-sound-film-fjord",
+      "puzzlewood-fantasy-forest",
+      "hatfield-house-film-rooms",
+      "alnwick-castle-film-grounds",
+      "lacock-abbey-film-cloisters",
+      "oxford-christ-church-film-hall",
+      "rosslyn-chapel",
+      "sintra-quinta-da-regaleira",
+      "pena-palace-sintra",
+      "almourol-castle",
+      "tomar-convent-of-christ",
+      "evora-chapel-of-bones",
+      "batalha-monastery",
+      "montserrat-monastery-spain",
+      "san-juan-de-la-pena",
+      "cuenca-hanging-houses",
+      "belchite-ruins",
+      "ochate-ghost-village"
+    ],
+    "sections": [
+      {
+        "heading": "Proc film a symboly",
+        "body": "Filmove a symbolicke lokace lide aktivne hledaji, proto patri do mapy vedle klasickych zahad. Text ale nesmi kopirovat filmove snimky ani cizi databaze; musi stavet vlastni popis a odkazy."
+      },
+      {
+        "heading": "Podzemi a monumenty",
+        "body": "Podzemni a brutalistni mista maji silnou vizualni identitu. V katalogu pomahaji vytvorit tematicke trasy pro katakomby, studenou valku, okultni symboliku i opustene stavby."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U filmovych mist je potreba doplnit fotky jen tam, kde je jasna licence. U symbolickych a kontroverznich mist je priorita presnost, skepticky ramec a nesenzacni ton."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "desata-vlna-podzemi-poust-pravek",
+    "slug": "desata-vlna-podzemi-poust-pravek",
+    "localizedSlugs": {
+      "cs": "desata-vlna-podzemi-poust-pravek",
+      "en": "tenth-wave-underground-desert-prehistory",
+      "de": "zehnte-welle-untergrund-wueste-vorgeschichte",
+      "es": "decima-ola-subterraneo-desierto-prehistoria",
+      "fr": "dixieme-vague-souterrains-desert-prehistoire"
+    },
+    "title": "Desata vlna: podzemi, poust a praveke ritualy",
+    "description": "Desata vlna rozsiruje mapu o podzemni mesta, saharske anomalie, africke archeologicke lokality, sopecne krajiny a posvatna mista.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "poust",
+      "archeologie",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "derinkuyu-underground-city",
+      "kaymakli-underground-city",
+      "cappadocia-fairy-chimneys",
+      "gobekli-tepe",
+      "karahan-tepe",
+      "mount-nemrut",
+      "ani-ruins",
+      "sumela-monastery",
+      "mount-ararat",
+      "pamukkale-travertines",
+      "lalibela-rock-churches",
+      "axum-stelae-field",
+      "danakil-depression",
+      "erta-ale-lava-lake",
+      "tiya-stelae",
+      "lake-natron",
+      "ol-doinyo-lengai",
+      "great-zimbabwe-ruins",
+      "khami-ruins",
+      "tsodilo-hills",
+      "tassili-n-ajjer",
+      "hoggar-mountains",
+      "richat-structure",
+      "ait-benhaddou",
+      "volubilis-ruins",
+      "siwa-oracle-temple",
+      "white-desert-egypt",
+      "wadi-al-hitan",
+      "bandiagara-escarpment",
+      "timbuktu-manuscript-quarter"
+    ],
+    "sections": [
+      {
+        "heading": "Proc pravek a poust",
+        "body": "Poustni a praveke lokace dobre nesou napeti mezi overitelnou archeologii a modernimi spekulacemi. Mapa je proto vede oddelene od senzace a dava jim stabilni zdrojovy ramec."
+      },
+      {
+        "heading": "Podzemi a sopky",
+        "body": "Podzemni mesta, kaldery a geotermalni krajiny posiluji tematicke trasy pro navstevniky, kteri hledaji mista s fyzicky citelnou atmosferou a jasnym geografickym bodem."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U techto mist bude nejdulezitejsi doplnit lokalni pravidla pristupu, bezpecnostni upozorneni, puvodni nazvy a licencovane fotografie z otevrenych zdroju."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "jedenacta-vlna-ostrovy-pralesy-pouste",
+    "slug": "jedenacta-vlna-ostrovy-pralesy-pouste",
+    "localizedSlugs": {
+      "cs": "jedenacta-vlna-ostrovy-pralesy-pouste",
+      "en": "eleventh-wave-islands-jungles-deserts",
+      "de": "elfte-welle-inseln-dschungel-wuesten",
+      "es": "undecima-ola-islas-selvas-desiertos",
+      "fr": "onzieme-vague-iles-jungles-deserts"
+    },
+    "title": "Jedenacta vlna: ostrovy, pralesy a poustni mesta",
+    "description": "Jedenacta vlna posiluje Oceanii, Jizni Ameriku a Afriku o ostrovni ritualy, skalni umeni, impaktni kratery, zanikla mesta a trestanecke krajiny.",
+    "category": "ztracena-mesta",
+    "themes": [
+      "ostrov",
+      "archeologie",
+      "poust",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "nan-madol",
+      "leluh-ruins",
+      "taputapuatea-marae",
+      "marae-arahurahu",
+      "orongo-ceremonial-village",
+      "ahu-tongariki",
+      "rano-raraku-quarry",
+      "lake-hillier",
+      "pinnacles-desert",
+      "wolfe-creek-crater",
+      "henbury-meteorites-craters",
+      "karlu-karlu-devils-marbles",
+      "bungle-bungle-range",
+      "lake-mungo-ancient-burials",
+      "port-arthur-penal-site",
+      "kingston-norfolk-penal-settlement",
+      "balls-pyramid",
+      "waitomo-glowworm-caves",
+      "moeraki-boulders",
+      "pancake-rocks-punakaiki",
+      "ciudad-perdida-colombia",
+      "tierradentro-tombs",
+      "san-agustin-statues",
+      "cahuachi-pyramids",
+      "chauchilla-cemetery",
+      "chan-chan",
+      "caral-sacred-city",
+      "kuelap-fortress",
+      "marcahuasi-plateau",
+      "moray-terraces"
+    ],
+    "sections": [
+      {
+        "heading": "Proc ostrovy a pralesy",
+        "body": "Ostrovni a pralesni lokace doplnuji mapu o mista, kde izolace, pristupnost a kulturni pamet meni obycejny bod na silny pribeh. U techto mist je dulezite oddelit respekt k mistnim komunitam od turisticke senzace."
+      },
+      {
+        "heading": "Poust a zanikla mesta",
+        "body": "Poustni mesta, petroglyfy a archeologicke komplexy dobre propojuji overitelne zdroje, mapu a tematicke landing pages. Zaroven vyzaduji opatrny jazyk, protoze cast techto mist byva casto zneuzivana pseudovedou."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U jedenacte vlny je priorita doplnit mistni nazvy, citlive navstevnicke limity, otevrene fotografie a presnejsi popisy podle odbornych nebo spravcovskych zdroju."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "dvanacta-vlna-severni-amerika-archeologie-podzemi",
+    "slug": "dvanacta-vlna-severni-amerika-archeologie-podzemi",
+    "localizedSlugs": {
+      "cs": "dvanacta-vlna-severni-amerika-archeologie-podzemi",
+      "en": "twelfth-wave-north-america-archaeology-underground",
+      "de": "zwoelfte-welle-nordamerika-archaeologie-untergrund",
+      "es": "duodecima-ola-norteamerica-arqueologia-subterraneo",
+      "fr": "douzieme-vague-amerique-nord-archeologie-souterrains"
+    },
+    "title": "Dvanacta vlna: Severni Amerika, archeologie a podzemi",
+    "description": "Dvanacta vlna pridava predkolumbovska mesta, kanadske a americke prirodni anomalie, jeskynni systemy, veznice, opustena mesta a mayske lokality.",
+    "category": "ztracena-mesta",
+    "themes": [
+      "archeologie",
+      "podzemi",
+      "prirodni-anomalie",
+      "veznice"
+    ],
+    "relatedPlaceIds": [
+      "l-anse-aux-meadows",
+      "head-smashed-in-buffalo-jump",
+      "writing-on-stone",
+      "dinosaur-provincial-park",
+      "nahanni-valley",
+      "pingualuit-crater",
+      "manicouagan-reservoir",
+      "mistaken-point-fossil-cliffs",
+      "red-bay-basque-whaling-station",
+      "sable-island-wreck-coast",
+      "cahokia-mounds",
+      "serpent-mound-ohio",
+      "chaco-canyon-great-houses",
+      "mesa-verde-cliff-palace",
+      "hovenweep-towers",
+      "bandelier-tsankawi",
+      "gila-cliff-dwellings",
+      "casa-grande-ruins",
+      "poverty-point-earthworks",
+      "spiro-mounds",
+      "effigy-mounds-iowa",
+      "blythe-intaglios",
+      "racetrack-playa",
+      "mono-lake-tufa-towers",
+      "fly-geyser",
+      "mammoth-cave",
+      "carlsbad-caverns",
+      "wind-cave",
+      "lava-beds-caves",
+      "craters-of-the-moon-lava-field"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Severni Amerika",
+        "body": "Severni Amerika ma mnoho mist, ktera byva zjednodusena na legendy nebo turisticke ikony. V katalogu je uzitecne propojit je s archeologii, mapou, pristupnosti a skeptickym popisem."
+      },
+      {
+        "heading": "Mayske a puebloanske vrstvy",
+        "body": "Mayska, puebloanska a mohylova mista tvori samostatnou sit predkolumbovske pameti. Krome dramatickeho obrazu potrebuji presny jazyk, aby se nemichala archeologie s modernimi spekulacemi."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U dvanacte vlny bude vhodne doplnit spravcovske zdroje, mistni nazvy, varovani u citlivych archeologickych mist a licencovane fotografie z otevrenych katalogu."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "trinacta-vlna-ostrovy-andy-afrika",
+    "slug": "trinacta-vlna-ostrovy-andy-afrika",
+    "localizedSlugs": {
+      "cs": "trinacta-vlna-ostrovy-andy-afrika",
+      "en": "thirteenth-wave-islands-andes-africa",
+      "de": "dreizehnte-welle-inseln-anden-afrika",
+      "es": "decimotercera-ola-islas-andes-africa",
+      "fr": "treizieme-vague-iles-andes-afrique"
+    },
+    "title": "Trinacta vlna: ostrovy, Andy a africke podzemi",
+    "description": "Trinacta vlna posiluje Oceanii, Jizni Ameriku a Afriku o ostrovni ritualy, andske pevnosti, poustni archeologii, svahilska mesta a podzemni nekropole.",
+    "category": "legenda",
+    "themes": [
+      "ostrov",
+      "archeologie",
+      "podzemi",
+      "ztracena-mesta"
+    ],
+    "relatedPlaceIds": [
+      "rapa-iti-fortified-villages",
+      "taveuni-lavena-coastal-walk",
+      "nanumea-atoll",
+      "funafuti-conservation-area",
+      "tarawa-battle-sites",
+      "nauru-phosphate-pinnacles",
+      "bougainville-panguna-mine",
+      "lake-kutubu",
+      "bora-bora-wwii-cannons",
+      "tonga-haamonga-trilithon",
+      "samoa-pulemelei-mound",
+      "alofaaga-blowholes",
+      "choquequirao",
+      "vilcabamba-espiritu-pampa",
+      "sacsayhuaman-walls",
+      "ollantaytambo-fortress",
+      "pisac-terraces",
+      "qenko-ritual-rock",
+      "sillustani-tomb-towers",
+      "tiwanaku-kalasasaya",
+      "samaipata-fort",
+      "pumapunku",
+      "jesuit-missions-of-chiquitos",
+      "rupac-cloud-citadel",
+      "quilmes-ruins",
+      "pucara-de-tilcara",
+      "la-cueva-de-los-tayos",
+      "ingapirca-ruins",
+      "ciudad-mitad-del-mundo",
+      "mount-roraima-tepui"
+    ],
+    "sections": [
+      {
+        "heading": "Proc ostrovy",
+        "body": "Ostrovni lokace casto spojuji izolaci, vojenskou historii, ekologicke riziko a ritualni pamet. V katalogu pomahaji rozsirit mapu mimo kontinentalni centra."
+      },
+      {
+        "heading": "Andy a Afrika",
+        "body": "Andske a africke lokace pridavaji vice archeologickych, podzemnich a zaniklych mest. U techto mist je dulezite drzet zdroje, lokalni citlivost a skepticky ramec oddelene od popularnich zkratek."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U trinacte vlny bude vhodne doplnit presnejsi spravcovske zdroje, mistni nazvy, fotky s jasnou licenci a bezpecnostni informace pro odlehle nebo citlive lokality."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctrnacta-vlna-podzemi-pevnosti-studena-valka",
+    "slug": "ctrnacta-vlna-podzemi-pevnosti-studena-valka",
+    "localizedSlugs": {
+      "cs": "ctrnacta-vlna-podzemi-pevnosti-studena-valka",
+      "en": "fourteenth-wave-underground-fortresses-cold-war",
+      "de": "vierzehnte-welle-untergrund-festungen-kalter-krieg",
+      "es": "decimocuarta-ola-subterraneos-fortalezas-guerra-fria",
+      "fr": "quatorzieme-vague-souterrains-forteresses-guerre-froide"
+    },
+    "title": "Ctrnacta vlna: podzemi, pevnosti a studena valka",
+    "description": "Ctrnacta vlna pridava evropske pevnosti, bunkry, podzemni tovarny, mestske chodby, pobrezni baterie a citliva mista valecne i povalecne pameti.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "hrad",
+      "valka",
+      "technologie"
+    ],
+    "relatedPlaceIds": [
+      "dover-western-heights",
+      "dover-fan-bay-deep-shelter",
+      "drakelow-tunnels",
+      "kelvedon-hatch-nuclear-bunker",
+      "hack-green-secret-bunker",
+      "ramsgate-tunnels",
+      "capel-battery",
+      "ouvrage-hackenberg",
+      "ouvrage-schoenenbourg",
+      "fort-de-mutzig",
+      "fort-douaumont",
+      "fort-vaux",
+      "vauquois-mine-craters",
+      "la-coupole-bunker",
+      "blockhaus-d-eperlecques",
+      "wolfsschlucht-ii",
+      "bunker-valentin",
+      "mittelwerk-dora-tunnels",
+      "wewelsburg-north-tower",
+      "seelow-heights",
+      "beelitz-heilstatten",
+      "teufelsberg-listening-station",
+      "project-riese-wlodarz",
+      "osowka-underground-city",
+      "ksiaz-castle-tunnels",
+      "wolfsschanze",
+      "mamerki-bunkers",
+      "borne-sulinowo-ghost-base",
+      "patarei-sea-fortress-prison",
+      "rummu-quarry-prison"
+    ],
+    "sections": [
+      {
+        "heading": "Proc podzemi",
+        "body": "Podzemni a pevnostni mista jsou pro mapu cenne, protoze kombinuji presny fyzicky prostor, silnou atmosferu a overitelne zdroje. Zaroven vyzaduji strizlivy jazyk u mist spojovanych s utrpenim."
+      },
+      {
+        "heading": "Studena valka a pevnosti",
+        "body": "Bunkry, raketove zakladny a pobrezni opevneni ukazuji, jak politika a technologie formovaly krajinu. V katalogu davaji protivahu klasickym legendam a prirodnim anomalim."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U ctrnacte vlny bude vhodne doplnit spravcovske zdroje, aktualni pristupnost a lokalni varovani, protoze cast mist je v ruinach, lesich nebo technicky narocnem podzemi."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "patnacta-vlna-stredni-asie-kavkaz-jeskyne",
+    "slug": "patnacta-vlna-stredni-asie-kavkaz-jeskyne",
+    "localizedSlugs": {
+      "cs": "patnacta-vlna-stredni-asie-kavkaz-jeskyne",
+      "en": "fifteenth-wave-central-asia-caucasus-caves",
+      "de": "fuenfzehnte-welle-zentralasien-kaukasus-hoehlen",
+      "es": "decimoquinta-ola-asia-central-caucaso-cuevas",
+      "fr": "quinzieme-vague-asie-centrale-caucase-grottes"
+    },
+    "title": "Patnacta vlna: Stredni Asie, Kavkaz a jeskynni chramy",
+    "description": "Patnacta vlna pridava pevnosti, poustni ruiny, kavkazske klastery, ohnove chramy, jeskynni komplexy a prumyslova podzemi Asie.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "archeologie",
+      "poust",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "alamut-castle",
+      "rudkhan-castle",
+      "qeshm-valley-of-stars",
+      "kandovan-rock-village",
+      "meymand-rock-village",
+      "shushtar-historical-hydraulic-system",
+      "rayen-citadel",
+      "takht-e-rostam-afghanistan",
+      "ai-khanoum",
+      "gonur-tepe",
+      "nisa-parthian-fortresses",
+      "darvaza-gas-crater-camp",
+      "sarmyshsay-petroglyphs",
+      "mizdakhan-necropolis",
+      "ayaz-kala-fortresses",
+      "toprak-kala",
+      "tash-rabat-caravanserai",
+      "burana-tower",
+      "tamgaly-petroglyphs",
+      "otrar-ruins",
+      "dmanisi-hominin-site",
+      "uplistsikhe-cave-town",
+      "vardzia-cave-monastery",
+      "david-gareja-monastery",
+      "karahunj-zorats-karer",
+      "geghard-monastery",
+      "khor-virap-monastery",
+      "gobustan-mud-volcanoes",
+      "ateshgah-fire-temple",
+      "yanar-dag"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Stredni Asie",
+        "body": "Stredni Asie a Kavkaz davaji mape pevnosti, karavanseraje, oazova mesta a skalni klastery. Jsou to body, ktere rozsiruji katalog mimo obvykle evropske a americke dominanty."
+      },
+      {
+        "heading": "Jeskynni chramy",
+        "body": "Cinske a japonske podzemni lokality pridavaji velke sakralni i technicke prostory. U techto mist je dulezite odlisit skutecnou historii od exotizujicich nebo pseudovedeckych zkratek."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U patnacte vlny bude vhodne doplnit mistni nazvy, spravcovske zdroje, pristupnost a otevrene fotografie, protoze cast mist lezi v odlehlych nebo politicky citlivych regionech."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sestnacta-vlna-jihovychodni-asie-chramy-jeskyne",
+    "slug": "sestnacta-vlna-jihovychodni-asie-chramy-jeskyne",
+    "localizedSlugs": {
+      "cs": "sestnacta-vlna-jihovychodni-asie-chramy-jeskyne",
+      "en": "sixteenth-wave-southeast-asia-temples-caves",
+      "de": "sechzehnte-welle-suedostasien-tempel-hoehlen",
+      "es": "decimosexta-ola-sudeste-asiatico-templos-cuevas",
+      "fr": "seizieme-vague-asie-sud-est-temples-grottes"
+    },
+    "title": "Sestnacta vlna: jihovychodni Asie, chramy a jeskyne",
+    "description": "Sestnacta vlna pridava khmerske ruiny, laoske a thajske jeskyne, ostrovni ritualy, indoneske sopky, filipinske pohrebni krajiny a jihoasijske pevnosti.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "ritual",
+      "archeologie",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "banteay-chhmar",
+      "preah-vihear-temple",
+      "koh-ker-prasat-thom",
+      "beng-mealea",
+      "phnom-kulen-river-lingas",
+      "plain-of-jars-site-two",
+      "vieng-xai-caves",
+      "pak-ou-caves",
+      "bolaven-plateau-waterfalls",
+      "mekong-4000-islands",
+      "kyaiktiyo-golden-rock",
+      "mount-popa-taung-kalat",
+      "indein-pagoda-forest",
+      "hpo-win-daung-caves",
+      "shwedagon-pagoda",
+      "erawan-cave-temple",
+      "phu-phra-bat",
+      "phraya-nakhon-cave",
+      "tham-luang-cave",
+      "ayutthaya-wat-mahathat",
+      "sukhothai-wat-si-chum",
+      "gunung-padang",
+      "tana-toraja-graves",
+      "bali-goa-gajah",
+      "besakih-mother-temple",
+      "kelimutu-crater-lakes",
+      "komodo-pink-beach",
+      "lake-toba-samosir",
+      "borobudur-hidden-foot",
+      "lascaux-of-sulawesi-leang-tedongnge"
+    ],
+    "sections": [
+      {
+        "heading": "Proc jihovychodni Asie",
+        "body": "Jihovychodni Asie dava mape hustou sit chramu, jeskyni, pralesnich ruin a ostrovnich ritualu. Je to region, kde je potreba hlidat lokalni kontext a nepsat jen exotizujici popisy."
+      },
+      {
+        "heading": "Jeskyne a posvatne krajiny",
+        "body": "Mnoho mist v teto vlne propojuje krasove podzemi, poutni trasy a archeologii. To dobre posiluje tematicke landing pages pro podzemi, ritualy a prirodni anomalie."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U sestnacte vlny bude vhodne doplnit spravcovske zdroje, lokalni nazvy, aktualni pristupnost a fotografie s jasnou licenci."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sedmnacta-vlna-afrika-mekong-podzemi",
+    "slug": "sedmnacta-vlna-afrika-mekong-podzemi",
+    "localizedSlugs": {
+      "cs": "sedmnacta-vlna-afrika-mekong-podzemi",
+      "en": "seventeenth-wave-africa-mekong-underground",
+      "de": "siebzehnte-welle-afrika-mekong-untergrund",
+      "es": "decimoseptima-ola-africa-mekong-subterraneo",
+      "fr": "dix-septieme-vague-afrique-mekong-souterrains"
+    },
+    "title": "Sedmnacta vlna: Afrika, Mekong a podzemni krajiny",
+    "description": "Sedmnacta vlna pridava africke skalni kostely, pevnosti a pralesy spolu s mekongskymi jeskynemi, khmerskymi chramy a vietnamskymi tunely.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "ritual",
+      "valka",
+      "prirodni-labyrint"
+    ],
+    "relatedPlaceIds": [
+      "fasil-ghebbi",
+      "debre-damo-monastery",
+      "abuna-yemata-guh",
+      "bete-giyorgis-lalibela",
+      "debre-libanos-gorge",
+      "sof-omar-caves",
+      "laas-geel",
+      "dhulbahante-taleh-fort",
+      "fort-jesus-mombasa",
+      "lamu-old-town",
+      "kondoa-rock-art",
+      "amboni-caves",
+      "isimila-stone-age-site",
+      "kasubi-tombs",
+      "nyero-rock-paintings",
+      "amabeere-caves",
+      "nyiragongo-lava-lake",
+      "lola-ya-bonobo-forest",
+      "kahuzi-biega-gorilla-forest",
+      "loango-ghost-coast",
+      "kong-lor-cave",
+      "son-doong-cave",
+      "hang-en-cave",
+      "tam-coc-karst",
+      "trang-an-grottoes",
+      "po-nagar-cham-towers",
+      "cuc-phuong-ancient-cave",
+      "po-klong-garai-towers",
+      "plain-of-reeds-tram-chim",
+      "kbal-spean"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Afrika a Mekong",
+        "body": "Africke lokace pridavaji pevnosti, skalni chramy, praveke obrazy a prirodni rizika. Mekong a jihovychodni Asie zase rozsiruji mapu o jeskynni, ricni a pralesni systemy."
+      },
+      {
+        "heading": "Podzemi a konflikty",
+        "body": "Tunely, kryty a valecne prostory maji silny potencial pro mapu, ale vyzaduji respekt k utrpeni a jasne oddeleni historie od senzace."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U sedmnacte vlny bude vhodne doplnit lokalni spravcovske zdroje, aktualni pristupnost a bezpecnostni varovani pro jeskyne, sopky a citlive pamatky konfliktu."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "carodejnictvi-procesy-a-mista-pameti",
+    "slug": "carodejnictvi-procesy-a-mista-pameti",
+    "localizedSlugs": {
+      "cs": "carodejnictvi-procesy-a-mista-pameti",
+      "en": "witchcraft-trials-and-memory-places",
+      "de": "hexerei-prozesse-und-erinnerungsorte",
+      "es": "brujeria-procesos-y-lugares-de-memoria",
+      "fr": "sorcellerie-proces-et-lieux-de-memoire"
+    },
+    "title": "Carodejnictvi, procesy a mista pameti: jak psat o temnych obvinenich",
+    "description": "Prakticky pruvodce pro stranky o carodejnickych procesech, jeskynich a pamatnicich, kde je nutne spojit folklor, prameny a citlivy jazyk.",
+    "category": "legenda",
+    "themes": [
+      "carodejnictvi",
+      "umrti",
+      "legenda",
+      "media"
+    ],
+    "relatedPlaceIds": [
+      "salem-witch-trials-memorial",
+      "pendle-hill",
+      "vardo-witch-trials-memorial",
+      "zugarramurdi-caves"
+    ],
+    "sections": [
+      {
+        "heading": "Proc je carodejnictvi citlive tema",
+        "body": "Mista spojena s carodejnickymi procesy nejsou jen folklorni atrakce. Casto jde o pamatku na skutecne lidi, obvineni, soudni systemy a nasilne kolektivni emoce. Stranka proto musi rozlisovat historicky proces, mistni legendu a moderni turisticky obraz."
+      },
+      {
+        "heading": "Co overovat u procesu",
+        "body": "Zakladem jsou soudni zaznamy, muzejni materialy, pamatniky, historicke studie a oficialni lokalni zdroje. Popularni vypraveni muze byt na strance, ale nesmi nahrazovat casovou osu a overitelne souvislosti."
+      },
+      {
+        "heading": "Jak pracovat s atmosferou",
+        "body": "Atmosfera mista muze byt silna, ale text by nemel tvrdit paranormalni aktivitu jako fakt. Lepsi je popsat, proc se misto stalo symbolem strachu, viny nebo pameti a kde konci prameny."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "official-site"
+    ]
+  },
+  {
+    "id": "archeologicke-zahady-bez-pseudovedy",
+    "slug": "archeologicke-zahady-bez-pseudovedy",
+    "localizedSlugs": {
+      "cs": "archeologicke-zahady-bez-pseudovedy",
+      "en": "archaeological-mysteries-without-pseudoscience",
+      "de": "archaeologische-raetsel-ohne-pseudowissenschaft",
+      "es": "misterios-arqueologicos-sin-pseudociencia",
+      "fr": "mysteres-archeologiques-sans-pseudoscience"
+    },
+    "title": "Archeologicke zahady bez pseudovedy: stare lokace, nove otazky",
+    "description": "Jak stavet stranky o Gobekli Tepe, skalnim umeni, pravekych observatorich a ztracenych mestech bez sklouznuti k pseudovedecnym tvrzenim.",
+    "category": "historie",
+    "themes": [
+      "archeologie",
+      "pseudoveda",
+      "ritual",
+      "ztracena-mesta"
+    ],
+    "relatedPlaceIds": [
+      "gobekli-tepe",
+      "tassili-n-ajjer",
+      "nabta-playa",
+      "shahr-e-sukhteh",
+      "minaret-of-jam"
+    ],
+    "sections": [
+      {
+        "heading": "Zahada neznamena mimozemske vysvetleni",
+        "body": "Archeologicke lokace mohou byt zahadne, protoze jsou stare, fragmentarni nebo odborne sporene. To ale neznamena, ze je treba preskocit k mimozemskym nebo konspiracnim vykladum. MysteryMap muze ukazat otevrene otazky bez opusteni pramenu."
+      },
+      {
+        "heading": "Dulezite je meritko dukazu",
+        "body": "U pravekych staveb, skalniho umeni nebo zaniklych mest je vhodne oddelit dataci, archeologicky kontext, interpretaci ritualu a popularni myty. Ctenar pak vidi, co je nalez, co je hypoteza a co je pozdejsi legenda."
+      },
+      {
+        "heading": "Dobre zdroje pro archeologii",
+        "body": "Silne jsou UNESCO profily, muzejni instituce, akademicke publikace, pametkove registry a geograficke databaze. Slabe jsou viralni videa bez citaci, fotomontaze a tvrzeni, ktera ignoruji lokalni archeology."
+      }
+    ],
+    "sources": [
+      "unesco-whc",
+      "wikidata",
+      "world-historical-gazetteer",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "pirati-poklady-a-pristavy-na-mape",
+    "slug": "pirati-poklady-a-pristavy-na-mape",
+    "localizedSlugs": {
+      "cs": "pirati-poklady-a-pristavy-na-mape",
+      "en": "pirates-treasures-and-ports-on-the-map",
+      "de": "piraten-schaetze-und-haefen-auf-der-karte",
+      "es": "piratas-tesoros-y-puertos-en-el-mapa",
+      "fr": "pirates-tresors-et-ports-sur-la-carte"
+    },
+    "title": "Pirati, poklady a pristavy: kde legenda potrebuje mapu",
+    "description": "Tematicka stranka pro piratske pristavy, ostrovy, vraky a pokladove legendy s durazem na rozdil mezi historii obchodu a dobrodruznym mytem.",
+    "category": "ostrov",
+    "themes": [
+      "pirati",
+      "poklad",
+      "ostrov",
+      "legenda"
+    ],
+    "relatedPlaceIds": [
+      "port-royal",
+      "oak-island",
+      "lake-guatavita",
+      "llanganates",
+      "superstition-mountains"
+    ],
+    "sections": [
+      {
+        "heading": "Proc piratske mapy funguji",
+        "body": "Piratske a pokladove pribehy prirozene potrebuji geografii: pristavy, uziny, ostrovy, obchodni trasy a skryte pristupy. Mapa pomaha ukazat, ktere casti pribehu souvisi s realnym mistem a ktere jsou pozdejsi dobrodruzna vrstva."
+      },
+      {
+        "heading": "Poklad jako motiv, ne automaticky fakt",
+        "body": "Pokladove legendy casto obsahuji skutecne historicke jadro, ale mnoho detailu vzniklo az v cestopisech, turistice nebo popkulture. Stranka by mela jasne rikat, zda existuje archeologicky nalez, archivni stopa nebo jen opakovana povest."
+      },
+      {
+        "heading": "Pristav, katastrofa a pamatka",
+        "body": "Port Royal ukazuje, ze piratska aura muze byt spojena i s katastrofou a archeologii. Neni to pouze kulisa pro legendu, ale mesto, ktere zmenilo zemetreseni, more a kolonialni ekonomika."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "openstreetmap",
+      "wikipedia",
+      "world-historical-gazetteer"
+    ]
+  },
+  {
+    "id": "ufo-svetla-a-mista-svedectvi",
+    "slug": "ufo-svetla-a-mista-svedectvi",
+    "localizedSlugs": {
+      "cs": "ufo-svetla-a-mista-svedectvi",
+      "en": "ufo-lights-and-witness-places",
+      "de": "ufo-lichter-und-zeugenorte",
+      "es": "ovnis-luces-y-lugares-de-testimonios",
+      "fr": "ovni-lumieres-et-lieux-de-temoignages"
+    },
+    "title": "UFO, svetla a mista svedectvi: mapa mezi oblohou a krajinou",
+    "description": "Jak zpracovat UFO lokace, svetelne anomalie a mista svedectvi tak, aby mapa ukazovala kontext, ne jen senzačni tvrzeni.",
+    "category": "zakazane-zony",
+    "themes": [
+      "ufo",
+      "konspirace",
+      "prirodni-anomalie",
+      "media"
+    ],
+    "relatedPlaceIds": [
+      "area-51",
+      "marfa-lights",
+      "min-min-lights",
+      "roswell-ufo-museum",
+      "point-pleasant-mothman"
+    ],
+    "sections": [
+      {
+        "heading": "Svedectvi potrebuje misto a cas",
+        "body": "UFO pribeh bez mapy je jen tvrzeni. Jakmile doplnime polohu, cas, viditelnost, provoz, vojenske zony a prirodni podminky, zacne byt mozne cist udalost kriticky a porovnavat ji s jinymi pripady."
+      },
+      {
+        "heading": "Svetla nejsou automaticky mimozemska",
+        "body": "Svetelne anomalie mohou mit atmosfericke, dopravni, astronomicke nebo psychologicke vysvetleni. Stranka by mela popsat, co lide hlasi, ale vedle toho nabidnout i bezne zpusoby overeni."
+      },
+      {
+        "heading": "Media meni mapu",
+        "body": "Nektera UFO mista jsou slavna hlavne diky filmu, muzeim, novinam nebo internetu. To je legitimni kulturni vrstva, ale patri do casti media a popkultura, ne do fakticke historie udalosti."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "library-of-congress"
+    ]
+  },
+  {
+    "id": "okultismus-symboly-a-architektura",
+    "slug": "okultismus-symboly-a-architektura",
+    "localizedSlugs": {
+      "cs": "okultismus-symboly-a-architektura",
+      "en": "occultism-symbols-and-architecture",
+      "de": "okkultismus-symbole-und-architektur",
+      "es": "ocultismo-simbolos-y-arquitectura",
+      "fr": "occultisme-symboles-et-architecture"
+    },
+    "title": "Okultismus, symboly a architektura: kdy cist znak a kdy jen dekor",
+    "description": "Prirucka pro mista spojovana s okultismem, symbolikou a tajnymi vyklady architektury bez prehaneni a bez kopirovani konspiracnich tvrzeni.",
+    "category": "legenda",
+    "themes": [
+      "okultismus",
+      "tajne-spolecnosti",
+      "symboly",
+      "pseudoveda"
+    ],
+    "relatedPlaceIds": [
+      "wewelsburg-castle",
+      "wewelsburg-north-tower",
+      "rosslyn-chapel",
+      "oak-island"
+    ],
+    "sections": [
+      {
+        "heading": "Symbol neni dukaz spiknuti",
+        "body": "Architektura pouziva ornamenty, heraldiku, nabozenstvi a historicke vrstvy. To, ze je symbol vyrazny, jeste neznamena tajny plan. Stranka musi rozlisovat dolozeny vyznam, pozdejsi interpretaci a internetovou spekulaci."
+      },
+      {
+        "heading": "Jak pracovat s citlivymi misty",
+        "body": "Nektera mista spojovana s okultismem maji i politicky nebo nasilny kontext. U nich je dulezite neestetizovat propagandu a popsat instituci, dobu a obeti s jasnym jazykem."
+      },
+      {
+        "heading": "Mapa pomaha brzdit fantazii",
+        "body": "Kdyz se symbolicke tvrzeni zasadi do konkretni polohy, datace a vlastnictvi, cast prehnanych vykladu se rozpadne. Zbyde zajimava kulturni vrstva, kterou lze cist bez senzacechtivosti."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openhistoricalmap",
+      "europeana"
+    ]
+  },
+  {
+    "id": "poklady-zlato-a-ztracene-expedice",
+    "slug": "poklady-zlato-a-ztracene-expedice",
+    "localizedSlugs": {
+      "cs": "poklady-zlato-a-ztracene-expedice",
+      "en": "treasures-gold-and-lost-expeditions",
+      "de": "schaetze-gold-und-verlorene-expeditionen",
+      "es": "tesoros-oro-y-expediciones-perdidas",
+      "fr": "tresors-or-et-expeditions-perdues"
+    },
+    "title": "Poklady, zlato a ztracene expedice: proc mapy pritahuji lovce legend",
+    "description": "Prehled pokladovych motivu od jezer a hor po pevnosti a opustena mesta, s durazem na zdroje, pristupnost a riziko nelegalniho hledani.",
+    "category": "legenda",
+    "themes": [
+      "poklad",
+      "ztracena-mista",
+      "poust",
+      "archeologie"
+    ],
+    "relatedPlaceIds": [
+      "lake-guatavita",
+      "llanganates",
+      "oak-island",
+      "superstition-mountains",
+      "golconda-fort",
+      "bodie-ghost-town"
+    ],
+    "sections": [
+      {
+        "heading": "Poklad je silny geograficky pribeh",
+        "body": "Pokladove legendy spojuji touhu, riziko a presne misto. Casto se opiraji o jezero, horu, ostrov, pevnost nebo opustene mesto. Prave proto dava smysl je cist mapove a ne jen jako seznam senzaci."
+      },
+      {
+        "heading": "Pravni a eticky ramec",
+        "body": "Mnoho pokladovych mist je chranena pamatka, prirodni rezervace nebo soukromy pozemek. MysteryMap nema podporovat nelegalni kopani, ale vysvetlit pribeh, zdroje a pravidla pristupu."
+      },
+      {
+        "heading": "Kdy je legenda uzitecna",
+        "body": "I kdyz se poklad nikdy nenajde, legenda muze ukazat obchodni trasy, kolonialni dejiny, tezbu, migraci nebo lokalni pamet. Dobra stranka proto zachova pribeh, ale nepredstira dukaz tam, kde neni."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "openstreetmap",
+      "wikipedia",
+      "official-site"
+    ]
+  },
+  {
+    "id": "osmnacta-vlna-hrady-duchove-podzemi",
+    "slug": "osmnacta-vlna-hrady-duchove-podzemi",
+    "localizedSlugs": {
+      "cs": "osmnacta-vlna-hrady-duchove-podzemi",
+      "en": "eighteenth-wave-castles-ghosts-underground",
+      "de": "achtzehnte-welle-burgen-geister-untergrund",
+      "es": "decimoctava-ola-castillos-fantasmas-subterraneo",
+      "fr": "dix-huitieme-vague-chateaux-fantomes-souterrains"
+    },
+    "title": "Osmnacta vlna: hrady, duchove, podzemi a mista pameti",
+    "description": "Osmnacta vlna rozsiruje mapu o evropske hrady, hbitovy, katakomby, ostrovy, podzemi a americka mista s vyraznou ghost-tour tradici.",
+    "category": "legenda",
+    "themes": [
+      "duchove",
+      "hrad",
+      "podzemi",
+      "umrti"
+    ],
+    "relatedPlaceIds": [
+      "greyfriars-kirkyard",
+      "ancient-ram-inn",
+      "pluckley-village",
+      "chillingham-castle",
+      "glamis-castle",
+      "ballygally-castle",
+      "dragsholm-castle",
+      "capuchin-catacombs-palermo",
+      "moosham-castle",
+      "rasnov-citadel",
+      "baba-vida-fortress",
+      "bock-casemates",
+      "fort-boyard",
+      "isle-of-skye-fairy-pools",
+      "glen-coe",
+      "eilean-donan-castle",
+      "san-galgano-abbey",
+      "civita-di-bagnoregio",
+      "bomarzo-monster-park",
+      "sacra-di-san-michele",
+      "monte-cristo-island",
+      "rocca-calascio",
+      "mystras",
+      "spinalonga",
+      "aokigahara-forest",
+      "raynham-hall",
+      "hellfire-caves",
+      "queen-mary-long-beach",
+      "salem-witch-house",
+      "gettysburg-battlefield"
+    ],
+    "sections": [
+      {
+        "heading": "Hustsi mapa Evropy a Ameriky",
+        "body": "Nova vlna pridava mista, ktera jsou vyhledavatelna, mapove srozumitelna a dobre propojuji motivy hradu, podzemi, hbitovu, pamatky smrti a medialni ghost-tour kultury."
+      },
+      {
+        "heading": "Proc prave tahle mista",
+        "body": "Vybrana mista maji jasnou polohu, stabilni nazev a dostatek verejnych stop pro dalsi overeni. Nejde o hotove finalni monografie, ale o kvalitni seed profily pro mapu, sitemap a tematicke landing pages."
+      },
+      {
+        "heading": "Dalsi redakcni prace",
+        "body": "U osmnacte vlny bude vhodne doplnit lokalni zdroje, presne vstupni pravidla, licencovane fotografie a citlive rozliseni mezi historickou udalosti, pameti obeti a turistickou legendou."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "devatenacta-vlna-pouste-oazy-a-anomalie",
+    "slug": "devatenacta-vlna-pouste-oazy-a-anomalie",
+    "localizedSlugs": {
+      "cs": "devatenacta-vlna-pouste-oazy-a-anomalie",
+      "en": "nineteenth-wave-deserts-oases-and-anomalies",
+      "de": "neunzehnte-welle-wuesten-oasen-und-anomalien",
+      "es": "decimonovena-ola-desiertos-oasis-y-anomalias",
+      "fr": "dix-neuvieme-vague-deserts-oasis-et-anomalies"
+    },
+    "title": "Devatenacta vlna: pouste, oazy, ostrovy a prirodni anomalie",
+    "description": "Devatenacta vlna rozsiruje mapu o Stredni Asii, Arabsky poloostrov, Afriku, ostrovy, solne pane, poustni ruiny a jeskynni systemy.",
+    "category": "priroda",
+    "themes": [
+      "poust",
+      "prirodni-anomalie",
+      "archeologie",
+      "podzemi"
+    ],
+    "relatedPlaceIds": [
+      "door-to-hell-darvaza",
+      "yangykala-canyon",
+      "shahrisabz",
+      "itchan-kala-khiva",
+      "moynaq-ship-cemetery",
+      "karakalpakstan-mizdakhan-necropolis",
+      "sarmishsay-petroglyphs",
+      "tash-rabat-caravanserai",
+      "burana-tower",
+      "song-kol-stone-circles",
+      "bektau-ata",
+      "ustyurt-plateau-chinks",
+      "mangystau-underground-mosques",
+      "karkaraly-kent-ruins",
+      "yazd-towers-of-silence",
+      "qeshm-valley-of-stars",
+      "kandovan-rock-village",
+      "meymand-troglodyte-village",
+      "kharanaq-ghost-village",
+      "bam-citadel",
+      "harrat-khaybar",
+      "madain-saleh",
+      "al-ula-old-town",
+      "farasan-islands",
+      "jubbah-rock-art",
+      "socotra-hoq-cave",
+      "wadi-rum-seven-pillars",
+      "umm-al-jimal",
+      "shobak-castle",
+      "qasr-amra"
+    ],
+    "sections": [
+      {
+        "heading": "Proc pouste a oazy",
+        "body": "Pouste a oazy maji silnou mapovou hodnotu: jsou ridce osidlene, plne prerusenych cest, opustenych mest, extremni geologie a legend, ktere vznikaji z izolace."
+      },
+      {
+        "heading": "Anomalie bez senzace",
+        "body": "Mnoho mist v teto vlne vypada nadprirozene, ale ma geologicke, klimaticke nebo historicke vysvetleni. Profil proto spojuje atmosferu s jasnym skeptickym ramcem."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U devatenacte vlny bude vhodne doplnit lokalni spravcovske zdroje, presna pravidla vstupu a bezpecnostni upozorneni pro poustni, horska a politicky citliva uzemi."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "dvacata-vlna-oceanie-latinska-amerika",
+    "slug": "dvacata-vlna-oceanie-latinska-amerika",
+    "localizedSlugs": {
+      "cs": "dvacata-vlna-oceanie-latinska-amerika",
+      "en": "twentieth-wave-oceania-latin-america",
+      "de": "zwanzigste-welle-ozeanien-lateinamerika",
+      "es": "vigesima-ola-oceania-america-latina",
+      "fr": "vingtieme-vague-oceanie-amerique-latine"
+    },
+    "title": "Dvacata vlna: Oceanie, Latinska Amerika a ostrovni anomalie",
+    "description": "Dvacata vlna posiluje mapu o jihoamericke pouste, laguny, ostrovy, mayske a andske lokace, pacificke sopky a oceanske prirodni anomalie.",
+    "category": "ostrov",
+    "themes": [
+      "ostrov",
+      "prirodni-anomalie",
+      "archeologie",
+      "sopky"
+    ],
+    "relatedPlaceIds": [
+      "huacachina-oasis",
+      "gocta-waterfall",
+      "isla-del-sol",
+      "eduardo-avaroa-stone-tree",
+      "laguna-colorada",
+      "tatacoa-desert",
+      "cano-cristales",
+      "galapagos-lava-tunnels",
+      "coiba-island",
+      "darien-gap",
+      "isla-de-la-plata",
+      "chiloe-ghost-churches",
+      "marble-caves-chile",
+      "valley-of-the-moon-atacama",
+      "cemetery-of-chauchilla",
+      "paititi-legend-zone",
+      "cenote-sagrado",
+      "zone-of-silence-mexico",
+      "yaxha",
+      "quetzaltenango-fuentes-georginas",
+      "orongo-easter-island",
+      "rano-raraku-quarry",
+      "ball-pyramid",
+      "lord-howe-island",
+      "waiotapu-thermal-wonderland",
+      "waimangu-volcanic-valley",
+      "rotorua-buried-village",
+      "punakaiki-pancake-rocks",
+      "lifou-jokin-cliffs",
+      "tanna-yasur-volcano"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Latinska Amerika a Oceanie",
+        "body": "Obe oblasti maji silnou mapovou logiku: ostrovy, sopky, pouste, pralesy, ztracena mesta, ritualni krajiny a prirodni tvary, ktere dobre funguji jako samostatne body na MysteryMap."
+      },
+      {
+        "heading": "Ostrovy a izolace",
+        "body": "Ostrovni mista casto nesou legendy o puvodu, tabu, izolaci nebo katastrofe. Dvacata vlna proto propojuje Rapa Nui, Vanuatu, Samoa, Galapagy i mensi tiche oceanske lokace."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U teto vlny bude vhodne doplnit lokalni spravcovske zdroje, puvodni nazvy, vstupni pravidla a citlive vysvetleni tam, kde se prirodni nebo ritualni misto prekryva s turismem."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "jednadvacata-vlna-afrika-evropa",
+    "slug": "jednadvacata-vlna-afrika-evropa",
+    "localizedSlugs": {
+      "cs": "jednadvacata-vlna-afrika-evropa",
+      "en": "twenty-first-wave-africa-europe",
+      "de": "einundzwanzigste-welle-afrika-europa",
+      "es": "vigesimoprimera-ola-africa-europa",
+      "fr": "vingt-et-unieme-vague-afrique-europe"
+    },
+    "title": "Jednadvacata vlna: Afrika, Evropa a ritualni krajiny",
+    "description": "Jednadvacata vlna pridava africke pouste, sopecna pole, pralesni vodopady, evropske jeskyne, poutni mista, megality a mytologicke krajiny.",
+    "category": "legenda",
+    "themes": [
+      "ritual",
+      "podzemi",
+      "prirodni-anomalie",
+      "archeologie"
+    ],
+    "relatedPlaceIds": [
+      "erta-ale-volcano",
+      "dallol-hydrothermal-field",
+      "lake-tana-monasteries",
+      "engaruka-ruins",
+      "wadi-el-hitan",
+      "sine-ngayene-stone-circles",
+      "sossusvlei-deadvlei",
+      "fish-river-canyon",
+      "richtersveld-cultural-landscape",
+      "kongou-falls",
+      "lope-okanda",
+      "kakum-forest-canopy",
+      "rocamadour",
+      "gavrinis-passage-tomb",
+      "broceliande-forest",
+      "aletsch-glacier",
+      "trummelbach-falls",
+      "holloch-cave",
+      "dachstein-ice-cave",
+      "skocjan-caves",
+      "devil-s-town-serbia",
+      "rtanj-mountain",
+      "pobiti-kamani",
+      "sarmizegetusa-regia",
+      "meteora-monasteries",
+      "delphi-oracle",
+      "dikteon-cave",
+      "knossos-palace",
+      "cave-of-the-apocalypse",
+      "giant-s-causeway"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Afrika a Evropa",
+        "body": "Dalsi rozsireni kombinuje africke extremni krajiny s evropskymi jeskynemi, poutnimi misty a archeologii. Vysledkem jsou body, ktere dobre nesou mapu, tematicke filtry i detailni stranky."
+      },
+      {
+        "heading": "Ritual, podzemi a prirodni tvary",
+        "body": "Spolecnym motivem vlny jsou mista, kde se prirodni scenografie potkava s vypravovanim: vestirny, hrobky, kamenne sloupy, pralesy, lavova pole a ledove nebo krasove jeskyne."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U techto seedu bude vhodne doplnit oficialni spravcovske stranky, puvodni lokalni nazvy, citlive poznamky ke vstupu a licencovane fotografie pro vybrane prioritni detaily."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "dvaadvacata-vlna-kavkaz-vychodni-evropa",
+    "slug": "dvaadvacata-vlna-kavkaz-vychodni-evropa",
+    "localizedSlugs": {
+      "cs": "dvaadvacata-vlna-kavkaz-vychodni-evropa",
+      "en": "twenty-second-wave-caucasus-eastern-europe",
+      "de": "zweiundzwanzigste-welle-kaukasus-osteuropa",
+      "es": "vigesimosegunda-ola-caucaso-europa-oriental",
+      "fr": "vingt-deuxieme-vague-caucase-europe-orientale"
+    },
+    "title": "Dvaadvacata vlna: Kavkaz, Balkan a vychodni Evropa",
+    "description": "Dvaadvacata vlna rozsiruje mapu o klastery, pevnosti, jeskynni komplexy, horske veze, sopecne anomalie a citlive pametove krajiny Kavkazu a vychodni Evropy.",
+    "category": "legenda",
+    "themes": [
+      "ritual",
+      "hory",
+      "podzemi",
+      "archeologie"
+    ],
+    "relatedPlaceIds": [
+      "mount-athos",
+      "epidaurus-sanctuary",
+      "kotor-fortress",
+      "perperikon",
+      "rila-monastery",
+      "seven-rila-lakes",
+      "orheiul-vechi",
+      "cricova-wine-cellars",
+      "kamianets-podilskyi-castle",
+      "chufut-kale",
+      "mangup-kale",
+      "solovetsky-monastery",
+      "kizhi-pogost",
+      "manpupuner-rock-formations",
+      "kungur-ice-cave",
+      "arkaim",
+      "elbrus",
+      "dargavs-city-of-the-dead",
+      "katskhi-pillar",
+      "tsminda-sameba-kazbegi",
+      "ananuri-fortress",
+      "svaneti-towers",
+      "shatili-towers",
+      "prometheus-cave-georgia",
+      "tskaltubo-sanatoriums",
+      "ateshgah-of-baku",
+      "mud-volcanoes-azerbaijan",
+      "haghpat-monastery",
+      "tatev-monastery",
+      "ihlara-valley"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Kavkaz a vychodni Evropa",
+        "body": "Tato cast mapy dobre propojuje hranicni pevnosti, klastery, hory, jeskynni systemy a lokality, kde se historicka pamet potkava s folklorem i modernim cestovanim."
+      },
+      {
+        "heading": "Vertikalni krajiny",
+        "body": "Opakovanym motivem jsou vysoko polozena mista: klastery na skalach, horske veze, pevnosti nad kanony a poutni cesty, ktere maji silny vizualni i vypravecsky potencial."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U mist s citlivym politickym nebo pristupovym kontextem bude treba doplnit aktualni lokalni pravidla, oficialni spravcovske zdroje a presne navstevnicke poznamky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "triadvacata-vlna-latinska-amerika-archeologie",
+    "slug": "triadvacata-vlna-latinska-amerika-archeologie",
+    "localizedSlugs": {
+      "cs": "triadvacata-vlna-latinska-amerika-archeologie",
+      "en": "twenty-third-wave-latin-america-archaeology",
+      "de": "dreiundzwanzigste-welle-lateinamerika-archaeologie",
+      "es": "vigesimotercera-ola-america-latina-arqueologia",
+      "fr": "vingt-troisieme-vague-amerique-latine-archeologie"
+    },
+    "title": "Triadvacata vlna: Latinska Amerika, observatore a ztracena mesta",
+    "description": "Triadvacata vlna rozsiruje mapu o mayske a andske ruiny, poustni observatore, pohrebni krajiny, posvatna jezera, pralesni mesta a ostrovni moai.",
+    "category": "ztracena-mesta",
+    "themes": [
+      "archeologie",
+      "ritual",
+      "ztracena-mesta",
+      "poust"
+    ],
+    "relatedPlaceIds": [
+      "sipan-tombs",
+      "quito-catacombs",
+      "guatavita-lake",
+      "lost-city-of-z-colombia",
+      "teyuna",
+      "tulum-ruins",
+      "coba-ruins",
+      "mitla",
+      "el-tajin",
+      "tula-atlanteans",
+      "teotihuacan-pyramid-of-the-moon",
+      "bonampak",
+      "yaxchilan",
+      "caral-supe",
+      "sechin-bajo",
+      "wari-ruins",
+      "pikillacta",
+      "pachacamac",
+      "huaca-pucllana",
+      "cahuachi",
+      "huaca-del-sol",
+      "tucume-pyramids",
+      "chankillo-solar-observatory",
+      "sayhuite-stone",
+      "valle-de-las-animas",
+      "cerro-torre",
+      "fitz-roy",
+      "easter-island-ahu-tongariki",
+      "ahu-akivi",
+      "ana-kai-tangata"
+    ],
+    "sections": [
+      {
+        "heading": "Proc Latinska Amerika",
+        "body": "Tato vlna doplnuje lokality, ktere maji silnou mapovou logiku: ruiny, observatore, chramy, pohrebiste, horske dominanty i ostrovni sochy, ktere dobre funguji v detailu i tematickych filtrech."
+      },
+      {
+        "heading": "Archeologie bez senzace",
+        "body": "Mista jako Chankillo, Caral, Pachacamac nebo Yaxchilan ukazuji, ze zahada nemusi stat na pseudovede. Casto staci presne oddelit overitelnou archeologii, legendu a moderni cestovatelsky mytus."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Prioritou bude doplnit oficialni spravcovske zdroje, lokalni nazvy, navstevnicka pravidla a licencovane fotografie u mist s nejvyssi hledanosti a nejsilnejsim vizualnim potencialem."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-severni-amerika",
+    "slug": "ctyriadvacata-vlna-severni-amerika",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-severni-amerika",
+      "en": "twenty-fourth-wave-north-america",
+      "de": "vierundzwanzigste-welle-nordamerika",
+      "es": "vigesimocuarta-ola-norteamerica",
+      "fr": "vingt-quatrieme-vague-amerique-du-nord"
+    },
+    "title": "Ctyriadvacata vlna A: Severni Amerika, doly a opustena mista",
+    "description": "Prvni cast petinasobne vlny pridava severoamericke ghost towns, doly, kraterove krajiny, ostrovy, jeskynni systemy a mista moderniho folkloru.",
+    "category": "opustene",
+    "themes": [
+      "opustene",
+      "podzemi",
+      "prirodni-anomalie",
+      "veznice"
+    ],
+    "relatedPlaceIds": [
+      "bodie-ghost-town",
+      "rhyolite-ghost-town",
+      "kennecott-mines",
+      "centralia-pennsylvania",
+      "goldfield-nevada",
+      "jerome-arizona",
+      "bisbee-queen-mine",
+      "kartchner-caverns",
+      "carlsbad-bat-flight",
+      "lechuguilla-cave",
+      "mammoth-cave-historic-entrance",
+      "crater-lake-wizard-island",
+      "mount-st-helens-blast-zone",
+      "lava-beds-national-monument",
+      "ape-cave-lava-tube",
+      "meteor-crater-arizona",
+      "mystery-spot-santa-cruz",
+      "coral-castle",
+      "waverly-hills-sanatorium",
+      "trans-allegheny-lunatic-asylum",
+      "bannack-ghost-town",
+      "garnet-ghost-town",
+      "terlingua-ghost-town",
+      "cahokia-woodhenge",
+      "serpent-mound-ohio",
+      "great-sand-dunes-star-dune",
+      "bonneville-salt-flats",
+      "mima-mounds",
+      "okefenokee-swamp",
+      "oak-island-money-pit"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-vychodni-asie",
+    "slug": "ctyriadvacata-vlna-vychodni-asie",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-vychodni-asie",
+      "en": "twenty-fourth-wave-east-asia",
+      "de": "vierundzwanzigste-welle-ostasien",
+      "es": "vigesimocuarta-ola-asia-oriental",
+      "fr": "vingt-quatrieme-vague-asie-orientale"
+    },
+    "title": "Ctyriadvacata vlna B: vychodni Asie, chramy a zakazana mesta",
+    "description": "Druha cast petinasobne vlny pridava japonske, korejske, cinske a mongolske lokace s motivy chramu, duchu, hor, jeskyni, hrobek a opustenych krajin.",
+    "category": "legenda",
+    "themes": [
+      "ritual",
+      "duchove",
+      "archeologie",
+      "hory"
+    ],
+    "relatedPlaceIds": [
+      "hashima-island",
+      "osorezan",
+      "aokigahara-ice-cave",
+      "fugaku-wind-cave",
+      "tashirojima-cat-island",
+      "miyajima-mount-misen",
+      "koyasan-okunoin",
+      "iwami-ginzan-silver-mine",
+      "tottori-sand-dunes",
+      "oya-stone-museum",
+      "gunkanjima-coal-mine",
+      "seodaemun-prison",
+      "hwanseongul-cave",
+      "manjanggul-lava-tube",
+      "jeju-stone-grandfather-shrines",
+      "haesindang-park",
+      "mogao-caves",
+      "longmen-grottoes",
+      "yungang-grottoes",
+      "hanging-temple-datong",
+      "maijishan-grottoes",
+      "zhangjiajie-avatar-mountains",
+      "shilin-stone-forest",
+      "fengdu-ghost-city",
+      "huanglong-travertine-pools",
+      "leshan-giant-buddha",
+      "ordos-ghost-city",
+      "khara-khoto",
+      "orkhon-valley",
+      "khamaryn-khiid"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-afrika-blizky-vychod",
+    "slug": "ctyriadvacata-vlna-afrika-blizky-vychod",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-afrika-blizky-vychod",
+      "en": "twenty-fourth-wave-africa-middle-east",
+      "de": "vierundzwanzigste-welle-afrika-naher-osten",
+      "es": "vigesimocuarta-ola-africa-oriente-medio",
+      "fr": "vingt-quatrieme-vague-afrique-moyen-orient"
+    },
+    "title": "Ctyriadvacata vlna C: Afrika a Blizky vychod",
+    "description": "Treti cast petinasobne vlny posiluje Afriku a Blizky vychod o pouste, pevnosti, hrobky, skalni umeni, solne krajiny a citliva historicka mista.",
+    "category": "legenda",
+    "themes": [
+      "poust",
+      "archeologie",
+      "ritual",
+      "pevnost"
+    ],
+    "relatedPlaceIds": [
+      "qasr-al-farid",
+      "edge-of-the-world-riyadh",
+      "al-wahbah-crater",
+      "ubar-shisr",
+      "bahla-fort",
+      "jebel-shams-balcony-walk",
+      "socotra-diksam-plateau",
+      "shibam-hadramawt",
+      "masada-snake-path",
+      "beit-shearim-necropolis",
+      "avdat-nabataean-city",
+      "baalbek-trilithon",
+      "jeita-grotto",
+      "palmyra-funerary-towers",
+      "crac-des-chevaliers",
+      "dead-cities-of-syria",
+      "wadi-rum-lawrence-spring",
+      "little-petra-siq-al-barid",
+      "umm-er-rasas",
+      "siwa-shali-fortress",
+      "cave-of-swimmers",
+      "nabta-playa",
+      "qasr-ibrim",
+      "dendera-crypts",
+      "valley-of-the-nobles-luxor",
+      "ksar-ouled-soltane",
+      "dougga",
+      "timgad",
+      "madracen",
+      "lixus-morocco"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-evropa-megality-podzemi",
+    "slug": "ctyriadvacata-vlna-evropa-megality-podzemi",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-evropa-megality-podzemi",
+      "en": "twenty-fourth-wave-europe-megaliths-underground",
+      "de": "vierundzwanzigste-welle-europa-megalithen-untergrund",
+      "es": "vigesimocuarta-ola-europa-megalitos-subterraneo",
+      "fr": "vingt-quatrieme-vague-europe-megalithes-souterrains"
+    },
+    "title": "Ctyriadvacata vlna D: Evropa, megality a podzemi",
+    "description": "Ctvrta cast petinasobne vlny pridava evropske megality, katakomby, jeskynni komplexy, pevnosti, opustena mesta a sakralni krajiny.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "archeologie",
+      "ritual",
+      "pevnost"
+    ],
+    "relatedPlaceIds": [
+      "callanish-stones",
+      "ring-of-brodgar",
+      "maeshowe",
+      "avebury-henge",
+      "silbury-hill",
+      "west-kennet-long-barrow",
+      "rollright-stones",
+      "dun-aonghasa",
+      "drombeg-stone-circle",
+      "hill-of-tara",
+      "knowth-passage-tomb",
+      "lascaux-cave",
+      "chauvet-cave",
+      "font-de-gaume",
+      "aven-armand",
+      "gouffre-de-padirac",
+      "cueva-de-altamira",
+      "atapuerca-caves",
+      "drach-caves-mallorca",
+      "antequera-dolmens",
+      "almendres-cromlech",
+      "quinta-da-regaleira-initiation-well",
+      "capuchin-crypt-palermo",
+      "cumae-sibyl-cave",
+      "tarquinia-necropolis",
+      "cerveteri-banditaccia",
+      "matera-sassi-caves",
+      "naples-underground",
+      "wieliczka-salt-mine-chapel",
+      "osowka-underground-city"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-oceanie-ostrovy",
+    "slug": "ctyriadvacata-vlna-oceanie-ostrovy",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-oceanie-ostrovy",
+      "en": "twenty-fourth-wave-oceania-islands",
+      "de": "vierundzwanzigste-welle-ozeanien-inseln",
+      "es": "vigesimocuarta-ola-oceania-islas",
+      "fr": "vingt-quatrieme-vague-oceanie-iles"
+    },
+    "title": "Ctyriadvacata vlna E: Oceanie, ostrovy a izolovane anomalie",
+    "description": "Pata cast petinasobne vlny pridava oceanske ostrovy, sopecne krajiny, laguny, jeskynni systemy, opustene trestanecke lokality a polyneske ritualni prostory.",
+    "category": "ostrov",
+    "themes": [
+      "ostrov",
+      "sopky",
+      "oceany",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "norfolk-island-kingston-ruins",
+      "maria-island-convict-probation-station",
+      "sarah-island-macquarie-harbour",
+      "cascades-female-factory",
+      "lake-mungo-walls-of-china",
+      "wilpena-pound",
+      "kata-tjuta-valley-of-the-winds",
+      "kings-canyon-rim-walk",
+      "undara-lava-tubes",
+      "jenolan-caves",
+      "waitomo-ruakuri-cave",
+      "cathedral-caves-catlins",
+      "moeraki-boulders",
+      "castle-hill-kura-tawhiti",
+      "farewell-spit",
+      "cape-reinga",
+      "rangitoto-lava-caves",
+      "white-island-whakaari",
+      "mount-tarawera-crater",
+      "pink-and-white-terraces-site",
+      "nan-madol-pahnwi",
+      "lelu-ruins-kosrae",
+      "rai-stones-yap",
+      "taputapuatea-marae",
+      "marae-arahurahu",
+      "rurutu-limestone-caves",
+      "fiji-sawa-i-lau-caves",
+      "sigatoka-sand-dunes",
+      "roi-mata-domain",
+      "bikini-atoll-nuclear-test-site"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "ctyriadvacata-vlna-island-sopky-led",
+    "slug": "ctyriadvacata-vlna-island-sopky-led",
+    "localizedSlugs": {
+      "cs": "ctyriadvacata-vlna-island-sopky-led",
+      "en": "twenty-fourth-wave-iceland-volcanoes-ice",
+      "de": "vierundzwanzigste-welle-island-vulkane-eis",
+      "es": "vigesimocuarta-ola-islandia-volcanes-hielo",
+      "fr": "vingt-quatrieme-vague-islande-volcans-glace"
+    },
+    "title": "Ctyriadvacata vlna F: Island, sopky, led a lavove podzemi",
+    "description": "Rezervni blok petinasobne vlny doplnuje Island o lavove jeskyne, kraterove krajiny, vodopady, utesy, ostrovy, ledove tunely a mista se silnou sagovou atmosferou.",
+    "category": "priroda",
+    "themes": [
+      "sopky",
+      "led",
+      "podzemi",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "hvitserkur",
+      "namafjall-hverir",
+      "leidarendi-lava-cave",
+      "surtshellir",
+      "thrihnukagigur-volcano",
+      "kerid-crater",
+      "glymur-waterfall",
+      "hraunfossar",
+      "gjain",
+      "raufarholshellir-lava-tunnel",
+      "cave-of-vidgelmir",
+      "latrabjarg-cliffs",
+      "snaefellsjokull",
+      "helgafell-iceland",
+      "borgarvirki",
+      "arnarstapi-sea-arch",
+      "hvannadalshnukur",
+      "askja-caldera",
+      "hekla-volcano",
+      "laki-craters",
+      "eldgja-canyon",
+      "thingvellir-silfra",
+      "grettislaug",
+      "reynisfjara-basalt-beach",
+      "fjadrargljufur-canyon",
+      "studlagil-canyon",
+      "asbyrgi-canyon",
+      "dettifoss",
+      "krafla-viti-crater",
+      "fagradalsfjall-lava-field",
+      "litli-hrutur-lava-field",
+      "katla-ice-cave",
+      "langjokull-ice-cave",
+      "vatnshellir-cave",
+      "hella-caves",
+      "papey-island",
+      "drangey-island",
+      "kolugljufur-canyon",
+      "aldeyjarfoss"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petinasobna vlna pridava vetsi blok mist najednou, ale drzi stejnou redakcni logiku: kazde misto ma jasnou polohu, motivy, zdroje pro dalsi overeni a oddeleni historie, legendy a skeptickeho ramce."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Tato mista jsou seed profily. Jsou vhodna pro dalsi prioritizaci podle hledanosti, dostupnosti fotografii, kvality oficialnich zdroju a tematicke hodnoty pro mapu."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "U vybranych mist bude vhodne doplnit oficialni spravcovske stranky, lokalni nazvy, bezpecnostni omezeni, citlive historicke poznamky a licencovane obrazky."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "petadvacata-vlna-himalaj-jizni-asie",
+    "slug": "petadvacata-vlna-himalaj-jizni-asie",
+    "localizedSlugs": {
+      "cs": "petadvacata-vlna-himalaj-jizni-asie",
+      "en": "twenty-fifth-wave-himalaj-jizni-asie",
+      "de": "fuenfundzwanzigste-welle-himalaj-jizni-asie",
+      "es": "vigesimoquinta-ola-himalaj-jizni-asie",
+      "fr": "vingt-cinquieme-vague-himalaj-jizni-asie"
+    },
+    "title": "Petadvacata vlna A: Himalaj, Indie a jizni Asie",
+    "description": "Prvni cast petadvacate vlny pridava himalajske klastery, indicke pevnosti, posvatne hory, jeskynni chramy a citlive poutni krajiny jizni Asie.",
+    "category": "legenda",
+    "themes": [
+      "ritual",
+      "hory",
+      "podzemi",
+      "archeologie"
+    ],
+    "relatedPlaceIds": [
+      "hemis-monastery",
+      "lamayuru-moonland",
+      "tso-moriri-lake",
+      "magnetic-hill-ladakh",
+      "roopkund-lake",
+      "jatinga-bird-mystery",
+      "lonar-crater-lake",
+      "ajanta-caves",
+      "elephanta-caves",
+      "badami-cave-temples",
+      "bhimbetka-rock-shelters",
+      "chittorgarh-fort",
+      "kumbhalgarh-fort",
+      "jaisalmer-fort",
+      "rani-ki-vav",
+      "lothal-dockyard",
+      "dholavira",
+      "mandu-ruins",
+      "mahabalipuram-shore-temple",
+      "lepakshi-temple",
+      "mawlynnong-living-root-bridge",
+      "mawsmai-cave",
+      "sigiriya-mirror-wall",
+      "dambulla-cave-temple",
+      "mihintale",
+      "yapahuwa-rock-fortress",
+      "rani-kot-fort",
+      "mohenjo-daro-granary",
+      "makli-necropolis",
+      "katas-raj-temples"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petadvacata vlna pokracuje ve vetsim meritku, ale kazdy seed stale drzi jasnou polohu, tematicke zarazeni a zakladni zdroje pro dalsi overeni."
+      },
+      {
+        "heading": "Redakcni hodnota",
+        "body": "Bloky pridavaji mista, ktera se hodi pro mapu i pro tematicke filtry: podzemi, hory, opustene arealy, ritualni krajiny, prirodni anomalie a citlive pametove lokality."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Nejvyhledavanejsi profily bude vhodne rozpracovat o lokalni nazvy, oficialni pravidla pristupu, fotografie s licenci a presnejsi historicke zdroje."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "petadvacata-vlna-severni-evropa",
+    "slug": "petadvacata-vlna-severni-evropa",
+    "localizedSlugs": {
+      "cs": "petadvacata-vlna-severni-evropa",
+      "en": "twenty-fifth-wave-severni-evropa",
+      "de": "fuenfundzwanzigste-welle-severni-evropa",
+      "es": "vigesimoquinta-ola-severni-evropa",
+      "fr": "vingt-cinquieme-vague-severni-evropa"
+    },
+    "title": "Petadvacata vlna B: severni Evropa, runy a ledove krajiny",
+    "description": "Druha cast petadvacate vlny pridava skandinavske runove kameny, pevnosti, doly, opustene arkticke lokality, fjordy a prirodni anomalie severu.",
+    "category": "legenda",
+    "themes": [
+      "mytologie",
+      "hory",
+      "opustene",
+      "archeologie"
+    ],
+    "relatedPlaceIds": [
+      "jelling-stones",
+      "trelleborg-viking-fortress",
+      "lindholm-hoje",
+      "moesgaard-grauballe-man",
+      "ale-stones",
+      "anundshog",
+      "birka-black-earth",
+      "gamla-uppsala-mounds",
+      "visby-city-walls",
+      "falun-copper-mine",
+      "kiruna-mine",
+      "sala-silver-mine",
+      "borgund-stave-church",
+      "urnes-stave-church",
+      "kjeragbolten",
+      "trolltunga",
+      "torghatten-hole",
+      "nidaros-cathedral-crypt",
+      "svalbard-pyramiden",
+      "svalbard-global-seed-vault",
+      "alta-rock-carvings",
+      "kastelholm-castle",
+      "suomenlinna-tunnels",
+      "olavinlinna-castle",
+      "rapola-hill-fort",
+      "astuvansalmi-rock-paintings",
+      "kummakivi-balancing-rock",
+      "kaali-meteorite-crater",
+      "salaspils-memorial",
+      "hill-of-crosses-siauliai"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petadvacata vlna pokracuje ve vetsim meritku, ale kazdy seed stale drzi jasnou polohu, tematicke zarazeni a zakladni zdroje pro dalsi overeni."
+      },
+      {
+        "heading": "Redakcni hodnota",
+        "body": "Bloky pridavaji mista, ktera se hodi pro mapu i pro tematicke filtry: podzemi, hory, opustene arealy, ritualni krajiny, prirodni anomalie a citlive pametove lokality."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Nejvyhledavanejsi profily bude vhodne rozpracovat o lokalni nazvy, oficialni pravidla pristupu, fotografie s licenci a presnejsi historicke zdroje."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "petadvacata-vlna-afrika-ostrovy",
+    "slug": "petadvacata-vlna-afrika-ostrovy",
+    "localizedSlugs": {
+      "cs": "petadvacata-vlna-afrika-ostrovy",
+      "en": "twenty-fifth-wave-afrika-ostrovy",
+      "de": "fuenfundzwanzigste-welle-afrika-ostrovy",
+      "es": "vigesimoquinta-ola-afrika-ostrovy",
+      "fr": "vingt-cinquieme-vague-afrika-ostrovy"
+    },
+    "title": "Petadvacata vlna C: Afrika, ostrovy, pralesy a sopky",
+    "description": "Treti cast petadvacate vlny pridava africke ostrovy, sopky, vodopady, pralesni svatyne, kralovske palace, ruiny a citlive lokality obchodu s lidmi.",
+    "category": "ostrov",
+    "themes": [
+      "ostrov",
+      "sopky",
+      "prales",
+      "umrti"
+    ],
+    "relatedPlaceIds": [
+      "goree-island-door-of-no-return",
+      "djoudj-bird-sanctuary",
+      "saloum-shell-mounds",
+      "kunta-kinteh-island",
+      "kakum-forest-shrine-trails",
+      "nzulezo-stilt-village",
+      "larabanga-mystic-stone",
+      "benin-royal-palaces-abomey",
+      "ganvie-lake-village",
+      "ouidah-python-temple",
+      "pendjari-cliffs",
+      "sukur-cultural-landscape",
+      "osun-osogbo-sacred-grove",
+      "idanre-hills",
+      "awhum-waterfall-cave",
+      "mount-cameroon-lava-fields",
+      "lake-nyos",
+      "korup-forest",
+      "sao-tome-pico-cao-grande",
+      "sao-tome-roca-agua-ize",
+      "annobon-crater-lake",
+      "pico-basile",
+      "loango-surfing-hippos-coast",
+      "ivindo-blackwater-rapids",
+      "dzanga-bai",
+      "boyoma-falls",
+      "nyiragongo-volcano-rim",
+      "lola-ya-bonobo-forest",
+      "tsingy-rouge",
+      "ankarana-caves"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petadvacata vlna pokracuje ve vetsim meritku, ale kazdy seed stale drzi jasnou polohu, tematicke zarazeni a zakladni zdroje pro dalsi overeni."
+      },
+      {
+        "heading": "Redakcni hodnota",
+        "body": "Bloky pridavaji mista, ktera se hodi pro mapu i pro tematicke filtry: podzemi, hory, opustene arealy, ritualni krajiny, prirodni anomalie a citlive pametove lokality."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Nejvyhledavanejsi profily bude vhodne rozpracovat o lokalni nazvy, oficialni pravidla pristupu, fotografie s licenci a presnejsi historicke zdroje."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "petadvacata-vlna-ameriky-podzemi-a-svetla",
+    "slug": "petadvacata-vlna-ameriky-podzemi-a-svetla",
+    "localizedSlugs": {
+      "cs": "petadvacata-vlna-ameriky-podzemi-a-svetla",
+      "en": "twenty-fifth-wave-ameriky-podzemi-a-svetla",
+      "de": "fuenfundzwanzigste-welle-ameriky-podzemi-a-svetla",
+      "es": "vigesimoquinta-ola-ameriky-podzemi-a-svetla",
+      "fr": "vingt-cinquieme-vague-ameriky-podzemi-a-svetla"
+    },
+    "title": "Petadvacata vlna D: Ameriky, podzemi, svetla a zanikle cesty",
+    "description": "Ctvrta cast petadvacate vlny pridava americke jeskynni systemy, poustni svetelne legendy, ostrovni pevnosti, doly, vodopady a archeologicke krajiny.",
+    "category": "podzemi",
+    "themes": [
+      "podzemi",
+      "ufo",
+      "archeologie",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "marfa-lights-viewing-area",
+      "brown-mountain-lights",
+      "spooklight-hornet",
+      "bell-witch-cave",
+      "moundsville-penitentiary",
+      "old-idaho-penitentiary",
+      "alcatraz-cellhouse",
+      "fort-jefferson-dry-tortugas",
+      "cumberland-gap-tunnel-area",
+      "natural-bridge-virginia",
+      "luray-caverns",
+      "shenandoah-dark-hollow-falls",
+      "devils-tower",
+      "medicine-wheel-bighorn",
+      "chaco-wijiji-ruin",
+      "hovenweep-castle",
+      "canyon-de-chelly-spider-rock",
+      "montezuma-castle",
+      "casa-grande-ruins",
+      "bandelier-alcove-house",
+      "el-morro-inscription-rock",
+      "great-serpent-mound-ontario",
+      "head-smashed-in-buffalo-jump",
+      "writing-on-stone-hoodoos",
+      "nahanni-headless-valley",
+      "dawson-city-dredge-no-4",
+      "lanse-aux-meadows-norse-site",
+      "mistaken-point-fossils",
+      "sable-island-wreck-coast",
+      "burgess-shale-walcott-quarry"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Petadvacata vlna pokracuje ve vetsim meritku, ale kazdy seed stale drzi jasnou polohu, tematicke zarazeni a zakladni zdroje pro dalsi overeni."
+      },
+      {
+        "heading": "Redakcni hodnota",
+        "body": "Bloky pridavaji mista, ktera se hodi pro mapu i pro tematicke filtry: podzemi, hory, opustene arealy, ritualni krajiny, prirodni anomalie a citlive pametove lokality."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Nejvyhledavanejsi profily bude vhodne rozpracovat o lokalni nazvy, oficialni pravidla pristupu, fotografie s licenci a presnejsi historicke zdroje."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sestadvacata-vlna-stredni-asie-step",
+    "slug": "sestadvacata-vlna-stredni-asie-step",
+    "localizedSlugs": {
+      "cs": "sestadvacata-vlna-stredni-asie-step",
+      "en": "twenty-sixth-wave-stredni-asie-step",
+      "de": "sechsundzwanzigste-welle-stredni-asie-step",
+      "es": "vigesimosexta-ola-stredni-asie-step",
+      "fr": "vingt-sixieme-vague-stredni-asie-step"
+    },
+    "title": "Sestadvacata vlna A: Stredni Asie, step a poustni mesta",
+    "description": "Prvni cast sestadvacate vlny pridava stepi, pevnosti, karavanni mesta, mauzolea, kraterove krajiny a vysinne svatyne Stredni Asie.",
+    "category": "ztracena-mesta",
+    "themes": [
+      "poust",
+      "archeologie",
+      "ritual",
+      "pevnost"
+    ],
+    "relatedPlaceIds": [
+      "mizdakhan-necropolis",
+      "toprak-kala",
+      "kyzyl-kala-khorezm",
+      "sarmishsay-petroglyphs",
+      "chor-bakr-necropolis",
+      "gyaur-kala-merv",
+      "gonur-depe",
+      "nisa-parthian-fortress",
+      "kow-ata-cave-lake",
+      "yangykala-canyon",
+      "tamgaly-tas",
+      "bozzhyra-tract",
+      "sherkala-mountain",
+      "beket-ata-underground-mosque",
+      "otrar-ruins",
+      "akyrtas-palace",
+      "burana-tower-balasagun",
+      "tash-rabat-caravanserai",
+      "sulaiman-too-osh",
+      "issyk-kul-sunken-settlements"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Sestadvacata vlna rozsiruje mapu o dalsi regiony, ktere dobre funguji jako samostatne body: maji jasnou polohu, silny motiv a prostor pro presnejsi lokalni zdroje."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Profily jsou seed vrstva pro dalsi redakcni rozvoj. U kazdeho mista je potreba casem doplnit lepsi lokalni zdroj, pristupova pravidla a pripadne licencovanou fotografii."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Prioritu maji mista s vysokym indexem tajemna, citlivou historii nebo dobrym tematickym napojenim na podzemi, pevnosti, ztracena mesta a prirodni anomalie."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sestadvacata-vlna-karpaty-balkan",
+    "slug": "sestadvacata-vlna-karpaty-balkan",
+    "localizedSlugs": {
+      "cs": "sestadvacata-vlna-karpaty-balkan",
+      "en": "twenty-sixth-wave-karpaty-balkan",
+      "de": "sechsundzwanzigste-welle-karpaty-balkan",
+      "es": "vigesimosexta-ola-karpaty-balkan",
+      "fr": "vingt-sixieme-vague-karpaty-balkan"
+    },
+    "title": "Sestadvacata vlna B: Karpaty, Balkan a podzemni pevnosti",
+    "description": "Druha cast sestadvacate vlny pridava karpatske hrady, balkanske klastery, podzemni komplexy, mosty, hory a citlive pamatkove krajiny.",
+    "category": "legenda",
+    "themes": [
+      "pevnost",
+      "podzemi",
+      "ritual",
+      "hory"
+    ],
+    "relatedPlaceIds": [
+      "poenari-fortress",
+      "corvin-castle",
+      "sighisoara-clock-tower",
+      "turda-salt-mine",
+      "scarisoara-ice-cave",
+      "sarmizegetusa-ulpia-traiana",
+      "devetashka-cave",
+      "prohodna-eyes-of-god-cave",
+      "madzharovo-vulture-cliffs",
+      "asen-fortress",
+      "krusuna-waterfalls",
+      "matka-canyon",
+      "kokino-observatory",
+      "markovi-kuli-prilep",
+      "ohrid-plaosnik",
+      "mostar-old-bridge",
+      "jajce-catacombs",
+      "blagaj-tekija",
+      "vjetrenica-cave",
+      "daorson-megalithic-walls"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Sestadvacata vlna rozsiruje mapu o dalsi regiony, ktere dobre funguji jako samostatne body: maji jasnou polohu, silny motiv a prostor pro presnejsi lokalni zdroje."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Profily jsou seed vrstva pro dalsi redakcni rozvoj. U kazdeho mista je potreba casem doplnit lepsi lokalni zdroj, pristupova pravidla a pripadne licencovanou fotografii."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Prioritu maji mista s vysokym indexem tajemna, citlivou historii nebo dobrym tematickym napojenim na podzemi, pevnosti, ztracena mesta a prirodni anomalie."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sestadvacata-vlna-jizni-amerika-prirodni-divy",
+    "slug": "sestadvacata-vlna-jizni-amerika-prirodni-divy",
+    "localizedSlugs": {
+      "cs": "sestadvacata-vlna-jizni-amerika-prirodni-divy",
+      "en": "twenty-sixth-wave-jizni-amerika-prirodni-divy",
+      "de": "sechsundzwanzigste-welle-jizni-amerika-prirodni-divy",
+      "es": "vigesimosexta-ola-jizni-amerika-prirodni-divy",
+      "fr": "vingt-sixieme-vague-jizni-amerika-prirodni-divy"
+    },
+    "title": "Sestadvacata vlna C: Jizni Amerika, prirodni divy a hranicni krajiny",
+    "description": "Treti cast sestadvacate vlny pridava andske hory, ledovce, vodopady, solne plane, pralesni hranice, opustene trate a mista modernich expedicnich mytu.",
+    "category": "priroda",
+    "themes": [
+      "hory",
+      "voda",
+      "poust",
+      "prirodni-anomalie"
+    ],
+    "relatedPlaceIds": [
+      "salar-de-arizaro-cono-de-arita",
+      "campo-de-piedra-pomez",
+      "tren-a-las-nubes-viaduct",
+      "salinas-grandes-argentina",
+      "ibera-wetlands",
+      "mar-chiquita-lake",
+      "villarrica-volcano",
+      "osorno-volcano",
+      "pali-aike-volcanic-field",
+      "queulat-hanging-glacier",
+      "ventisquero-colgante-trail",
+      "humberstone-saltpeter-works",
+      "santa-laura-saltpeter-works",
+      "lauca-chungara-lake",
+      "licancabur-volcano",
+      "cotopaxi-volcano",
+      "quilotoa-crater-lake",
+      "pululahua-geobotanical-reserve",
+      "cajas-lakes",
+      "kaieteur-falls"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Sestadvacata vlna rozsiruje mapu o dalsi regiony, ktere dobre funguji jako samostatne body: maji jasnou polohu, silny motiv a prostor pro presnejsi lokalni zdroje."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Profily jsou seed vrstva pro dalsi redakcni rozvoj. U kazdeho mista je potreba casem doplnit lepsi lokalni zdroj, pristupova pravidla a pripadne licencovanou fotografii."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Prioritu maji mista s vysokym indexem tajemna, citlivou historii nebo dobrym tematickym napojenim na podzemi, pevnosti, ztracena mesta a prirodni anomalie."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  },
+  {
+    "id": "sestadvacata-vlna-tiche-ostrovy",
+    "slug": "sestadvacata-vlna-tiche-ostrovy",
+    "localizedSlugs": {
+      "cs": "sestadvacata-vlna-tiche-ostrovy",
+      "en": "twenty-sixth-wave-tiche-ostrovy",
+      "de": "sechsundzwanzigste-welle-tiche-ostrovy",
+      "es": "vigesimosexta-ola-tiche-ostrovy",
+      "fr": "vingt-sixieme-vague-tiche-ostrovy"
+    },
+    "title": "Sestadvacata vlna D: Tiche ostrovy a ztracene moreplavecke krajiny",
+    "description": "Ctvrta cast sestadvacate vlny pridava polyneske a melaneske ostrovy, ritualni kamenne prostory, sopecne kratery, vraky, laguny a jaderne pametove krajiny.",
+    "category": "ostrov",
+    "themes": [
+      "ostrov",
+      "oceany",
+      "ritual",
+      "katastrofa"
+    ],
+    "relatedPlaceIds": [
+      "haamonga-a-maui",
+      "mua-royal-tombs",
+      "mapu-a-vaea-blowholes",
+      "tofua-caldera",
+      "lake-lanotoo",
+      "papaseea-sliding-rocks",
+      "saleaula-lava-church",
+      "piula-cave-pool",
+      "mele-cascades",
+      "millennium-cave-vanuatu",
+      "champagne-beach-santo",
+      "chief-roi-mata-cave",
+      "lake-lalolalo",
+      "talietumu-fortress",
+      "marae-taputapuatea-bora-bora",
+      "belvedere-moorea",
+      "fatu-hiva-hanavave-bay",
+      "ua-pou-basalt-spires",
+      "pitcairn-bounty-bay",
+      "henderson-island"
+    ],
+    "sections": [
+      {
+        "heading": "Proc tahle oblast",
+        "body": "Sestadvacata vlna rozsiruje mapu o dalsi regiony, ktere dobre funguji jako samostatne body: maji jasnou polohu, silny motiv a prostor pro presnejsi lokalni zdroje."
+      },
+      {
+        "heading": "Jak s obsahem pracovat",
+        "body": "Profily jsou seed vrstva pro dalsi redakcni rozvoj. U kazdeho mista je potreba casem doplnit lepsi lokalni zdroj, pristupova pravidla a pripadne licencovanou fotografii."
+      },
+      {
+        "heading": "Dalsi krok",
+        "body": "Prioritu maji mista s vysokym indexem tajemna, citlivou historii nebo dobrym tematickym napojenim na podzemi, pevnosti, ztracena mesta a prirodni anomalie."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "wikimedia-commons"
+    ]
+  }
+]
