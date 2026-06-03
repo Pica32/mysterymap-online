@@ -14,8 +14,15 @@
 
 - Framework preset: none.
 - Build command: `npm run build`.
-- Output directory: `/`.
+- Output directory pro ruční Cloudflare Pages build: `/`.
+- Output directory pro GitHub Actions deploy: `dist`.
 - Node.js: aktuální LTS nebo default Cloudflare Pages runtime.
+
+## GitHub Actions secrets
+
+- `CLOUDFLARE_ACCOUNT_ID`: ID účtu, který vlastní Pages projekt.
+- `CLOUDFLARE_API_TOKEN`: token s Pages deploy oprávněním.
+- Workflow `.github/workflows/cloudflare-pages.yml` po pushi spustí build, připraví `dist/` a nasadí projekt `mysterymap-online`.
 
 ## Doména
 

@@ -89,3 +89,19 @@ Doména:
 ```text
 mysterymap.online
 ```
+
+## GitHub automatizace
+
+Repo obsahuje dvě GitHub Actions:
+
+- `.github/workflows/ci.yml` spouští `npm run build`, připraví `dist/` a uloží deploy artefakt.
+- `.github/workflows/cloudflare-pages.yml` nasazuje `dist/` do Cloudflare Pages projektu `mysterymap-online`.
+
+Pro produkční deploy nastav v GitHub repository secrets:
+
+```text
+CLOUDFLARE_ACCOUNT_ID
+CLOUDFLARE_API_TOKEN
+```
+
+Token musí mít oprávnění pro Cloudflare Pages deploy v účtu, kde existuje projekt `mysterymap-online`.
