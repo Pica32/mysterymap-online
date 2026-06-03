@@ -6,6 +6,7 @@ const places = JSON.parse(fs.readFileSync(path.join(root, "data", "mista.json"),
 const articles = JSON.parse(fs.readFileSync(path.join(root, "data", "articles.json"), "utf8").replace(/^\uFEFF/, ""));
 const sources = JSON.parse(fs.readFileSync(path.join(root, "data", "source-catalog.json"), "utf8").replace(/^\uFEFF/, ""));
 const siteUrl = "https://mysterymap.online";
+const buildDate = process.env.BUILD_DATE || "2026-06-01";
 const locales = {
   cs: { placePrefix: "mista", articlePrefix: "clanky", label: "Čeština" },
   en: { placePrefix: "places", articlePrefix: "articles", label: "English" },
@@ -481,7 +482,7 @@ function jsonLd(place, language = "cs") {
       "description": place.lead,
       "inLanguage": language,
       "isPartOf": { "@id": `${siteUrl}/#website` },
-      "dateModified": new Date().toISOString().slice(0, 10),
+      "dateModified": buildDate,
       "about": { "@id": `${absoluteUrl(currentPath)}#place` },
       "breadcrumb": { "@id": `${absoluteUrl(currentPath)}#breadcrumb` }
     },
@@ -538,7 +539,7 @@ function articleJsonLd(article, language = "cs") {
     "description": article.description,
     "url": absoluteUrl(currentPath),
     "inLanguage": language,
-    "dateModified": new Date().toISOString().slice(0, 10),
+    "dateModified": buildDate,
     "publisher": {
       "@type": "Organization",
       "name": "MysteryMap.online",
@@ -642,7 +643,7 @@ function placePage(place, language = "cs") {
               <div><dt>${escapeHtml(tt(language, "contentType"))}</dt><dd>${escapeHtml(place.kategorie.join(", "))}</dd></div>
               <div><dt>${escapeHtml(tt(language, "themes"))}</dt><dd>${escapeHtml((place.temata || []).join(", "))}</dd></div>
               <div><dt>${escapeHtml(tt(language, "sourceCount"))}</dt><dd>${place.zdroje.length}</dd></div>
-              <div><dt>${escapeHtml(tt(language, "lastBuild"))}</dt><dd>${new Date().toISOString().slice(0, 10)}</dd></div>
+              <div><dt>${escapeHtml(tt(language, "lastBuild"))}</dt><dd>${buildDate}</dd></div>
             </dl>
           </section>
           <div class="metric-grid">
@@ -763,7 +764,7 @@ function articlePage(article, language = "cs") {
               <div><dt>Téma</dt><dd>${escapeHtml(article.themes.join(", "))}</dd></div>
               <div><dt>Napojená místa</dt><dd>${relatedPlaces.length}</dd></div>
               <div><dt>Zdrojové registry</dt><dd>${relatedSources.length}</dd></div>
-              <div><dt>Poslední build</dt><dd>${new Date().toISOString().slice(0, 10)}</dd></div>
+              <div><dt>Poslední build</dt><dd>${buildDate}</dd></div>
             </dl>
           </section>
           ${article.sections.map((section) => `
