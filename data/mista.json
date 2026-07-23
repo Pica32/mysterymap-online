@@ -3826,7 +3826,7 @@
     "nazev": "Derinkuyu Underground City",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Vicepatrove podzemni mesto v Kapadokii, kde se obrana, ukryt a legenda spojuji pod zemi.",
+    "lead": "Podzemní město v kapadocké sopečné hornině s kapacitou pro 20 000 lidí, které se skrývalo pod jedním obyčejným domovním sklepem až do roku 1963.",
     "gps": {
       "lat": 38.375,
       "lon": 34.734
@@ -3843,44 +3843,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Derinkuyu Underground City doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Vicepatrove podzemni mesto v Kapadokii, kde se obrana, ukryt a legenda spojuji pod zemi.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Pod obyčejným domem v turecké Kapadokii objevil roku 1963 muž při demolici sklepní zdi skrytou komnatu - a za ní se otevřel labyrint tunelů a místností vedoucí osm pater hluboko do měkké sopečné horniny.",
+      "historie": "Jádro jeskynních prostor v regionu pravděpodobně vytesali Frygové v 8.-7. století př. n. l. Do dnešní rozsáhlé podoby ale město dobudovali raní křesťané prchající před náboženským pronásledováním, a za byzantské éry sloužilo jako útočiště před arabsko-byzantskými válkami mezi lety 780 a 1180. Tunely propojovaly Derinkuyu s dalšími podzemními městy jako Kaymaklı a poskytovaly úkryt i během mongolské invaze Timura ve 14. století.",
+      "legenda": "Kromě vojenské obrany nabízelo podzemí i praktickou výhodu: stálou, mírnou teplotu bez ohledu na drsná kapadocká léta a zimy. Komplex zahrnoval obytné prostory, sklady potravin, stáje, vinné lisy i kostel rozprostřené do osmi pater.",
+      "paranormalni": "Než bylo město v 60. letech znovu objeveno, existovalo v místní paměti jen jako matná legenda o tajemných podzemních prostorách - realita ukázala, že šlo o skutečnost mnohem rozsáhlejší, než jakákoli pověst naznačovala.",
+      "skepticke": "Rozsah a technická vyspělost Derinkuyu jsou dobře zdokumentované archeologickým výzkumem po roce 1963 - jde o funkční inženýrské dílo přizpůsobené měkké sopečné hornině a reálným hrozbám doby, ne o tajemství bez vysvětlení."
     },
-    "praktickeInfo": "Pred navstevou Derinkuyu Underground City over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Zhruba polovina města je od roku 1969 přístupná veřejnosti s placeným vstupem, chodby jsou místy nízké a úzké, návštěva se nedoporučuje lidem s klaustrofobií.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Derinkuyu Underground City",
-        "url": "https://en.wikipedia.org/wiki/Derinkuyu_Underground_City",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Derinkuyu underground city",
+        "url": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Derinkuyu Underground City",
-        "url": "https://www.wikidata.org/w/index.php?search=Derinkuyu%20Underground%20City",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Derinkuyu underground city",
+        "url": "https://www.wikidata.org/wiki/Q1328958",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Derinkuyu%20Underground%20City%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Derinkuyu%20Underground%20City",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Derinkuyu Underground City pridava motivy podzemi, ztracena-mesta a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Objev za sklepní zdí",
+        "text": "Roku 1963 narazil místní muž při demolici sklepa na skrytou komnatu, za kterou se otevřel celý labyrint podzemního města - náhodný objev, který ohromil archeology."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Osm pater pro 20 000 lidí",
+        "text": "Komplex mohl v případě potřeby ukrýt až 20 000 lidí i s jejich zásobami a dobytkem, rozprostřený do osmi propojených podzemních pater."
       }
     ]
   },
@@ -3898,7 +3898,7 @@
     "nazev": "Gobekli Tepe",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Praveky monumentalni areal, ktery meni predstavy o ritualu, lovcich a zacatcich stavebni kultury.",
+    "lead": "Nejstarší známý chrámový komplex na světě, starší než zemědělství i keramika - a důkaz, že lidé stavěli monumentální svatyně dřív, než se usadili.",
     "gps": {
       "lat": 37.223,
       "lon": 38.922
@@ -3915,44 +3915,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Gobekli Tepe doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Praveky monumentalni areal, ktery meni predstavy o ritualu, lovcich a zacatcich stavebni kultury.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na hřebeni v jihovýchodním Turecku leží kruhové stavby s T-shaped kamennými sloupy staré přes 11 000 let - starší než Stonehenge, starší než pyramidy, a podle archeologů starší než samotné zemědělství.",
+      "historie": "Göbekli Tepe poprvé zaznamenali badatelé v 60. letech, ale jeho význam přehlíželi až do roku 1994, kdy lokalitu navštívil německý archeolog Klaus Schmidt. Okamžitě rozpoznal vyčnívající vápencové desky jako záměrně tesané sloupy do tvaru písmene T, zdobené reliéfy zvířat - gazel, hadů, lišek a lvů - i abstraktními symboly. Nejstarší vrstvy jsou datovány do doby kolem 10 000 let př. n. l.",
+      "legenda": "Objev převrátil zaběhnutou archeologickou teorii, podle níž teprve zemědělství umožnilo vznik komplexní společnosti. Göbekli Tepe naznačuje opak: masivní pracovní síla potřebná ke stavbě chrámu mohla naopak vést lidi k rozvoji zemědělství, aby dokázali stavební dělníky uživit. Klaus Schmidt to shrnul větou 'nejdřív přišel chrám, pak teprve město'.",
+      "paranormalni": "Přesný účel kruhových svatyní zůstává předmětem debat - jde pravděpodobně o rituální nebo shromažďovací prostor lovecko-sběračských komunit, ne o trvalé obydlí, což z místa dělá jeden z nejvýznamnějších hlavolamů rané lidské historie.",
+      "skepticke": "Přestože zůstává řada otázek o přesném společenském uspořádání stavitelů otevřená, samotné datování i technika stavby jsou archeologicky pevně doložené - Göbekli Tepe je od roku 2018 na seznamu UNESCO a probíhá zde další systematický výzkum, ne spekulativní záhadologie."
     },
-    "praktickeInfo": "Pred navstevou Gobekli Tepe over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Lokalita je přístupná jako archeologický park s návštěvnickým centrem, doporučuje se ochrana proti slunci kvůli odkryté poloze na hřebeni, probíhající vykopávky mohou částečně omezovat přístup do některých sektorů.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Gobekli Tepe",
-        "url": "https://en.wikipedia.org/wiki/Gobekli_Tepe",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Göbekli Tepe",
+        "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Gobekli Tepe",
-        "url": "https://www.wikidata.org/w/index.php?search=Gobekli%20Tepe",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Göbekli Tepe",
+        "url": "https://www.wikidata.org/wiki/Q214944",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Gobekli%20Tepe%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "UNESCO World Heritage - Göbekli Tepe",
+        "url": "https://whc.unesco.org/en/list/1572/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Gobekli%20Tepe",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Gobekli Tepe pridava motivy archeologie, ritual a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Nejdřív chrám, pak město",
+        "text": "Klaus Schmidt argumentoval, že stavba monumentálního chrámu mohla předcházet a dokonce vyvolat vznik zemědělství, ne naopak - obrácení dosavadní archeologické teorie."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Sloupy s tvářemi zvířat",
+        "text": "Vápencové sloupy do tvaru T jsou zdobené reliéfy gazel, hadů, lišek a lvů, jejichž přesný symbolický význam archeologové stále zkoumají."
       }
     ]
   },
@@ -3970,7 +3975,7 @@
     "nazev": "Mount Nemrut",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Vrchol s obrovskymi hlavami soch a kralovskym kultem, kde se politika zmenila v horsky ritual.",
+    "lead": "Zapomenutý král si nechal na vrcholu hory postavit vlastní hrobku a obklopit ji obřími sochami bohů - dnes z nich zbyly jen useknuté hlavy rozeseté po terasách.",
     "gps": {
       "lat": 37.98,
       "lon": 38.741
@@ -3987,44 +3992,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mount Nemrut doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Vrchol s obrovskymi hlavami soch a kralovskym kultem, kde se politika zmenila v horsky ritual.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na vrcholu hory v jihovýchodním Turecku leží desítky obřích kamenných hlav vážících kolem dvou tun každá, oddělených od svých těl a rozesetých po terasách - pozůstatky hrobky-svatyně jednoho zapomenutého krále.",
+      "historie": "Roku 62 př. n. l. nechal král Antiochos I. Theos z malého nárazníkového království Kommagéné postavit na vrcholu hory Nemrut hrobku-svatyni. Dělníci navršili obrovské množství drceného kamene do umělého pahorku vysokého přes 48 metrů nad jeho pohřební komorou. Kommagéné přežívalo právě díky tomu, že Řím i Parthská říše preferovaly slabé nárazníkové království mezi sebou před přímým sousedstvím.",
+      "legenda": "Kolosální sochy, původně vysoké 8 až 9 metrů, zobrazovaly boha Dia-Oromasda, Apollóna-Mithru-Hélia-Herma, Hérakla-Artagna-Area, bohyni Kommagéné spojovanou s plodností a hojností - a samotného krále Antiocha, který se tak stavěl po bok bohům.",
+      "paranormalni": "Hlavy soch dnes leží oddělené od těl v terasovitém uspořádání, což společně s dramatickými horskými východy a západy slunce vytváří jedno z nejvíc fotografovaných a filmově působivých míst Turecka.",
+      "skepticke": "Oddělení hlav od těl pravděpodobně způsobila zemětřesení a erozí za dva tisíce let, ne záměrné zničení nebo kletba - archeologický a historický kontext memoriálu je dobře doložený od jeho znovuobjevení německým inženýrem Karlem Sesterem v roce 1881, místo je od roku 1987 na seznamu UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Mount Nemrut over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "K vrcholu vede zpevněná cesta a poté kratší pěší výstup, nejoblíbenější je návštěva při východu nebo západu slunce, v zimě může být vrchol kvůli nadmořské výšce nepřístupný sněhem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Mount Nemrut",
         "url": "https://en.wikipedia.org/wiki/Mount_Nemrut",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Mount Nemrut",
-        "url": "https://www.wikidata.org/w/index.php?search=Mount%20Nemrut",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Mount Nemrut",
+        "url": "https://www.wikidata.org/wiki/Q207917",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Mount%20Nemrut%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Mount%20Nemrut%20Turkey",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Mount Nemrut pridava motivy umrti, mytologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Král mezi bohy",
+        "text": "Antiochos I. nechal svou sochu postavit vedle soch velkých bohů řecké, perské a anatolské tradice - gesto, kterým se symbolicky stavěl na jejich úroveň."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Nárazníkové království mezi impérii",
+        "text": "Kommagéné přežilo jako samostatný stát jen díky tomu, že Řím i Parthská říše preferovaly slabého souseda mezi sebou před přímou hranicí."
       }
     ]
   },
@@ -6346,7 +6351,7 @@
     "nazev": "Richat Structure",
     "zeme": "Mauritanie",
     "kontinent": "Afrika",
-    "lead": "Oko Sahary, kruhova geologicka struktura viditelna z vesmiru a casty magnet pseudovedeckych tvrzeni.",
+    "lead": "Čtyřicetikilometrové kamenné oko uprostřed Sahary, které si internet oblíbil jako 'ztracenou Atlantidu' - geologové ale mají mnohem prozaičtější vysvětlení.",
     "gps": {
       "lat": 21.124,
       "lon": -11.402
@@ -6363,44 +6368,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.1,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Richat Structure doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Oko Sahary, kruhova geologicka struktura viditelna z vesmiru a casty magnet pseudovedeckych tvrzeni.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hluboko v mauritánské poušti se rozprostírá téměř dokonalý soustředný kruh o průměru přes 40 kilometrů, viditelný i z vesmíru - a v posledních letech se stal oblíbeným kandidátem na skutečné umístění bájné Atlantidy.",
+      "historie": "Richat Structure, přezdívaná Oko Sahary, leží v západo-centrální Mauritánii. Z vesmíru připomíná obří terč nebo síť soustředných prstenů vyrytých přímo do pouštní země.",
+      "legenda": "Popularita teorie o Atlantidě v posledních letech explodovala napříč digitálními médii - zastánci poukazují na téměř dokonalé soustředné prstence připomínající Platónův popis kruhových kanálů, na čtyřicetikilometrový rozměr odpovídající velké metropoli a na saharskou polohu, která by se dala spojit s někdejší zelenou krajinou pohlcenou postupující pouští na konci poslední doby ledové.",
+      "paranormalni": "Teorie o Atlantidě se šíří hlavně díky sociálním sítím a videím zaměřeným na záhady, ne díky odborné archeologické nebo historické práci.",
+      "skepticke": "Když strukturu zkoumají geologové, teorie o Atlantidě se rozpadá: jde o erodovaný geologický útvar, takzvanou kupolovitou antiklinálu, vzniklou vyzdvižením vrstev hornin během milionů let a jejich následným obroušením erozí až na původně ploché vrstvy - žádná Atlantida nebyla objevena, přestože citovaní 'badatelé' toto tvrzení šíří dál."
     },
-    "praktickeInfo": "Pred navstevou Richat Structure over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Struktura je nejlépe patrná z letadla nebo na satelitních snímcích, pozemní návštěva vyžaduje expedici do odlehlé pouštní oblasti a místního průvodce.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Richat Structure",
         "url": "https://en.wikipedia.org/wiki/Richat_Structure",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Richat Structure",
-        "url": "https://www.wikidata.org/w/index.php?search=Richat%20Structure",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Richat Structure",
+        "url": "https://www.wikidata.org/wiki/Q744591",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Richat%20Structure%20Mauritanie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Richat%20Structure%20Mauritania",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Richat Structure pridava motivy kosmicka-anomalie, prirodni-anomalie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Terč viditelný z vesmíru",
+        "text": "Soustředné prstence struktury jsou natolik pravidelné a rozsáhlé, že patří mezi nejnápadnější geologické útvary viditelné na satelitních snímcích Sahary."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Atlantida, která se rozplynula pod mikroskopem",
+        "text": "Strukturní geologové jednoznačně vysvětlili útvar jako erodovanou kupolovitou antiklinálu - teorie o Atlantidě neobstála při odborném zkoumání."
       }
     ]
   },
@@ -13262,7 +13267,7 @@
     "nazev": "Meroe Pyramids",
     "zeme": "Sudan",
     "kontinent": "Afrika",
-    "lead": "Nubijske pyramidy v pousti, kralovska nekropole s jinou mirou a rytmem nez slavnejsi Egypt.",
+    "lead": "Súdánské pyramidy núbijského království Kuš, kterým italský dobrodruh v 19. století odstřelil vrcholy při honbě za zlatem.",
     "gps": {
       "lat": 16.937,
       "lon": 33.749
@@ -13279,44 +13284,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.2,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Meroe Pyramids doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Nubijske pyramidy v pousti, kralovska nekropole s jinou mirou a rytmem nez slavnejsi Egypt.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V súdánské poušti severovýchodně od Chartúmu stojí přes 200 strmých núbijských pyramid - a mnohým z nich chybí vrchol, protože je v 19. století odstřelil evropský hledač pokladů.",
+      "historie": "Meroë bylo hlavní město núbijského království Kuš zhruba od roku 591 př. n. l. do roku 350 n. l., kdy Kušitská kultura spojovala vlastní núbijskou tradici s vlivy starověkého Egypta a vytvořila si tak výrazný, samostatný umělecký styl s charakteristickými strmými pyramidami.",
+      "legenda": "Roku 1834 dorazil do Meroë italský dobrodruh a lékař Giuseppe Ferlini a začal drancovat hrobky ve snaze najít zlato a šperky. Při hledání pokladu odstřelil vrcholy řady pyramid výbušninami, včetně Velké pyramidy královny Amanišachety, jedné z nejvýznamnějších vládkyň Súdánu. Několik cenných artefaktů, které při tom skutečně našel, dnes leží v muzeích v Mnichově a Berlíně.",
+      "paranormalni": "Poškození, které Ferlini způsobil, archeologové dodnes litují jako jednu z nejhorších ztrát núbijského kulturního dědictví, přestože paradoxně právě jeho nálezy poprvé upozornily evropské badatele na existenci této dosud opomíjené civilizace.",
+      "skepticke": "Zkáza pyramid má jasně zdokumentovanou lidskou příčinu - kořistnické drancování 19. století, ne přírodní katastrofu nebo kletbu - archeologické naleziště je od roku 2011 na seznamu UNESCO jako pozůstatek jádra království Kuš."
     },
-    "praktickeInfo": "Pred navstevou Meroe Pyramids over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Lokalita je volně přístupná, leží v odlehlé poušti asi 200 km severovýchodně od Chartúmu, doporučuje se cestovat s místním průvodcem a počítat s minimální turistickou infrastrukturou.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Meroe Pyramids",
-        "url": "https://en.wikipedia.org/wiki/Meroe_Pyramids",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Pyramids of Meroë",
+        "url": "https://en.wikipedia.org/wiki/Pyramids_of_Mero%C3%AB",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Meroe Pyramids",
-        "url": "https://www.wikidata.org/w/index.php?search=Meroe%20Pyramids",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Pyramids of Meroe",
+        "url": "https://www.wikidata.org/wiki/Q456939",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Meroe%20Pyramids%20Sudan",
-        "licence": "ODbL / map verification"
+        "nazev": "UNESCO World Heritage - Archaeological Sites of the Island of Meroe",
+        "url": "https://whc.unesco.org/en/list/1336/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Pyramids%20of%20Meroe%20Sudan",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Meroe Pyramids pridava motivy umrti, archeologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Dobrodruh s výbušninami",
+        "text": "Giuseppe Ferlini v roce 1834 odstřelil vrcholy řady pyramid při hledání zlata - zkáza, kterou archeologové dodnes litují, přestože jeho nálezy Evropu s núbijskou kulturou poprvé seznámily."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Vlastní styl mezi Egyptem a Núbií",
+        "text": "Kušitská kultura si vytvořila výrazný, samostatný vizuální styl kombinující núbijské tradice s egyptskými vlivy, jehož nejviditelnějším odkazem jsou právě strmé meroejské pyramidy."
       }
     ]
   },
@@ -30120,7 +30130,7 @@
     "nazev": "Mount Kailash",
     "zeme": "Tibet",
     "kontinent": "Asie",
-    "lead": "Posvatna hora pro vice tradic, kde se geografie, pout a zakaz vystupu meni v silny myticky stred sveta.",
+    "lead": "Jedna z mála velkých hor světa, kterou nikdo nikdy oficiálně nezdolal - protože je posvátná hned pro čtyři náboženství zároveň.",
     "gps": {
       "lat": 31.0675,
       "lon": 81.3119
@@ -30137,44 +30147,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mount Kailash doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Posvatna hora pro vice tradic, kde se geografie, pout a zakaz vystupu meni v silny myticky stred sveta. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Hora Kailás v tibetské části Himálaje dosahuje jen mírných 6 638 metrů, technicky by tedy výstup nebyl nijak mimořádně obtížný - a přesto na jejím vrcholu podle dostupných záznamů nikdy nestál žádný horolezec.",
+      "historie": "Sanskrtské jméno hory znamená 'obydlí Šivy' a odráží její posvátný status hned ve čtyřech náboženstvích. Hinduisté ji uctívají jako věčné sídlo boha Šivy a jeho manželky Párvatí, buddhisté, džinisté a stoupenci tibetského náboženství bön ji po staletí považují za duchovní osu světa a spojnici mezi nebem a zemí.",
+      "legenda": "Podle jedné z legend na vrchol jednou vystoupil jen tibetský buddhistický mnich Milarepa - v proslulém souboji s rivalem Narem, který se snažil vyšplhat pomocí magického bubnu, zatímco Milarepa meditoval u paty hory. Když přišlo ráno, Milarepa vyjel na vrchol po paprsku slunečního světla a vyhrál horu pro buddhismus.",
+      "paranormalni": "Návštěvníci mohou horu obejít při tradiční poutní cestě kolem úpatí, ale samotné vystoupání na vrchol je oficiálně zakázáno a horolezecká komunita ho dodnes respektuje jako tabu, které by rozhněvalo bohy.",
+      "skepticke": "Z čistě technického hlediska by hora pravděpodobně šla zdolat, absence výstupů ale není náhoda ani nadpřirozená překážka - jde o vědomé rozhodnutí úřadů i samotných horolezců respektovat posvátnost místa pro miliony věřících čtyř náboženství před sportovním rekordem."
     },
-    "praktickeInfo": "Pred navstevou Mount Kailash over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Poutní okruh (kóra) kolem hory trvá obvykle tři dny pěšky ve vysoké nadmořské výšce, vyžaduje aklimatizaci a povolení k cestě do Tibetu, samotný výstup na vrchol je zakázán.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Mount Kailash",
         "url": "https://en.wikipedia.org/wiki/Mount_Kailash",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Mount Kailash",
-        "url": "https://www.wikidata.org/w/index.php?search=Mount%20Kailash",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Mount Kailash",
+        "url": "https://www.wikidata.org/wiki/Q229107",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Mount%20Kailash%20Tibet",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Mount Kailash posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Souboj o horu paprskem slunce",
+        "text": "Legenda vypráví, jak mnich Milarepa porazil rivala Nara v souboji o horu tím, že na vrchol vyjel po paprsku slunečního světla, zatímco jeho protivník marně šplhal s magickým bubnem."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Posvátná pro čtyři náboženství",
+        "text": "Hinduisté, buddhisté, džinisté i stoupenci tibetského bönu nezávisle na sobě považují Kailás za duchovní osu světa - vzácná shoda napříč zcela odlišnými tradicemi."
       }
     ]
   },
@@ -30192,7 +30202,7 @@
     "nazev": "Potala Palace",
     "zeme": "Tibet",
     "kontinent": "Asie",
-    "lead": "Palac nad Lhasou, kde duchovni moc, politika a horska poloha tvori monumentalni symbol.",
+    "lead": "Nejvýše položený palác světa, zasvěcený mytické zemi bódhisattvy soucitu, a zimní sídlo dalajlamů po tři století.",
     "gps": {
       "lat": 29.6578,
       "lon": 91.1169
@@ -30209,44 +30219,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Potala Palace doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Palac nad Lhasou, kde duchovni moc, politika a horska poloha tvori monumentalni symbol. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Nad tibetskou Lhasou se na Rudém vrchu tyčí palác, jehož jméno odkazuje na mytické obydlí bódhisattvy soucitu - a který tři století sloužil jako zimní rezidence duchovních vůdců tibetského buddhismu.",
+      "historie": "Historie paláce má dvě vrstvy. První sahá do 7. století, kdy tibetský král Songcän Gampo postavil na Rudém vrchu sídlo ke svému sňatku s čínskou princeznou Wenčcheng - tato stavba ale zanikla během občanské války v 9. století. Dnešní podoba pochází z roku 1645, kdy stavbu zahájil pátý dalajlama, a palác sloužil jako zimní sídlo dalajlamů od roku 1649 až do roku 1959.",
+      "legenda": "Jméno Potala pochází ze sanskrtského slova Potalaka, mytického obydlí bódhisattvy Avalókitéšvary (Čänräziga), bódhisattvy soucitu. Volbou tohoto místa a jména pátý dalajlama symbolicky ustanovil palác jako ráj na zemi a sebe sama jako vtělení tibetského ochranného bódhisattvy.",
+      "paranormalni": "Červený palác uvnitř komplexu ukrývá kaple, posvátné sochy a hrobky osmi dalajlamů a zůstává důležitým poutním místem tibetských buddhistů dodnes.",
+      "skepticke": "Historie stavby, jejích přestaveb i náboženský význam jsou podrobně zdokumentované - palác je od roku 1994 součástí seznamu UNESCO společně se sousedním klášterem Jókhang a letním palácem Norbulingka jako historický komplex, ne jako místo opředené nevysvětlitelnými jevy."
     },
-    "praktickeInfo": "Pred navstevou Potala Palace over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Palác je přístupný s placeným vstupem a omezeným denním počtem návštěvníků kvůli ochraně památky, nachází se ve vysoké nadmořské výšce přes 3 700 metrů, doporučuje se počítat s aklimatizací.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Potala Palace",
         "url": "https://en.wikipedia.org/wiki/Potala_Palace",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Potala Palace",
-        "url": "https://www.wikidata.org/w/index.php?search=Potala%20Palace",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Potala Palace",
+        "url": "https://www.wikidata.org/wiki/Q71229",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Potala%20Palace%20Tibet",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Potala%20Palace%20Lhasa",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Potala Palace posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Palác pojmenovaný po mýtu",
+        "text": "Jméno Potala odkazuje na sanskrtskou mytickou horu Potalaka, obydlí bódhisattvy soucitu - volba jména, kterou pátý dalajlama symbolicky spojil sám sebe s touto tradicí."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Nejvýše položený palác světa",
+        "text": "Ve výšce přes 3 700 metrů nad mořem drží Potala titul nejvýše položeného paláce na světě, postaveného na místě staršího královského sídla ze 7. století."
       }
     ]
   },
@@ -30624,7 +30634,7 @@
     "nazev": "Sanxingdui",
     "zeme": "Cina",
     "kontinent": "Asie",
-    "lead": "Archeologicke naleziste s bronzovymi maskami, ktere pusobi cize a pritahuje alternativni vyklady.",
+    "lead": "Bronzové masky s vypoulenýma očima a křídlovitýma ušima patřily civilizaci, o jejíž existenci nevěděl žádný starověký čínský text - a nikdo neví, jak si sama sebe nazývala.",
     "gps": {
       "lat": 30.997,
       "lon": 104.21
@@ -30641,44 +30651,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Sanxingdui doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Archeologicke naleziste s bronzovymi maskami, ktere pusobi cize a pritahuje alternativni vyklady. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V čínské provincii S'-čchuan objevili archeologové stovky bronzových artefaktů zcela neznámého stylu - obří masky s vypoulenýma očima a křídlovitýma ušima, jaké svět předtím nikdy neviděl, patřící civilizaci bez jména.",
+      "historie": "První nález učinil náhodou sečuánský farmář Jen Tao-čcheng už na jaře 1929, kdy narazil na jeskyni s více než 300 nefritovými artefakty. Skutečně monumentální objev ale přišel až v roce 1986, kdy archeologové odkryli dvě obětní jámy plné záměrně rozbitých nebo spálených nefritových, bronzových a slonovinových předmětů.",
+      "legenda": "Artefakty patřily dosud neznámé bronzové civilizaci Šu, která existovala zhruba mezi lety 1250 a 1100 př. n. l. a pak náhle zmizela - v době, kdy se předpokládalo, že kolébka čínské civilizace leží o 1200 kilometrů severovýchodněji na řece Chuang-che. Největší nalezená maska měří 1,32 metru na šířku a je největší dosud objevenou bronzovou maskou na světě.",
+      "paranormalni": "Záhadu prohlubuje absence jakýchkoli lidských ostatků, textů nebo historických záznamů o civilizaci na místě samém i v okolních lokalitách - masky nemají jména ani žádné nápisy, takže nevíme, kdo je vytvořil ani proč.",
+      "skepticke": "Přestože zůstává mnoho otázek o smyslu a jméně civilizace nezodpovězeno, samotné artefakty jsou archeologicky nezpochybnitelné a datovatelné - výzkum navíc pokračuje, mezi lety 2020 a 2022 objevili archeologové šest dalších jam se zlomky zlaté masky, hedvábí a slonovinových řezeb."
     },
-    "praktickeInfo": "Pred navstevou Sanxingdui over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Artefakty jsou vystavené v Sanxingdui Museum poblíž nalezišť, muzeum nabízí placený vstup a je dobře přizpůsobené turistickým prohlídkám.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Sanxingdui",
         "url": "https://en.wikipedia.org/wiki/Sanxingdui",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Sanxingdui",
-        "url": "https://www.wikidata.org/w/index.php?search=Sanxingdui",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Sanxingdui",
+        "url": "https://www.wikidata.org/wiki/Q929072",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Sanxingdui%20Cina",
-        "licence": "ODbL / map verification"
+        "nazev": "Smithsonian Magazine - Sanxingdui artifacts",
+        "url": "https://www.smithsonianmag.com/smart-news/trove-of-13000-artifacts-sheds-light-on-enigmatic-chinese-civilization-180980254/",
+        "licence": "novinářský zdroj"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Sanxingdui%20Museum",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Sanxingdui posiluje mapu v motivech ztracena-mesta, konspirace a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Civilizace bez jména",
+        "text": "Přestože jde o vyspělou bronzovou kulturu s unikátním stylem, nemáme žádný text ani záznam, jak sama sebe nazývala - jméno Šu jí přiřadili až moderní historikové."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Největší bronzová maska na světě",
+        "text": "Jedna z nalezených masek měří 1,32 metru na šířku a zůstává největší dosud objevenou bronzovou maskou na světě."
       }
     ]
   },
@@ -31056,7 +31071,7 @@
     "nazev": "Mausoleum of the First Qin Emperor",
     "zeme": "Cina",
     "kontinent": "Asie",
-    "lead": "Hrobka prvniho cisare s terakotovou armadou a predstavou podzemniho imperia.",
+    "lead": "Hrobka prvního čínského císaře s modelem celé říše zalitým tekutou rtutí zůstává nedotčená - archeologové ji záměrně neotevírají, dokud na to nebudou mít bezpečnou technologii.",
     "gps": {
       "lat": 34.384,
       "lon": 109.254
@@ -31073,44 +31088,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mausoleum of the First Qin Emperor doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Hrobka prvniho cisare s terakotovou armadou a predstavou podzemniho imperia. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Terakotová armáda objevená náhodou farmáři v roce 1974 je jen předsíní mnohem většího tajemství: samotná hlavní pohřební komora prvního čínského císaře Čchin Š'-chuanga nebyla nikdy otevřena a podle starých záznamů ji zaplavují řeky tekuté rtuti.",
+      "historie": "Farmáři kopající studnu v roce 1974 narazili na terakotové vojáky - během následujícího desetiletí archeologové odkryli nejméně 8000 kdysi barevně natřených soch se svými koňmi a vozy. Samotná hlavní hrobka, větší než fotbalové hřiště, ale zůstává uzavřená dodnes.",
+      "legenda": "Podle starověkého historika Sima Qiana ukrývá podzemní palác zmenšený model tehdy známé Číny se stovkou řek, jezer a moří vytvořených z tekuté rtuti místo vody. Čínská vláda na doporučení archeologů odmítá komoru otevřít, dokud nebude mít technologii, která by bezpečně ochránila obsah před poškozením.",
+      "paranormalni": "Průzkumy půdy kolem hrobky v 80. letech skutečně potvrdily výrazně vyšší koncentrace rtuti než ve zbytku regionu, což starověké záznamy o rtuťových řekách nečekaně podpořilo vědeckým měřením.",
+      "skepticke": "Opatrnost při neotevření hrobky není pověrčivá bázeň, ale racionální vědecké rozhodnutí: podobné případy uspěchaného otevření starověkých hrobek jinde ve světě vedly k nenávratnému poškození obsahu kontaktem se vzduchem - čínští archeologové proto čekají na lepší konzervační technologie, ne na zažehnání kletby."
     },
-    "praktickeInfo": "Pred navstevou Mausoleum of the First Qin Emperor over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Muzeum terakotové armády je plně přístupné s placeným vstupem a patří mezi nejnavštěvovanější památky Číny, samotná hlavní hrobka není a nebude v dohledné době přístupná veřejnosti ani badatelům.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Mausoleum of the First Qin Emperor",
-        "url": "https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Mausoleum of Qin Shi Huang",
+        "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Mausoleum of the First Qin Emperor",
-        "url": "https://www.wikidata.org/w/index.php?search=Mausoleum%20of%20the%20First%20Qin%20Emperor",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Mausoleum of the First Qin Emperor",
+        "url": "https://www.wikidata.org/wiki/Q910180",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Mausoleum%20of%20the%20First%20Qin%20Emperor%20Cina",
-        "licence": "ODbL / map verification"
+        "nazev": "UNESCO World Heritage - Mausoleum of the First Qin Emperor",
+        "url": "https://whc.unesco.org/en/list/441/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Mausoleum%20of%20Qin%20Shi%20Huang",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Mausoleum of the First Qin Emperor posiluje mapu v motivech umrti, tajne-spolecnosti a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Řeky rtuti pod zemí",
+        "text": "Podle starověkého historika Sima Qiana ukrývá hrobka model tehdejší Číny se stovkou řek a moří vytvořených z tekuté rtuti - tvrzení, které moderní měření půdy překvapivě podpořilo."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Hrobka, kterou nikdo neotevře",
+        "text": "Čínská vláda záměrně odmítá hlavní komoru otevřít, dokud věda nezaručí bezpečnou konzervaci obsahu - opatrnost založená na zkušenosti s poškozením podobných nálezů jinde ve světě."
       }
     ]
   },
@@ -32136,7 +32156,7 @@
     "nazev": "Taktsang Monastery",
     "zeme": "Bhutan",
     "kontinent": "Asie",
-    "lead": "Tygri hnizdo na utesu, jedna z nejdramatictejsich posvatnych staveb Asie.",
+    "lead": "Klášter přilepený na skále 900 metrů nad údolím, kam měl gurua dopravit létající tygr, aby tu vyhnal démony.",
     "gps": {
       "lat": 27.491,
       "lon": 89.363
@@ -32153,44 +32173,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Taktsang Monastery doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Tygri hnizdo na utesu, jedna z nejdramatictejsich posvatnych staveb Asie. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Na téměř kolmé skalní stěně přes 900 metrů nad údolím Paro se v Bhútánu drží klášter, ke kterému se podle legendy jeden z nejvýznamnějších učitelů tibetského buddhismu dopravil na hřbetě tygřice.",
+      "historie": "Chrám postavený kolem jeskyně, Guru mCchan-brgjad Lhakang, dal vybudovat Gjalse Tenzin Rabgje roku 1692. Místo je od té doby jedním z nejposvátnějších poutních míst bhútánského buddhismu.",
+      "legenda": "Podle tradice přiletěl osmý buddhistický mistr Guru Rinpočhe (Padmasambhava) na hřbetě tygřice z Tibetu přímo do jeskyně, kde poté přes tři roky meditoval, aby z okolí vyhnal démony bránící šíření buddhismu. Tygřice byla podle legendy převtělením jeho společnice Ješe Cchogjal, která se do zvířete dobrovolně proměnila, aby gurua unesla.",
+      "paranormalni": "Klášter zůstává živým centrem bhútánské duchovní tradice, ne jen turistickou atrakcí - jméno Taktsang v překladu znamená přímo 'tygří doupě', odkaz na zakladatelskou legendu.",
+      "skepticke": "Legenda o létající tygřici je součástí bohaté tibetsko-bhútánské hagiografické tradice spojené s Guru Rinpočhem, který skutečně historicky přispěl k šíření buddhismu v regionu - dramatický obraz létajícího tygra symbolizuje duchovní překonání překážek, ne doslovnou fyzickou událost."
     },
-    "praktickeInfo": "Pred navstevou Taktsang Monastery over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "K místu vede náročnější horský výstup trvající obvykle 2-3 hodiny každým směrem, doporučuje se dobrá fyzická kondice a aklimatizace na nadmořskou výšku.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Taktsang Monastery",
-        "url": "https://en.wikipedia.org/wiki/Taktsang_Monastery",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Paro Taktsang",
+        "url": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Taktsang Monastery",
-        "url": "https://www.wikidata.org/w/index.php?search=Taktsang%20Monastery",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Paro Taktsang",
+        "url": "https://www.wikidata.org/wiki/Q2209873",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Taktsang%20Monastery%20Bhutan",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Paro%20Taktsang%20Bhutan",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Taktsang Monastery posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Let na hřbetě tygřice",
+        "text": "Guru Rinpočhe měl podle legendy přiletět z Tibetu na hřbetě tygřice, do níž se proměnila jeho společnice Ješe Cchogjal, aby ho dopravila k jeskyni pro meditaci."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Tři roky boje s démony",
+        "text": "V jeskyni pod dnešním klášterem měl guru strávit přes tři roky meditací, aby z okolí vyhnal démony bránící šíření buddhismu v regionu."
       }
     ]
   },
@@ -37680,7 +37700,7 @@
     "nazev": "Chavin de Huantar",
     "zeme": "Peru",
     "kontinent": "Jizni Amerika",
-    "lead": "Chramovy labyrint chodeb, zvuku a obrazů, kde se ritualni prostor stava psychologickou technologii.",
+    "lead": "Andský chrám starý 3000 let, který ovládal poutníky posvátnou hrůzou v temných kamenných chodbách - beze zbraně a beze armády.",
     "gps": {
       "lat": -9.594,
       "lon": -77.177
@@ -37697,44 +37717,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chavin de Huantar doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Chramovy labyrint chodeb, zvuku a obrazů, kde se ritualni prostor stava psychologickou technologii. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "V peruánských Andách, dva tisíce let před Inky, postavila kultura bez vlastního písma a bez armády chrám protkaný temnými kamennými tunely - a v jeho srdci, hluboko v naprosté tmě, umístila vyřezávané žulové božstvo s tesáky.",
+      "historie": "Chavín de Huántar bylo náboženským centrem kultury Chavín, existující zhruba mezi lety 900 a 200 př. n. l. Komplex se skládá ze Starého chrámu z doby kolem roku 900 př. n. l. a Nového chrámu přidaného kolem roku 400 př. n. l., tvořeného masivní plochou pyramidou obklopenou nižšími plošinami a propadlým kruhovým nádvořím.",
+      "legenda": "V samém srdci stavby, na křížení úzké chodby ve tvaru kříže hluboko v jádru chrámu, stojí dodnes přesně na svém původním místě socha zvaná Lanzón - patrně nejvyšší božstvo Chavínu. Vědci se domnívají, že sloužila jako věštírna: kněží zde dělali klimatické předpovědi a poutníci sem přicházeli s prosbami a dary.",
+      "paranormalni": "Poutníci putovali i stovky kilometrů, aby se zúčastnili obřadů - výzkumy naznačují, že Chavín ovládal široké okolí čistě prostřednictvím náboženských rituálů a psychologického efektu architektury, ne vojenskou silou.",
+      "skepticke": "Archeologické studie ukazují, že tmavé, klikaté kamenné chodby, ozvěny mušlových trubek a skryté vodní kanály byly promyšleně navrženy tak, aby v poutnících vyvolávaly úctu a dezorientaci - architektura samotná fungovala jako nástroj náboženské autority, ne skutečná nadpřirozená síla."
     },
-    "praktickeInfo": "Pred navstevou Chavin de Huantar over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Areál je přístupný s placeným vstupem, prohlídka zahrnuje sestup do úzkých podzemních galerií, doporučuje se počítat s vysokou nadmořskou výškou peruánských And.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Chavin de Huantar",
-        "url": "https://en.wikipedia.org/wiki/Chavin_de_Huantar",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Chavín de Huántar",
+        "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Chavin de Huantar",
-        "url": "https://www.wikidata.org/w/index.php?search=Chavin%20de%20Huantar",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Chavín de Huántar",
+        "url": "https://www.wikidata.org/wiki/Q732554",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Chavin%20de%20Huantar%20Peru",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Chavin%20de%20Huantar",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Chavin de Huantar posiluje mene zastoupene regiony a motivy podzemi, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Lanzón na svém místě 2500 let",
+        "text": "Socha zvaná Lanzón stojí přesně tam, kam ji stavitelé umístili před zhruba 2500 lety, na křižovatce úzkých kamenných chodeb v samém jádru chrámu."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Moc bez armády",
+        "text": "Výzkumy naznačují, že kultura Chavín ovládala široké okolí čistě silou náboženských rituálů a architektury, ne vojenským dobýváním - poutníci přicházeli dobrovolně ze vzdálenosti až 500 kilometrů."
       }
     ]
   },
@@ -38688,7 +38708,7 @@
     "nazev": "Cerro Rico",
     "zeme": "Bolivie",
     "kontinent": "Jizni Amerika",
-    "lead": "Hora stribra nad Potosi, kde bohatstvi, nucena prace a dulni podzemi vytvorily temnou svetovou pamet.",
+    "lead": "Hora, která od 16. století spolykala miliony horníků, a démon jménem El Tío, kterému dodnes horníci nosí cigarety a alkohol výměnou za ochranu.",
     "gps": {
       "lat": -19.588,
       "lon": -65.755
@@ -38705,44 +38725,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cerro Rico doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Hora stribra nad Potosi, kde bohatstvi, nucena prace a dulni podzemi vytvorily temnou svetovou pamet. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Nad bolivijským městem Potosí se tyčí hora, které místní říkají 'hora, co požírá muže' - a hluboko v jejích štolách sedí démonická socha, které horníci dodnes nosí dary výměnou za bezpečí.",
+      "historie": "Cerro Rico objevil roku 1545 kečuánský horník Diego de Huallpa pracující pro Španěly. Mezi 16. a 18. stoletím pocházelo z hory až 80 % celosvětové produkce stříbra. Za 500 let těžby zde podle odhadů zahynulo až osm milionů zotročených domorodých a afrických dělníků.",
+      "legenda": "Hluboko ve štolách sedí sochy El Tío ('strýček') - démonického pána podzemí zpodobněného v červené barvě s rohy, ovinutého pestrými stuhami. Horníci mu pravidelně nosí koka listy, cigarety a alkohol: pokud horník narazí na bohatou žílu stříbra, je to dílo El Tía, pokud ho zabije padající kámen, je to jeho dílo také.",
+      "paranormalni": "Hora je stále aktivním nalezištěm s téměř 20 000 pracujícími horníky denně, přičemž měsíčně v jejích štolách zemře v průměru 14 lidí a průměrná délka života horníků je jen kolem 40 let.",
+      "skepticke": "Vysoká úmrtnost má jasné, doložené příčiny - zával, otrava plynem, křemičité prachové onemocnění plic z dlouhodobé práce v nebezpečných podmínkách, ne hněv podzemního démona - kult El Tía nicméně zůstává hluboce zakořeněnou kulturní praxí, která horníkům pomáhá psychologicky zvládat mimořádně nebezpečnou práci."
     },
-    "praktickeInfo": "Pred navstevou Cerro Rico over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Prohlídky aktivních štol nabízejí bývalí horníci jako průvodci, návštěva zahrnuje fyzicky náročný sestup do úzkých a prašných tunelů a nese reálné zdravotní riziko, doporučuje se zvážit etickou stránku turistiky v aktivním nebezpečném dole.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Cerro Rico",
         "url": "https://en.wikipedia.org/wiki/Cerro_Rico",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Cerro Rico",
-        "url": "https://www.wikidata.org/w/index.php?search=Cerro%20Rico",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Cerro Rico",
+        "url": "https://www.wikidata.org/wiki/Q1055970",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Cerro%20Rico%20Bolivie",
-        "licence": "ODbL / map verification"
+        "nazev": "CNN Travel - The Mountain that Eats Men",
+        "url": "https://www.cnn.com/travel/potosi-bolivia-town-silver-mining-dynamite",
+        "licence": "novinářský zdroj"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Cerro%20Rico%20Potosi",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Cerro Rico posiluje mene zastoupene regiony a motivy umrti, podzemi. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Osm milionů obětí",
+        "text": "Za pět století těžby stříbra a cínu si hora podle odhadů vyžádala životy až osmi milionů zotročených a najatých horníků - odtud přezdívka 'hora, co požírá muže'."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Dary pro pána podzemí",
+        "text": "Horníci dodnes nosí soškám El Tía koka listy, cigarety a alkohol výměnou za ochranu před nehodami a naději na bohatou žílu rudy."
       }
     ]
   },
@@ -39552,7 +39577,7 @@
     "nazev": "Ciudad Blanca Mosquitia",
     "zeme": "Honduras",
     "kontinent": "Severni Amerika",
-    "lead": "Legendami opredena bila metropole v Mosquitii, moderni priklad touhy po ztracenem meste v dzungli.",
+    "lead": "Bájné Bílé město v honduraském pralese, které lidé hledali od dob dobyvatelů - a jehož skutečné objevení v roce 2015 provázela zvláštní shoda nešťastných událostí.",
     "gps": {
       "lat": 15.2,
       "lon": -84.7
@@ -39569,44 +39594,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ciudad Blanca Mosquitia doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Legendami opredena bila metropole v Mosquitii, moderni priklad touhy po ztracenem meste v dzungli. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Hluboko v honduraském pralese Mosquitia se po staletí traduje legenda o Bílém městě zasvěceném opičímu bohu - a když ho archeologové v roce 2015 konečně skutečně objevili, řada členů expedice onemocněla vzácnou parazitární nemocí.",
+      "historie": "Zprávy o bílých kamenných věžích v pralese hlásil už španělský dobyvatel Hernán Cortés, který ale lokalitu nikdy sám nenašel. V roce 1927 hlásil monumentální bílé stavby při přeletu regionu i letec Charles Lindbergh. Ve 30. letech se šířily zprávy o takzvaném 'Městě opičího boha' ztotožňovaném s Ciudad Blanca a roku 1939 dobrodruh Theodore Morde tvrdil, že místo našel a přivezl odtud tisíce artefaktů.",
+      "legenda": "Místní tradice vypráví, že obyvatelé bájného města ho v 16. století opustili poté, co uvěřili, že ho bohové prokleli nemocí. Skutečný, nezávisle ověřený objev přišel až v roce 2015, kdy expedice s pomocí LiDAR technologie odhalila v hustém pralese náměstí, násypy, mohyly a zemní pyramidu neznámé kultury spolu s kešem kamenných soch u její paty.",
+      "paranormalni": "Řada členů expedice, včetně novináře Douglase Prestona, se během výpravy nakazila leishmaniózou, parazitárním onemocněním poškozujícím kůži a tkáně - shoda okolností, která vedla některé k otázce, zda na staré kletbě přece jen něco není.",
+      "skepticke": "Leishmanióza je běžné riziko práce v tropickém pralese přenášené bodnutím hmyzu, ne nadpřirozený trest - a proslulá 'kletba' je pravděpodobně jen dramatizace reálného zdravotního rizika, které provází terénní archeologický výzkum v tomto typu prostředí odjakživa."
     },
-    "praktickeInfo": "Pred navstevou Ciudad Blanca Mosquitia over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Lokalita leží v jedné z nejodlehlejších a nejhůře přístupných částí Střední Ameriky bez turistické infrastruktury, návštěva je prakticky vyhrazená vědeckým expedicím.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Ciudad Blanca Mosquitia",
-        "url": "https://en.wikipedia.org/wiki/Ciudad_Blanca_Mosquitia",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: La Ciudad Blanca",
+        "url": "https://en.wikipedia.org/wiki/La_Ciudad_Blanca",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Ciudad Blanca Mosquitia",
-        "url": "https://www.wikidata.org/w/index.php?search=Ciudad%20Blanca%20Mosquitia",
-        "licence": "CC0 / entity discovery"
+        "nazev": "National Geographic - Lost City Discovery",
+        "url": "https://www.nationalgeographic.com/adventure/article/150302-honduras-lost-city-monkey-god-maya-ancient-archaeology",
+        "licence": "novinářský zdroj"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Ciudad%20Blanca%20Mosquitia%20Honduras",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=La%20Mosquitia%20Honduras",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Ciudad Blanca Mosquitia posiluje mene zastoupene regiony a motivy ztracena-mesta, zmizeni. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Lindberghův přelet",
+        "text": "Legendární letec Charles Lindbergh v roce 1927 hlásil, že při přeletu honduraského pralesa spatřil monumentální bílé kamenné stavby - jeden z mnoha dobových svědectví předcházejících skutečnému objevu."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Nemoc, která přišla s objevem",
+        "text": "Krátce po ověřeném objevu města v roce 2015 se řada členů expedice nakazila vzácnou parazitární nemocí - shoda, kterou legenda o prokletí okamžitě vstřebala."
       }
     ]
   },
@@ -45756,7 +45781,7 @@
     "nazev": "Bikini Atoll",
     "zeme": "Marshallovy ostrovy",
     "kontinent": "Oceanie",
-    "lead": "Atol jadernych testu, kde rajska laguna nese moderni radioaktivni a politickou pamet.",
+    "lead": "Tichomořský atol, kde USA odpálily 23 jaderných náloží a jehož obyvatele slíbená návratnost domů dodnes nedostihla.",
     "gps": {
       "lat": 11.6,
       "lon": 165.4
@@ -45773,44 +45798,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bikini Atoll doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Atol jadernych testu, kde rajska laguna nese moderni radioaktivni a politickou pamet. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Bikini Atoll v Marshallových ostrovech vypadá na fotografiích jako tyrkysový tichomořský ráj - ve skutečnosti šlo v letech 1946 až 1958 o místo 23 jaderných testů, včetně jednoho z nejsilnějších výbuchů v historii lidstva.",
+      "historie": "V únoru 1946 oznámil americký vojenský guvernér zhruba 167 obyvatelům atolu, že se musí dočasně vystěhovat kvůli testům, které mají 'zabránit budoucím válkám'. Obyvatelé byli přesunuti na atol Rongerik, kde ale chyběly dostatečné zdroje potravy a pitné vody.",
+      "legenda": "Nejničivější byl test Castle Bravo z 1. března 1954 o síle tisíckrát převyšující bombu svrženou na Hirošimu - hřibovitý mrak dosáhl výšky přes 39 kilometrů a vypařil tři ostrovy. Radioaktivní spad z drceného korálu a vody dopadl i na obydlené atoly v okolí.",
+      "paranormalni": "Obyvatelé se na Bikini krátce vrátili roku 1969, ale byli znovu evakuováni roku 1978 kvůli nepřijatelně vysoké radiaci, a další obavy z přetrvávajícího záření vedly k evakuaci lodí Rainbow Warrior organizace Greenpeace v roce 1985.",
+      "skepticke": "Podle Národního onkologického institutu USA je až 55 % veškerých případů rakoviny na severních atolech přímým důsledkem radioaktivního spadu z testu Castle Bravo - jde o vědecky měřitelný, tragický dopad jaderných zbraní, ne o nadpřirozenou kletbu místa."
     },
-    "praktickeInfo": "Pred navstevou Bikini Atoll over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Atol zůstává řídce osídlený kvůli přetrvávající radiaci, návštěva je možná jen v omezené míře organizovanými potápěčskými expedicemi k vrakům lodí z testů, trvalé znovuosídlení domácí populace se dosud nepodařilo bezpečně obnovit.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Bikini Atoll",
         "url": "https://en.wikipedia.org/wiki/Bikini_Atoll",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Bikini Atoll",
-        "url": "https://www.wikidata.org/w/index.php?search=Bikini%20Atoll",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Bikini Atoll",
+        "url": "https://www.wikidata.org/wiki/Q152225",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Bikini%20Atoll%20Marshallovy%20ostrovy",
-        "licence": "ODbL / map verification"
+        "nazev": "National Security Archive - Castle Bravo at 70",
+        "url": "https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2024-02-29/castle-bravo-70-worst-nuclear-test-us-history",
+        "licence": "novinářský a archivní zdroj"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Bikini%20Atoll",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Bikini Atoll posiluje mene zastoupene regiony a motivy zakazane-zony, kosmicka-anomalie. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Slib, který se nikdy nesplnil",
+        "text": "Obyvatelům bylo v roce 1946 řečeno, že jde jen o dočasné vystěhování - dodnes, o desítky let později, se na atol nemohou natrvalo a bezpečně vrátit."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Výbuch tisíckrát silnější než Hirošima",
+        "text": "Test Castle Bravo z roku 1954 byl tisíckrát silnější než bomba svržená na Hirošimu a vypařil tři celé ostrovy atolu."
       }
     ]
   },
@@ -55045,7 +55075,7 @@
     "nazev": "Mount Ararat",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Sopka spojovana s biblickym pribehem archy, vedeckymi expedicemi i dlouhou linii spornych tvrzeni.",
+    "lead": "Nejvyšší hora Turecka, kterou už od středověku lidé spojují s místem, kde po potopě přistála Noemova archa.",
     "gps": {
       "lat": 39.702,
       "lon": 44.299
@@ -55062,44 +55092,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.2,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mount Ararat doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Sopka spojovana s biblickym pribehem archy, vedeckymi expedicemi i dlouhou linii spornych tvrzeni.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Sněhem pokrytý vrchol na hranici Turecka, Arménie a Íránu je už od středověku spojován s biblickým příběhem o Noemově arše, která tu měla přistát po ustoupení potopy - a desítky expedic od 19. století dodnes hledají jakoukoli hmatatelnou stopu.",
+      "historie": "První zaznamenaný výstup na horu vedl Friedrich Parrot v roce 1829, který ve svém zápisu poznamenal, že místní Arméni jsou pevně přesvědčeni, že archa na vrcholu Araratu zůstává dodnes. Od té doby horu zdolaly desítky expedic, včetně rozsáhlé výpravy z roku 1974 s 200 účastníky z asi 20 zemí.",
+      "legenda": "Silné deště v roce 1948 odkryly asi 15 kilometrů od vrcholu útvar připomínající tvarem loď, který od té doby přitahuje badatele i amatérské hledače. V roce 1952 francouzský průzkumník Fernand Navarra tvrdil, že o samotě zahlédl temnou hmotu, kterou označil za jedině možnou archu.",
+      "paranormalni": "Přestože žádná expedice nikdy nepřinesla přesvědčivý archeologický důkaz, zprávy o dřevěných strukturách a neobvyklých útvarech se stále objevují a udržují legendu při životě už téměř dvě staletí systematického hledání.",
+      "skepticke": "Navzdory rozsáhlému a dlouhodobému pátrání se nikdy nepodařilo najít jednoznačný archeologický důkaz existence archy na hoře - takzvaná 'archová anomálie' zůstává nejpravděpodobněji přirozeným geologickým útvarem, ne pozůstatkem starověké lodi."
     },
-    "praktickeInfo": "Pred navstevou Mount Ararat over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Výstup na horu vyžaduje speciální povolení tureckých úřadů kvůli poloze v citlivé pohraniční oblasti a obvykle i najatého horského průvodce, jde o technicky náročný vysokohorský výstup.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Mount Ararat",
         "url": "https://en.wikipedia.org/wiki/Mount_Ararat",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Mount Ararat",
-        "url": "https://www.wikidata.org/w/index.php?search=Mount%20Ararat",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Mount Ararat",
+        "url": "https://www.wikidata.org/wiki/Q72303",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Mount%20Ararat%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "Wikipedia: Searches for Noah's Ark",
+        "url": "https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Mount%20Ararat%20Turkey",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Mount Ararat pridava motivy mytologie, pseudoveda a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Dvě století hledání",
+        "text": "Od první zdokumentované výpravy v roce 1829 zdolaly horu desítky expedic hledajících stopy Noemovy archy, žádná z nich ale nepřinesla jednoznačný archeologický důkaz."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Útvar odkrytý deštěm",
+        "text": "Silné deště v roce 1948 odkryly útvar tvarem připomínající loď asi 15 kilometrů od vrcholu, který od té doby přitahuje badatele i amatérské hledače archy."
       }
     ]
   },
@@ -55189,7 +55224,7 @@
     "nazev": "Lalibela Rock Churches",
     "zeme": "Etiopie",
     "kontinent": "Afrika",
-    "lead": "Chramy vytesane do skaly pod uroven terenu, jedna z nejsilnejsich duchovnich krajin Afriky.",
+    "lead": "Jedenáct kostelů vytesaných z jednoho kusu skály, které měli podle legendy za jedinou noc dokončit andělé.",
     "gps": {
       "lat": 12.031,
       "lon": 39.047
@@ -55206,44 +55241,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Lalibela Rock Churches doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Chramy vytesane do skaly pod uroven terenu, jedna z nejsilnejsich duchovnich krajin Afriky.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V etiopských horách stojí jedenáct monolitických kostelů, z nichž každý je vytesaný z jediného kusu skály shora dolů - podle legendy je za pouhou jednu noc dokončili andělé, kteří pracovali souběžně s lidmi.",
+      "historie": "Kostely nechal ve 12. nebo 13. století vybudovat král Gebre Meskel Lalibela, který podle svého životopisu (gadl) na díle pracoval 24 let s pomocí andělů. Stavby stojí na svém místě už nejméně 800 let a patří k největším monolitickým stavbám svého druhu na světě.",
+      "legenda": "Podle legendy měl Lalibela sen, ve kterém mu Bůh přikázal postavit v Etiopii nový Jeruzalém. Různé části komplexu doslova napodobují konkrétní místa skutečného Jeruzaléma - jedna stavba odkazuje na Adamův hrob, okolní kopce nesou jména Kalvárie a Golgota, místní potok se jmenuje Jordán a olivové háje měly být osázeny z olivovníků přímo z Getsemanské zahrady.",
+      "paranormalni": "Přestože je historie stavby dobře doložená, přesný způsob, jak byly kostely vytesány s takovou přesností do skály bez moderních nástrojů, zůstává předmětem odborného obdivu i spekulací.",
+      "skepticke": "I bez andělské pomoci jde o mimořádný lidský inženýrský výkon - vytesání kostela z jediného kusu skály shora dolů vyžadovalo careful plánování a roky práce zkušených kameníků, ne nadpřirozený zásah, přestože motiv 'stavby dokončené přes noc' je oblíbený hagiografický prvek i u jiných světců."
     },
-    "praktickeInfo": "Pred navstevou Lalibela Rock Churches over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Komplex je aktivním poutním místem etiopské pravoslavné církve s placeným vstupem pro turisty, doporučuje se respektovat probíhající bohoslužby a náboženský provoz.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Lalibela Rock Churches",
-        "url": "https://en.wikipedia.org/wiki/Lalibela_Rock_Churches",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Rock-Hewn Churches, Lalibela",
+        "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches,_Lalibela",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Lalibela Rock Churches",
-        "url": "https://www.wikidata.org/w/index.php?search=Lalibela%20Rock%20Churches",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Monolithic churches in Lalibela",
+        "url": "https://www.wikidata.org/wiki/Q642979",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Lalibela%20Rock%20Churches%20Etiopie",
-        "licence": "ODbL / map verification"
+        "nazev": "UNESCO World Heritage - Rock-Hewn Churches, Lalibela",
+        "url": "https://whc.unesco.org/en/list/18/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Lalibela%20rock%20churches",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Lalibela Rock Churches pridava motivy ritual, podzemi a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Andělé pracující v noci",
+        "text": "Podle hagiografie krále Lalibely pracovali na kostelech ve dne lidé a v noci andělé, díky čemuž se celé dílo podařilo dokončit za pouhých 24 let."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Etiopský Nový Jeruzalém",
+        "text": "Jednotlivé části komplexu přímo napodobují konkrétní místa Jeruzaléma - od Adamova hrobu po potok pojmenovaný Jordán - takže poutníci mohli 'navštívit' svatá místa bez cesty do skutečné Palestiny."
       }
     ]
   },
@@ -55333,7 +55373,7 @@
     "nazev": "Erta Ale Lava Lake",
     "zeme": "Etiopie",
     "kontinent": "Afrika",
-    "lead": "Aktivni sopka s lavovym jezerem, jeden z nejdramatictejsich obrazu otevrene zeme.",
+    "lead": "Etiopská sopka, které místní lid Afar říká 'kouřící hora' a 'brána do pekla' - a jejíž lávové jezero bublá nepřetržitě už přes sto let.",
     "gps": {
       "lat": 13.6,
       "lon": 40.67
@@ -55350,44 +55390,49 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Erta Ale Lava Lake doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Aktivni sopka s lavovym jezerem, jeden z nejdramatictejsich obrazu otevrene zeme.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V jedné z nejsušších, nejníže položených a nejžhavějších oblastí planety bublá už déle než sto let žhavé lávové jezero - místní lid Afar mu říká 'brána do podsvětí'.",
+      "historie": "Erta Ale leží v Danakilské (Afarské) proláklině východní Afriky, kde se od sebe rozestupují tři tektonické desky. Je nejaktivnější etiopskou sopkou a jednou z hrstky sopek na světě s trvale aktivním lávovým jezerem - to bublá přinejmenším od roku 1967, možná už od roku 1906.",
+      "legenda": "V jazyce Afar znamená jméno sopky doslova 'kouřící hora' a pro místní lid, který v oblasti žije po staletí, představuje posvátné místo - bránu do podsvětí. Erta Ale patří mezi jen pět sopek světa s aktivním lávovým jezerem a často má dokonce dvě jezera zároveň.",
+      "paranormalni": "Teplota lávy v jezeře přesahuje 1 100 stupňů Celsia a jeho nepřetržité bublání a záře v noci vytváří dramatickou, téměř nadpozemskou podívanou, která přitahuje dobrodružné cestovatele z celého světa.",
+      "skepticke": "Trvalá aktivita lávového jezera je dobře zdokumentovaný geologický jev spojený s tenkou zemskou kůrou v místě rozestupujících se tektonických desek, ne nadpřirozený portál - poslední boční erupce byla zaznamenána v roce 2017 a sopka je pod nepřetržitým vědeckým dohledem."
     },
-    "praktickeInfo": "Pred navstevou Erta Ale Lava Lake over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Výstup k kráteru vyžaduje vícedenní expedici s místním průvodcem a ozbrojeným doprovodem kvůli bezpečnostní situaci v regionu, extrémní vedro a nedostatek vody vyžadují důkladnou přípravu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Erta Ale Lava Lake",
-        "url": "https://en.wikipedia.org/wiki/Erta_Ale_Lava_Lake",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Erta Ale",
+        "url": "https://en.wikipedia.org/wiki/Erta_Ale",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Erta Ale Lava Lake",
-        "url": "https://www.wikidata.org/w/index.php?search=Erta%20Ale%20Lava%20Lake",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Erta Ale",
+        "url": "https://www.wikidata.org/wiki/Q903",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Erta%20Ale%20Lava%20Lake%20Etiopie",
-        "licence": "ODbL / map verification"
+        "nazev": "NASA Earth Observatory - The Smoking Mountain",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-smoking-mountain-152150/",
+        "licence": "oficiální zdroj / vědecká dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Erta%20Ale%20Ethiopia",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Erta Ale Lava Lake pridava motivy sopky, dabel a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Sto let nepřetržitého bublání",
+        "text": "Lávové jezero na vrcholu Erta Ale je aktivní minimálně od roku 1967, možná už od roku 1906 - jedno z mála trvale aktivních lávových jezer na světě."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Posvátná brána lidu Afar",
+        "text": "Pro místní lid Afar, který v jedné z nejdrsnějších krajin planety žije po staletí, představuje sopka posvátnou bránu do podsvětí, ne jen geologický jev."
       }
     ]
   },
