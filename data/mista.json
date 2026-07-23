@@ -31178,7 +31178,7 @@
     "nazev": "Kowloon Walled City Park",
     "zeme": "Hongkong",
     "kontinent": "Asie",
-    "lead": "Park na miste nekdejsiho hyperhusteho mesta bezne spojovaneho s labyrintem a pravnim stinem.",
+    "lead": "Na ploše menší než dva fotbalové stadiony žilo 33 000 lidí bez policejní kontroly - nejhustěji obydlené místo na Zemi, dnes proměněné v klidný park.",
     "gps": {
       "lat": 22.332,
       "lon": 114.19
@@ -31195,44 +31195,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kowloon Walled City Park doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Park na miste nekdejsiho hyperhusteho mesta bezne spojovaneho s labyrintem a pravnim stinem. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V Hong Kongu stávala čtvrť, kterou díky mezeře v koloniálních smlouvách neovládala ani britská, ani čínská správa - výsledkem bylo nejhustěji obydlené místo na světě, kam se policie odvažovala jen ve velkých skupinách.",
+      "historie": "Místo začínalo jako vojenská základna dynastie Song pro správu solného obchodu, roku 1847 se stalo pobřežní pevností posilující čínskou autoritu po odstoupení Hongkongského ostrova Británii. Úmluva z roku 1898 čtvrť vyjmula z britsky pronajatého území, čímž vznikla unikátní exteritoriální enkláva. Po druhé světové válce ji uprchlíci před čínskou občanskou válkou proměnili v obří slumovou osadu.",
+      "legenda": "Od 50. do 70. let ovládaly enklávu triády, což z ní udělalo útočiště zločinu a drog - policie sem vstupovala jen ve velkých skupinách. Intenzivní razie mezi lety 1973 a 1974 (přes 3500 zásahů, 2500 zatčení, 1800 kilogramů zabavených drog) postupně organizovaný zločin omezily, neregistrovaní lékaři ale ve čtvrti zůstávali běžní i později.",
+      "paranormalni": "V roce 1987 žilo na ploše pouhých 2,6 hektaru asi 33 000 obyvatel - hustota kolem 1 255 000 lidí na čtvereční kilometr, jedna z nejvyšších na Zemi. Kvůli blízkosti letiště Kai Tak nesměly budovy přesáhnout 14 pater, úzké uličky (1-2 metry) postrádaly osvětlení i odvodnění a obyvatelé se běžně pohybovali sítí horních pater, aniž by se dotkli země.",
+      "skepticke": "Po Společné čínsko-britské deklaraci z roku 1984 začala demolice 23. března 1993 a skončila v dubnu 1994, vláda vyplatila kompenzace ve výši 2,7 miliardy hongkongských dolarů. Park Kowloon Walled City otevřený 22. prosince 1995 je navržený podle raných zahrad dynastie Čching - proměna z právního vakua v pečlivě spravovaný veřejný prostor je zdokumentovaným historickým procesem, ne legendou."
     },
-    "praktickeInfo": "Pred navstevou Kowloon Walled City Park over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Dnešní park je volně přístupný zdarma, zahrnuje rekonstruované historické stavby a informační tabule o historii bývalé čtvrti.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Kowloon Walled City Park",
-        "url": "https://en.wikipedia.org/wiki/Kowloon_Walled_City_Park",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Kowloon Walled City",
+        "url": "https://en.wikipedia.org/wiki/Kowloon_Walled_City",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Kowloon Walled City Park",
-        "url": "https://www.wikidata.org/w/index.php?search=Kowloon%20Walled%20City%20Park",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Kowloon Walled City",
+        "url": "https://www.wikidata.org/wiki/Q1022918",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Kowloon%20Walled%20City%20Park%20Hongkong",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Kowloon%20Walled%20City%20Park",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Kowloon Walled City Park posiluje mapu v motivech ztracena-mesta, zakazane-zony a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Město v mezeře zákona",
+        "text": "Kvůli výjimce v koloniálních smlouvách čtvrť neovládala ani britská, ani čínská správa - právní vakuum, které umožnilo vznik jedné z nejhustěji obydlených a nejméně kontrolovaných čtvrtí na světě."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Život, aniž by se nohy dotkly země",
+        "text": "Obyvatelé se běžně pohybovali propletenou sítí horních pater budov po celé čtvrti, aniž by museli sestoupit až na úroveň ulice."
       }
     ]
   },
@@ -42563,7 +42563,7 @@
     "nazev": "Stone Circles of Senegambia",
     "zeme": "Gambie",
     "kontinent": "Afrika",
-    "lead": "Megaliticke kruhy Senegambie, rozsahla pohrebni krajina s opakovanym kamennym vzorcem.",
+    "lead": "Přes tisíc kamenných kruhů rozesetých po západní Africe - a žádný dnešní národ si k nim netroufá přiznat, že by je stavěli jejich předkové.",
     "gps": {
       "lat": 13.691,
       "lon": -15.522
@@ -42580,44 +42580,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Stone Circles of Senegambia doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Megaliticke kruhy Senegambie, rozsahla pohrebni krajina s opakovanym kamennym vzorcem. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Napříč pásem Senegalu a Gambie o rozloze 350 na 100 kilometrů se nachází přes tisíc kamenných kruhů - největší koncentrace tohoto typu monumentů na světě - a žádná dnešní etnická skupina ve svých ústních tradicích netvrdí, že by je stavěli právě její předkové.",
+      "historie": "Kruhy vznikaly postupně od zhruba 3. století př. n. l. do 16. století n. l., pohřební mohyly u Wassu jsou datovány mezi lety 927 a 1305 n. l. Rozsah práce potřebné k jejich vybudování naznačuje prosperující a dobře organizovanou společnost.",
+      "legenda": "U lokality Sine Ngayène archeologové zjistili posun od pohřebních míst k širším rituálním prostorům, kde od zhruba roku 900-1000 n. l. začaly pohřby nahrazovat obětiny. O skutečných stavitelích panuje mezi badateli neshoda - teorie zahrnují lid Serer, mandsky mluvící lid Soos prchající před suchem kolem roku 1000 n. l., nebo lid Bassari a Konyagui na základě podobných pohřebních zvyklostí.",
+      "paranormalni": "Nejpozoruhodnějším faktem zůstává, že žádná dnešní skupina si ve svých dochovaných ústních dějinách nenárokuje, že by kruhy postavili jejich předkové - záhada autorství přetrvává i po rozsáhlém archeologickém výzkumu.",
+      "skepticke": "Absence ústní tradice o stavitelích neznamená nadpřirozený původ, jen ztrátu historické paměti během staletí migrací a společenských proměn regionu - od roku 2006 jsou kruhy na seznamu UNESCO jako rozsáhlá posvátná krajina využívaná déle než 1500 let."
     },
-    "praktickeInfo": "Pred navstevou Stone Circles of Senegambia over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Nejznámější a nejpřístupnější skupina kruhů leží u Wassu v Gambii, přístupná s placeným vstupem a malým místním muzeem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Stone Circles of Senegambia",
         "url": "https://en.wikipedia.org/wiki/Stone_Circles_of_Senegambia",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Stone Circles of Senegambia",
-        "url": "https://www.wikidata.org/w/index.php?search=Stone%20Circles%20of%20Senegambia",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Stone Circles of Senegambia",
+        "url": "https://www.wikidata.org/wiki/Q846901",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Stone%20Circles%20of%20Senegambia%20Gambie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Wassu%20Stone%20Circles%20Gambia",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Stone Circles of Senegambia posiluje mene zastoupene regiony a motivy umrti, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Stavitelé bez jména",
+        "text": "Žádná dnešní etnická skupina regionu si ve svých ústních dějinách nenárokuje stavbu kruhů - autorství zůstává otevřenou otázkou i po staletích archeologického bádání."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Od pohřbů k obětinám",
+        "text": "Archeologové zaznamenali postupný posun v účelu míst - starší kruhy sloužily jako pohřebiště, mladší kolem roku 900-1000 n. l. přešly na obětní rituály bez skutečných pohřbů."
       }
     ]
   },
@@ -56084,7 +56084,7 @@
     "nazev": "Wadi al-Hitan",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Udoli velryb s fosiliemi, ktere uprostred pouste odhaluji davnou promenu more v pevninu.",
+    "lead": "Poušť s 1500 kosterami velryb, které měly ještě zadní nohy a chodidla - živý (byť zkamenělý) důkaz, jak se savci vrátili zpátky do moře.",
     "gps": {
       "lat": 29.33,
       "lon": 30.18
@@ -56101,44 +56101,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Wadi al-Hitan doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Udoli velryb s fosiliemi, ktere uprostred pouste odhaluji davnou promenu more v pevninu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V egyptské poušti asi 150 kilometrů jihozápadně od Káhiry leží údolí posázené kosterami dávných velryb - a některé z nich mají malé zadní nohy, chodidla a prsty, rys, o kterém se dřív u velryb vůbec nevědělo.",
+      "historie": "První fosilní kostry zde objevili v zimě 1902-1903, ale kvůli obtížné dostupnosti terénu jim badatelé osmdesát let nevěnovali velkou pozornost. Zájem se obnovil až v 80. letech s rozšířením terénních vozidel s pohonem všech kol.",
+      "legenda": "Lokalita obsahuje asi 1500 fosilních koster mořských obratlovců na ploše 200 čtverečních kilometrů - podle UNESCO jde o nejvýznamnější místo na světě dokládající jednu z klíčových proměn v historii života na Zemi: evoluci velryb ze suchozemských savců.",
+      "paranormalni": "Dávné druhy archeocetů (prvotních velryb) měly už zjednodušené, hydrodynamické tělo moderních velryb, přesto si podržely primitivní stavbu lebky a zubů - a co je nejpřekvapivější, i drobné zadní nohy, chodidla a prsty, rysy dosud u zkamenělin velryb neznámé.",
+      "skepticke": "Nálezy druhů jako Basilosaurus (dlouhý až 21 metrů) a Dorudon (3-5 metrů) poskytují nezpochybnitelný fosilní důkaz evoluce, ne spekulaci - odstraňování kostí sběrateli vedlo k ochranným opatřením a v roce 2005 k zápisu na seznam UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Wadi al-Hitan over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Návštěva vyžaduje terénní vozidlo a obvykle organizovaný výlet z Káhiry nebo oázy Fajjúm, doporučuje se ochrana proti slunci kvůli odkryté poušti bez stínu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Wadi al-Hitan",
-        "url": "https://en.wikipedia.org/wiki/Wadi_al-Hitan",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Wadi Al-Hitan",
+        "url": "https://en.wikipedia.org/wiki/Wadi_Al-Hitan",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Wadi al-Hitan",
-        "url": "https://www.wikidata.org/w/index.php?search=Wadi%20al-Hitan",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Wadi Al-Hitan",
+        "url": "https://www.wikidata.org/wiki/Q501833",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Wadi%20al-Hitan%20Egypt",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Wadi%20Al-Hitan%20Egypt",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Wadi al-Hitan pridava motivy archeologie, oceany a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Velryba s nohama",
+        "text": "Některé zkamenělé velryby z údolí měly zachované malé zadní nohy, chodidla i prsty - rysy dosud u velrybích fosilií neznámé, dokládající jejich suchozemský původ."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "80 let přehlížený objev",
+        "text": "První kostry objevili už na počátku 20. století, ale kvůli obtížné dostupnosti terénu se skutečný vědecký zájem probudil až s příchodem terénních vozidel v 80. letech."
       }
     ]
   },
@@ -57035,7 +57035,7 @@
     "nazev": "Ubar Shisr Ruins",
     "zeme": "Oman",
     "kontinent": "Asie",
-    "lead": "Ruiny spojovane s legendou o ztracenem meste pouste a obchodnich cestach kadidla.",
+    "lead": "'Atlantida písků' zmíněná v Koránu - a nález, který jeden amatérský archeolog prohlásil za její objev, než ho sám později odvolal.",
     "gps": {
       "lat": 18.255,
       "lon": 53.65
@@ -57056,40 +57056,35 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ubar Shisr Ruins doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Ruiny spojovane s legendou o ztracenem meste pouste a obchodnich cestach kadidla.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V ománské poušti leží archeologické naleziště Šisr, které bylo koncem 90. let prohlášeno za ztracenou koránskou metropoli Iram sloupů, přezdívanou 'Atlantida písků' - identifikace, kterou vědecká obec nikdy plně nepřijala a kterou nakonec zpochybnil i sám autor teorie.",
+      "historie": "Iram sloupů se zmiňuje v súře al-Fadžr (89:6-14) jako ztracené město spojené se starověkým lidem Ád, popsané jako místo 'velké postavy, nemající obdoby v žádné jiné zemi', zničené jako trest za jeho provinění.",
+      "legenda": "Roku 1998 navrhl amatérský archeolog Nicholas Clapp, že Iram odpovídá bájnému městu Ubar, a ztotožnil ho s archeologickým nalezištěm Šisr v Ománu. Tato hypotéza ale mezi odborníky nezískala všeobecné přijetí.",
+      "paranormalni": "Identifikace Ubaru se Šisrem zůstává problematická natolik, že ji později zpochybnil dokonce sám Clapp. Středověké prameny navíc popisují Ubar spíš jako region než jako jedno konkrétní město, a jako alternativní lokality byly navrženy třeba Wadi Rum v Jordánsku.",
+      "skepticke": "Legenda zůstává živá v populární kultuře (objevuje se například ve hrách Uncharted 3 nebo Sunless Sea), vědecký konsenzus se ale nikdy nesjednotil kolem jediné konkrétní identifikace - Šisr samotný je reálné a zajímavé archeologické naleziště, i bez ohledu na to, zda skutečně jde o bájný Ubar."
     },
-    "praktickeInfo": "Pred navstevou Ubar Shisr Ruins over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Naleziště je přístupné veřejnosti v ománském vnitrozemí, doporučuje se místní průvodce kvůli odlehlosti pouštního terénu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Ubar Shisr Ruins",
-        "url": "https://en.wikipedia.org/wiki/Ubar_Shisr_Ruins",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Iram of the Pillars",
+        "url": "https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Ubar Shisr Ruins",
-        "url": "https://www.wikidata.org/w/index.php?search=Ubar%20Shisr%20Ruins",
-        "licence": "CC0 / entity discovery"
-      },
-      {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Ubar%20Shisr%20Ruins%20Oman",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Shisr%20Oman",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ubar Shisr Ruins pridava motivy ztracena-mesta, poust a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Objevitel, který svůj objev zpochybnil",
+        "text": "Amatérský archeolog Nicholas Clapp roku 1998 prohlásil, že objevil ztracené město Ubar - o řadu let později ale svou vlastní identifikaci sám zpochybnil."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Trest zmíněný v Koránu",
+        "text": "Iram sloupů je v Koránu popsán jako mimořádně velkolepé město zničené jako boží trest za provinění jeho obyvatel z lidu Ád."
       }
     ]
   },
@@ -57395,7 +57390,7 @@
     "nazev": "Shibam Wadi Hadhramaut",
     "zeme": "Jemen",
     "kontinent": "Asie",
-    "lead": "Hlinene vysinne mesto v Hadramautu, casto vnimane jako poustni vertikalni labyrint.",
+    "lead": "'Manhattan pouště' s bahenními mrakodrapy vysokými přes 30 metrů, postavenými 500 let před newyorskými.",
     "gps": {
       "lat": 15.926,
       "lon": 48.626
@@ -57412,44 +57407,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.1,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Shibam Wadi Hadhramaut doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Hlinene vysinne mesto v Hadramautu, casto vnimane jako poustni vertikalni labyrint.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V jemenském údolí Hadramaut stojí město, jehož asi 500 hliněných věží dosahujících výšky 5 až 11 pater, některé přes 30 metrů, mu vyneslo přezdívku 'nejstarší mrakodrapové město na světě'.",
+      "historie": "Šibám vznikl jako významné sídlo kolem 3. století n. l. a stal se hlavním městem Hadramautského království roku 300 n. l. po zničení Šabwy. Dnešní podoba města pochází z roku 1533, samotné osídlení je ale nepřetržité už asi 1700 let.",
+      "legenda": "Strategická poloha na starověkých obchodních trasách přinesla městu prosperitu. Ve 20. století patřil mezi tři hlavní města sultanátu Qu'ajtí spolu s Mukallou a Aš-Šihrem.",
+      "paranormalni": "Vertikální stavební styl měl jasně praktický, obranný účel - koncentrace obyvatel do vysokých věží chránila obyvatele před nájezdy beduínů, aniž by bylo nutné budovat rozlehlé městské opevnění.",
+      "skepticke": "Město čelí reálným moderním hrozbám: cyklon roku 2008 způsobil vážné škody, útok Al-Káidy roku 2009 si vyžádal pět obětí, a probíhající jemenská občanská válka od roku 2015 vedla UNESCO k zařazení Šibámu mezi ohrožené kulturní dědictví - žádná z těchto hrozeb ale nesouvisí s architekturou samotnou, jen s bezpečnostní situací regionu. Od roku 1982 je na seznamu UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Shibam Wadi Hadhramaut over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Bezpečnostní situace v Jemenu vyžaduje důkladné ověření aktuálního stavu před jakoukoli cestou, město zůstává obydlené a funkční navzdory konfliktu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Shibam Wadi Hadhramaut",
-        "url": "https://en.wikipedia.org/wiki/Shibam_Wadi_Hadhramaut",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Shibam",
+        "url": "https://en.wikipedia.org/wiki/Shibam",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Shibam Wadi Hadhramaut",
-        "url": "https://www.wikidata.org/w/index.php?search=Shibam%20Wadi%20Hadhramaut",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Shibam",
+        "url": "https://www.wikidata.org/wiki/Q192518",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Shibam%20Wadi%20Hadhramaut%20Jemen",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Shibam%20Yemen",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Shibam Wadi Hadhramaut pridava motivy poust, ztracena-mesta a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Věže místo hradeb",
+        "text": "Namísto rozsáhlého městského opevnění zvolili obyvatelé Šibámu vertikální stavbu - koncentrace do vysokých věží je ochránila před nájezdy beduínů efektivněji než klasické hradby."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "1700 let nepřetržitého osídlení",
+        "text": "Přestože dnešní podoba města pochází z roku 1533, samotné osídlení lokality je nepřetržité už asi 1700 let, což ho řadí mezi nejdéle obydlená místa Arabského poloostrova."
       }
     ]
   },
