@@ -687,17 +687,25 @@ input[type="range"] {
   pointer-events: none;
 }
 
+.map-world {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  will-change: transform;
+}
+
 .osm-map {
   position: absolute;
-  inset: 0;
-  z-index: 1;
+  top: 0;
+  left: 0;
   background: #d8e2d8;
 }
 
-.osm-map::after {
-  content: "";
+.map-viewport-shade {
   position: absolute;
   inset: 0;
+  z-index: 2;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(17, 23, 19, 0.08));
   pointer-events: none;
 }
@@ -922,6 +930,34 @@ input[type="range"] {
 
 .osm-credit {
   color: color-mix(in srgb, var(--muted) 80%, transparent);
+}
+
+.map-cluster {
+  position: absolute;
+  z-index: 5;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgba(17, 23, 19, 0.68);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--accent) 82%, #fff 0%);
+  color: #181208;
+  font-weight: 900;
+  font-size: 0.86rem;
+  box-shadow:
+    0 0 0 1px rgba(245, 240, 231, 0.14),
+    0 12px 28px rgba(0, 0, 0, 0.32);
+  cursor: pointer;
+  transform: translate(-50%, -50%) scale(calc(0.86 + var(--cluster-size, 1) * 0.16));
+  transition: transform 0.16s ease, filter 0.16s ease;
+}
+
+.map-cluster:hover,
+.map-cluster:focus-visible {
+  filter: brightness(1.08) saturate(1.1);
+  outline: none;
+  transform: translate(-50%, -50%) scale(calc(0.98 + var(--cluster-size, 1) * 0.16));
 }
 
 .detail-panel {

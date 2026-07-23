@@ -3957,5 +3957,329 @@
       "openstreetmap",
       "wikimedia-commons"
     ]
+  },
+  {
+    "id": "ceske-mistni-legendy-nova-mista",
+    "slug": "ceske-mistni-legendy-nova-mista",
+    "localizedSlugs": {
+      "cs": "ceske-mistni-legendy-nova-mista",
+      "en": "czech-local-legends-new-places",
+      "de": "tschechische-lokale-legenden-neue-orte",
+      "es": "leyendas-locales-checas-nuevos-lugares",
+      "fr": "legendes-locales-tcheques-nouveaux-lieux"
+    },
+    "title": "Osm českých pověstí, které jsme přidali na mapu: od Blaníku po havrana z Rabštejna",
+    "description": "Blaník, Macocha, bílá paní z Rožmberka i havíři, kteří otrávili řeku: osm ověřených českých míst s místními legendami, historií a skeptickým vysvětlením.",
+    "category": "legenda",
+    "themes": [
+      "legenda",
+      "cesko",
+      "duchove"
+    ],
+    "relatedPlaceIds": [
+      "blanik",
+      "propast-macocha",
+      "hrad-bezdez",
+      "hrad-spilberk",
+      "zamek-cesky-krumlov",
+      "hrad-pernstejn",
+      "hradek-kutna-hora",
+      "rabstejn-nad-strelou"
+    ],
+    "sections": [
+      {
+        "heading": "Proč zrovna tahle místa",
+        "body": "Česká databáze MysteryMap měla dosud jen čtrnáct míst, přestože je jasné, že místních pověstí je v zemi mnohem víc. Vybrali jsme osm lokalit, které mají zdokumentovanou historii i živou ústní tradici zároveň: horu se spícím vojskem, propast s pověstí o vraždě, hrad s legendou o tajné chodbě, žalář, dva zámky s bílou paní, středověký důl a nejmenší historické město Evropy."
+      },
+      {
+        "heading": "Kde končí historie a začíná pověst",
+        "body": "U každého místa jsme se drželi stejného pravidla jako u zbytku mapy: nejdřív ověřitelná historie z Wikidat, Wikipedie a oficiálních zdrojů, teprve pak samotná legenda a nakonec racionální vysvětlení. U bílé paní to znamená rozlišit doloženou Perchtu z Rožmberka a její dopisy od pozdější barokní pověsti o duchu. U Macochy zase oddělit geologicky doloženou propadlinu od lidového příběhu o maceše."
+      },
+      {
+        "heading": "Co bude dál",
+        "body": "Osm míst je začátek, ne konec: český podíl na mapě je pořád malý ve srovnání se zbytkem světa. Další vlny budou cíleně hledat regionální pověsti mimo velká turistická centra, aby mapa lépe pokrývala i méně známá místní vyprávění."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "official-site"
+    ]
+  },
+  {
+    "id": "svetove-mistni-legendy-nova-mista",
+    "slug": "svetove-mistni-legendy-nova-mista",
+    "localizedSlugs": {
+      "cs": "svetove-mistni-legendy-nova-mista",
+      "en": "world-local-legends-new-places",
+      "de": "weltweite-lokale-legenden-neue-orte",
+      "es": "leyendas-locales-mundiales-nuevos-lugares",
+      "fr": "legendes-locales-mondiales-nouveaux-lieux"
+    },
+    "title": "Devět míst světa, kde legenda a realita drží pohromadě jen tak tak",
+    "description": "Od skutečného zmizení tří strážců majáku ve Skotsku po fiktivní zmizení, kterému lidé věří dodnes v Austrálii: devět ověřených míst světa s jasně odděleným faktem, legendou a skeptickým vysvětlením.",
+    "category": "legenda",
+    "themes": [
+      "legenda",
+      "svet",
+      "duchove"
+    ],
+    "relatedPlaceIds": [
+      "flannan-isles-eilean-mor",
+      "balete-drive",
+      "ilha-da-queimada-grande",
+      "marid-castle",
+      "skirrid-fawr",
+      "ogopogo-okanagan-lake",
+      "lake-kariba-nyaminyami",
+      "hanging-rock-victoria",
+      "gonjiam-psychiatric-hospital"
+    ],
+    "sections": [
+      {
+        "heading": "Skutečná záhada, městská legenda a čistá fikce",
+        "body": "Tahle devítka není náhodný výběr strašidelných destinací - schválně kombinuje tři různé typy 'záhady'. Flannan Isles je doložený nevyřešený případ z roku 1900. Balete Drive nebo Gonjiam jsou moderní městské legendy bez policejního záznamu. Hanging Rock je čistě literární fikce, které generace čtenářů uvěřily jako historickému faktu. Rozlišit tyhle tři kategorie je přesně to, co dělá rozdíl mezi katalogem záhad a katalogem pověr."
+      },
+      {
+        "heading": "Legenda vedle vědy, ne místo ní",
+        "body": "U Hadího ostrova v Brazílii i u jezera Kariba v Zimbabwe stojí vedle sebe skutečné vědecké vysvětlení (izolovaný endemický druh hada, statisticky očekávatelné povodně při stavbě přehrady) a mnohem starší lidová interpretace stejného jevu. Obě vrstvy mají na mapě své místo, ale čtenář musí vždy vědět, která je která."
+      },
+      {
+        "heading": "Respekt k domorodým a místním tradicím",
+        "body": "U Hanging Rocku i u jezera Okanagan jsme schválně zdůraznili, že populární turistická legenda (Ogopogo, zmizení školaček) překryla starší a mnohem významnější domorodou tradici (n'ha-a-itk, posvátnost skály pro národy Wurundjeri, Dja Dja Wurrung a Taungurung). Cílem je legendu vyprávět, ne nechat ji nahradit skutečnou historii komunit, ke kterým místo patří."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "official-site"
+    ]
+  },
+  {
+    "id": "svetove-legendy-mesta-a-symboly",
+    "slug": "svetove-legendy-mesta-a-symboly",
+    "localizedSlugs": {
+      "cs": "svetove-legendy-mesta-a-symboly",
+      "en": "world-legends-cities-and-symbols",
+      "de": "weltweite-legenden-staedte-und-symbole",
+      "es": "leyendas-mundiales-ciudades-y-simbolos",
+      "fr": "legendes-mondiales-villes-et-symboles"
+    },
+    "title": "Od ďábla u karet po sopku, která pohřbila hlavní město: dalších sedm míst světa",
+    "description": "Pařížské katakomby, srbská Věž lebek, japonské Ďábelské moře, irský Loftus Hall, antverpská kašna Brabo a dvě přepsané mauricijsko-karibské kapitoly o marronech a zasypaném Plymouthu.",
+    "category": "legenda",
+    "themes": [
+      "legenda",
+      "svet",
+      "podzemi"
+    ],
+    "relatedPlaceIds": [
+      "catacombes-de-paris",
+      "skull-tower-nis",
+      "devils-sea",
+      "loftus-hall",
+      "brabo-fountain-antwerp",
+      "le-morne-brabant",
+      "soufriere-hills"
+    ],
+    "sections": [
+      {
+        "heading": "Zakladatelské mýty vedle skutečných tragédií",
+        "body": "Kašna Brabo v Antverpách je čistá lidová etymologie beze stopy historické události - a hned vedle ní na mapě stojí Le Morne Brabant, kde je ústní tradice jediným záznamem skutečné tragédie, kterou žádný dobový dokument nepotvrdil ani nevyvrátil. Cílem není tyhle dva typy vyprávění směšovat, ale ukázat vedle sebe, jak různě může legenda vznikat."
+      },
+      {
+        "heading": "Proč jsme přepsali dvě starší položky",
+        "body": "Le Morne Brabant a Soufrière Hills byly v databázi už dřív, ale jen jako obecný redakční seed bez konkrétního obsahu. Rozhodli jsme se je při této vlně dohledat pořádně a nahradit obecný text skutečnou historií marronů a zasypaného Plymouthu - stejný standard, jaký držíme u nových míst."
+      },
+      {
+        "heading": "Tři různé typy 'záhady' v jedné vlně",
+        "body": "Skutečný nevyřešený historický kontext (Věž lebek), silná populární pověra bez důkazů (Ďábelské moře, Loftus Hall) a čistě symbolický zakladatelský mýtus (kašna Brabo) - všechny tři patří na mapu, ale každý jinak a s jinou mírou důvěryhodnosti, kterou popis vždy otevřeně pojmenovává."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc",
+      "official-site"
+    ]
+  },
+  {
+    "id": "svetove-opustena-mista-a-stavby",
+    "slug": "svetove-opustena-mista-a-stavby",
+    "localizedSlugs": {
+      "cs": "svetove-opustena-mista-a-stavby",
+      "en": "world-abandoned-places-and-buildings",
+      "de": "weltweite-verlassene-orte-und-bauten",
+      "es": "lugares-y-construcciones-abandonados-del-mundo",
+      "fr": "lieux-et-batiments-abandonnes-du-monde"
+    },
+    "title": "Pevnost, ostrov, mrakodrap a chrám: čtyři různé tváře opuštění a nedokončenosti",
+    "description": "Britské protiletadlové věže s pirátským rádiem, mizející ostrov v Chesapeake Bay, nikdy neotevřený severokorejský mrakodrap a thajský chrám plný pekelných rukou.",
+    "category": "opustene",
+    "themes": [
+      "opustene",
+      "svet",
+      "legenda"
+    ],
+    "relatedPlaceIds": [
+      "maunsell-forts-shivering-sands",
+      "holland-island-maryland",
+      "ryugyong-hotel",
+      "wat-rong-khun"
+    ],
+    "sections": [
+      {
+        "heading": "Čtyři různé důvody, proč místo skončí prázdné",
+        "body": "Maunsellovy pevnosti opustila armáda, protože je nahradila lepší technologie. Holland Island pohltilo moře kvůli erozi měkkého podloží. Ryugyong Hotel zůstal prázdný kvůli zhroucené ekonomice. Žádný z těchto příběhů nepotřebuje nadpřirozené vysvětlení - síla místa je právě v tom, jak jasně dokládá skutečnou historickou, ekonomickou nebo geologickou příčinu opuštění."
+      },
+      {
+        "heading": "Wat Rong Khun jako výjimka z pravidla",
+        "body": "Na rozdíl od zbytku vlny není Bílý chrám opuštěný ani starobylý - je to živé, stále rostoucí umělecké dílo jednoho žijícího autora. Zařadili jsme ho vedle opuštěných míst schválně, aby bylo jasné, že motiv pekla a soudu může být i moderní, transparentně autorský umělecký záměr, ne jen stará lidová pověst."
+      },
+      {
+        "heading": "Co všechna čtyři místa spojuje",
+        "body": "Ať jde o vojenskou pevnost, mizející ostrov, nedokončený mrakodrap nebo živý chrám, každé z míst ukazuje jinou stránku toho, jak lidé zacházejí s velkými stavebními nebo přírodními projekty, které se nakonec vymkly původnímu plánu - opuštěním, zánikem, zpožděním nebo nekonečným rozšiřováním."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap"
+    ]
+  },
+  {
+    "id": "svetove-prirodni-a-posvatna-mista",
+    "slug": "svetove-prirodni-a-posvatna-mista",
+    "localizedSlugs": {
+      "cs": "svetove-prirodni-a-posvatna-mista",
+      "en": "world-natural-and-sacred-places",
+      "de": "weltweite-natuerliche-und-heilige-orte",
+      "es": "lugares-naturales-y-sagrados-del-mundo",
+      "fr": "lieux-naturels-et-sacres-du-monde"
+    },
+    "title": "Obelisk, jeskyně, les a alej: čtyři místa, kde si příroda a legenda podávají ruce",
+    "description": "Etiopský obelisk vedle údajné Archy úmluvy, skotská Fingalova jeskyně spojená s irským obrem, polský Křivý les s nevyřešenou záhadou ohnutých kmenů a severoirská alej se Šedou dámou.",
+    "category": "priroda",
+    "themes": [
+      "priroda",
+      "legenda",
+      "svet"
+    ],
+    "relatedPlaceIds": [
+      "obelisk-of-axum",
+      "fingals-cave",
+      "crooked-forest-poland",
+      "dark-hedges"
+    ],
+    "sections": [
+      {
+        "heading": "Když se geologie a mytologie shodnou náhodou",
+        "body": "Fingalova jeskyně a Giant's Causeway vznikly identickým geologickým procesem na opačných březích téhož mořského průlivu - shoda, která lidem po staletí dávala dokonalý základ pro legendu o mostu mezi nimi. Křivý les v Polsku ukazuje opačný případ: nápadný přírodní jev, u kterého ani moderní věda nedokázala jednoznačně potvrdit příčinu."
+      },
+      {
+        "heading": "Živá víra vedle turistické pověsti",
+        "body": "Obelisk z Axumu jsme záměrně zařadili vedle keltských a lesních legend, abychom ukázali rozdíl: tradice o Arše úmluvy v Etiopii není folklórní kuriozita pro turisty, ale živá, hluboce ctěná součást etiopské pravoslavné víry dodnes praktikovaná strážcem svatyně."
+      },
+      {
+        "heading": "Od strašidelné pověsti k filmové kulise",
+        "body": "Dark Hedges ukazuje, jak se stará lidová legenda o Šedé dámě může v jedné generaci přeznačit na populární filmovou lokaci - obě vrstvy, strašidelná i popkulturní, dnes existují vedle sebe a přitahují různé typy návštěvníků ze zcela odlišných důvodů."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "francouzske-pevnosti-a-arkticky-trezor",
+    "slug": "francouzske-pevnosti-a-arkticky-trezor",
+    "localizedSlugs": {
+      "cs": "francouzske-pevnosti-a-arkticky-trezor",
+      "en": "french-fortresses-and-arctic-vault",
+      "de": "franzoesische-festungen-und-arktisches-tresor",
+      "es": "fortalezas-francesas-y-boveda-artica",
+      "fr": "forteresses-francaises-et-coffre-arctique"
+    },
+    "title": "Katarská hranice, prase přes hradby a trezor na konci světa",
+    "description": "Montségur a poslední katarská hranice, Carcassonne a lest Dame Carcas, a přepsaný Svalbardský trezor semen - tři místa, kde se historie, legenda a moderní technologie potkávají na jedné mapě.",
+    "category": "legenda",
+    "themes": [
+      "legenda",
+      "svet",
+      "historie"
+    ],
+    "relatedPlaceIds": [
+      "chateau-de-montsegur",
+      "cite-de-carcassonne",
+      "svalbard-global-seed-vault"
+    ],
+    "sections": [
+      {
+        "heading": "Dvě pevnosti, dva odlišné typy legendy",
+        "body": "Montségur a Carcassonne leží ve stejném kraji jižní Francie, ale nabízí protikladné typy vyprávění: Montségur má tragicky doloženou historickou událost, ke které se až s odstupem staletí přilepila esoterická spekulace o grálu. Carcassonne má naopak od počátku čistě mýtický, nedoložitelný příběh o ženě, která možná nikdy neexistovala."
+      },
+      {
+        "heading": "Proč jsme přepsali Svalbardský trezor",
+        "body": "Stejně jako u předchozích vln jsme narazili na starší obecný redakční seed bez konkrétního obsahu - trezor semen jsme proto dohledali pořádně a nahradili obecnou šablonu skutečnou historií projektu a jasným vysvětlením, proč vůbec vznikl."
+      },
+      {
+        "heading": "Legenda jako nástroj přežití, ne děsu",
+        "body": "Na rozdíl od většiny míst na mapě není u Svalbardského trezoru cílem vyvolat hrůzu, ale ukázat klidnou, promyšlenou přípravu na nejhorší scénáře - zajímavý kontrast k tragickým a dramatickým příběhům Montségur nebo Carcassonne."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
+  },
+  {
+    "id": "indie-vezeni-a-chram-krys",
+    "slug": "indie-vezeni-a-chram-krys",
+    "localizedSlugs": {
+      "cs": "indie-vezeni-a-chram-krys",
+      "en": "india-prison-and-rat-temple",
+      "de": "indien-gefaengnis-und-rattentempel",
+      "es": "india-prision-y-templo-de-ratas",
+      "fr": "inde-prison-et-temple-des-rats"
+    },
+    "title": "Dvě indická místa, kde se víra a utrpení potkávají úplně jinak",
+    "description": "Cellular Jail na Andamanech, kde koloniální Británie věznila bojovníky za nezávislost, a chrám Karni Mata, kde se posvátné krysy uctívají jako reinkarnovaní předkové.",
+    "category": "legenda",
+    "themes": [
+      "legenda",
+      "indie",
+      "ritual"
+    ],
+    "relatedPlaceIds": [
+      "cellular-jail-andaman",
+      "karni-mata-temple"
+    ],
+    "sections": [
+      {
+        "heading": "Utrpení jako historický fakt, ne legenda",
+        "body": "Cellular Jail nepotřebuje žádnou nadstavbu legendy - kruté podmínky vězňů jsou podrobně zdokumentované dobovými záznamy a místo dnes slouží především jako památník obětem koloniální nadvlády, ne jako strašidelná atrakce."
+      },
+      {
+        "heading": "Živá víra, ne turistická kuriozita",
+        "body": "Chrám Karni Mata je naopak především aktivním posvátným místem komunity Charan - dvacet tisíc krys tu nežije kvůli turistům, ale kvůli staleté náboženské tradici, kterou je třeba respektovat jako živou víru, ne jako exotickou podívanou."
+      },
+      {
+        "heading": "Dvě různé podoby indické paměti",
+        "body": "Obě místa spolu netvoří tematický pár náhodou - ukazují dvě odlišné vrstvy indické historické paměti: politický boj za nezávislost na jedné straně a hlubokou náboženskou tradici na straně druhé, obě stejně důležité pro pochopení země."
+      }
+    ],
+    "sources": [
+      "wikidata",
+      "wikipedia",
+      "openstreetmap",
+      "unesco-whc"
+    ]
   }
 ]

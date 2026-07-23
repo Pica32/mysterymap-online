@@ -86,13 +86,13 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Theme symboly: https://mysterymap.online/landing/tema-symboly.html
 - Theme okultismus: https://mysterymap.online/landing/tema-okultismus.html
 - Theme technologie: https://mysterymap.online/landing/tema-technologie.html
-- Theme led: https://mysterymap.online/landing/tema-led.html
 - Theme prales: https://mysterymap.online/landing/tema-prales.html
 - Theme dolovani: https://mysterymap.online/landing/tema-dolovani.html
 - Theme zlato: https://mysterymap.online/landing/tema-zlato.html
 - Theme karavany: https://mysterymap.online/landing/tema-karavany.html
 - Theme fosilie: https://mysterymap.online/landing/tema-fosilie.html
 - Theme pout: https://mysterymap.online/landing/tema-pout.html
+- Theme led: https://mysterymap.online/landing/tema-led.html
 - Theme ohen: https://mysterymap.online/landing/tema-ohen.html
 - Theme step: https://mysterymap.online/landing/tema-step.html
 - Theme architektura: https://mysterymap.online/landing/tema-architektura.html
@@ -116,11 +116,11 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Nan Madol: https://mysterymap.online/en/places/nan-madol/ (CS: https://mysterymap.online/cs/mista/nan-madol/)
 - Trinity Site: https://mysterymap.online/en/places/trinity-site/ (CS: https://mysterymap.online/cs/mista/trinity-site/)
 - Teotihuacan Avenue of the Dead: https://mysterymap.online/en/places/teotihuacan-avenue-of-the-dead/ (CS: https://mysterymap.online/cs/mista/teotihuacan-avenue-of-the-dead/)
+- Flannan Isles (Eilean Mòr): https://mysterymap.online/en/places/flannan-isles-eilean-mor/ (CS: https://mysterymap.online/cs/mista/flannan-isles-eilean-mor/)
 - Isla de las Muñecas: https://mysterymap.online/en/places/isla-de-las-munecas/ (CS: https://mysterymap.online/cs/mista/isla-de-las-munecas/)
 - Door to Hell: https://mysterymap.online/en/places/door-to-hell/ (CS: https://mysterymap.online/cs/mista/door-to-hell/)
 - Easter Island: https://mysterymap.online/en/places/easter-island/ (CS: https://mysterymap.online/cs/mista/easter-island/)
 - Krakatoa: https://mysterymap.online/en/places/krakatoa/ (CS: https://mysterymap.online/cs/mista/krakatoa/)
-- Tikal Temple IV: https://mysterymap.online/en/places/tikal-temple-iv/ (CS: https://mysterymap.online/cs/mista/tikal-temple-iv/)
 
 ## Editorial Articles
 
@@ -193,6 +193,13 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Sestadvacata vlna B: Karpaty, Balkan a podzemni pevnosti: https://mysterymap.online/en/articles/twenty-sixth-wave-karpaty-balkan/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-karpaty-balkan/)
 - Sestadvacata vlna C: Jizni Amerika, prirodni divy a hranicni krajiny: https://mysterymap.online/en/articles/twenty-sixth-wave-jizni-amerika-prirodni-divy/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-jizni-amerika-prirodni-divy/)
 - Sestadvacata vlna D: Tiche ostrovy a ztracene moreplavecke krajiny: https://mysterymap.online/en/articles/twenty-sixth-wave-tiche-ostrovy/ (CS: https://mysterymap.online/cs/clanky/sestadvacata-vlna-tiche-ostrovy/)
+- Osm českých pověstí, které jsme přidali na mapu: od Blaníku po havrana z Rabštejna: https://mysterymap.online/en/articles/czech-local-legends-new-places/ (CS: https://mysterymap.online/cs/clanky/ceske-mistni-legendy-nova-mista/)
+- Devět míst světa, kde legenda a realita drží pohromadě jen tak tak: https://mysterymap.online/en/articles/world-local-legends-new-places/ (CS: https://mysterymap.online/cs/clanky/svetove-mistni-legendy-nova-mista/)
+- Od ďábla u karet po sopku, která pohřbila hlavní město: dalších sedm míst světa: https://mysterymap.online/en/articles/world-legends-cities-and-symbols/ (CS: https://mysterymap.online/cs/clanky/svetove-legendy-mesta-a-symboly/)
+- Pevnost, ostrov, mrakodrap a chrám: čtyři různé tváře opuštění a nedokončenosti: https://mysterymap.online/en/articles/world-abandoned-places-and-buildings/ (CS: https://mysterymap.online/cs/clanky/svetove-opustena-mista-a-stavby/)
+- Obelisk, jeskyně, les a alej: čtyři místa, kde si příroda a legenda podávají ruce: https://mysterymap.online/en/articles/world-natural-and-sacred-places/ (CS: https://mysterymap.online/cs/clanky/svetove-prirodni-a-posvatna-mista/)
+- Katarská hranice, prase přes hradby a trezor na konci světa: https://mysterymap.online/en/articles/french-fortresses-and-arctic-vault/ (CS: https://mysterymap.online/cs/clanky/francouzske-pevnosti-a-arkticky-trezor/)
+- Dvě indická místa, kde se víra a utrpení potkávají úplně jinak: https://mysterymap.online/en/articles/india-prison-and-rat-temple/ (CS: https://mysterymap.online/cs/clanky/indie-vezeni-a-chram-krys/)
 
 ## Use Notes
 

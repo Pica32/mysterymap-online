@@ -72,6 +72,13 @@
   <url><loc>https://mysterymap.online/cs/clanky/sestadvacata-vlna-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/cs/clanky/sestadvacata-vlna-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/cs/clanky/sestadvacata-vlna-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/ceske-mistni-legendy-nova-mista/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/svetove-mistni-legendy-nova-mista/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/svetove-legendy-mesta-a-symboly/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/svetove-opustena-mista-a-stavby/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/svetove-prirodni-a-posvatna-mista/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/francouzske-pevnosti-a-arkticky-trezor/</loc></url>
+  <url><loc>https://mysterymap.online/cs/clanky/indie-vezeni-a-chram-krys/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/edinburgh-vaults/</loc></url>
@@ -1742,6 +1749,40 @@
   <url><loc>https://mysterymap.online/cs/mista/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/katakomby-parize/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/vez-lebek-nis/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dabelske-more/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/kasna-brabo-antverpy/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/obelisk-axum/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/fingalova-jeskyne/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/krivy-les-polsko/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/temna-zivotplot/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hrad-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/pevnost-carcassonne/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/chram-karni-mata/</loc></url>
   <url><loc>https://mysterymap.online/en/articles/</loc></url>
   <url><loc>https://mysterymap.online/en/articles/nejzahadnejsi-katastrofy-sveta/</loc></url>
   <url><loc>https://mysterymap.online/en/articles/tunguska-vysvetleni/</loc></url>
@@ -1812,6 +1853,13 @@
   <url><loc>https://mysterymap.online/en/articles/twenty-sixth-wave-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/en/articles/twenty-sixth-wave-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/en/articles/twenty-sixth-wave-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/czech-local-legends-new-places/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/world-local-legends-new-places/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/world-legends-cities-and-symbols/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/world-abandoned-places-and-buildings/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/world-natural-and-sacred-places/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/french-fortresses-and-arctic-vault/</loc></url>
+  <url><loc>https://mysterymap.online/en/articles/india-prison-and-rat-temple/</loc></url>
   <url><loc>https://mysterymap.online/en/places/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/en/places/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/en/places/edinburgh-vaults/</loc></url>
@@ -3482,6 +3530,40 @@
   <url><loc>https://mysterymap.online/en/places/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/en/places/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/en/places/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/catacombs-of-paris/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/skull-tower-nis/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/devils-sea/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/brabo-fountain-antwerp/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/obelisk-of-axum/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/fingals-cave/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/crooked-forest-poland/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/dark-hedges/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/chateau-de-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/cite-de-carcassonne/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/en/places/karni-mata-temple/</loc></url>
   <url><loc>https://mysterymap.online/de/artikel/</loc></url>
   <url><loc>https://mysterymap.online/de/artikel/nejzahadnejsi-katastrofy-sveta/</loc></url>
   <url><loc>https://mysterymap.online/de/artikel/tunguska-vysvetleni/</loc></url>
@@ -3552,6 +3634,13 @@
   <url><loc>https://mysterymap.online/de/artikel/sechsundzwanzigste-welle-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/de/artikel/sechsundzwanzigste-welle-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/de/artikel/sechsundzwanzigste-welle-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/tschechische-lokale-legenden-neue-orte/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/weltweite-lokale-legenden-neue-orte/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/weltweite-legenden-staedte-und-symbole/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/weltweite-verlassene-orte-und-bauten/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/weltweite-natuerliche-und-heilige-orte/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/franzoesische-festungen-und-arktisches-tresor/</loc></url>
+  <url><loc>https://mysterymap.online/de/artikel/indien-gefaengnis-und-rattentempel/</loc></url>
   <url><loc>https://mysterymap.online/de/orte/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/de/orte/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/de/orte/edinburgh-vaults/</loc></url>
@@ -5222,6 +5311,40 @@
   <url><loc>https://mysterymap.online/de/orte/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/de/orte/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/de/orte/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/katakomben-von-paris/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/schaedelturm-nis/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/teufelsmeer/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/brabobrunnen-antwerpen/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/obelisk-von-axum/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/fingals-hoehle/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/krummer-wald-polen/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/dark-hedges/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/burg-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/cite-de-carcassonne/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/de/orte/karni-mata-tempel/</loc></url>
   <url><loc>https://mysterymap.online/es/articulos/</loc></url>
   <url><loc>https://mysterymap.online/es/articulos/nejzahadnejsi-katastrofy-sveta/</loc></url>
   <url><loc>https://mysterymap.online/es/articulos/tunguska-vysvetleni/</loc></url>
@@ -5292,6 +5415,13 @@
   <url><loc>https://mysterymap.online/es/articulos/vigesimosexta-ola-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/es/articulos/vigesimosexta-ola-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/es/articulos/vigesimosexta-ola-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/leyendas-locales-checas-nuevos-lugares/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/leyendas-locales-mundiales-nuevos-lugares/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/leyendas-mundiales-ciudades-y-simbolos/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/lugares-y-construcciones-abandonados-del-mundo/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/lugares-naturales-y-sagrados-del-mundo/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/fortalezas-francesas-y-boveda-artica/</loc></url>
+  <url><loc>https://mysterymap.online/es/articulos/india-prision-y-templo-de-ratas/</loc></url>
   <url><loc>https://mysterymap.online/es/lugares/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/es/lugares/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/es/lugares/edinburgh-vaults/</loc></url>
@@ -6962,6 +7092,40 @@
   <url><loc>https://mysterymap.online/es/lugares/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/es/lugares/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/es/lugares/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/catacumbas-de-paris/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/torre-de-craneos-nis/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/mar-del-diablo/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/fuente-brabo-amberes/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/obelisco-de-axum/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/cueva-de-fingal/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/bosque-torcido-polonia/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/dark-hedges/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/castillo-de-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/ciudadela-de-carcasona/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/es/lugares/templo-karni-mata/</loc></url>
   <url><loc>https://mysterymap.online/fr/articles/</loc></url>
   <url><loc>https://mysterymap.online/fr/articles/nejzahadnejsi-katastrofy-sveta/</loc></url>
   <url><loc>https://mysterymap.online/fr/articles/tunguska-vysvetleni/</loc></url>
@@ -7032,6 +7196,13 @@
   <url><loc>https://mysterymap.online/fr/articles/vingt-sixieme-vague-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/fr/articles/vingt-sixieme-vague-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/fr/articles/vingt-sixieme-vague-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/legendes-locales-tcheques-nouveaux-lieux/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/legendes-locales-mondiales-nouveaux-lieux/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/legendes-mondiales-villes-et-symboles/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/lieux-et-batiments-abandonnes-du-monde/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/lieux-naturels-et-sacres-du-monde/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/forteresses-francaises-et-coffre-arctique/</loc></url>
+  <url><loc>https://mysterymap.online/fr/articles/inde-prison-et-temple-des-rats/</loc></url>
   <url><loc>https://mysterymap.online/fr/lieux/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/fr/lieux/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/fr/lieux/edinburgh-vaults/</loc></url>
@@ -8702,6 +8873,40 @@
   <url><loc>https://mysterymap.online/fr/lieux/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/fr/lieux/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/fr/lieux/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/catacombes-de-paris/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/tour-des-cranes-nis/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/mer-du-diable/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/fontaine-brabo-anvers/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/obelisque-d-axoum/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/grotte-de-fingal/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/foret-tordue-pologne/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/dark-hedges/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/chateau-de-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/cite-de-carcassonne/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/fr/lieux/temple-karni-mata/</loc></url>
   <url><loc>https://mysterymap.online/clanky/nejzahadnejsi-katastrofy-sveta/</loc></url>
   <url><loc>https://mysterymap.online/clanky/tunguska-vysvetleni/</loc></url>
   <url><loc>https://mysterymap.online/clanky/templari-tajne-spolecnosti-mista/</loc></url>
@@ -8771,6 +8976,13 @@
   <url><loc>https://mysterymap.online/clanky/sestadvacata-vlna-karpaty-balkan/</loc></url>
   <url><loc>https://mysterymap.online/clanky/sestadvacata-vlna-jizni-amerika-prirodni-divy/</loc></url>
   <url><loc>https://mysterymap.online/clanky/sestadvacata-vlna-tiche-ostrovy/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/ceske-mistni-legendy-nova-mista/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/svetove-mistni-legendy-nova-mista/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/svetove-legendy-mesta-a-symboly/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/svetove-opustena-mista-a-stavby/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/svetove-prirodni-a-posvatna-mista/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/francouzske-pevnosti-a-arkticky-trezor/</loc></url>
+  <url><loc>https://mysterymap.online/clanky/indie-vezeni-a-chram-krys/</loc></url>
   <url><loc>https://mysterymap.online/mista/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/mista/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/mista/edinburgh-vaults/</loc></url>
@@ -10441,6 +10653,40 @@
   <url><loc>https://mysterymap.online/mista/ua-pou-basalt-spires/</loc></url>
   <url><loc>https://mysterymap.online/mista/pitcairn-bounty-bay/</loc></url>
   <url><loc>https://mysterymap.online/mista/henderson-island/</loc></url>
+  <url><loc>https://mysterymap.online/mista/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/mista/propast-macocha/</loc></url>
+  <url><loc>https://mysterymap.online/mista/hrad-bezdez/</loc></url>
+  <url><loc>https://mysterymap.online/mista/hrad-spilberk/</loc></url>
+  <url><loc>https://mysterymap.online/mista/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/mista/hrad-pernstejn/</loc></url>
+  <url><loc>https://mysterymap.online/mista/hradek-kutna-hora/</loc></url>
+  <url><loc>https://mysterymap.online/mista/rabstejn-nad-strelou/</loc></url>
+  <url><loc>https://mysterymap.online/mista/flannan-isles-eilean-mor/</loc></url>
+  <url><loc>https://mysterymap.online/mista/balete-drive/</loc></url>
+  <url><loc>https://mysterymap.online/mista/ilha-da-queimada-grande/</loc></url>
+  <url><loc>https://mysterymap.online/mista/marid-castle/</loc></url>
+  <url><loc>https://mysterymap.online/mista/skirrid-fawr/</loc></url>
+  <url><loc>https://mysterymap.online/mista/ogopogo-okanagan-lake/</loc></url>
+  <url><loc>https://mysterymap.online/mista/lake-kariba-nyaminyami/</loc></url>
+  <url><loc>https://mysterymap.online/mista/hanging-rock-victoria/</loc></url>
+  <url><loc>https://mysterymap.online/mista/gonjiam-psychiatric-hospital/</loc></url>
+  <url><loc>https://mysterymap.online/mista/catacombes-de-paris/</loc></url>
+  <url><loc>https://mysterymap.online/mista/skull-tower-nis/</loc></url>
+  <url><loc>https://mysterymap.online/mista/devils-sea/</loc></url>
+  <url><loc>https://mysterymap.online/mista/loftus-hall/</loc></url>
+  <url><loc>https://mysterymap.online/mista/brabo-fountain-antwerp/</loc></url>
+  <url><loc>https://mysterymap.online/mista/maunsell-forts-shivering-sands/</loc></url>
+  <url><loc>https://mysterymap.online/mista/holland-island-maryland/</loc></url>
+  <url><loc>https://mysterymap.online/mista/ryugyong-hotel/</loc></url>
+  <url><loc>https://mysterymap.online/mista/wat-rong-khun/</loc></url>
+  <url><loc>https://mysterymap.online/mista/obelisk-of-axum/</loc></url>
+  <url><loc>https://mysterymap.online/mista/fingals-cave/</loc></url>
+  <url><loc>https://mysterymap.online/mista/crooked-forest-poland/</loc></url>
+  <url><loc>https://mysterymap.online/mista/dark-hedges/</loc></url>
+  <url><loc>https://mysterymap.online/mista/chateau-de-montsegur/</loc></url>
+  <url><loc>https://mysterymap.online/mista/cite-de-carcassonne/</loc></url>
+  <url><loc>https://mysterymap.online/mista/cellular-jail-andaman/</loc></url>
+  <url><loc>https://mysterymap.online/mista/karni-mata-temple/</loc></url>
   <url><loc>https://mysterymap.online/landing/kontinent-evropa.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kontinent-asie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kontinent-severni-amerika.html</loc></url>
@@ -10614,6 +10860,8 @@
   <url><loc>https://mysterymap.online/landing/zeme-stredoafricka-republika.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-wallis-a-futuna.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-pitcairnovy-ostrovy.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-wales.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-severni-korea.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-hrad.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-legenda.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-veznice.html</loc></url>
@@ -10682,13 +10930,13 @@
   <url><loc>https://mysterymap.online/landing/tema-symboly.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-okultismus.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-technologie.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-led.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-prales.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-dolovani.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-zlato.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-karavany.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-fosilie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-pout.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-led.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-ohen.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-step.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-architektura.html</loc></url>

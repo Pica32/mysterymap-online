@@ -29466,7 +29466,7 @@
     "nazev": "Svalbard Global Seed Vault",
     "zeme": "Norsko",
     "kontinent": "Evropa",
-    "lead": "Arkticky trezor semen, moderni apokalypticka infrastruktura vytesana do permafrostu.",
+    "lead": "Arktický trezor semen vytesaný do permafrostu na Špicberkách, který má přežít i to, co přežít nemusí nikdo z nás.",
     "gps": {
       "lat": 78.235,
       "lon": 15.491
@@ -29476,51 +29476,57 @@
     ],
     "temata": [
       "technologie",
-      "led"
+      "katastrofa",
+      "poust"
     ],
-    "indexTajemna": 78,
+    "indexTajemna": 74,
     "paranormalniAktivita": "kulturni, prirodni nebo historicka tvrzeni",
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4.1,
+    "atmosfera": 4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Svalbard Global Seed Vault rozsiruje petadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Arkticky trezor semen, moderni apokalypticka infrastruktura vytesana do permafrostu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, poutni trasu, prirodni anomalni tvar, podzemi, opustenou infrastrukturu nebo ritualni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Hluboko v hoře na norském souostroví Špicberky leží zařízení navržené tak, aby přežilo prakticky jakoukoli civilizační katastrofu - trezor s miliony semen zemědělských plodin z celého světa.",
+      "historie": "Myšlenka globálního semenného trezoru se začala formovat po roce 2001, kdy OSN stanovila pravidla pro sdílení genetických rostlinných zdrojů. Norská vláda následně prověřila technickou a politickou proveditelnost a stavba začala v červnu 2006. Trezor byl slavnostně otevřen s první zásilkou semen 26. února 2008 a dnes má kapacitu pro zhruba 4,5 milionu vzorků semen.",
+      "legenda": "Zařízení funguje jako záložní úložiště duplikátů semen z genových bank po celém světě, jejichž cílem je ochránit genetickou rozmanitost lidských plodin pro případ globální krize - jaderné války, klimatické katastrofy nebo nové rostlinné choroby. Médiím se proto vžila přezdívka 'trezor zkázy' nebo 'moderní Noemova archa'.",
+      "paranormalni": "Přestože médiím dominuje apokalyptický obraz, skutečným smyslem trezoru není 'znovuosídlit svět po katastrofě', ale běžněji sloužit jako pojistka pro zemědělský výzkum, když lokální genová banka někde ve světě přijde o svou sbírku kvůli válce, přírodní katastrofě nebo prostému nedostatku financí.",
+      "skepticke": "Volba Špicberků není náhodná ani mystická, ale čistě praktická: polární poušť s trvale zmrzlou půdou, minimem srážek a nízkou seismickou aktivitou vytváří ideální přirozené podmínky pro dlouhodobé, energeticky nenáročné uchování semen bez nutnosti spoléhat na nepřetržitý provoz chladicích systémů."
     },
-    "praktickeInfo": "Pred navstevou Svalbard Global Seed Vault over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Trezor není veřejnosti přístupný zevnitř kvůli ochraně biologického materiálu, návštěvníci mohou vidět jen charakteristický vchod v úbočí hory z bezpečné vzdálenosti.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia search: Svalbard Global Seed Vault",
-        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Svalbard%20Global%20Seed%20Vault",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Svalbard Global Seed Vault",
+        "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Svalbard Global Seed Vault",
-        "url": "https://www.wikidata.org/w/index.php?search=Svalbard%20Global%20Seed%20Vault",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Svalbard Global Seed Vault",
+        "url": "https://www.wikidata.org/wiki/Q201013",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Svalbard%20Global%20Seed%20Vault%20Norsko",
-        "licence": "ODbL / map verification"
+        "nazev": "National Geographic - Svalbard Global Seed Vault",
+        "url": "https://www.nationalgeographic.com/environment/article/norway-svalbard-global-seed-vault",
+        "licence": "novinářský zdroj"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Svalbard%20Global%20Seed%20Vault",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Svalbard Global Seed Vault posiluje geograficke pokryti mapy motivy technologie, led a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "4,5 milionu vzorků v ledu",
+        "text": "Trezor má kapacitu pro miliony vzorků semen zemědělských plodin z genových bank celého světa, uložených jako záložní pojistka, ne jako plán na obnovu civilizace."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Proč právě Špicberky",
+        "text": "Trvale zmrzlá půda, minimální srážky a nízká seismická aktivita dělají z arktické polární pouště přirozeně ideální a energeticky nenáročné místo pro dlouhodobé uchování semen."
       }
     ]
   },
@@ -40194,7 +40200,7 @@
     "nazev": "Soufriere Hills",
     "zeme": "Montserrat",
     "kontinent": "Severni Amerika",
-    "lead": "Sopka, ktera zničila Plymouth a vytvorila moderni karibske mesto duchu.",
+    "lead": "Sopka, která od roku 1995 zasypala hlavní město Montserratu a proměnila Plymouth v jediné trvale opuštěné hlavní město na světě.",
     "gps": {
       "lat": 16.72,
       "lon": -62.18
@@ -40204,51 +40210,57 @@
     ],
     "temata": [
       "sopky",
-      "ztracena-mesta"
+      "ztracena-mesta",
+      "katastrofa"
     ],
-    "indexTajemna": 83,
+    "indexTajemna": 85,
     "paranormalniAktivita": "kulturni, prirodni nebo historicka tvrzeni",
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Soufriere Hills doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Sopka, ktera zničila Plymouth a vytvorila moderni karibske mesto duchu. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Sopka Soufrière Hills mlčela téměř čtyři století - než se v polovině 90. let znovu probudila a nenávratně pohřbila hlavní město karibského ostrova Montserrat pod několika metry popela.",
+      "historie": "Po sérii erupcí od července 1995 zasáhly nejničivější výbuchy ostrov v roce 1997: jediný den si vyžádal 19 obětí a srpnová erupce téhož roku zničila asi 80 % města Plymouth, které pak zůstalo pod vrstvou popela silnou přes metr. Plymouth je od té doby jediným hlavním městem na světě, které bylo takto trvale a fyzicky zasypáno.",
+      "legenda": "Plymouth zůstává oficiálně de jure hlavním městem Montserratu, přestože je fyzicky neobyvatelné a veškerá správa se dávno přesunula jinam - status, který z něj dělá jedinečný právní i symbolický přízrak mezi světovými hlavními městy.",
+      "paranormalni": "Médiím i cestovatelům se Plymouth přezdívá karibská Pompeje - opuštěné budovy zasypané popelem až po střechy vyvolávají silně apokalyptický dojem, který přitahuje pozornost po celém světě.",
+      "skepticke": "Jde o zdokumentovaný, vědecky sledovaný vulkanický jev bez jakéhokoli nadpřirozeného prvku - ostrovní úřady oblast trvale vyklidily a označily za vyloučenou zónu, nový správní střed se buduje v lokalitě Little Bay, zatímco Plymouth zůstává navštívitelný jen s licencovaným průvodcem."
     },
-    "praktickeInfo": "Pred navstevou Soufriere Hills over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Vstup do vyloučené zóny kolem Plymouthu je povolen jen s licencovaným průvodcem kvůli přetrvávajícímu riziku sopečné aktivity a nestabilnímu terénu, samostatná návštěva bez povolení je zakázaná.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Soufriere Hills",
-        "url": "https://en.wikipedia.org/wiki/Soufriere_Hills",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Plymouth, Montserrat",
+        "url": "https://en.wikipedia.org/wiki/Plymouth,_Montserrat",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Soufriere Hills",
-        "url": "https://www.wikidata.org/w/index.php?search=Soufriere%20Hills",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Plymouth, Montserrat",
+        "url": "https://www.wikidata.org/wiki/Q30990",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Soufriere%20Hills%20Montserrat",
-        "licence": "ODbL / map verification"
+        "nazev": "Wikipedia: Soufrière Hills",
+        "url": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Plymouth%20Montserrat",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Soufriere Hills posiluje mene zastoupene regiony a motivy sopky, ztracena-mesta. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Jediné zasypané hlavní město světa",
+        "text": "Plymouth zůstává jediným hlavním městem na světě, které bylo trvale fyzicky pohřbeno sopečnou erupcí, a přesto si oficiálně drží status de jure hlavního města."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Karibská Pompeje",
+        "text": "Přezdívka odkazuje na budovy zasypané popelem téměř po střechy - vizuálně nejsilnější připomínku toho, jak rychle dokáže sopka proměnit živé město v mrtvou krajinu."
       }
     ]
   },
@@ -43002,7 +43014,7 @@
     "nazev": "Le Morne Brabant",
     "zeme": "Mauricius",
     "kontinent": "Afrika",
-    "lead": "Hora na Mauriciu spojena s pameti otroctvi, uniku a tragickeho ostrovniho symbolu.",
+    "lead": "Osamělá hora na jihozápadě Mauricia, kam se v 18. a 19. století uchylovali uprchlí otroci a která se stala symbolem svobody i tragické oběti.",
     "gps": {
       "lat": -20.455,
       "lon": 57.318
@@ -43012,51 +43024,57 @@
     ],
     "temata": [
       "umrti",
+      "legenda",
       "ostrov"
     ],
-    "indexTajemna": 80,
+    "indexTajemna": 82,
     "paranormalniAktivita": "kulturni, prirodni nebo historicka tvrzeni",
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4.1,
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Le Morne Brabant rozsiruje devatenactou vlnu MysteryMap jako geograficky vyrazny bod: Hora na Mauriciu spojena s pameti otroctvi, uniku a tragickeho ostrovniho symbolu.",
-      "historie": "Historicka vrstva drzi zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni overeni a rozsahlejsi redakcni dopracovani.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto patri do mapy zahad: muze jit o poustni mesto, oazu, jeskyni, ostrov, ritus, sopecny jev, ztracene osidleni nebo vyraznou prirodni anomalii.",
-      "paranormalni": "Zahadova tvrzeni jsou zapsana jako folklor, turisticka tradice, medialni asociace nebo lokalni svedectvi. Nejsou michana s overitelnou historii.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak zustava citelny i bez senzacechtivych tvrzeni."
+      "zahada": "Le Morne Brabant je strmá hora vybíhající do Indického oceánu, jejíž nepřístupné jeskyně a útesy sloužily po celé 18. a začátek 19. století jako úkryt uprchlým otrokům - a jejíž konec svobody přišel podle tradice v tragickém nedorozumění.",
+      "historie": "Hora leží v distriktu Rivière Noire na jihozápadě Mauricia a dosahuje výšky 556 metrů. Během francouzské a později britské koloniální nadvlády se stávala přirozeným útočištěm uprchlých otroků, takzvaných marronů, kteří v jejích těžko přístupných skalních dutinách a jeskyních vytvářeli vlastní komunity a udržovali si africké a malgašské kulturní kořeny. V nejsilnějším období tvořili marroni až desetinu otrocké populace ostrova. Od roku 2008 je Kulturní krajina Le Morne na seznamu UNESCO.",
+      "legenda": "Podle ústní tradice byli po zrušení otroctví Brity v roce 1835 na horu vysláni vojáci, aby marronům oznámili osvobození. Skrývající se lidé si ale výklad spletli - v domnění, že je jde vojsko znovu zajmout, se řada z nich raději vrhla ze skal do smrti, než aby se vrátila do otroctví.",
+      "paranormalni": "Le Morne je dodnes pro mauricijskou populaci a zejména pro potomky otroků silně symbolickým místem smutku, hrdosti a paměti - výroční akce a připomínkové obřady se u paty hory konají dodnes.",
+      "skepticke": "Přesný historický průběh tragédie na vrcholu není možné nezávisle doložit, protože se opírá čistě o ústně předávanou tradici bez dobových písemných záznamů - to ovšem nijak nesnižuje historickou realitu marronského osídlení hory, která je archeologicky i historicky dobře doložená."
     },
-    "praktickeInfo": "Pred navstevou Le Morne Brabant over povoleni, pristupnost, dopravu, bezpecnost a ochranu lokality. U poustnich, horskych, ostrovnich a konfliktne citlivych mist je GPS pouze orientacni.",
+    "praktickeInfo": "K vrcholu vede náročnější turistická trasa, doporučuje se místní průvodce kvůli strmému terénu, hora je součástí chráněné kulturní krajiny UNESCO a vyžaduje respekt k jejímu památkovému významu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia search: Le Morne Brabant",
-        "url": "https://en.wikipedia.org/wiki/Special:Search?search=Le%20Morne%20Brabant",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Le Morne Brabant",
+        "url": "https://en.wikipedia.org/wiki/Le_Morne_Brabant",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Le Morne Brabant",
-        "url": "https://www.wikidata.org/w/index.php?search=Le%20Morne%20Brabant",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Le Morne Brabant",
+        "url": "https://www.wikidata.org/wiki/Q1129992",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Le%20Morne%20Brabant%20Mauricius",
-        "licence": "ODbL / map verification"
+        "nazev": "UNESCO World Heritage - Le Morne Cultural Landscape",
+        "url": "https://whc.unesco.org/en/list/1259",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Le%20Morne%20Brabant%20Mauritius",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Le Morne Brabant doplnuje mapu o motivy umrti, ostrov a posiluje geograficke pokryti mimo nejhusteji zpracovanou Evropu a Severni Ameriku."
+        "nazev": "Skok, který vznikl z omylu",
+        "text": "Podle tradice se marroni domnívající se, že je přicházejí vojáci znovu zotročit, raději vrhli ze skal do smrti - ve skutečnosti jim vojáci nesli zprávu o svobodě."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, presnych nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Desetina ostrova v úkrytu",
+        "text": "V nejsilnějším období tvořili marroni ukrytí na Le Morne a v jeho okolí až desetinu celkové otrocké populace Mauricia."
       }
     ]
   },
@@ -120315,6 +120333,2605 @@
       {
         "nazev": "Dalsi prace",
         "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+      }
+    ]
+  },
+  {
+    "id": "blanik",
+    "slug": "blanik",
+    "localizedSlugs": {
+      "cs": "blanik",
+      "en": "blanik",
+      "de": "blanik",
+      "es": "blanik",
+      "fr": "blanik"
+    },
+    "detailPath": "/mista/blanik/",
+    "nazev": "Blaník",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Hora, ve které prý dodnes čekají rytíři, až bude českému národu nejhůř.",
+    "gps": {
+      "lat": 49.642222,
+      "lon": 14.872778
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 87,
+    "paranormalniAktivita": "silná lidová tradice, žádná ověřená pozorování",
+    "historickaDolozenost": "dobrá (samotná hora), legenda historicky nedoložitelná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, značené turistické trasy",
+    "atmosfera": 4.4,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Blaník je obyčejný zalesněný vrchol Českomoravské vrchoviny, ale drží nejsilnější národní legendu v celých Čechách: uvnitř hory má spát vojsko, které vyrazí ven ve chvíli, kdy zemi hrozí zánik.",
+      "historie": "Blaník leží ve Středočeském kraji poblíž Vlašimi a dosahuje 638 metrů nad mořem. Historici spojují vznik pověsti s koncem 15. století, kdy o skrytém vojsku v hoře kázal vizionář Mikuláš z Vlásenice, zřejmě pod dojmem porážky cizího vojska u Býkovic na úpatí Blaníku. Legenda pak zesílila během národního obrození v 19. století, kdy se stala jedním ze symbolů české státnosti.",
+      "legenda": "Podle pověsti v hoře spí rytíři pod velením svatého Václava. Až bude národu nejhůře, uschlý dub na vrcholu znovu vypučí, otevře se Vysoká brána ve skále a ozbrojení jezdci vyjedou bránit zemi.",
+      "paranormalni": "V lidovém podání se traduje, že se pod horou ozývá dunění, jako by kovali koně, a že v mlze prý lidé zahlédli jezdce mezi stromy. Jde o ústní tradici, ne o zdokumentovaná pozorování.",
+      "skepticke": "Legendy o spícím vojsku v hoře jsou rozšířený středoevropský motiv, který se váže na období ohrožení a slouží jako symbol naděje, ne jako historický záznam. Dunění lze vysvětlit geologií kopce i běžnou akustikou lesa."
+    },
+    "praktickeInfo": "Na vrchol vede turistická značená trasa z Louňovic pod Blaníkem nebo od Ostrova, přírodní rezervace má běžný lesní provoz bez vstupného, mimo značené cesty platí ochrana přírody.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Blaník",
+        "url": "https://cs.wikipedia.org/wiki/Blan%C3%ADk",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Blaník",
+        "url": "https://www.wikidata.org/wiki/Q881713",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Blan%C3%ADk",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "mytologie",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Uschlý dub a Vysoká brána",
+        "text": "Ústřední obraz legendy: dub na vrcholu znovu vypučí a ve skále se otevře brána, kterou rytíři vyjedou ven."
+      },
+      {
+        "nazev": "Kázání Mikuláše z Vlásenice",
+        "text": "Historický zárodek pověsti: koncem 15. století šířil vizionář zprávu o skrytém vojsku v hoře, krátce po vojenské porážce u paty Blaníku."
+      }
+    ]
+  },
+  {
+    "id": "propast-macocha",
+    "slug": "propast-macocha",
+    "localizedSlugs": {
+      "cs": "propast-macocha",
+      "en": "propast-macocha",
+      "de": "propast-macocha",
+      "es": "propast-macocha",
+      "fr": "propast-macocha"
+    },
+    "detailPath": "/mista/propast-macocha/",
+    "nazev": "Propast Macocha",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Nejhlubší propast svého druhu ve střední Evropě nese jméno podle pověsti o zlé maceše.",
+    "gps": {
+      "lat": 49.373236,
+      "lon": 16.729817
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 84,
+    "paranormalniAktivita": "lidová tradice, žádná ověřená aktivita",
+    "historickaDolozenost": "dobrá geologická a historická dokumentace, pověst nedoložena",
+    "nebezpecnost": "střední (strmé srázy mimo vyhlídky)",
+    "pristupnost": "placený vstup, lanovka i turistická trasa",
+    "atmosfera": 4.6,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Macocha je 138,4 metru hluboká propadlina v Moravském krasu, vzniklá zřícením stropu obří jeskyně - ale její jméno pochází z lidového příběhu o vraždě, ne z geologie.",
+      "historie": "Propast leží u obce Vilémovice v Moravském krasu a je s hloubkou přes 138 metrů největší propadlinou svého typu ve střední Evropě. Na jejím dně teče řeka Punkva a vytváří dvě jezírka. Nejstarší dochovaná písemná zmínka o propasti pochází z roku 1663 od tamního mnicha.",
+      "legenda": "Podle pověsti macecha nejprve svrhla do propasti svého nevlastního syna, aby zdědil majetek jen její vlastní dítě, a když si po činu uvědomila hrůzu toho, co udělala, sama do propasti skočila. Chlapec podle pověsti pád zázračně přežil, macecha nikoliv.",
+      "paranormalni": "Místní podání někdy propast spojuje s neklidnými hlasy nebo pláčem, který prý je slyšet z hloubky za mlhavých rán. Jde o folklorní motiv doprovázející temnou pověst, ne o doložený jev.",
+      "skepticke": "Motiv macechy, která ubližuje nevlastnímu dítěti, je běžný evropský pohádkový a pověstní archetyp, takže pověst pravděpodobně dramatizuje starší lidový motiv na konkrétní působivé místo. Zvuky z hloubky lze vysvětlit prouděním vzduchu a vody v jeskynním systému pod propastí."
+    },
+    "praktickeInfo": "Propast je přístupná od parkoviště u Skalního mlýna, na dno vede lanovka a turistická trasa, propojena je s prohlídkou Punkevních jeskyní. Vyhlídkové plošiny mají zábradlí, mimo ně hrozí reálné riziko pádu.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Propast Macocha",
+        "url": "https://cs.wikipedia.org/wiki/Propast_Macocha",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Macocha Gorge",
+        "url": "https://www.wikidata.org/wiki/Q673317",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Správa jeskyní České republiky",
+        "url": "https://moravsky-kras.caves.cz/propast-macocha",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Propast%20Macocha",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "umrti",
+      "prirodni-anomalie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Pád, který chlapec přežil",
+        "text": "Jádro pověsti: macecha srazí nevlastního syna do propasti, on zázračně přežije, ona po činu skočí sama."
+      },
+      {
+        "nazev": "Punkva na dně propasti",
+        "text": "Řeka Punkva vytváří na dně propasti dvě jezírka a spojuje Macochu s rozsáhlým jeskynním systémem Moravského krasu."
+      }
+    ]
+  },
+  {
+    "id": "hrad-bezdez",
+    "slug": "hrad-bezdez",
+    "localizedSlugs": {
+      "cs": "hrad-bezdez",
+      "en": "hrad-bezdez",
+      "de": "hrad-bezdez",
+      "es": "hrad-bezdez",
+      "fr": "hrad-bezdez"
+    },
+    "detailPath": "/mista/hrad-bezdez/",
+    "nazev": "Hrad Bezděz",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Královský hrad, který měl nahradit nebezpečně útulnou Housku, a pověst o tajné chodbě mezi oběma pevnostmi.",
+    "gps": {
+      "lat": 50.539044,
+      "lon": 14.7197
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 81,
+    "paranormalniAktivita": "lidová tradice o tajné chodbě, bez ověřených jevů",
+    "historickaDolozenost": "výborná (jeden z nejlépe zachovaných hradů 13. století)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "sezónní provoz s průvodcem",
+    "atmosfera": 4.3,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Bezděz nechal postavit král Přemysl Otakar II. jako náhradu za nedaleký hrad Housku - a lidová tradice mezi oběma pevnostmi vypráví o dlouhé podzemní chodbě, kterou se dodnes nikomu nepodařilo najít.",
+      "historie": "Hrad založil Přemysl Otakar II. ve druhé polovině 13. století na vrcholu Bezdězu (606 m) v Dokeské pahorkatině. Královský palác, věž a opevnění byly hotové kolem roku 1278-1279, kapli později dostavěl Václav II., který zde byl jako dítě krátce vězněn. Bezděz patří k nejlépe dochovaným hradům z 13. století v Česku.",
+      "legenda": "Podle místní pověsti vede od Bezdězu k Bělé pod Bezdězem, případně až k hradu Housce, dlouhá podzemní chodba, která měla hrad zásobovat při obležení. Nejznámější podání vypráví, jak se do ní roku 1810 měl s koňským povozem propadnout sedlák, ale druhý den po vchodu do chodby nebylo v terénu ani stopy.",
+      "paranormalni": "Chodba mezi Bezdězem a Houskou je oblíbený motiv i v moderních vyprávěních o záhadách severních Čech, často se zmiňuje společně s pověstmi o pekelné bráně na Housce, přestože obě místa dělí vzdušnou čarou přes 20 kilometrů.",
+      "skepticke": "Žádná tak dlouhá chodba nebyla nikdy archeologicky doložena a na vzdálenost přes 20 km by středověká technika stěží stačila; pověsti o propadlých selských vozech jsou v Česku běžný motiv vysvětlující zavalené staré štoly nebo sklepy, ne důkaz existence tajné trasy."
+    },
+    "praktickeInfo": "Hrad je v sezóně přístupný s průvodcem, výstup je strmý lesní pěšinou z obce Bezděz nebo od parkoviště pod hradem, mimo sezónu je přístup omezen.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Bezděz (hrad)",
+        "url": "https://cs.wikipedia.org/wiki/Bezd%C4%9Bz_(hrad)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Bezděz Castle",
+        "url": "https://www.wikidata.org/wiki/Q1186381",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Hrad%20Bezd%C4%9Bz",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "podzemi",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Sedlák, který se propadl do chodby",
+        "text": "Nejznámější epizoda pověsti: podle záznamu z roku 1810 se do domnělé podzemní chodby měl i s povozem propadnout místní sedlák, druhý den však po otvoru nebyla stopa."
+      },
+      {
+        "nazev": "Král, který si vybral vrchol",
+        "text": "Přemysl Otakar II. dal přednost vzdušnému vrcholu Bezdězu před stísněnou Houskou - rozhodnutí, ze kterého později vzešla legenda o spojení obou míst."
+      }
+    ]
+  },
+  {
+    "id": "hrad-spilberk",
+    "slug": "hrad-spilberk",
+    "localizedSlugs": {
+      "cs": "hrad-spilberk",
+      "en": "hrad-spilberk",
+      "de": "hrad-spilberk",
+      "es": "hrad-spilberk",
+      "fr": "hrad-spilberk"
+    },
+    "detailPath": "/mista/hrad-spilberk/",
+    "nazev": "Hrad Špilberk",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Barokní pevnost, která si v habsburské monarchii vysloužila pověst nejtěžšího žaláře říše.",
+    "gps": {
+      "lat": 49.194444,
+      "lon": 16.598889
+    },
+    "kategorie": [
+      "hrad",
+      "veznice"
+    ],
+    "indexTajemna": 85,
+    "paranormalniAktivita": "lidová tradice o duších vězňů, bez ověřených jevů",
+    "historickaDolozenost": "výborná, rozsáhle zdokumentovaná vězeňská historie",
+    "nebezpecnost": "nízká",
+    "pristupnost": "celoroční provoz, placený vstup",
+    "atmosfera": 4.5,
+    "nocniVhodnost": true,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Špilberk nad Brnem začínal jako královský hrad a skončil jako vězení, o kterém psal po celé Evropě italský básník ve své knize Mé žaláře - jak se z reprezentativního sídla stal symbol utrpení?",
+      "historie": "Hrad založil ve 13. století Přemysl Otakar II., ve 14.-15. století sloužil jako hlavní sídlo moravských markrabat. Po roce 1740 byl přestavěn na mohutnou barokní pevnost s kasematami, odolal švédskému obléhání v roce 1645 i pruskému útoku v roce 1742. Od roku 1783, po reformách Josefa II., sloužily kasematy jako státní vězení pro nejtěžší zločince z celé monarchie.",
+      "legenda": "Špilberské žaláře platily v první polovině 19. století za nejtvrdší vězení habsburské monarchie - vězni tu byli drženi v temných celách připoutaní ke zdi. Mezi vězni byl i italský básník Silvio Pellico, jehož kniha Mé žaláře udělala z pevnosti symbol politické perzekuce po celé Evropě.",
+      "paranormalni": "Kolem kasemat koluje od otevření veřejnosti v roce 1880 řada pověstí o neklidných duších bývalých vězňů a zvucích řetězů v nejtemnějších chodbách - historikové města je řadí spíš k lidové fantazii doprovázející skutečně drsnou historii místa.",
+      "skepticke": "Reálná krutost vězeňského provozu 18.-19. století dostatečně vysvětluje ponurou pověst místa bez nutnosti nadpřirozeného výkladu; akustika dlouhých kamenných chodeb navíc snadno zkresluje běžné zvuky provozu na zdánlivé kroky nebo řinčení."
+    },
+    "praktickeInfo": "Kasematy i hradní expozice jsou přístupné celoročně s placeným vstupem, prohlídka podzemí je fyzicky nenáročná, ale doporučuje se teplejší oblečení kvůli nižší teplotě v chodbách.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Špilberk",
+        "url": "https://cs.wikipedia.org/wiki/%C5%A0pilberk",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Špilberk Castle",
+        "url": "https://www.wikidata.org/wiki/Q118256",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Muzeum města Brna - Špilberk",
+        "url": "https://www.spilberk.cz/",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=%C5%A0pilberk%20Brno",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "veznice",
+      "stredovek",
+      "valka"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Mé žaláře Silvia Pellica",
+        "text": "Kniha italského básníka a politického vězně z 19. století proslavila špilberské kasematy po celé Evropě jako symbol nejtvrdšího vězení monarchie."
+      },
+      {
+        "nazev": "Z markraběcího sídla pevností",
+        "text": "Přestavba na barokní pevnost po roce 1740 změnila reprezentativní hrad v nedobytnou vojenskou stavbu, která později posloužila jako vězení."
+      }
+    ]
+  },
+  {
+    "id": "zamek-cesky-krumlov",
+    "slug": "zamek-cesky-krumlov",
+    "localizedSlugs": {
+      "cs": "zamek-cesky-krumlov",
+      "en": "zamek-cesky-krumlov",
+      "de": "zamek-cesky-krumlov",
+      "es": "zamek-cesky-krumlov",
+      "fr": "zamek-cesky-krumlov"
+    },
+    "detailPath": "/mista/zamek-cesky-krumlov/",
+    "nazev": "Zámek Český Krumlov",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Druhý největší hradní komplex v Čechách hlídá bílá paní, jejíž skutečný lidský příběh je smutnější než kterákoli strašidelná historka.",
+    "gps": {
+      "lat": 48.8125,
+      "lon": 14.315278
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 82,
+    "paranormalniAktivita": "silná lidová tradice o bílé paní, historicky doložen jen lidský příběh předlohy",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placené prohlídkové okruhy, historické centrum volně přístupné",
+    "atmosfera": 4.6,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Český Krumlov je po Pražském hradě druhý největší hradní a zámecký komplex v Česku - a jeho chodbami má podle pověsti bloudit bílá paní, kterou historikové ztotožnili s konkrétní, doloženou ženou z rodu Rožmberků.",
+      "historie": "Hrad vznikl v první třetině 13. století, poprvé je písemně doložen roku 1253. Od roku 1302 jej vlastnil rod Rožmberků, který ve 14. století vybudoval Horní hrad na skalním ostrohu. Pozdější majitelé Eggenbergové a Schwarzenbergové areál rozšířili o barokní prvky včetně jednoho z nejlépe dochovaných barokních divadel na světě. Od roku 1992 je historické centrum Českého Krumlova na seznamu UNESCO.",
+      "legenda": "Bílá paní je jedna z nejznámějších českých strašidelných postav a na rožmberských a pernštejnských sídlech se s ní pojí konkrétní historická žena - Perchta z Rožmberka (kolem 1429-1476), kterou otec proti její vůli provdal za Jana z Lichtenštejna. Manžel ji podle dochovaných dopisů celý život psychicky i hmotně týral. Legenda říká, že se bílá paní zjevuje s bílými rukavicemi před šťastnými událostmi a s černými před neštěstím.",
+      "paranormalni": "Spojení Perchty s bílou paní poprvé navrhl v 17. století jezuitský historik Bohuslav Balbín, který v třeboňském archivu našel její dopisy plné stížností na manžela - moderní podání toto spojení dál rozvíjí do podoby zjevení na zámeckých chodbách.",
+      "skepticke": "Historicky je doložené jen Perchtino nešťastné manželství a její dopisy, nikoli žádné nadpřirozené zjevení - spojení s duchem je interpretace až o dvě století mladší než sama Perchta, typická pro to, jak si baroko oblíbilo dávat konkrétní tváře anonymním strašidelným pověstem."
+    },
+    "praktickeInfo": "Zámek nabízí několik prohlídkových okruhů s placeným vstupem a průvodcem, historické centrum je volně přístupné, v sezóně bývá velmi navštěvované kvůli statusu UNESCO.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Český Krumlov (hrad a zámek)",
+        "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov_(hrad_a_z%C3%A1mek)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Český Krumlov Castle",
+        "url": "https://www.wikidata.org/wiki/Q2164919",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Státní hrad a zámek Český Krumlov",
+        "url": "https://castle.ckrumlov.cz/cz/zamek_oinf_bilpan/",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Z%C3%A1mek%20%C4%8Cesk%C3%BD%20Krumlov",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "legenda",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Dopisy z třeboňského archivu",
+        "text": "Jezuita Bohuslav Balbín v 17. století objevil Perchtiny dopisy plné stížností na chování manžela a jako první ji spojil s pověstí o bílé paní."
+      },
+      {
+        "nazev": "Bílé a černé rukavice",
+        "text": "Podle pověsti bílá paní před šťastnou událostí nosí bílé rukavice, před neštěstím černé - jeden z nejrozšířenějších detailů české strašidelné tradice."
+      }
+    ]
+  },
+  {
+    "id": "hrad-pernstejn",
+    "slug": "hrad-pernstejn",
+    "localizedSlugs": {
+      "cs": "hrad-pernstejn",
+      "en": "hrad-pernstejn",
+      "de": "hrad-pernstejn",
+      "es": "hrad-pernstejn",
+      "fr": "hrad-pernstejn"
+    },
+    "detailPath": "/mista/hrad-pernstejn/",
+    "nazev": "Hrad Pernštejn",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Gotický hrad, který prý bude stát tak dlouho, dokud poroste tis zasazený jako poutnická hůl.",
+    "gps": {
+      "lat": 49.450833,
+      "lon": 16.318889
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 80,
+    "paranormalniAktivita": "rodová tradice o bílé paní, bez ověřených jevů",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "sezónní provoz, placený vstup",
+    "atmosfera": 4.5,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Pernštejn na hranici Českomoravské vrchoviny je jeden z nejlépe dochovaných gotických hradů v zemi - a jeho osud je podle pověsti svázaný s jediným stromem na nádvoří.",
+      "historie": "Hrad založili páni z Medlova, kteří si podle sídla začali říkat páni z Pernštejna, nejpozději kolem roku 1270-1285. Jméno pravděpodobně vychází z německého Bärenstein (medvědí kámen), což podporují i názvy blízkého potoka Nedvědičky a města Nedvědice. Ve 15.-16. století prošel hrad velkou přestavbou na reprezentativní šlechtické sídlo, roku 1645 odolal švédskému obléhání. Od roku 1945 je v majetku státu a od 1995 je národní kulturní památkou.",
+      "legenda": "Podle pověsti zabodl při stavbě hradu poutník vracející se z křížové výpravy do země svou tisovou hůl a prohlásil, že z ní vyroste strom dřív, než bude hrad dostavěn. Hůl skutečně zazelenala a vyrostl z ní vzrostlý tis, který stojí na nádvoří dodnes - a lidé věří, že hrad bude stát, dokud bude strom žít. Pernštejn má stejně jako Český Krumlov i vlastní bílou paní, kterou tradice rovněž spojuje s Perchtou z Rožmberka.",
+      "paranormalni": "Zjevení bílé paní na Pernštejně je součástí širší rodové tradice více šlechtických sídel spojených s rožmberským a pernštejnským rodem, moderní návštěvnická vyprávění ji líčí jako varovnou postavu ohlašující smrt v rodě.",
+      "skepticke": "Historický tis na nádvoří skutečně roste, ale spojení jeho stáří s legendou o poutnické holi nelze ověřit - jde o typický pověstný motiv 'stromu osudu' vázaný na starý strom, ne o doložený historický fakt. Podobně jako u Českého Krumlova jde u bílé paní o pozdější literární spojení konkrétní historické ženy s obecnou strašidelnou tradicí."
+    },
+    "praktickeInfo": "Hrad je přístupný v sezóně s několika prohlídkovými okruhy a placeným vstupem, k hradu vede zpevněná cesta od parkoviště v obci Nedvědice.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Pernštejn (hrad)",
+        "url": "https://cs.wikipedia.org/wiki/Pern%C5%A1tejn_(hrad)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Pernštejn Castle",
+        "url": "https://www.wikidata.org/wiki/Q655633",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Státní hrad Pernštejn",
+        "url": "https://www.hrad-pernstejn.cz/cs",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Hrad%20Pern%C5%A1tejn",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "legenda",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Tisová hůl poutníka",
+        "text": "Pověst o stromu osudu: poutník vracející se z křížové výpravy zabodl do země tisovou hůl, ze které vyrostl strom stojící na nádvoří dodnes."
+      },
+      {
+        "nazev": "Druhá bílá paní rodu",
+        "text": "Stejně jako Český Krumlov si i Pernštejn nárokuje zjevení bílé paní spojované s Perchtou z Rožmberka - doklad, jak se jeden lidský příběh rozšířil na více šlechtických sídel."
+      }
+    ]
+  },
+  {
+    "id": "hradek-kutna-hora",
+    "slug": "hradek-kutna-hora",
+    "localizedSlugs": {
+      "cs": "hradek-kutna-hora",
+      "en": "hradek-kutna-hora",
+      "de": "hradek-kutna-hora",
+      "es": "hradek-kutna-hora",
+      "fr": "hradek-kutna-hora"
+    },
+    "detailPath": "/mista/hradek-kutna-hora/",
+    "nazev": "Hrádek - České muzeum stříbra Kutná Hora",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Středověký stříbrný důl pod městem, které bohatstvím z podzemí platilo války - a jednou prý podzemí použilo jako zbraň.",
+    "gps": {
+      "lat": 49.9475,
+      "lon": 15.2654
+    },
+    "kategorie": [
+      "podzemi",
+      "historie"
+    ],
+    "indexTajemna": 79,
+    "paranormalniAktivita": "tradiční důlní folklor, bez ověřených jevů",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká (vedená prohlídka), střední mimo trasu",
+    "pristupnost": "placený vstup s průvodcem, nutná rezervace",
+    "atmosfera": 4.3,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Pod Kutnou Horou se táhnou desítky kilometrů středověkých důlních chodeb, ze kterých pocházelo stříbro pro pražské groše - a podle historické tradice měli havíři jednou použít samotné podzemí k obraně města.",
+      "historie": "Hrádek vznikl jako malé dřevěné opevnění na přelomu 13. a 14. století k ochraně rostoucí hornické osady, první písemná zmínka je z roku 1312. Bohatý těžař stříbra Jan Smíšek z Vrchoviště jej koncem 15. století přestavěl na pozdně gotický měšťanský palác. Od roku 1996 sídlí v Hrádku České muzeum stříbra se dvěma prohlídkovými trasami: Město stříbra a Cesta stříbra vedoucí přímo do středověkého dolu. Kutná Hora je od roku 1995 na seznamu UNESCO.",
+      "legenda": "Podle historické tradice zaznamenané v místních kronikách havíři během obléhání města králem Albrechtem otrávili řeku Vrchlici jedovatou hlinkou z kutnohorských dolů, což mělo způsobit onemocnění obléhajících koní a vojáků - historikové to popisují jako jednu z prvních dochovaných zmínek o použití 'chemické' zbraně v evropské historii.",
+      "paranormalni": "Kolem hlubokých štol koluje mezi průvodci i návštěvníky řada historek o zabloudivších hornících a zvucích krumpáčů v opuštěných chodbách - jde o tradiční důlní folklor, který provázel havířské řemeslo po celé Evropě, ne o specifika Kutné Hory.",
+      "skepticke": "Zpráva o otrávení řeky je dobová kronikářská tradice, ne archeologicky nebo lékařsky ověřený incident, ale zapadá do reálného kontextu středověkého obléhání, kdy se kontaminace vodních zdrojů běžně používala jako taktika. Zvuky v opuštěných štolách vysvětluje proudění vzduchu a podzemní voda v rozsáhlém důlním systému."
+    },
+    "praktickeInfo": "Prohlídka trasy Cesta stříbra vyžaduje helmu a plášť, které muzeum půjčuje, trasa zahrnuje sestup do úzkých štol a není vhodná pro lidi s klaustrofobií nebo omezenou pohyblivostí, rezervace prohlídky předem se doporučuje.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Hrádek (Kutná Hora)",
+        "url": "https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(Kutn%C3%A1_Hora)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Czech Museum of Silver",
+        "url": "https://www.wikidata.org/wiki/Q11084250",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "České muzeum stříbra Kutná Hora",
+        "url": "https://www.cms-kh.cz/hradek-muzeum-a-stredoveky-dul",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Hr%C3%A1dek%20Kutn%C3%A1%20Hora",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "podzemi",
+      "valka",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Otrávená řeka Vrchlice",
+        "text": "Kronikářská tradice o obraně města: havíři měli během obléhání krále Albrechta otrávit řeku jedovatou hlinkou z dolů a nakazit obléhající vojsko a koně."
+      },
+      {
+        "nazev": "Cesta stříbra do skutečné štoly",
+        "text": "Muzejní trasa vede návštěvníky přímo do autentické středověké důlní chodby, kde se dodnes těžilo stříbro pro pražské groše."
+      }
+    ]
+  },
+  {
+    "id": "rabstejn-nad-strelou",
+    "slug": "rabstejn-nad-strelou",
+    "localizedSlugs": {
+      "cs": "rabstejn-nad-strelou",
+      "en": "rabstejn-nad-strelou",
+      "de": "rabstejn-nad-strelou",
+      "es": "rabstejn-nad-strelou",
+      "fr": "rabstejn-nad-strelou"
+    },
+    "detailPath": "/mista/rabstejn-nad-strelou/",
+    "nazev": "Rabštejn nad Střelou",
+    "zeme": "Cesko",
+    "kontinent": "Evropa",
+    "lead": "Nejmenší historické město Evropy s necelými dvaceti obyvateli skrývá i vlastní zakladatelskou pověst o havranovi a prstenu.",
+    "gps": {
+      "lat": 50.042222,
+      "lon": 13.289444
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 73,
+    "paranormalniAktivita": "lokální folklor, bez ověřených jevů",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "sezónní provoz, částečně volně přístupné",
+    "atmosfera": 4.2,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Rabštejn nad Střelou má podle dostupných údajů jen kolem dvaceti stálých obyvatel, přesto má hrad, barokní zámek, klášter i vlastní historické městské právo - odkud se vzalo tak malé, a přitom plnohodnotné historické město?",
+      "historie": "První písemná zmínka o Rabštejnu pochází z roku 1269, kdy patřil rodu Milhosticů. Po roce 1321 koupil panství Oldřich Pluh, královský podkomoří a oblíbenec Jana Lucemburského, který zpustlý hrádek přestavěl na významné šlechtické sídlo a na předhradí založil opevněné městečko. Roku 1337 Rabštejnu vymohl pražské městské právo. Dnes patří pod město Manětín a je nejmenším historickým městem v Česku i v Evropě.",
+      "legenda": "Podle místní pověsti souvisí založení hradu a městečka s havranem, který na skalním ostrohu upustil nebo objevil vzácný prsten - odtud prý pochází i německé jméno Rabenstein, tedy 'havraní kámen'. Pověst dává jinak strategickému opevnění na skále romantický zakladatelský mýtus vázaný na konkrétní přírodní útvar.",
+      "paranormalni": "V místním podání se traduje, že se nad skalním ostrohem havrani drží dodnes a jejich přítomnost je místními vykládána jako připomínka staré pověsti - jde o folklorní interpretaci běžného výskytu ptáků na skalnatém terénu.",
+      "skepticke": "Motiv ptáka, který založení sídla nějak zprostředkuje nebo předpoví, je běžný evropský toponymický mýtus - pravděpodobněji jde o lidové vysvětlení již existujícího německého názvu skály, ne o historickou událost."
+    },
+    "praktickeInfo": "Městečko leží v přírodním parku Horní Střela na pomezí čtyř krajů, přístup je autem nebo pěšky z Manětína, zřícenina hradu i zámek jsou v sezóně částečně přístupné, mimo sezónu je vhodné ověřit otevírací dobu.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedie: Rabštejn nad Střelou",
+        "url": "https://cs.wikipedia.org/wiki/Rab%C5%A1tejn_nad_St%C5%99elou",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Rabštejn nad Střelou",
+        "url": "https://www.wikidata.org/wiki/Q5103812",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Rab%C5%A1tejn%20nad%20St%C5%99elou",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "zvirata",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Havran a prsten",
+        "text": "Zakladatelská pověst: havran na skalním ostrohu upustil nebo objevil vzácný prsten, což dalo vzniknout jménu Rabštejn (Rabenstein, havraní kámen)."
+      },
+      {
+        "nazev": "Nejmenší město s vlastním právem",
+        "text": "Přestože má jen kolem dvaceti obyvatel, získal Rabštejn už roku 1337 pražské městské právo - vzácná kombinace maloobecní velikosti a plnohodnotného městského statusu."
+      }
+    ]
+  },
+  {
+    "id": "flannan-isles-eilean-mor",
+    "slug": "flannan-isles-eilean-mor",
+    "localizedSlugs": {
+      "cs": "flannan-isles-eilean-mor",
+      "en": "flannan-isles-eilean-mor",
+      "de": "flannan-isles-eilean-mor",
+      "es": "flannan-isles-eilean-mor",
+      "fr": "flannan-isles-eilean-mor"
+    },
+    "detailPath": "/mista/flannan-isles-eilean-mor/",
+    "nazev": "Flannan Isles (Eilean Mòr)",
+    "zeme": "Skotsko",
+    "kontinent": "Evropa",
+    "lead": "Tři strážci majáku zmizeli beze stopy z odlehlého skotského ostrova - a záznam v jejich denníku záhadu spíš prohloubil, než vysvětlil.",
+    "gps": {
+      "lat": 58.3,
+      "lon": -7.6
+    },
+    "kategorie": [
+      "ostrov",
+      "legenda"
+    ],
+    "indexTajemna": 88,
+    "paranormalniAktivita": "žádná, jde o skutečný nevyřešený případ zmizení",
+    "historickaDolozenost": "výborná (úřední vyšetřování z roku 1900)",
+    "nebezpecnost": "vysoká (nepřístupný skalnatý ostrov, silné vlny)",
+    "pristupnost": "nepřístupné veřejnosti, maják je automatizovaný",
+    "atmosfera": 4.7,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "V prosinci 1900 zmizeli beze stopy tři strážci majáku na ostrově Eilean Mòr v souostroví Flannan Isles - jejich poslední zápisky v deníku jsou stejně znepokojivé jako samotné zmizení.",
+      "historie": "Maják na Eilean Mòr, nejvyšším z ostrovů Flannan asi 32 km západně od ostrova Lewis, spravovala Northern Lighthouse Board. Když 15. prosince 1900 kolemjedoucí loď Archtor nahlásila, že maják nesvítí, trvalo kvůli počasí do 26. prosince, než tam dorazila zásobovací loď Hesperus. Náhradní strážce Joseph Moore vystoupal sám 160 schodů a našel maják prázdný.",
+      "legenda": "Ve stanici chyběli všichni tři strážci - Thomas Marshall, James Ducat a Donald MacArthur. Postele byly nedoloženy, hodiny na kuchyňské zdi stály, stůl byl prostřený k jídlu, kterého se nikdo nedotkl, a jedna židle byla převrácená. Jediným živým tvorem v místnosti byl kanárek v kleci.",
+      "paranormalni": "Zmizení inspirovalo mimo jiné slavnou básnickou baladu a desítky populárních teorií od nadpřirozených bytostí po zahraniční agenty - žádná z nich ale nemá oporu v dobovém vyšetřování.",
+      "skepticke": "Úřední vyšetřování dospělo k závěru, že šlo o nešťastnou náhodu: dva muži pravděpodobně šli zajistit vybavení na přístavišti při silném počasí a mimořádně velká vlna je strhla do moře, třetí muž je následoval bez svrchního oblečení a byl stržen také. Přesný průběh se nikdy nepodařilo ověřit, protože žádní svědci nepřežili."
+    },
+    "praktickeInfo": "Ostrov je neobydlený a nepřístupný běžným návštěvníkům, maják je dnes plně automatizovaný, k ostrovu se lze dostat jen specializovanou lodní exkurzí za dobrého počasí.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Flannan Isles",
+        "url": "https://en.wikipedia.org/wiki/Flannan_Isles",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Flannan Isles",
+        "url": "https://www.wikidata.org/wiki/Q1427154",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Northern Lighthouse Board - Flannan Isles",
+        "url": "https://www.nlb.org.uk/history/flannan-isles/",
+        "licence": "oficiální zdroj / historická dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Eilean%20Mor%20Flannan%20Isles",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "zmizeni",
+      "ostrov",
+      "more"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Prostřený stůl a převrácená židle",
+        "text": "Nejznámější detail případu: strážci zmizeli uprostřed běžné činnosti, jídlo zůstalo netknuté a jedna židle byla převrácená, jako by někdo v spěchu vyběhl ven."
+      },
+      {
+        "nazev": "Kanárek jako jediný svědek",
+        "text": "Jediným živým tvorem, kterého náhradní strážce ve stanici našel, byl kanárek v kleci - zbytek majáku byl dokonale opuštěný."
+      }
+    ]
+  },
+  {
+    "id": "balete-drive",
+    "slug": "balete-drive",
+    "localizedSlugs": {
+      "cs": "balete-drive",
+      "en": "balete-drive",
+      "de": "balete-drive",
+      "es": "balete-drive",
+      "fr": "balete-drive"
+    },
+    "detailPath": "/mista/balete-drive/",
+    "nazev": "Balete Drive",
+    "zeme": "Filipiny",
+    "kontinent": "Asie",
+    "lead": "Obyčejná ulice v Quezon City, kde si podle nejrozšířenější filipínské městské legendy taxikáři dodnes dávají pozor na bílou dámu na zadním sedadle.",
+    "gps": {
+      "lat": 14.620333,
+      "lon": 121.0375
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 74,
+    "paranormalniAktivita": "silná městská legenda, žádná ověřená pozorování",
+    "historickaDolozenost": "dobrá (jde o doloženou ulici a městskou legendu, ne o historickou událost)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "veřejná ulice, volně průjezdná",
+    "atmosfera": 3.9,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Balete Drive je obyčejná dvouproudá ulice ve čtvrti New Manila v Quezon City - a zároveň nejznámější adresa filipínského strašidelného folkloru, kde má dodnes bloudit bílá dáma.",
+      "historie": "Ulice, pojmenovaná po stromech baletí, které ji dřív lemovaly, se stala centrem legendy už v polovině 50. let 20. století. Postupem času byly balete stromy z velké části vykáceny kvůli rozšíření silnice, samotná pověst ale přežila.",
+      "legenda": "Nejrozšířenější verze vypráví o dívce, kterou v noci na ulici srazil a zabil taxikář - pochovaná pod stromem balete pak její duch bloudí ulicí. Jiné varianty mluví o studentce znásilněné a zavražděné taxikářem, nebo o ženě z jednoho z okolních sídel, kterou zabila vlastní rodina. Taxikáři podle tradice hlásí, že dámu v bílém vidí uprostřed silnice, nebo že se náhle objeví na zadním sedadle.",
+      "paranormalni": "Historky o bílé dámě z Balete Drive patří k nejcitovanějším filipínským městským legendám a opakovaně inspirovaly filmy, knihy i televizní pořady - řidiči v okolí se ulici v noci raději vyhýbají dodnes.",
+      "skepticke": "Motiv bílé dámy zabité na silnici je běžný typ moderní městské legendy rozšířený po celé jihovýchodní Asii, který se váže k tmavým, stromy lemovaným ulicím vyvolávajícím pocit nejistoty za volantem v noci - žádná z variant příběhu nemá dohledatelný policejní záznam."
+    },
+    "praktickeInfo": "Ulice je běžně průjezdná osobním autem i pěšky, jde o obytnou čtvrť bez turistické infrastruktury, návštěva v noci je spíš zážitkem z legendy než z něčeho, co je vidět.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Balete Drive",
+        "url": "https://en.wikipedia.org/wiki/Balete_Drive",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Balete Drive",
+        "url": "https://www.wikidata.org/wiki/Q4850729",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Balete%20Drive%20Quezon%20City",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "media",
+      "umrti"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Dáma na zadním sedadle",
+        "text": "Nejcitovanější detail legendy: taxikáři hlásí, že se bílá dáma náhle objeví na zadním sedadle jejich vozu uprostřed jízdy ulicí."
+      },
+      {
+        "nazev": "Stromy, které legendu přežily",
+        "text": "Ulice dostala jméno po stromech balete, které ji lemovaly - většina z nich byla později vykácena, pověst o duchu pod nimi ale zůstala živá dodnes."
+      }
+    ]
+  },
+  {
+    "id": "ilha-da-queimada-grande",
+    "slug": "ilha-da-queimada-grande",
+    "localizedSlugs": {
+      "cs": "ilha-da-queimada-grande",
+      "en": "ilha-da-queimada-grande",
+      "de": "ilha-da-queimada-grande",
+      "es": "ilha-da-queimada-grande",
+      "fr": "ilha-da-queimada-grande"
+    },
+    "detailPath": "/mista/ilha-da-queimada-grande/",
+    "nazev": "Ilha da Queimada Grande (Hadí ostrov)",
+    "zeme": "Brazilie",
+    "kontinent": "Jizni Amerika",
+    "lead": "Ostrov u brazilského pobřeží, kam brazilské námořnictvo od 20. let 20. století zakazuje civilistům vstup - kvůli tisícům jedovatých hadů, které tam žijí jen na jednom místě světa.",
+    "gps": {
+      "lat": -24.486111,
+      "lon": -46.675
+    },
+    "kategorie": [
+      "ostrov",
+      "priroda"
+    ],
+    "indexTajemna": 83,
+    "paranormalniAktivita": "žádná, riziko je čistě biologické a reálné",
+    "historickaDolozenost": "výborná, vědecky zdokumentováno",
+    "nebezpecnost": "velmi vysoká (endemický jedovatý had, vstup zakázán)",
+    "pristupnost": "veřejnosti zakázáno, jen výzkum s povolením brazilské armády",
+    "atmosfera": 4.4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Na ostrůvku o rozloze necelého půl kilometru čtverečního u pobřeží státu São Paulo žije podle odhadů až několik tisíc jedovatých hadů jediného druhu, který se nikde jinde na světě nevyskytuje - a lidem je vstup na ostrov už sto let zakázán.",
+      "historie": "Ilha da Queimada Grande leží asi 33 km od pobřeží Brazílie a spravuje ji Chico Mendesův institut ochrany biodiverzity. Brazilské námořnictvo uzavřelo ostrov civilistům ve 20. letech 20. století a od té doby jej nikdy znovu neotevřelo - výzkumníci se na ostrov dostávají jen s federálním povolením a v doprovodu lékaře.",
+      "legenda": "Podle starého brazilského podání měli místní piráti na ostrov záměrně vysadit hady, aby odradili každého, kdo by chtěl hledat jejich zakopaný poklad.",
+      "paranormalni": "Ostrov se pravidelně objevuje v žebříčcích 'nejnebezpečnějších míst na Zemi' a v populárních médiích bývá líčen jako téměř mytické zakázané území.",
+      "skepticke": "Skutečné vysvětlení je čistě evoluční, ne pirátské: asi před 11 000 lety oddělilo stoupající moře ostrov od pevniny a izolovaní hadi štítohlavci ostrovní (Bothrops insularis) se bez predátorů vyvinuli do unikátního endemického druhu živícího se především tažnými ptáky. Zdokumentovaných úmrtí lidí je přitom minimum a hadi nejsou vůči člověku agresivní, pokud nejsou vyprovokováni."
+    },
+    "praktickeInfo": "Ostrov je pro veřejnost trvale uzavřený a nelegální vstup je trestný čin, jedinou legální možností přiblížení je komerční vyhlídková plavba kolem ostrova bez přistání.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Ilha da Queimada Grande",
+        "url": "https://en.wikipedia.org/wiki/Ilha_da_Queimada_Grande",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Ilha da Queimada Grande",
+        "url": "https://www.wikidata.org/wiki/Q181544",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Smithsonian Magazine - Snake Island",
+        "url": "https://www.smithsonianmag.com/science-nature/snake-infested-island-deadliest-place-brazil-180951782/",
+        "licence": "novinářský zdroj / vědecký kontext"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Ilha%20da%20Queimada%20Grande",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "zvirata",
+      "ostrov",
+      "nebezpeci"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Piráti a zakopaný poklad",
+        "text": "Lidová verze původu hadů: piráti je měli na ostrov vysadit schválně, aby ochránili své zakopané poklady před hledači."
+      },
+      {
+        "nazev": "11 000 let izolace",
+        "text": "Skutečný původ endemického druhu sahá do konce poslední doby ledové, kdy stoupající hladina moře oddělila ostrov od pevniny a uvěznila na něm populaci hadů."
+      }
+    ]
+  },
+  {
+    "id": "marid-castle",
+    "slug": "marid-castle",
+    "localizedSlugs": {
+      "cs": "marid-castle",
+      "en": "marid-castle",
+      "de": "marid-castle",
+      "es": "marid-castle",
+      "fr": "marid-castle"
+    },
+    "detailPath": "/mista/marid-castle/",
+    "nazev": "Hrad Marid (Dumat al-Džandal)",
+    "zeme": "Saudska Arabie",
+    "kontinent": "Asie",
+    "lead": "Pevnost stará skoro dva tisíce let nese jméno, které v arabštině znamená 'vzbouřenec' - a stejné slovo označuje i nejmocnější a nejnezkrotnější druh džina v arabské mytologii.",
+    "gps": {
+      "lat": 29.81139,
+      "lon": 39.86735
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 78,
+    "paranormalniAktivita": "kulturní a jazyková tradice, bez ověřených jevů",
+    "historickaDolozenost": "dobrá (archeologicky datováno do 1. století n. l.)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "veřejně přístupné, nutné ověřit aktuální podmínky před cestou",
+    "atmosfera": 4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Hrad Marid v oáze Dumat al-Džandal patří k nejstarším dochovaným pevnostem na Arabském poloostrově a jeho jméno je zároveň názvem pro nejmocnější třídu duchů v arabské lidové tradici.",
+      "historie": "Pevnost stojí na návrší přes 600 metrů nad mořem v regionu Al-Džauf v dnešní Saúdské Arábii, asi 50 km od města Sakáka. Archeologické nálezy římsko-nabatejské keramiky datují její jádro do 1. století n. l. Nejstarší písemná zmínka pochází ze 3. století a spojuje hrad s obléháním královny Zenobie z Palmýry, jejíž vojska pevnost nedokázala dobýt.",
+      "legenda": "Podle dochované tradice měla Zenobia po neúspěšném obléhání prohlásit, že 'Marid se vzbouřil a Ablak se oslavil' - odtud jméno hradu, odvozené z arabského kořene znamenajícího 'vzbouřenec' nebo 'nezkrotný'. Stejné slovo, marid, zároveň v arabské lidové tradici a v Tisíci a jedné noci označuje nejmocnější a nejobtížněji ovladatelnou třídu džinů.",
+      "paranormalni": "Shoda jména hradu se jménem mocného džina občas vede k lidovým spekulacím o nadpřirozeném původu pevnosti, historické prameny ale spojení hradu s džiny nikde přímo nedokládají - jde o jazykovou souvislost, ne o zaznamenanou legendu.",
+      "skepticke": "Historicky doložené je jen to, že se hrad ubránil Zenobiinu obléhání a že arabský kořen slova skutečně znamená 'vzbouřenec' - spojení s džiny je pravděpodobně až moderní asociace založená na shodě slov, ne na starověké tradici vázané přímo k tomuto místu."
+    },
+    "praktickeInfo": "Pevnost je součástí historického jádra Dumat al-Džandal, doporučuje se ověřit aktuální otevírací dobu a přístupová pravidla před cestou, oblast má pouštní klima s velkými teplotními rozdíly.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Marid Castle",
+        "url": "https://en.wikipedia.org/wiki/Marid_Castle",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Marid Castle",
+        "url": "https://www.wikidata.org/wiki/Q4117141",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Marid%20Castle%20Dumat%20al-Jandal",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "stredovek",
+      "mytologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Zenobiin neúspěšný útok",
+        "text": "Podle tradice po neúspěšném obléhání palmýrská královna Zenobia prohlásila větu o vzbouřeném Maridu a oslaveném Ablaku, ze které pochází jméno pevnosti dodnes."
+      },
+      {
+        "nazev": "Slovo, které znamená i džina",
+        "text": "Arabské slovo marid neoznačuje jen 'vzbouřenec' - ve stejném jazyce je to také jméno nejmocnější a nejnezkrotnější třídy džinů z lidové tradice a Tisíce a jedné noci."
+      }
+    ]
+  },
+  {
+    "id": "skirrid-fawr",
+    "slug": "skirrid-fawr",
+    "localizedSlugs": {
+      "cs": "skirrid-fawr",
+      "en": "skirrid-fawr",
+      "de": "skirrid-fawr",
+      "es": "skirrid-fawr",
+      "fr": "skirrid-fawr"
+    },
+    "detailPath": "/mista/skirrid-fawr/",
+    "nazev": "Skirrid Fawr (Svatá hora)",
+    "zeme": "Wales",
+    "kontinent": "Evropa",
+    "lead": "Velšská hora s rozeklaným severním svahem, o kterém pověst tvrdí, že se odlomil v okamžiku Kristovy smrti na kříži.",
+    "gps": {
+      "lat": 51.858386,
+      "lon": -2.970816
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 76,
+    "paranormalniAktivita": "lidová tradice, bez ověřených jevů",
+    "historickaDolozenost": "dobrá (geologie hory je zdokumentovaná)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, značená turistická trasa",
+    "atmosfera": 4.2,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Skirrid Fawr, velšsky Ysgyryd Fawr, je 486 metrů vysoký vrchol v Monmouthshiru s dramatickým sesuvem na severní straně - a lidová tradice tento sesuv spojuje s okamžikem Kristova ukřižování.",
+      "historie": "Hora tvoří východní výběžek pohoří Black Mountains na okraji národního parku Brecon Beacons, asi 16 km od anglických hranic u města Abergavenny. Její jméno pochází z velšského slova pro chvění nebo otřes a od roku 1939 ji spravuje National Trust. Na svazích se dodnes občas objevují menší sesuvy půdy.",
+      "legenda": "Podle místní tradice se masivní sesuv na severním svahu hory zřítil v okamžiku, kdy na kříži zemřel Ježíš Kristus - otřes měl být způsoben zemětřesením nebo bleskem doprovázejícím tuto událost. Proto se hoře přezdívá Svatá hora a stala se cílem křesťanských poutí.",
+      "paranormalni": "K úpatí hory se váže i hostinec Skirrid Mountain Inn, který si podle pověsti drží duchy lidí popravených oběšením v místnosti, jež kdysi sloužila jako soudní síň.",
+      "skepticke": "Geologicky jde o běžný typ sesuvu půdy na nestabilním podloží, jaký se na kopci opakuje dodnes - spojení s biblickou událostí je typický středověký a raně novověký způsob, jak dát nápadnému přírodnímu jevu posvátný, snadno zapamatovatelný výklad."
+    },
+    "praktickeInfo": "Na vrchol vede značená turistická trasa od parkoviště National Trust u silnice B4521, výstup je nenáročný a vhodný i pro rodiny s dětmi, počasí na hřebeni se může rychle měnit.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Skirrid Fawr",
+        "url": "https://en.wikipedia.org/wiki/Skirrid_Fawr",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Skirrid Fawr",
+        "url": "https://www.wikidata.org/wiki/Q24638641",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "National Trust - Skirrid history and legends",
+        "url": "https://www.nationaltrust.org.uk/visit/wales/sugar-loaf-skirrid-and-usk-valley/skirrid-history-and-legends",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Skirrid%20Fawr",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "duchove",
+      "mytologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Sesuv v okamžiku ukřižování",
+        "text": "Ústřední obraz pověsti: masivní sesuv na severním svahu hory se měl zřítit přesně ve chvíli Kristovy smrti na kříži, odtud přezdívka Svatá hora."
+      },
+      {
+        "nazev": "Soudní síň v hostinci pod horou",
+        "text": "Hostinec Skirrid Mountain Inn u paty hory si drží pověst o duchách popravených, kteří straší v bývalé soudní místnosti se stopami po katovském provaze."
+      }
+    ]
+  },
+  {
+    "id": "ogopogo-okanagan-lake",
+    "slug": "ogopogo-okanagan-lake",
+    "localizedSlugs": {
+      "cs": "ogopogo-okanagan-lake",
+      "en": "ogopogo-okanagan-lake",
+      "de": "ogopogo-okanagan-lake",
+      "es": "ogopogo-okanagan-lake",
+      "fr": "ogopogo-okanagan-lake"
+    },
+    "detailPath": "/mista/ogopogo-okanagan-lake/",
+    "nazev": "Jezero Okanagan (Ogopogo)",
+    "zeme": "Kanada",
+    "kontinent": "Severni Amerika",
+    "lead": "Dlouhé kanadské jezero, kde domorodý lid Syilx po staletí uctíval posvátného strážce vod - než z něj turistický průmysl 20. let udělal příšeru se žertovným jménem.",
+    "gps": {
+      "lat": 49.74778,
+      "lon": -119.71722
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 77,
+    "paranormalniAktivita": "dlouhodobá domorodá a lidová tradice, fotografické důkazy neprůkazné",
+    "historickaDolozenost": "dobrá (jezero a jeho geografie), tvor nedoložen",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné jezero, běžný rekreační provoz",
+    "atmosfera": 3.9,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Okanagan Lake v Britské Kolumbii je téměř 130 km dlouhé fjordové jezero, se kterým je spojena jedna z nejstarších a nejznámějších severoamerických legend o jezerní příšeře.",
+      "historie": "Jezero je největší z pěti propojených jezer v údolí Okanagan a dosahuje hloubky přes 230 metrů. Domorodý lid Syilx tradici o strážci jezera vypráví po staletí, dávno před příchodem evropských osadníků, kteří první novodobá pozorování zaznamenali v polovině 19. století.",
+      "legenda": "V jazyce Syilx se bytost nazývá n'ha-a-itk, posvátný duch jezera, tradičně spojovaný s ostrovem Rattlesnake Island a místem zvaným Squally Point u Peachlandu. Podle starších podání si duch žádal oběti od těch, kdo se k jeho místu příliš přiblížili, a dokázal vyvolat náhlé bouře. Ve 20. letech 20. století místní turistický průmysl bytost přejmenoval na Ogopogo podle popřipěvky z tehdy populární tanční písně - jméno se ujalo a zastínilo původní domorodý význam.",
+      "paranormalni": "Od 20. let 20. století přibyly desítky hlášených pozorování, včetně známého případu z roku 1926, kdy mělo tvora najednou spatřit asi třicet lidí na pláži Okanagan Mission.",
+      "skepticke": "Naprostá většina moderních pozorování se dá vysvětlit vlnobitím, plovoucími kmeny, jeseterem nebo jinými velkými rybami a optickým klamem na hladině dlouhého jezera - žádný fyzický důkaz tvora nikdy nebyl potvrzen. Domorodá tradice n'ha-a-itk navíc má úplně jiný, duchovní význam než pozdější turistická příšera Ogopogo, se kterou bývá zjednodušeně ztotožňována."
+    },
+    "praktickeInfo": "Jezero je celoročně přístupné veřejnosti s pláněmi, přístavišti a rekreační infrastrukturou kolem Kelowny a Peachlandu, k pozorování 'domova' legendy slouží vyhlídka na Squally Point.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Ogopogo",
+        "url": "https://en.wikipedia.org/wiki/Ogopogo",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikipedia: Rattlesnake Island (Okanagan Lake)",
+        "url": "https://en.wikipedia.org/wiki/Rattlesnake_Island_(Okanagan_Lake)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Okanagan%20Lake%20Rattlesnake%20Island",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "zvirata",
+      "mytologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "N'ha-a-itk, posvátný duch vody",
+        "text": "Před turistickým jménem Ogopogo měl tvor v jazyce lidu Syilx jméno n'ha-a-itk a byl uctíván jako posvátný strážce jezera, ne jako děsivá příšera."
+      },
+      {
+        "nazev": "Třicet svědků na pláži",
+        "text": "Jedno z nejcitovanějších pozorování z roku 1926 popisuje, jak tvora na pláži Okanagan Mission současně vidělo asi třicet lidí po dobu bezmála dvaceti minut."
+      }
+    ]
+  },
+  {
+    "id": "lake-kariba-nyaminyami",
+    "slug": "lake-kariba-nyaminyami",
+    "localizedSlugs": {
+      "cs": "lake-kariba-nyaminyami",
+      "en": "lake-kariba-nyaminyami",
+      "de": "lake-kariba-nyaminyami",
+      "es": "lake-kariba-nyaminyami",
+      "fr": "lake-kariba-nyaminyami"
+    },
+    "detailPath": "/mista/lake-kariba-nyaminyami/",
+    "nazev": "Jezero Kariba a duch Nyaminyami",
+    "zeme": "Zimbabwe",
+    "kontinent": "Afrika",
+    "lead": "Největší umělé jezero světa vzniklo přehrazením řeky, kterou podle lidu Tonga obývá hadí říční bůh - a stavbu přehrady prý dodnes provázel jeho hněv.",
+    "gps": {
+      "lat": -16.52222,
+      "lon": 28.76167
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 79,
+    "paranormalniAktivita": "silná tradice lidu Tonga, bez ověřených jevů",
+    "historickaDolozenost": "výborná (stavba přehrady je podrobně zdokumentovaná)",
+    "nebezpecnost": "nízká pro návštěvníky, střední pro vodní aktivity mimo vyznačené oblasti",
+    "pristupnost": "volně přístupné, turistická a rekreační oblast",
+    "atmosfera": 4.1,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Jezero Kariba na hranici Zimbabwe a Zambie je největší umělá vodní nádrž na světě podle objemu - a jeho vznik provázely povodně a úmrtí dělníků, které lid Tonga vykládal jako hněv říčního boha Nyaminyamiho.",
+      "historie": "Přehrada Kariba na řece Zambezi byla postavena mezi lety 1955 a 1959 a jezero se plnilo v letech 1958 až 1963. Stavba si vyžádala rozsáhlé přesídlení desítek tisíc příslušníků lidu Tonga, kteří v údolí žili po generace, a během výstavby zahynulo při povodních a nehodách několik desítek dělníků.",
+      "legenda": "Podle tradice lidu Tonga žije v řece Zambezi hadí říční bůh Nyaminyami s hlavou ryby, který ovládá povodně, plodnost a osud říčních komunit. Stavba přehrady měla podle legendy oddělit Nyaminyamiho od jeho družky na opačné straně vznikající hráze, což vyvolalo jeho hněv - opakované ničivé povodně během výstavby v letech 1957 a 1958 byly místními vykládány jako jeho snaha hráz zbořit a se svou družkou se opět spojit.",
+      "paranormalni": "Socha a symbol Nyaminyamiho jsou dodnes běžnou součástí místního umění a suvenýrů v oblasti Kariby a legenda zůstává živou součástí identity lidu Tonga i po desítkách let od dokončení přehrady.",
+      "skepticke": "Povodně během stavby velkých přehrad na tropických řekách jsou statisticky očekávatelný jev daný sezónními srážkami a nedokonalým odhadem průtoku v 50. letech, ne nadpřirozeným zásahem - legenda o Nyaminyamim ale zůstává kulturně významná jako vyjádření skutečné ztráty domova a řeky, kterou stavba přehrady lidu Tonga způsobila."
+    },
+    "praktickeInfo": "Oblast kolem jezera a přehrady je turisticky rozvinutá s hotely, safari a vyhlídkou na hráz, plavání mimo vyznačené a hlídané zóny se nedoporučuje kvůli krokodýlům a hrochům.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Lake Kariba",
+        "url": "https://en.wikipedia.org/wiki/Lake_Kariba",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Lake Kariba",
+        "url": "https://www.wikidata.org/wiki/Q1047206",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Wikipedia: Nyami Nyami",
+        "url": "https://en.wikipedia.org/wiki/Nyami_Nyami",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Kariba%20Dam",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "mytologie",
+      "zvirata"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Rozdělený hadí pár",
+        "text": "Jádro legendy: stavba hráze měla natrvalo oddělit Nyaminyamiho od jeho družky, a jeho zoufalá snaha se s ní spojit prý stála za ničivými povodněmi během výstavby."
+      },
+      {
+        "nazev": "Přesídlení lidu Tonga",
+        "text": "Za mytologickým příběhem stojí reálná ztráta: kvůli zatopení údolí muselo být přesídleno desítky tisíc příslušníků lidu Tonga, kteří v oblasti žili po generace."
+      }
+    ]
+  },
+  {
+    "id": "hanging-rock-victoria",
+    "slug": "hanging-rock-victoria",
+    "localizedSlugs": {
+      "cs": "hanging-rock-victoria",
+      "en": "hanging-rock-victoria",
+      "de": "hanging-rock-victoria",
+      "es": "hanging-rock-victoria",
+      "fr": "hanging-rock-victoria"
+    },
+    "detailPath": "/mista/hanging-rock-victoria/",
+    "nazev": "Hanging Rock",
+    "zeme": "Australie",
+    "kontinent": "Oceanie",
+    "lead": "Posvátná skála domorodých národů jihovýchodní Austrálie, kterou slavný román a film o zmizelých školačkách proslavily jako záhadu - přestože se ono zmizení nikdy doopravdy nestalo.",
+    "gps": {
+      "lat": -37.330222,
+      "lon": 144.595083
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 81,
+    "paranormalniAktivita": "fiktivní literární legenda, žádná skutečná záhadná událost",
+    "historickaDolozenost": "výborná geologická dokumentace, žádný reálný případ zmizení",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, značené stezky",
+    "atmosfera": 4.3,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Hanging Rock je sopečný útvar starý přes 6 milionů let asi 70 km severozápadně od Melbourne - posvátné místo domorodých národů, které se díky jednomu románu z roku 1967 stalo synonymem nevyřešeného zmizení, jež se nikdy nestalo.",
+      "historie": "Skála, vysoká 718 metrů nad mořem, je takzvaný mamelon vzniklý ztuhnutím tuhé magmy vystupující z sopečného komína. Je v opatrovnictví národa Wurundjeri a posvátným místem i pro sousední národy Dja Dja Wurrung a Taungurung, kteří ji po generace využívali k obřadům, iniciacím a setkáním - někteří domorodí lidé na skálu dodnes odmítají vystoupit z úcty k jejímu významu.",
+      "legenda": "Slávu záhadného místa Hanging Rocku přinesl román Joan Lindsayové Piknik na Hanging Rock z roku 1967 a jeho filmová adaptace z roku 1975 - vyprávějí smyšlený příběh o školačkách a učitelce, které při valentýnském výletu roku 1900 beze stopy zmizely na skále. Kniha byla napsána jako fikce, ale nejednoznačný tón a smyšlené 'dobové' detaily vedly generace čtenářů k přesvědčení, že jde o skutečnou historickou událost.",
+      "paranormalni": "Popularita příběhu je tak silná, že návštěvníci na vrcholu skály dodnes volají jméno fiktivní hrdinky Miranda, a legenda místy zcela zastínila skutečnou domorodou historii místa.",
+      "skepticke": "Neexistuje žádný policejní ani novinový záznam o zmizení školaček, protože se nikdy nestalo - jde o čistě literární fikci, kterou realističtější styl vyprávění proměnil v populární městskou legendu. Australští domorodí aktivisté a badatelé v posledních letech upozorňují, že tato smyšlená 'bílá' legenda dlouhodobě zastiňuje skutečný a mnohem starší domorodý význam místa."
+    },
+    "praktickeInfo": "Rezervace má placený vstup a značené turistické trasy k vrcholu, návštěvníkům se doporučuje respektovat domorodou posvátnost místa a nevystupovat mimo vyznačené cesty.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Hanging Rock, Victoria",
+        "url": "https://en.wikipedia.org/wiki/Hanging_Rock,_Victoria",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Hanging Rock",
+        "url": "https://www.wikidata.org/wiki/Q1319209",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "State Library Victoria - Picnic at Hanging Rock",
+        "url": "https://blogs.slv.vic.gov.au/our-stories/ask-a-librarian/picnic-at-hanging-rock/",
+        "licence": "oficiální zdroj / knihovní dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Hanging%20Rock%20Victoria%20Australia",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "media",
+      "mytologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Fikce, které lidé uvěřili",
+        "text": "Joan Lindsayová napsala Piknik na Hanging Rock jako smyšlený příběh, ale realistický tón knihy vedl generace čtenářů k přesvědčení, že popisuje skutečnou nevyřešenou událost z roku 1900."
+      },
+      {
+        "nazev": "Posvátné místo před legendou",
+        "text": "Dlouho před literární slávou byla skála posvátným místem národů Wurundjeri, Dja Dja Wurrung a Taungurung, kteří ji využívali k obřadům a iniciacím - historie, kterou populární legenda o zmizení dlouho zastiňovala."
+      }
+    ]
+  },
+  {
+    "id": "gonjiam-psychiatric-hospital",
+    "slug": "gonjiam-psychiatric-hospital",
+    "localizedSlugs": {
+      "cs": "gonjiam-psychiatric-hospital",
+      "en": "gonjiam-psychiatric-hospital",
+      "de": "gonjiam-psychiatric-hospital",
+      "es": "gonjiam-psychiatric-hospital",
+      "fr": "gonjiam-psychiatric-hospital"
+    },
+    "detailPath": "/mista/gonjiam-psychiatric-hospital/",
+    "nazev": "Gonjiam Psychiatric Hospital",
+    "zeme": "Jizni Korea",
+    "kontinent": "Asie",
+    "lead": "Psychiatrická nemocnice, kterou personál jedné noci opustil uprostřed práce - postele nedoloženy, karty pacientů rozházené po podlaze - a ze které se stala nejznámější jihokorejská strašidelná legenda.",
+    "gps": {
+      "lat": 37.362433,
+      "lon": 127.33474
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 78,
+    "paranormalniAktivita": "silná městská legenda, žádné doložené jevy",
+    "historickaDolozenost": "dobrá, ačkoli přesné datum otevření se v pramenech liší",
+    "nebezpecnost": "žádná (budova byla zbourána)",
+    "pristupnost": "budova byla v roce 2018 zbourána, na místě dnes fyzicky nic nezbylo",
+    "atmosfera": 4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Psychiatrická nemocnice Gonjiam v jihokorejské provincii Kjonggi fungovala necelých patnáct let, než byla ze dne na den opuštěná - a stala se tak nejznámější asijskou 'strašidelnou nemocnicí', o které natočili celovečerní horor.",
+      "historie": "Nemocnice stála v Gonjiam-eup nedaleko města Kwangdžu v provincii Kjonggi. Podle strukturovaných záznamů byla otevřena na počátku 90. let 20. století a provoz ukončila v roce 1996, oficiální důvody uváděly ekonomický úpadek, hygienické problémy a poruchy kanalizace. Budova zůstala opuštěná přes dvacet let, než byla v květnu 2018 zbourána.",
+      "legenda": "Krátce po uzavření se mezi místními rozšířily fámy o tom, co se v nemocnici doopravdy dělo - někteří tvrdili, že pacienti tajemně umírali, jiní že se zbláznil a zmizel sám ředitel nemocnice. Historky o zakletých pokojích a záhadných úmrtích se šířily rychleji než ověřitelná fakta.",
+      "paranormalni": "Pověst inspirovala korejský horor Gonjiam: Haunted Asylum z roku 2018 o filmařích natáčejících v opuštěné budově, díky kterému se místo dostalo i do zahraničních médií, v roce 2012 jej stanice CNN zařadila mezi nejděsivější místa světa.",
+      "skepticke": "Přes rozšířené fámy o vraždách a šíleném řediteli neexistují žádné doložené důkazy o týrání pacientů - dostupné informace ukazují na mnohem prozaičtější historii ekonomického úpadku, opuštění, vloupání zvědavců, mediálního zveličení a nakonec právního sporu, který skončil demolicí budovy."
+    },
+    "praktickeInfo": "Budova byla v roce 2018 zbourána a na místě dnes není co navštívit - místo zůstává jen jako mediální a folklórní fenomén, ne jako fyzická destinace.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikidata: Gonjiam Psychiatric Hospital",
+        "url": "https://www.wikidata.org/wiki/Q18880552",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Wikipedia: Gonjiam: Haunted Asylum (film)",
+        "url": "https://en.wikipedia.org/wiki/Gonjiam:_Haunted_Asylum",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Gonjiam-eup%20Gwangju%20Gyeonggi",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "media",
+      "popkultura"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Nemocnice opuštěná přes noc",
+        "text": "Podle svědectví návštěvníků zůstaly po uzavření postele nedoloženy a lékařské karty rozházené po podlaze, jako by personál odešel uprostřed směny."
+      },
+      {
+        "nazev": "Z fámy filmový hit",
+        "text": "Legenda o nemocnici inspirovala korejský horor z roku 2018, který místo proslavil po celém světě - krátce předtím, než byla budova skutečně zbourána."
+      }
+    ]
+  },
+  {
+    "id": "catacombes-de-paris",
+    "slug": "catacombes-de-paris",
+    "localizedSlugs": {
+      "cs": "katakomby-parize",
+      "en": "catacombs-of-paris",
+      "de": "katakomben-von-paris",
+      "es": "catacumbas-de-paris",
+      "fr": "catacombes-de-paris"
+    },
+    "detailPath": "/mista/catacombes-de-paris/",
+    "nazev": "Pařížské katakomby",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "lead": "Šest milionů lidských koster přemístěných z přeplněných hřbitovů do bývalých vápencových lomů pod centrem Paříže.",
+    "gps": {
+      "lat": 48.83389,
+      "lon": 2.33222
+    },
+    "kategorie": [
+      "podzemi",
+      "historie"
+    ],
+    "indexTajemna": 84,
+    "paranormalniAktivita": "silná populární tradice, bez ověřených jevů",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká na oficiální trase, vysoká mimo ni (nelegální průzkum tunelů)",
+    "pristupnost": "placený vstup na oficiální trase, zbytek sítě je zakázaný",
+    "atmosfera": 4.5,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Pod centrem Paříže se táhne stovky kilometrů opuštěných vápencových lomů, jejichž malou část proměnili osvícenští úředníci v největší podzemní kostnici na světě.",
+      "historie": "Lomy pod levým břehem Seiny zásobovaly kamenem stavbu Paříže už od dob Lutetie a ve středověku z nich vznikl rozsáhlý podzemní labyrint pod pláněmi Montrouge. Na konci 18. století vedly hygienické katastrofy přeplněných hřbitovů, především hřbitova Neviňátek, k rozhodnutí přemístit ostatky do bezpečné vzdálenosti od obydlené Paříže. Přenos probíhal v letech 1785-1787 v noci, aby nevyvolal pohoršení obyvatel a církve, a pokračoval po několik dalších desetiletí, dokud se do bývalých štol nepřesunulo přibližně šest milionů koster.",
+      "legenda": "Po roce 1809 nechal inspektor Héricart de Thury kosti uspořádat do dekorativních zdí a vzorů, čímž z prostého skladu ostatků udělal monumentální, téměř muzejní prostor - odtud pramení část mystiky, kterou katakomby dodnes mají.",
+      "paranormalni": "Kolem sítě kolují desítky historek o zabloudivších průzkumnících, tajemných hlasech a fenoménu takzvaných cataphiles, kteří do nepovolených částí systému pravidelně nelegálně pronikají navzdory zákazu a hrozícím pokutám.",
+      "skepticke": "Rozsáhlost, tma a naprosté ticho podzemního labyrinu spolehlivě vytvářejí dezorientaci a strach i bez nadpřirozeného vysvětlení - skutečné riziko představuje hlavně zabloudění v nezmapovaných částech sítě, ne cokoliv paranormálního."
+    },
+    "praktickeInfo": "Oficiální prohlídková trasa vede jen malou částí sítě a vyžaduje rezervaci předem kvůli omezené kapacitě, teplota v podzemí je celoročně nízká, vstup mimo vyznačenou trasu je nelegální a nebezpečný kvůli nezmapovaným úsekům.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Catacombs of Paris",
+        "url": "https://en.wikipedia.org/wiki/Catacombs_of_Paris",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Catacombs of Paris",
+        "url": "https://www.wikidata.org/wiki/Q28924",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Catacombes de Paris - oficiální web",
+        "url": "https://www.catacombes.paris.fr/en/history/ossuary",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Catacombes%20de%20Paris",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "podzemi",
+      "umrti",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Noční přesun šesti milionů koster",
+        "text": "Aby se vyhnuli pohoršení, prováděli dělníci přenos ostatků z přeplněných pařížských hřbitovů do podzemních lomů v noci, po dobu několika desetiletí."
+      },
+      {
+        "nazev": "Cataphiles v zakázaných chodbách",
+        "text": "Naprostá většina rozsáhlé podzemní sítě zůstává veřejnosti uzavřená, přesto do ní pravidelně nelegálně proniká komunita takzvaných cataphiles."
+      }
+    ]
+  },
+  {
+    "id": "skull-tower-nis",
+    "slug": "skull-tower-nis",
+    "localizedSlugs": {
+      "cs": "vez-lebek-nis",
+      "en": "skull-tower-nis",
+      "de": "schaedelturm-nis",
+      "es": "torre-de-craneos-nis",
+      "fr": "tour-des-cranes-nis"
+    },
+    "detailPath": "/mista/skull-tower-nis/",
+    "nazev": "Věž lebek (Ćele-kula)",
+    "zeme": "Srbsko",
+    "kontinent": "Evropa",
+    "lead": "Osmanská odvetná stavba z lebek padlých srbských povstalců se stala symbolem odporu, ne strachu, jak si zadavatel přál.",
+    "gps": {
+      "lat": 43.3122,
+      "lon": 21.9238
+    },
+    "kategorie": [
+      "historie",
+      "veznice"
+    ],
+    "indexTajemna": 85,
+    "paranormalniAktivita": "lidová tradice, bez ověřených jevů",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "celoroční provoz, placený vstup",
+    "atmosfera": 4.4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Věž u Niše je postavená z lebek padlých srbských povstalců na příkaz osmanského velitele - měla vyvolat strach, ale stala se přesným opakem: symbolem národního odporu.",
+      "historie": "Věž vznikla po bitvě u Čegaru v květnu 1809 během prvního srbského povstání. Když srbští povstalci pod velením Stevana Sinđeliće zjistili, že jsou obklíčeni přesilou osmanských vojsk, Sinđelić raději odpálil prachárnu a zahynul spolu se svými muži i útočícími Osmany, než aby se vzdal a čelil mučení.",
+      "legenda": "Osmanský vezír Huršid paša nechal jako odvetu a varování z lebek asi 952 padlých povstalců postavit věž vsazenou do čtyř stěn ve 14 řadách. Místo zastrašení ale věž posílila odhodlání Srbů k nezávislosti a stala se jedním z nejsilnějších národních symbolů.",
+      "paranormalni": "Kolem věže se tradičně vypráví o duších padlých povstalců, kteří prý dodnes hlídají místo své smrti - dnes je věž obklopena kaplí postavenou roku 1892 na jejich památku.",
+      "skepticke": "Historický kontext bitvy a stavby věže je podrobně doložený osmanskými i srbskými prameny, žádné nadpřirozené jevy nejsou zaznamenané - dnes z původních 952 lebek zůstává v památníku jen asi 59, zbytek byl postupně odebrán rodinami padlých nebo zničen povětrnostními vlivy."
+    },
+    "praktickeInfo": "Věž je součástí památníku s kaplí na okraji Niše, přístupná celoročně s placeným vstupem, prohlídka je nenáročná a vhodná i pro krátkou zastávku při cestě městem.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Skull Tower",
+        "url": "https://en.wikipedia.org/wiki/Skull_Tower",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Skull Tower",
+        "url": "https://www.wikidata.org/wiki/Q336310",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Visit Niš - Skull Tower",
+        "url": "https://visitnis.org/en/what-to-see/skull-tower/",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Cele%20kula%20Nis",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "valka",
+      "umrti",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Sinđelićova poslední volba",
+        "text": "Velitel Stevan Sinđelić raději odpálil prachárnu a zemřel i se svými muži a útočícími Osmany, než aby padl do zajetí a čelil mučení."
+      },
+      {
+        "nazev": "Odveta, která posílila odpor",
+        "text": "Vezír Huršid paša nechal z lebek povstalců postavit varovnou věž - výsledkem ale bylo posílení srbské touhy po nezávislosti, ne zastrašení."
+      }
+    ]
+  },
+  {
+    "id": "devils-sea",
+    "slug": "devils-sea",
+    "localizedSlugs": {
+      "cs": "dabelske-more",
+      "en": "devils-sea",
+      "de": "teufelsmeer",
+      "es": "mar-del-diablo",
+      "fr": "mer-du-diable"
+    },
+    "detailPath": "/mista/devils-sea/",
+    "nazev": "Ďábelské moře (Ma-no Umi)",
+    "zeme": "Japonsko",
+    "kontinent": "Asie",
+    "lead": "Tichomořská obdoba Bermudského trojúhelníku jižně od Tokia, kde ve 40. a 50. letech zmizely desítky rybářských lodí i výzkumné plavidlo.",
+    "gps": {
+      "lat": 25,
+      "lon": 137
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 80,
+    "paranormalniAktivita": "silná populární tradice, bez ověřených nadpřirozených jevů",
+    "historickaDolozenost": "dobrá (zdokumentovaná ztráta lodí, geologický kontext)",
+    "nebezpecnost": "vysoká pro plavbu (aktivní sopečná a tektonická oblast)",
+    "pristupnost": "otevřené moře, bez turistické infrastruktury",
+    "atmosfera": 4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Oblast Tichého oceánu jižně od Tokia se v japonské tradici nazývá Ma-no Umi, tedy Ďábelské moře - a ve 20. století se stala tichomořskou obdobou Bermudského trojúhelníku kvůli sérii ztracených lodí.",
+      "historie": "Oblast leží zhruba mezi japonským pobřežím asi 100 km jižně od Tokia, východním pobřežím Filipín a západním pobřežím Guamu. Ve 40. a 50. letech 20. století zde zmizelo bezpočet rybářských lodí a roku 1952 vyslala japonská vláda na průzkum výzkumné plavidlo Kaijó Maru č. 5 - i to v oblasti zmizelo i s 31 členy posádky, kteří nebyli nikdy nalezeni.",
+      "legenda": "Ďábelské moře bývá řazeno mezi 'paranormální' lokality po vzoru Bermudského trojúhelníku a v populárních médiích se s ním pojí podobné teorie o nevysvětlitelných zmizeních lodí a letadel.",
+      "paranormalni": "Podobnost s Bermudským trojúhelníkem - včetně přezdívky Tichomořský Bermudský trojúhelník nebo Dračí trojúhelník - z oblasti udělala oblíbené téma paranormálních pořadů a knih o nevysvětlitelných jevech.",
+      "skepticke": "Oblast leží přímo na Tichomořském ohnivém kruhu, jedné z geologicky nejnestabilnějších částí planety s častou sopečnou a seizmickou aktivitou, prudkými bouřemi a nepředvídatelnými proudy - to samo o sobě dostatečně vysvětluje zvýšené riziko pro lodní dopravu bez nutnosti nadpřirozeného výkladu."
+    },
+    "praktickeInfo": "Jde o otevřenou mořskou oblast bez turistické infrastruktury, komerční a rybářská plavba se řídí běžnými bezpečnostními pravidly japonských a mezinárodních úřadů.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Devil's Sea",
+        "url": "https://en.wikipedia.org/wiki/Devil%27s_Sea",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Devil's Sea",
+        "url": "https://www.wikidata.org/wiki/Q252633",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Miyake%20Island%20Japan",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "zmizeni",
+      "oceany",
+      "legenda"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Ztracené výzkumné plavidlo",
+        "text": "Když japonská vláda roku 1952 vyslala loď Kaijó Maru č. 5 prošetřit zmizení rybářských plavidel, zmizela beze stopy i ona sama i s celou posádkou."
+      },
+      {
+        "nazev": "Ohnivý kruh pod hladinou",
+        "text": "Oblast leží na Tichomořském ohnivém kruhu, takže sopečná a seizmická aktivita pod hladinou je pravděpodobnějším vysvětlením ztrát lodí než nadpřirozené síly."
+      }
+    ]
+  },
+  {
+    "id": "loftus-hall",
+    "slug": "loftus-hall",
+    "localizedSlugs": {
+      "cs": "loftus-hall",
+      "en": "loftus-hall",
+      "de": "loftus-hall",
+      "es": "loftus-hall",
+      "fr": "loftus-hall"
+    },
+    "detailPath": "/mista/loftus-hall/",
+    "nazev": "Loftus Hall",
+    "zeme": "Irsko",
+    "kontinent": "Evropa",
+    "lead": "Irský dům, kde měl podle pověsti při karetní hře usednout ke stolu samotný ďábel - a skutečný nález v obývacím pokoji legendu ještě víc zamotal.",
+    "gps": {
+      "lat": 52.1487,
+      "lon": -6.9106
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 82,
+    "paranormalniAktivita": "silná lidová tradice, bez ověřených jevů",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placené prohlídky v sezóně",
+    "atmosfera": 4.3,
+    "nocniVhodnost": true,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Loftus Hall na odlehlém poloostrově Hook v hrabství Wexford platí za nejstrašidelnější dům v Irsku - podle nejslavnější historky tu při karetní partii seděl přímo ďábel.",
+      "historie": "Georgiánské sídlo na poloostrově Hook má kořeny už v roce 1350, dnešní podoba pochází z pozdější přestavby rodiny Tottenhamů. Izolovaná poloha na výběžku do moře dodává domu charakteristickou atmosféru už po staletí.",
+      "legenda": "Podle legendy z roku 1775 zaklepal jedné bouřlivé noci na dveře tajemný cizinec a rodina Tottenhamů ho pozvala dovnitř. Dcera Lady Anne Tottenhamová si k němu velmi rychle vytvořila náklonnost. Při karetní hře jí spadla karta na zem, a když se pro ni sehnula, všimla si, že má cizinec místo nohou rozeklaná kopyta. Ten se okamžitě vzňal a prorazil střechou ven - byl to sám ďábel.",
+      "paranormalni": "Anne Tottenhamová po zážitku už nikdy nebyla stejná a podle pověsti dodnes bloudí takzvaným Tapestry Room, který návštěvníci i personál označují za nejstrašidelnější místnost domu.",
+      "skepticke": "Během rekonstrukce v 60. a 70. letech 19. století byly v obývacím pokoji nalezeny ostatky kojence, což vedlo k alternativnímu výkladu: legenda o ďáblovi mohla sloužit k zakrytí skutečného skandálu, totiž že Anne otěhotněla mimo manželství a dítě zemřelo - příběh o ďáblu tak mohl být pozdější krycí historka, ne popis nadpřirozené události."
+    },
+    "praktickeInfo": "Dům nabízí v sezóně placené prohlídky včetně tematických nočních prohlídek, nachází se na odlehlém poloostrově Hook, doporučuje se rezervace předem.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Loftus Hall",
+        "url": "https://en.wikipedia.org/wiki/Loftus_Hall",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Loftus Hall",
+        "url": "https://www.wikidata.org/wiki/Q15242617",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Loftus Hall - oficiální web",
+        "url": "https://www.loftushall.ie/about",
+        "licence": "oficiální zdroj / návštěvní informace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Loftus%20Hall%20Wexford",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "legenda",
+      "umrti"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Kopyta pod stolem",
+        "text": "Ústřední obraz legendy: Anne Tottenhamová si při hře karet všimne, že tajemný host má místo nohou kopyta, a ten se vzápětí vzňa a prorazí střechou."
+      },
+      {
+        "nazev": "Kojenec v obývacím pokoji",
+        "text": "Nález ostatků dítěte během viktoriánské rekonstrukce otevřel alternativní výklad legendy jako krycího příběhu pro skutečný rodinný skandál."
+      }
+    ]
+  },
+  {
+    "id": "brabo-fountain-antwerp",
+    "slug": "brabo-fountain-antwerp",
+    "localizedSlugs": {
+      "cs": "kasna-brabo-antverpy",
+      "en": "brabo-fountain-antwerp",
+      "de": "brabobrunnen-antwerpen",
+      "es": "fuente-brabo-amberes",
+      "fr": "fontaine-brabo-anvers"
+    },
+    "detailPath": "/mista/brabo-fountain-antwerp/",
+    "nazev": "Kašna Brabo",
+    "zeme": "Belgie",
+    "kontinent": "Evropa",
+    "lead": "Bronzová kašna na hlavním náměstí Antverp vypráví zakladatelský mýtus o hrdinovi, obru a uťaté ruce, ze kterého má město údajně i své jméno.",
+    "gps": {
+      "lat": 51.22118,
+      "lon": 4.39969
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 68,
+    "paranormalniAktivita": "zakladatelský mýtus, bez ověřených jevů",
+    "historickaDolozenost": "dobrá (kašna samotná), legenda historicky nedoložitelná",
+    "nebezpecnost": "žádná",
+    "pristupnost": "volně přístupné veřejné náměstí",
+    "atmosfera": 3.6,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Na hlavním náměstí Antverp stojí kašna zachycující muže, jak právě hází useknutou ruku obra do řeky - výjev, který má podle legendy vysvětlovat i samotné jméno města.",
+      "historie": "Kašnu z kamene a bronzu navrhl sochař Jef Lambeaux a odhalena byla roku 1887 před antverpskou radnicí na náměstí Grote Markt. Zachycuje legendárního římského vojáka Silvia Braba uprostřed hodu useknutou rukou obra Druona Antigoona.",
+      "legenda": "Podle pověsti obr Druon Antigoon střežil most přes řeku Šeldu a vybíral clo od kolemjdoucích lodí; když někdo odmítl zaplatit, usekl mu ruku a hodil ji do řeky. Římský voják Silvius Brabo obra nakonec porazil, usekl ruku jemu a hodil ji do vody místo něj. Ve vlámštině 'hand werpen' znamená 'házet ruku' a z tohoto spojení má podle legendy pocházet i jméno Antverpy.",
+      "paranormalni": "Brabo a jeho čin jsou dodnes součástí městského znaku Antverp a legenda je natolik zakořeněná, že ji řada obyvatel i turistů bere jako doslovné vysvětlení jména města.",
+      "skepticke": "Jazykovědci považují spojení jména Antverpy se slovy 'házet ruku' spíš za lidovou etymologii než za skutečný historický nebo jazykový základ - přesnější odvození jména města souvisí pravděpodobně se starým výrazem pro nábřeží nebo náspy podél řeky, ne s legendárním hodem useknuté ruky."
+    },
+    "praktickeInfo": "Kašna stojí na veřejném náměstí Grote Markt před radnicí, volně přístupná bez omezení, dobrá výchozí zastávka pro procházku historickým centrem Antverp.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Brabo Fountain",
+        "url": "https://en.wikipedia.org/wiki/Brabo_Fountain",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Brabo Fountain",
+        "url": "https://www.wikidata.org/wiki/Q3911365",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Wikipedia: Silvius Brabo",
+        "url": "https://en.wikipedia.org/wiki/Silvius_Brabo",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Grote%20Markt%20Antwerp",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "mytologie",
+      "symboly"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Uťatá ruka jako mýtus o jméně",
+        "text": "Vlámské spojení 'hand werpen' (házet ruku) mělo podle lidové etymologie dát vzniknout jménu Antverpy - odborníci ale tuto souvislost považují spíš za pověst než za jazykový fakt."
+      },
+      {
+        "nazev": "Obr, který si nechal platit useknutými rukama",
+        "text": "Druon Antigoon podle legendy trestal neplatiče na mostě přes Šeldu tím nejbrutálnějším způsobem - usekl jim ruku a hodil ji do řeky."
+      }
+    ]
+  },
+  {
+    "id": "maunsell-forts-shivering-sands",
+    "slug": "maunsell-forts-shivering-sands",
+    "localizedSlugs": {
+      "cs": "maunsell-forts-shivering-sands",
+      "en": "maunsell-forts-shivering-sands",
+      "de": "maunsell-forts-shivering-sands",
+      "es": "maunsell-forts-shivering-sands",
+      "fr": "maunsell-forts-shivering-sands"
+    },
+    "detailPath": "/mista/maunsell-forts-shivering-sands/",
+    "nazev": "Maunsellovy pevnosti (Shivering Sands)",
+    "zeme": "Spojene kralovstvi",
+    "kontinent": "Evropa",
+    "lead": "Protiletadlové pevnosti uprostřed ústí Temže, které po vyřazení z vojenské služby na čas obsadilo pirátské rádio.",
+    "gps": {
+      "lat": 51.4992,
+      "lon": 1.0747
+    },
+    "kategorie": [
+      "opustene",
+      "historie"
+    ],
+    "indexTajemna": 75,
+    "paranormalniAktivita": "žádná, jde o zdokumentovanou vojenskou a mediální historii",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "vysoká (nestabilní konstrukce, nepřístupné bez povolení)",
+    "pristupnost": "nepřístupné, jen z lodi na dálku nebo se specializovanou plavbou",
+    "atmosfera": 4.1,
+    "nocniVhodnost": false,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Uprostřed ústí Temže stále trčí z moře skupina opuštěných protiletadlových věží z druhé světové války - a jedna z nich se na pár let stala nelegálním vysílačem rockové hudby.",
+      "historie": "Pevnosti navrhl britský stavební inženýr Guy Maunsell a postavily se v roce 1942 jako součást obrany ústí Temže. Každá sestávala ze sedmi věží na pilotech kolem centrální velitelské věže a společně sestřelily přes 30 létajících pum V1 a 22 nepřátelských letadel. Po válce byly v 50. letech vyřazeny z provozu a ponechány svému osudu, mořská voda postupně rozežírala jejich ocelové nohy.",
+      "legenda": "V 60. letech obsadili opuštěné věže provozovatelé nelegálního pirátského rádia - stanice Radio City, kterou roku 1964 založil Reginald Calvert, vysílala rock and roll z pevnosti Shivering Sands, dokud britský zákon o námořních přestupcích z roku 1967 podobné stanice nezakázal.",
+      "paranormalni": "Zchátralé věže dnes připomínají spíš postapokalyptickou kulisu než vojenskou stavbu a jejich siluetu na obzoru fotografové i cestovatelé často popisují jako jednu z nejpodivnějších v celé Anglii.",
+      "skepticke": "Chátrání konstrukcí je čistě materiálový proces koroze a podemílání mořským dnem, ne nic záhadného - dnes zůstávají stát jen dvě z původních pevností, Red Sands a Shivering Sands, a vstup na ně je kvůli zchátralé konstrukci prakticky vyloučen."
+    },
+    "praktickeInfo": "Pevnosti nejsou veřejnosti přístupné kvůli nebezpečnému stavu konstrukce, prohlédnout si je lze jen z paluby specializovaných vyhlídkových plaveb kolem ústí Temže.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Maunsell Forts",
+        "url": "https://en.wikipedia.org/wiki/Maunsell_Forts",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Shivering Sands Army Fort",
+        "url": "https://www.wikidata.org/wiki/Q1268270",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "Wikipedia: Radio City (pirate radio station)",
+        "url": "https://en.wikipedia.org/wiki/Radio_City_(pirate_radio_station)",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Shivering%20Sands%20Fort",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "valka",
+      "media",
+      "opustene"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Rádio z vojenské věže",
+        "text": "Reginald Calvert proměnil opuštěnou pevnost Shivering Sands ve vysílač stanice Radio City, dokud novému zákonu z roku 1967 neučinil přítrž."
+      },
+      {
+        "nazev": "Přeživší dvojice pevností",
+        "text": "Z celé sítě protiletadlových věží zůstávají stát jen dvě - Red Sands a Shivering Sands - zbytek podlehl korozi a mořskému proudu."
+      }
+    ]
+  },
+  {
+    "id": "holland-island-maryland",
+    "slug": "holland-island-maryland",
+    "localizedSlugs": {
+      "cs": "holland-island-maryland",
+      "en": "holland-island-maryland",
+      "de": "holland-island-maryland",
+      "es": "holland-island-maryland",
+      "fr": "holland-island-maryland"
+    },
+    "detailPath": "/mista/holland-island-maryland/",
+    "nazev": "Holland Island",
+    "zeme": "USA",
+    "kontinent": "Severni Amerika",
+    "lead": "Rušný ostrovní ostrov v Chesapeake Bay se zemědělci, školou a baseballovým týmem, který moře po sto letech eroze úplně pohltilo.",
+    "gps": {
+      "lat": 38.1195,
+      "lon": -76.0883
+    },
+    "kategorie": [
+      "opustene",
+      "ostrov"
+    ],
+    "indexTajemna": 77,
+    "paranormalniAktivita": "žádná, jde o zdokumentovaný proces eroze a zániku",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "žádná (ostrov dnes leží pod hladinou)",
+    "pristupnost": "fyzicky neexistuje, zbylo jen mělčí moře",
+    "atmosfera": 4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Holland Island v Chesapeake Bay měl kolem roku 1910 přes 360 obyvatel, dva obchody, školu i baseballový tým - dnes z něj nezůstalo vůbec nic, protože ho moře doslova rozpustilo.",
+      "historie": "Ostrov osídlili kolonisté v 17. století a pojmenovali ho po prvním majiteli, Danielu Hollandovi. Protože byl tvořen měkkým bahnem a jílem, ne skálou, byl od přírody mimořádně náchylný k erozi - první výrazné ztráty pobřeží se objevily už roku 1914.",
+      "legenda": "Obyvatelé se pokoušeli ostrov zachránit dovážením kamenů na hráze a dokonce potápěním lodí, aby zpomalili erozi, žádný z pokusů ale dlouhodobě nezabral. Kolem roku 1920 se většina obyvatel odstěhovala a svých asi 60 domů si s sebou rozebraných odvezla na pevninu do měst jako Cambridge nebo Crisfield.",
+      "paranormalni": "Poslední zbylý dům z roku 1888 koupil bývalý námořník a metodistický kazatel v roce 1995 a roky se ho snažil sám opravovat a udržet - stal se symbolem marného boje s mořem, dokud bouře dům definitivně nezlomila.",
+      "skepticke": "Zánik ostrova je čistě geologický a klimatický jev: měkké bahnité podloží, stoupající hladina moře a tisíce let trvající sesedání půdy po ústupu ledovců z poslední doby ledové - poslední dům se zhroutil roku 2010 a ostrov jako celek zmizel pod hladinou definitivně roku 2012."
+    },
+    "praktickeInfo": "Ostrov dnes fyzicky neexistuje a leží pod hladinou Chesapeake Bay, místo lze navštívit jen symbolicky lodí nad bývalou polohou ostrova.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Holland Island",
+        "url": "https://en.wikipedia.org/wiki/Holland_Island",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Holland Island",
+        "url": "https://www.wikidata.org/wiki/Q5880990",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Holland%20Island%20Maryland",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "opustene",
+      "voda",
+      "prirodni-anomalie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Baseballový tým, který jezdil lodí",
+        "text": "Ostrov měl kolem roku 1910 přes 360 obyvatel a vlastní baseballový tým, který na zápasy s jinými ostrovy dojížděl lodí po zálivu."
+      },
+      {
+        "nazev": "Poslední dům proti moři",
+        "text": "Bývalý námořník koupil poslední zbylý dům roku 1995 a řadu let ho sám opravoval, než ho bouře definitivně zlomila a ostrov zmizel úplně."
+      }
+    ]
+  },
+  {
+    "id": "ryugyong-hotel",
+    "slug": "ryugyong-hotel",
+    "localizedSlugs": {
+      "cs": "ryugyong-hotel",
+      "en": "ryugyong-hotel",
+      "de": "ryugyong-hotel",
+      "es": "ryugyong-hotel",
+      "fr": "ryugyong-hotel"
+    },
+    "detailPath": "/mista/ryugyong-hotel/",
+    "nazev": "Ryugyong Hotel",
+    "zeme": "Severni Korea",
+    "kontinent": "Asie",
+    "lead": "Pyramidová věž nad Pchjongjangem, kterou stavěli přes tři desetiletí a která je dodnes největší neobsazenou budovou na světě.",
+    "gps": {
+      "lat": 39.03667,
+      "lon": 125.73083
+    },
+    "kategorie": [
+      "opustene"
+    ],
+    "indexTajemna": 76,
+    "paranormalniAktivita": "žádná, jde o zdokumentovanou stavební historii",
+    "historickaDolozenost": "dobrá, ačkoli mnoho detailů zůstává mimo veřejný přístup",
+    "nebezpecnost": "nízká pro pozorování zvenčí, budova je nepřístupná",
+    "pristupnost": "veřejnosti nepřístupná, viditelná jen zvenčí",
+    "atmosfera": 3.9,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "105patrová pyramidová věž nad Pchjongjangem stojí už skoro čtyři desetiletí - a přesto do ní dodnes nikdy nebyl vpuštěn jediný hotelový host.",
+      "historie": "Stavba began v roce 1987 z rozhodnutí Kim Ir-sona, který chtěl budovou zastínit vše, co do té doby postavili jihokorejští sousedé. Hrubá stavba dosáhla plánované výšky už v roce 1992, ale kvůli rozpadu Sovětského svazu a následné severokorejské hospodářské krizi zůstala dalších 16 let stát jako holá betonová konstrukce bez oken.",
+      "legenda": "Stavba se obnovila až v roce 2008 poté, co se na ní spolu s instalací severokorejské 3G sítě podílel egyptský konglomerát - budova pak dostala skleněný a kovový plášť a později i LED osvětlení, které z ní v noci dělá barevné divadlo nad hlavním městem.",
+      "paranormalni": "Novinářům i cestovatelům se budova vžila pod přezdívkou 'Hotel zkázy' a bývá řazena mezi nejpodivnější stavby světa právě kvůli kontrastu mezi monumentální velikostí a tím, že zůstává prázdná.",
+      "skepticke": "Zpoždění stavby má jasné a zdokumentované ekonomické a politické příčiny - kolaps sovětské podpory a následná severokorejská krize, ne nic záhadného - budova dodnes zůstává největší trvale neobsazenou stavbou na světě, ne kvůli kletbě, ale kvůli reálným finančním a technickým limitům."
+    },
+    "praktickeInfo": "Budova je veřejnosti a turistům nepřístupná zevnitř, prohlédnout si ji lze jen zvenčí v rámci organizovaného turistického zájezdu do Pchjongjangu.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Ryugyong Hotel",
+        "url": "https://en.wikipedia.org/wiki/Ryugyong_Hotel",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Ryugyong Hotel",
+        "url": "https://www.wikidata.org/wiki/Q29272",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Ryugyong%20Hotel%20Pyongyang",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "opustene",
+      "politika",
+      "technologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "16 let jako holý beton",
+        "text": "Po dosažení plánované výšky v roce 1992 stála budova dalších 16 let jako prázdná betonová konstrukce bez oken, než se stavba znovu rozeběhla."
+      },
+      {
+        "nazev": "Prázdná věž s LED divadlem",
+        "text": "Přes moderní skleněný plášť a barevné LED osvětlení zůstává budova dodnes bez jediného hosta - největší neobsazená stavba na světě."
+      }
+    ]
+  },
+  {
+    "id": "wat-rong-khun",
+    "slug": "wat-rong-khun",
+    "localizedSlugs": {
+      "cs": "wat-rong-khun",
+      "en": "wat-rong-khun",
+      "de": "wat-rong-khun",
+      "es": "wat-rong-khun",
+      "fr": "wat-rong-khun"
+    },
+    "detailPath": "/mista/wat-rong-khun/",
+    "nazev": "Wat Rong Khun (Bílý chrám)",
+    "zeme": "Thajsko",
+    "kontinent": "Asie",
+    "lead": "Zářivě bílý thajský chrám, jehož most k nebi vede přes moře prosících rukou vystupujících z pekla.",
+    "gps": {
+      "lat": 19.82478,
+      "lon": 99.75778
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 71,
+    "paranormalniAktivita": "náboženská symbolika, bez ověřených jevů",
+    "historickaDolozenost": "výborná (moderní stavba se zdokumentovaným autorem)",
+    "nebezpecnost": "žádná",
+    "pristupnost": "placený vstup, aktivní buddhistický chrám",
+    "atmosfera": 4.2,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Bílý chrám u Chiang Rai vypadá zdálky jako křehká ledová stavba, ale cesta k jeho vstupu vede přes symbolické moře rukou natažených z pekla - a uvnitř na diváka čekají malby s Michaelem Jacksonem i Terminátorem vedle buddhistických motivů.",
+      "historie": "Stavbu v roce 1997 založil thajský umělec Chalermchai Kositpipat na místě staršího zchátralého chrámu a dodnes ji vlastním nákladem rozšiřuje. Komplex ztělesňuje umělcovu osobní vizi nebe, pekla a nirvány a je stále nedokončeným, živým uměleckým dílem, ne historickou památkou.",
+      "legenda": "Návštěvníci přicházejí k hlavní síni přes most, který symbolicky překonává 'moře utrpení' - stovky sepjatých a prosících rukou vystupujících ze země představují zatracené duše hnané neukojenou touhou a chamtivostí. Most hlídají brány s hrozivými strážci, kteří mají oddělit svět touhy od cesty k očistě.",
+      "paranormalni": "Interiér hlavní síně přechází z čisté bílé barvy vstupu do plamenných maleb pekla plných démonických tváří a překvapivě i popkulturních postav, což z návštěvy dělá spíš umělecký zážitek než klasickou náboženskou pouť.",
+      "skepticke": "Celý komplex je transparentně moderní umělecké dílo jednoho žijícího autora s jasně zdokumentovaným záměrem, ne starobylá posvátná stavba opředená tajemstvím - jeho síla spočívá v promyšlené symbolice a vizuálním kontrastu, ne v skutečné nadpřirozené události."
+    },
+    "praktickeInfo": "Chrám je aktivním turistickým i náboženským místem s placeným vstupem, doporučuje se slušné oblečení zakrývající ramena a kolena, fotografování uvnitř hlavní síně bývá omezené.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Wat Rong Khun",
+        "url": "https://en.wikipedia.org/wiki/Wat_Rong_Khun",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Wat Rong Khun",
+        "url": "https://www.wikidata.org/wiki/Q496543",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Wat%20Rong%20Khun%20Chiang%20Rai",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "ritual",
+      "symboly",
+      "popkultura"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Most přes moře rukou",
+        "text": "Cesta k hlavní síni vede přes most nad stovkami sepjatých rukou vystupujících ze země - symbol zatracených duší hnaných chamtivostí a touhou."
+      },
+      {
+        "nazev": "Terminátor vedle Buddhy",
+        "text": "Vnitřní malby překvapivě kombinují tradiční buddhistické motivy pekla s postavami popkultury, včetně Michaela Jacksona a Terminátora."
+      }
+    ]
+  },
+  {
+    "id": "obelisk-of-axum",
+    "slug": "obelisk-of-axum",
+    "localizedSlugs": {
+      "cs": "obelisk-axum",
+      "en": "obelisk-of-axum",
+      "de": "obelisk-von-axum",
+      "es": "obelisco-de-axum",
+      "fr": "obelisque-d-axoum"
+    },
+    "detailPath": "/mista/obelisk-of-axum/",
+    "nazev": "Obelisk z Axumu",
+    "zeme": "Etiopie",
+    "kontinent": "Afrika",
+    "lead": "Čtyřiadvacetimetrový monolit staré etiopské říše stojí kousek od kostela, který podle etiopské tradice ukrývá samotnou Archu úmluvy.",
+    "gps": {
+      "lat": 14.13222,
+      "lon": 38.71972
+    },
+    "kategorie": [
+      "historie",
+      "legenda"
+    ],
+    "indexTajemna": 79,
+    "paranormalniAktivita": "silná náboženská tradice, bez archeologického potvrzení",
+    "historickaDolozenost": "výborná (samotné stély), legenda o Arše nepotvrzena",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné historické pole, kostel má omezený přístup",
+    "atmosfera": 4.2,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Na poli u etiopského města Axum stojí přes 120 kamenných stél ze 4. století, z nichž největší dochovaný obelisk měří 24 metrů a váží 160 tun - jen pár set metrů od kostela, kde má být podle místní tradice ukrytá biblická Archa úmluvy.",
+      "historie": "Severní stélové pole v Axumu je pozůstatkem staré Axumské říše a obsahuje více než 120 monolitů datovaných většinou do let 300-500 n. l. Obelisk z Axumu, vytesaný z jediného kusu kamene podobného žule, je jedním z nejzachovalejších a měří 24 metrů. Kostel Panny Marie Sionské v současné podobě pochází ze 17. století a stojí na místě staršího svatostánku.",
+      "legenda": "Podle etiopské kroniky Kebra Nagast (Sláva králů) se v Axumu ukrývá biblická Archa úmluvy, kterou měl do Etiopie přinést Menelik I., syn královny ze Sáby a krále Šalamouna. Archa má být uložena v malé, bezoké kapli v areálu kostela, kam nesmí vstoupit nikdo kromě jednoho pověřeného strážce po celý jeho život.",
+      "paranormalni": "Tradice o Arše je pro etiopskou pravoslavnou církev živou a hluboce ctěnou vírou, ne pouhou turistickou legendou - strážce Archy žije v izolaci u kaple a veřejnosti se nikdy neukazuje.",
+      "skepticke": "Pro přítomnost Archy úmluvy v Axumu neexistuje žádný archeologický důkaz a historikové ji považují za nábožensky motivovaný mýtus spojující etiopskou církev se starozákonní tradicí - samotné stély a Axumská říše jsou naopak historicky i archeologicky bohatě doložené bez ohledu na legendu o Arše."
+    },
+    "praktickeInfo": "Stélové pole je volně přístupné jako archeologický park, kaple s údajnou Archou je uzavřená veřejnosti a přístupná jen jmenovanému strážci, návštěva kostela vyžaduje respekt k aktivnímu náboženskému provozu.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Obelisk of Axum",
+        "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Obelisk of Axum",
+        "url": "https://www.wikidata.org/wiki/Q2308606",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "UNESCO World Heritage - Aksum",
+        "url": "https://whc.unesco.org/en/list/15/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Axum%20Stelae%20Field",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "ritual",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Strážce, který nikdy neodejde",
+        "text": "Podle etiopské tradice hlídá Archu úmluvy jediný pověřený mnich, který zbytek života stráví v izolaci u kaple a veřejnosti se nikdy neukazuje."
+      },
+      {
+        "nazev": "Menelikova cesta ze Sáby",
+        "text": "Kronika Kebra Nagast vypráví, jak syn královny ze Sáby a krále Šalamouna přinesl Archu úmluvy z Jeruzaléma do Etiopie - základní kámen celé tradice."
+      }
+    ]
+  },
+  {
+    "id": "fingals-cave",
+    "slug": "fingals-cave",
+    "localizedSlugs": {
+      "cs": "fingalova-jeskyne",
+      "en": "fingals-cave",
+      "de": "fingals-hoehle",
+      "es": "cueva-de-fingal",
+      "fr": "grotte-de-fingal"
+    },
+    "detailPath": "/mista/fingals-cave/",
+    "nazev": "Fingalova jeskyně",
+    "zeme": "Skotsko",
+    "kontinent": "Evropa",
+    "lead": "Přírodní jeskyně z čedičových sloupů na skotském ostrově Staffa, kterou legenda spojuje s obřím mostem přes moře do Irska.",
+    "gps": {
+      "lat": 56.43389,
+      "lon": -6.33611
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 78,
+    "paranormalniAktivita": "keltská mytologie, bez ověřených jevů",
+    "historickaDolozenost": "výborná geologická dokumentace",
+    "nebezpecnost": "střední (přístup lodí, kluzké skály, závislé na počasí)",
+    "pristupnost": "sezónní lodní výlety, bez trvalé infrastruktury",
+    "atmosfera": 4.4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Na neobydleném ostrově Staffa se tyčí 69 metrů nad mořem jeskyně vytvořená z dokonale pravidelných šestibokých čedičových sloupů - a keltská legenda tvrdí, že jde o zbytek mostu, po kterém měl kdysi přejít obr.",
+      "historie": "Jeskyně vznikla asi před 60 miliony let stejným tokem lávy, který vytvořil i severoirský Giant's Causeway - obě lokality sdílejí naprosto stejnou geologickou strukturu šestibokých čedičových sloupů.",
+      "legenda": "Podle legendy postavil irský obr Fionn mac Cumhaill (jehož jméno se zkráceně vykládá jako Fingal, 'bílý cizinec') přes moře do Skotska kamenný most, aby mohl vyzvat na souboj svého skotského rivala. Fingalova jeskyně je podle pověsti skotský konec tohoto mostu, jehož zbytek na irské straně tvoří Giant's Causeway.",
+      "paranormalni": "Jeskyně je proslulá i neobvyklou akustikou - odražené vlny a vítr v ní vytvářejí zvláštní tóny, které jí vynesly skotské jméno 'jeskyně melodie' a inspirovaly i slavnou hudební skladbu 19. století.",
+      "skepticke": "Šestiboké sloupy v obou lokalitách vznikly identickým geologickým procesem prudkého chladnutí a smršťování lávy, ne stavební činností obrů - shoda tvarů na obou březích Severního kanálu legendu jen posílila, protože přirozeně vypadá jako přerušený most."
+    },
+    "praktickeInfo": "Ostrov Staffa je bez trvalého osídlení a přístupný jen sezónními vyhlídkovými plavbami z Mullu nebo Oban, návštěva závisí na počasí a stavu moře, uvnitř jeskyně je kluzký terén.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Fingal's Cave",
+        "url": "https://en.wikipedia.org/wiki/Fingal%27s_Cave",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Fingal's Cave",
+        "url": "https://www.wikidata.org/wiki/Q403134",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Fingal%27s%20Cave%20Staffa",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "mytologie",
+      "prirodni-anomalie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Zbořený most obrů",
+        "text": "Legenda tvrdí, že Fingalova jeskyně a severoirský Giant's Causeway jsou dva konce jednoho mostu, který přes moře postavil irský obr Fionn mac Cumhaill."
+      },
+      {
+        "nazev": "Jeskyně, která zpívá",
+        "text": "Neobvyklá akustika jeskyně vytvářená odrazem vln a prouděním vzduchu jí vynesla přezdívku 'jeskyně melodie' a inspirovala i slavnou hudební skladbu."
+      }
+    ]
+  },
+  {
+    "id": "crooked-forest-poland",
+    "slug": "crooked-forest-poland",
+    "localizedSlugs": {
+      "cs": "krivy-les-polsko",
+      "en": "crooked-forest-poland",
+      "de": "krummer-wald-polen",
+      "es": "bosque-torcido-polonia",
+      "fr": "foret-tordue-pologne"
+    },
+    "detailPath": "/mista/crooked-forest-poland/",
+    "nazev": "Křivý les (Krzywy Las)",
+    "zeme": "Polsko",
+    "kontinent": "Evropa",
+    "lead": "Skupina borovic u polského Gryfina roste s podivným obloukovým ohybem u kořenů, jehož příčinu se dodnes nepodařilo s jistotou vysvětlit.",
+    "gps": {
+      "lat": 53.21389,
+      "lon": 14.475
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 74,
+    "paranormalniAktivita": "žádná, jde o nevyřešenou přírodní anomálii",
+    "historickaDolozenost": "dobrá (výsadba je datovaná, příčina ohybu ne)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Přibližně 400 borovic vysazených kolem roku 1930 u obce Nowe Czarnowo poblíž Gryfina roste s téměř identickým obloukovým ohybem těsně nad zemí, než pokračují rovně vzhůru - a nikdo si není jistý, co ohyb způsobilo.",
+      "historie": "Lesníci vysadili borovice v pravidelných řadách kolem roku 1930 v tehdejším Německu, dnešním severozápadním Polsku. Podle odborných odhadů k deformaci došlo, když bylo stromům pouhých 5 až 7 let.",
+      "legenda": "Kolem ohybu koluje řada teorií: že šlo o záměrnou lidskou techniku ohýbání dřeva pro výrobu nábytku nebo lodních trupů, že za ním stojí sněhová bouře, která stromky v mládí přitlačila k zemi, nebo že jde o důsledek nějakého neznámého přírodního tlaku působícího jen na tuto skupinu.",
+      "paranormalni": "Přesně stejný směr a tvar ohybu u všech postižených stromů dodává lesu silně nadpřirozenou atmosféru, přestože jde nejspíš o kombinaci lidského zásahu a přírodních podmínek v raném stádiu růstu.",
+      "skepticke": "Nejpravděpodobnějším vysvětlením zůstává záměrná lesnická technika k získání přirozeně zakřiveného dřeva pro nábytkářství nebo stavbu lodí, podobný postup je historicky doložený i jinde v Evropě - přesný mechanismus se ale nikdy nepodařilo definitivně potvrdit a čas na jeho objasnění se krátí, protože z původních 400 stromů dnes přežívá jen asi 100."
+    },
+    "praktickeInfo": "Les je volně přístupný bez vstupného, nachází se u vesnice Nowe Czarnowo poblíž Gryfina v severozápadním Polsku, doporučuje se pohybovat jen po vyznačených cestách kvůli ochraně stárnoucích stromů.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Crooked Forest",
+        "url": "https://en.wikipedia.org/wiki/Crooked_Forest",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Crooked Forest",
+        "url": "https://www.wikidata.org/wiki/Q1602409",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Krzywy%20Las%20Gryfino",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "prirodni-anomalie",
+      "legenda",
+      "pseudoveda"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Dřevo pro lodě, nebo sníh?",
+        "text": "Dvě hlavní teorie si konkurují dodnes: záměrná lesnická technika pro získání zakřiveného dřeva, nebo náhodná deformace způsobená sněhovou bouří v raném věku stromů."
+      },
+      {
+        "nazev": "Závod s časem",
+        "text": "Z původních asi 400 pokřivených borovic dnes přežívá jen čtvrtina, což vědce nutí hledat vysvětlení dřív, než zbylé stromy zaniknou přirozeným stárnutím."
+      }
+    ]
+  },
+  {
+    "id": "dark-hedges",
+    "slug": "dark-hedges",
+    "localizedSlugs": {
+      "cs": "temna-zivotplot",
+      "en": "dark-hedges",
+      "de": "dark-hedges",
+      "es": "dark-hedges",
+      "fr": "dark-hedges"
+    },
+    "detailPath": "/mista/dark-hedges/",
+    "nazev": "Dark Hedges",
+    "zeme": "Severni Irsko",
+    "kontinent": "Evropa",
+    "lead": "Alej starých buků v Severním Irsku, kterou proslavil seriál Game of Thrones - a dávno předtím legenda o Šedé dámě mizející u posledního stromu.",
+    "gps": {
+      "lat": 55.1344,
+      "lon": -6.3806
+    },
+    "kategorie": [
+      "priroda",
+      "legenda"
+    ],
+    "indexTajemna": 76,
+    "paranormalniAktivita": "silná lidová tradice, bez ověřených jevů",
+    "historickaDolozenost": "dobrá (výsadba je historicky doložená)",
+    "nebezpecnost": "nízká (pozor na provoz na úzké silnici)",
+    "pristupnost": "veřejná silnice, volně přístupné",
+    "atmosfera": 4.5,
+    "nocniVhodnost": true,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Alej přes 150 buků podél cesty Bregagh Road v hrabství Antrim vytváří tunel propletených větví, kterým má za soumraku procházet tichá přízračná postava mizející u posledního stromu.",
+      "historie": "Stromy nechal na konci 18. století vysadit James Stuart jako honosnou přístupovou cestu ke svému georgiánskému sídlu Gracehill House. Přes 150 buků postupně srostlo do charakteristického propleteného tunelu, který je dnes chráněnou přírodní i kulturní památkou.",
+      "legenda": "Podle místní pověsti se alejí za soumraku prochází takzvaná Šedá dáma, přízračná postava zahalená v bílém nebo šedém, která tiše klouže mezi kmeny a mizí přesně u posledního stromu na kraji aleje. Různé verze legendy ji ztotožňují buď s dcerou Jamese Stuarta přezdívanou Cross Peggy, se služebnou, která v sídle záhadně zemřela, nebo s duchem ze zaniklého hřbitova pod okolními poli.",
+      "paranormalni": "Podle tradice se o Halloweenu k Šedé dámě přidávají další duchové ze zaniklého hřbitova, takže alej bývá v tento večer spojována se zesíleným výskytem zjevení.",
+      "skepticke": "Žádná z verzí legendy nemá dobově doložený zdroj a Šedá dáma je typický druh 'aleje duchů' vázaný na staré, esteticky nápadné stromořadí - v posledních letech navíc alej proslavila úplně jiná, zcela pozemská věc: seriál Game of Thrones, kde posloužila jako Královská cesta."
+    },
+    "praktickeInfo": "Alej vede po veřejné, ale úzké silnici s omezeným provozem aut, doporučuje se dbát zvýšené opatrnosti při chůzi po vozovce, nejlepší světlo pro fotografování bývá brzy ráno nebo za soumraku.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Dark Hedges",
+        "url": "https://en.wikipedia.org/wiki/Dark_Hedges",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Dark Hedges",
+        "url": "https://www.wikidata.org/wiki/Q28842723",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Dark%20Hedges%20Bregagh%20Road",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "duchove",
+      "legenda",
+      "popkultura"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Šedá dáma u posledního stromu",
+        "text": "Podle pověsti přízračná postava tiše prochází alejí za soumraku a mizí přesně u posledního stromu na jejím konci."
+      },
+      {
+        "nazev": "Od strašidelné aleje ke Královské cestě",
+        "text": "Dávno předtím, než se alej proslavila jako Královská cesta v seriálu Game of Thrones, byla známá hlavně díky pověsti o Šedé dámě."
+      }
+    ]
+  },
+  {
+    "id": "chateau-de-montsegur",
+    "slug": "chateau-de-montsegur",
+    "localizedSlugs": {
+      "cs": "hrad-montsegur",
+      "en": "chateau-de-montsegur",
+      "de": "burg-montsegur",
+      "es": "castillo-de-montsegur",
+      "fr": "chateau-de-montsegur"
+    },
+    "detailPath": "/mista/chateau-de-montsegur/",
+    "nazev": "Hrad Montségur",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "lead": "Poslední katarská pevnost, kde po pádu obléhání dobrovolně vstoupilo do hranice přes dvě stě lidí - a odkud podle legendy čtyři uprchlíci odnesli tajemný poklad.",
+    "gps": {
+      "lat": 42.87556,
+      "lon": 1.8325
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 87,
+    "paranormalniAktivita": "silná esoterická tradice z počátku 20. století, bez historického potvrzení",
+    "historickaDolozenost": "výborná (obležení je podrobně doložené inkvizičními záznamy)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, náročnější výstup",
+    "atmosfera": 4.7,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Na vrcholu strmého kopce v Pyrenejích stojí ruina poslední katarské pevnosti, kde se roku 1244 po dlouhém obléhání přes dvě stě lidí dobrovolně upálilo, než by se vzdalo víry - a legenda tvrdí, že těsně předtím z hradu unikl tajemný poklad.",
+      "historie": "Roku 1243 oblehla Montségur královská armáda o síle asi 10 000 vojáků. Malá posádka kladla odpor deset měsíců, než byla donucena v březnu 1244 kapitulovat. Ráno 16. března sešlo z hradu na pláň pod kopcem přes 200 katarů vedených biskupem Bertrandem Martym a dobrovolně vstoupilo do připravené hranice, aniž by museli být ke kůlu přivázáni.",
+      "legenda": "Podle inkvizičních záznamů z Carcassonne měli v posledních dnech obléhání čtyři takzvaní 'perfecti' slézt po lanech zahalení do vlněných přikrývek dolů do rokle Lasset a předat tam ukrytý poklad katarů muži jménem Pons-Arnaud de Castellum Verdunum. Na počátku 20. století francouzský esoterický spisovatel Joséphin Péladan tento poklad ztotožnil se samotným Svatým grálem, s odkazem na středověký román Parzival, kde se hrad grálu jmenuje Montsalvat.",
+      "paranormalni": "Spojení Montségur se Svatým grálem se stalo populární součástí esoterických a okultních kruhů 20. století a přitahuje badatele i dnes, přestože jde o výklad vzniklý téměř 700 let po samotné události.",
+      "skepticke": "Pro spojení Montségur se Svatým grálem neexistuje žádný středověký historický pramen - teorie vznikla až na přelomu 19. a 20. století z literární spekulace, ne z dobových záznamů. Skutečný poklad katarů byl pravděpodobně jen církevní pokladnice nebo listiny, samotné hromadné upálení je naopak historicky nezpochybnitelně doložené inkvizičními protokoly."
+    },
+    "praktickeInfo": "K ruinám hradu vede strmá turistická stezka od parkoviště pod kopcem, výstup trvá zhruba 30-40 minut a vyžaduje pevnou obuv, vstup do areálu je zpoplatněný.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Château de Montségur",
+        "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Monts%C3%A9gur",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Château de Montségur",
+        "url": "https://www.wikidata.org/wiki/Q1013191",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Chateau%20de%20Montsegur",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "umrti",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Dobrovolná hranice",
+        "text": "Přes 200 katarů vedených biskupem Bertrandem Martym sešlo z hradu na pláň a dobrovolně vstoupilo do ohně, aniž by museli být ke kůlu přivazováni."
+      },
+      {
+        "nazev": "Poklad spuštěný po laně",
+        "text": "Podle inkvizičních záznamů měli čtyři katarští 'perfecti' těsně před pádem hradu slézt po lanech do rokle a odnést odtud tajemný poklad, který o staletí později spisovatelé ztotožnili se Svatým grálem."
+      }
+    ]
+  },
+  {
+    "id": "cite-de-carcassonne",
+    "slug": "cite-de-carcassonne",
+    "localizedSlugs": {
+      "cs": "pevnost-carcassonne",
+      "en": "cite-de-carcassonne",
+      "de": "cite-de-carcassonne",
+      "es": "ciudadela-de-carcasona",
+      "fr": "cite-de-carcassonne"
+    },
+    "detailPath": "/mista/cite-de-carcassonne/",
+    "nazev": "Pevnostní město Carcassonne",
+    "zeme": "Francie",
+    "kontinent": "Evropa",
+    "lead": "Největší dochované opevněné středověké město Evropy nese jméno po ženě, která podle legendy obelstila samotného Karla Velikého jediným prasetem.",
+    "gps": {
+      "lat": 43.20644,
+      "lon": 2.36379
+    },
+    "kategorie": [
+      "hrad",
+      "legenda"
+    ],
+    "indexTajemna": 75,
+    "paranormalniAktivita": "zakladatelský mýtus, historicky nedoložitelný",
+    "historickaDolozenost": "výborná (opevnění samotné)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné historické město, placené vstupy do hradu",
+    "atmosfera": 4.3,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Dvojitý prstenec hradeb obklopující Carcassonne tvoří největší dochované opevněné středověké město v Evropě - a jeho jméno má podle legendy pocházet z vynalézavosti jedné ženy, ne z vojenského vítězství.",
+      "historie": "Opevněné jádro Carcassonne prošlo vrstvami galsko-římského, vizigótského a středověkého osídlení a dnešní dvojitý hradební okruh je z velké části výsledkem rozsáhlé restaurace v 19. století. Od roku 1997 je na seznamu UNESCO jako výjimečně dochovaný příklad středověkého opevněného města.",
+      "legenda": "Podle legendy z 8. století vládla městu po smrti manžela saracénská princezna jménem Carcas v době, kdy je obléhalo vojsko Karla Velikého. Obležení trvalo pět let a zásoby docházely - Carcas proto nechala z hradeb spustit posledního vykrmeného prasete napůl plného obilí, aby útočníkům předstírala, že město má jídla nadbytek. Karel Veliký si díky tomu myslel, že obyvatelé nikdy nekapitulují, a obležení zrušil. Carcas pak na oslavu nechala rozeznít městské zvony - odtud má podle legendy pocházet i jméno města, z okcitánského 'Carcas sona', tedy 'Carcas zvoní'.",
+      "paranormalni": "Legenda o Dame Carcas je dodnes hluboce zakořeněná v místní identitě a slaví se každoročně při místních folklórních akcích a festivalech.",
+      "skepticke": "Historicky je příběh neudržitelný: Karel Veliký nemohl Carcassonne obléhat, protože město už předtím dobyl jeho otec Pipin Krátký roku 759 - o existenci samotné Dame Carcas navíc neexistuje žádný nezávislý historický doklad, jde tedy o pozdější lidovou etymologii jména města, ne o zaznamenanou historickou událost."
+    },
+    "praktickeInfo": "Historické jádro města je volně přístupné, samotný hrad (Château Comtal) a hradby vyžadují placený vstup, v sezóně bývá mimořádně vysoká turistická návštěvnost.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Lady Carcas",
+        "url": "https://en.wikipedia.org/wiki/Lady_Carcas",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Cité de Carcassonne",
+        "url": "https://www.wikidata.org/wiki/Q389269",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "UNESCO World Heritage - Historic Fortified City of Carcassonne",
+        "url": "https://www.visit-occitanie.com/en/discovering/unesco-classified-sites/medieval-city-carcassonne/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Cite%20de%20Carcassonne",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "legenda",
+      "pevnost",
+      "stredovek"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Prase, které zachránilo město",
+        "text": "Dame Carcas nechala spustit z hradeb posledního vykrmeného prasete, aby obléhající vojsko uvěřilo, že město má jídla nadbytek - lest, která podle legendy obležení ukončila."
+      },
+      {
+        "nazev": "Zvon, který dal jméno městu",
+        "text": "Legenda odvozuje jméno Carcassonne od okcitánského spojení 'Carcas sona' - Carcas zvoní - podle zvonění, kterým princezna oslavila konec obléhání."
+      }
+    ]
+  },
+  {
+    "id": "cellular-jail-andaman",
+    "slug": "cellular-jail-andaman",
+    "localizedSlugs": {
+      "cs": "cellular-jail-andaman",
+      "en": "cellular-jail-andaman",
+      "de": "cellular-jail-andaman",
+      "es": "cellular-jail-andaman",
+      "fr": "cellular-jail-andaman"
+    },
+    "detailPath": "/mista/cellular-jail-andaman/",
+    "nazev": "Cellular Jail (Kala Pani)",
+    "zeme": "Indie",
+    "kontinent": "Asie",
+    "lead": "Britská kolonialní věznice na odlehlých Andamanských ostrovech, kde 'černá voda' znamenala pro indické vězně ztrátu kasty i naděje na návrat.",
+    "gps": {
+      "lat": 11.675,
+      "lon": 92.748
+    },
+    "kategorie": [
+      "veznice",
+      "historie"
+    ],
+    "indexTajemna": 84,
+    "paranormalniAktivita": "lidová tradice o utrpení vězňů, historicky doložené kruté podmínky",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, večerní zvukově-světelná show",
+    "atmosfera": 4.3,
+    "nocniVhodnost": true,
+    "vhodneProDeti": false,
+    "popisy": {
+      "zahada": "Na odlehlých Andamanských ostrovech postavili Britové mezi lety 1890 a 1906 věznici s 696 samostatnými celami uspořádanými do sedmi křídel do hvězdy - stavbu, jejíž samotné jméno v hindštině znamenalo pro indické vězně horší trest než smrt.",
+      "historie": "Cellular Jail v Port Blairu sloužila britské koloniální správě k věznění a trestání politických vězňů a bojovníků za nezávislost Indie. Radiální sedmikřídlá konstrukce s naprosto izolovanými celami měla znemožnit jakoukoli komunikaci mezi vězni. Mezi vězněnými byli i významní bojovníci za nezávislost, včetně bratrů Savarkarových, Batukéšvara Dutta nebo Fazl-e-Haq Khairabadiho.",
+      "legenda": "Přezdívka 'Kala Pani', tedy 'černá voda', odkazovala na hinduistickou představu, že překročení moře znamená ztrátu kasty a společenského postavení - pro řadu indických vězňů tak bylo samotné poslání na ostrovy trestem horším než poprava, protože znamenalo definitivní vyloučení z domovské komunity.",
+      "paranormalni": "Vězni čelili nucené práci, samovazbě v klaustrofobických celách, okovům a krutým tělesným trestům - mezi lety 1932 a 1937 zde proběhly opakované hromadné hladovky jako forma odporu proti podmínkám věznice.",
+      "skepticke": "Utrpení vězňů je historicky podrobně zdokumentované dobovými záznamy, nejde o žádnou zveličenou pověst - dnes věznice slouží jako národní památník připomínající oběti a odhodlání bojovníků za indickou nezávislost, ne jako pouhá strašidelná atrakce."
+    },
+    "praktickeInfo": "Věznice je přístupná s placeným vstupem, večer se koná zvukově-světelná show vyprávějící historii místa, doporučuje se počítat s emocionálně náročnou návštěvou vzhledem k historii krutého zacházení.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Cellular Jail",
+        "url": "https://en.wikipedia.org/wiki/Cellular_Jail",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Cellular Jail",
+        "url": "https://www.wikidata.org/wiki/Q3345501",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "UNESCO Tentative List - Cellular Jail",
+        "url": "https://whc.unesco.org/en/tentativelists/5888/",
+        "licence": "oficiální zdroj / UNESCO dokumentace"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Cellular%20Jail%20Port%20Blair",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "veznice",
+      "politika",
+      "valka"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Trest horší než smrt",
+        "text": "Přezdívka 'černá voda' odkazovala na hinduistickou víru, že překročení moře znamená ztrátu kasty - pro mnohé vězně byl proto samotný převoz na ostrovy horším trestem než poprava."
+      },
+      {
+        "nazev": "Hladovky jako odpor",
+        "text": "Mezi lety 1932 a 1937 vězni opakovaně vyhlašovali hromadné hladovky jako formu protestu proti krutým podmínkám a zacházení."
+      }
+    ]
+  },
+  {
+    "id": "karni-mata-temple",
+    "slug": "karni-mata-temple",
+    "localizedSlugs": {
+      "cs": "chram-karni-mata",
+      "en": "karni-mata-temple",
+      "de": "karni-mata-tempel",
+      "es": "templo-karni-mata",
+      "fr": "temple-karni-mata"
+    },
+    "detailPath": "/mista/karni-mata-temple/",
+    "nazev": "Chrám Karni Mata",
+    "zeme": "Indie",
+    "kontinent": "Asie",
+    "lead": "Rádžastánský chrám, kde se o dvacet tisíc posvátných krys stará jako o vlastní předky - protože podle legendy jsou to právě oni.",
+    "gps": {
+      "lat": 27.79056,
+      "lon": 73.34083
+    },
+    "kategorie": [
+      "legenda"
+    ],
+    "indexTajemna": 77,
+    "paranormalniAktivita": "silná náboženská tradice, bez ověřených nadpřirozených jevů",
+    "historickaDolozenost": "dobrá (chrám sám je datovaný do 14.-20. století)",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupný aktivní chrám",
+    "atmosfera": 4.1,
+    "nocniVhodnost": false,
+    "vhodneProDeti": true,
+    "popisy": {
+      "zahada": "Chrám v rádžastánské Deshnoke je domovem asi dvaceti tisíc krys, které se po jeho mramorových podlahách volně pohybují mezi věřícími - a místní komunita je nekrmí jako škůdce, ale uctívá je jako vlastní předky.",
+      "historie": "Chrám zasvěcený bohyni Karni Matě, uctívané jako vtělení bohyně Durgy, pochází původně ze 14. století a byl v rádžastánském stylu bohatě přestavěn s mramorovým zdobením a stříbrnými dveřmi.",
+      "legenda": "Podle legendy požádala Karni Mata boha smrti Jamu, aby vrátil život synovi jednoho z jejích oddaných. Když Jama odmítl, Karni Mata slíbila, že žádný člen jejího klanu (komunity Charan) už nikdy nepadne do Jamovy moci - místo smrti se její příslušníci po smrti znovu narodí jako krysy, takzvaní kabbové, dokud se nakonec znovu nenarodí jako lidé v jejím rodu.",
+      "paranormalni": "Spatřit mezi tisíci černými krysami vzácnou bílou krysu je považováno za mimořádně příznivé znamení a projev přímého požehnání Karni Maty - věřící se snaží bílou krysu vypátrat a věnují jí zvláštní pozornost.",
+      "skepticke": "Jde o živou, hluboce zakořeněnou náboženskou tradici komunity Charan, ne o turistickou kuriozitu vytvořenou pro návštěvníky - z hlediska veřejného zdraví chrám krysí populaci reguluje a krmí v rámci vlastní správy, což pomáhá udržet místo funkční navzdory vysoké hustotě zvířat."
+    },
+    "praktickeInfo": "Chrám je volně přístupný, návštěvníci obvykle vstupují bosí jako věřící do jiných hinduistických svatyní, doporučuje se respektovat, že jde o aktivní posvátné místo, ne turistickou atrakci.",
+    "obrazky": [],
+    "audio": [],
+    "zdroje": [
+      {
+        "nazev": "Wikipedia: Karni Mata Temple",
+        "url": "https://en.wikipedia.org/wiki/Karni_Mata_Temple",
+        "licence": "CC BY-SA"
+      },
+      {
+        "nazev": "Wikidata: Karni Mata Temple",
+        "url": "https://www.wikidata.org/wiki/Q15233884",
+        "licence": "CC0"
+      },
+      {
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Karni%20Mata%20Temple%20Deshnoke",
+        "licence": "ODbL"
+      }
+    ],
+    "temata": [
+      "ritual",
+      "zvirata",
+      "mytologie"
+    ],
+    "pribehy": [
+      {
+        "nazev": "Slib, který porazil smrt",
+        "text": "Podle legendy Karni Mata slíbila bohu smrti Jamovi, že se její komunita už nikdy nedostane do jeho moci - místo toho se po smrti znovu rodí jako posvátné krysy."
+      },
+      {
+        "nazev": "Vzácná bílá krysa",
+        "text": "Mezi dvaceti tisíci černými krysami žije i několik vzácných bílých - jejich spatření je považováno za mimořádné požehnání Karni Maty."
       }
     ]
   }

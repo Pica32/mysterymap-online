@@ -18,6 +18,15 @@ const mapBounds = {
   lonMax: 180
 };
 
+const MAP_ZOOM_MIN = 2;
+const MAP_ZOOM_MAX = 10;
+const MAP_TILE_BUFFER = 340;
+const MAP_CLUSTER_CELL = 54;
+
+const mapPointers = new Map();
+let mapPinchBaseline = null;
+let mapResizeTimer = null;
+
 const badges = [
   ["badge.first", "badge.firstMeta"],
   ["badge.night", "badge.nightMeta"],
@@ -127,19 +136,51 @@ function bindEvents() {
 
   els.map?.addEventListener("click", (event) => {
     const zoomButton = event.target.closest("[data-map-zoom]");
-    if (!zoomButton) return;
-    const delta = Number(zoomButton.dataset.mapZoom);
-    zoomMap(delta);
+    if (zoomButton) {
+      zoomMap(Number(zoomButton.dataset.mapZoom));
+      return;
+    }
+    const fitButton = event.target.closest("#mapFitButton");
+    if (fitButton) {
+      fitMapToPlaces(getFilteredPlaces());
+    }
+  });
+
+  els.map?.addEventListener("dblclick", (event) => {
+    if (event.target.closest(".map-pin, .map-cluster, .map-zoom-controls")) return;
+    const rect = els.map.getBoundingClientRect();
+    zoomMapAt(1, { x: event.clientX - rect.left, y: event.clientY - rect.top });
   });
 
   els.map?.addEventListener("wheel", (event) => {
     event.preventDefault();
-    zoomMap(event.deltaY < 0 ? 1 : -1);
+    const rect = els.map.getBoundingClientRect();
+    zoomMapAt(event.deltaY < 0 ? 1 : -1, { x: event.clientX - rect.left, y: event.clientY - rect.top });
   }, { passive: false });
 
+  els.map?.addEventListener("keydown", (event) => {
+    const panStep = 90;
+    if (event.key === "ArrowUp") { panMapBy(0, -panStep); event.preventDefault(); }
+    else if (event.key === "ArrowDown") { panMapBy(0, panStep); event.preventDefault(); }
+    else if (event.key === "ArrowLeft") { panMapBy(-panStep, 0); event.preventDefault(); }
+    else if (event.key === "ArrowRight") { panMapBy(panStep, 0); event.preventDefault(); }
+    else if (event.key === "+" || event.key === "=") { zoomMap(1); event.preventDefault(); }
+    else if (event.key === "-" || event.key === "_") { zoomMap(-1); event.preventDefault(); }
+  });
+
   els.map?.addEventListener("pointerdown", (event) => {
-    if (event.target.closest(".map-pin, .map-zoom-controls")) return;
+    if (event.target.closest(".map-pin, .map-cluster, .map-zoom-controls, #mapFitButton")) return;
     els.map.setPointerCapture(event.pointerId);
+    mapPointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+
+    if (mapPointers.size >= 2) {
+      state.mapDrag = null;
+      els.map.classList.remove("is-dragging");
+      const [p1, p2] = Array.from(mapPointers.values()).slice(0, 2);
+      mapPinchBaseline = pointerDistance(p1, p2);
+      return;
+    }
+
     state.mapDrag = {
       pointerId: event.pointerId,
       x: event.clientX,
@@ -150,17 +191,43 @@ function bindEvents() {
   });
 
   els.map?.addEventListener("pointermove", (event) => {
+    if (mapPointers.has(event.pointerId)) {
+      mapPointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    }
+
+    if (mapPointers.size >= 2 && mapPinchBaseline) {
+      const [p1, p2] = Array.from(mapPointers.values()).slice(0, 2);
+      const dist = pointerDistance(p1, p2);
+      const ratio = dist / mapPinchBaseline;
+      const rect = els.map.getBoundingClientRect();
+      const mid = pointerMidpoint(p1, p2);
+      const cursor = { x: mid.x - rect.left, y: mid.y - rect.top };
+      if (ratio > 1.3) {
+        zoomMapAt(1, cursor);
+        mapPinchBaseline = dist;
+      } else if (ratio < 0.77) {
+        zoomMapAt(-1, cursor);
+        mapPinchBaseline = dist;
+      }
+      return;
+    }
+
     if (!state.mapDrag || state.mapDrag.pointerId !== event.pointerId) return;
     const zoom = state.mapZoom;
     const start = projectToWorldPixel(state.mapDrag.center.lat, state.mapDrag.center.lon, zoom);
     const nextX = start.x - (event.clientX - state.mapDrag.x);
     const nextY = start.y - (event.clientY - state.mapDrag.y);
     state.mapCenter = worldPixelToLatLon(nextX, nextY, zoom);
-    render();
+    applyMapTransform();
   });
 
   els.map?.addEventListener("pointerup", endMapDrag);
   els.map?.addEventListener("pointercancel", endMapDrag);
+
+  window.addEventListener("resize", () => {
+    clearTimeout(mapResizeTimer);
+    mapResizeTimer = setTimeout(() => render(), 150);
+  });
 
   document.addEventListener("click", (event) => {
     const link = event.target.closest("[data-place-id]");
@@ -214,26 +281,205 @@ function renderMapModes() {
 }
 
 function renderMap(places) {
-  const visiblePlaces = places.slice().sort((a, b) => b.indexTajemna - a.indexTajemna).slice(0, 650);
-  els.map.innerHTML = worldMapMarkup(places.length, visiblePlaces.length);
-  const center = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, state.mapZoom);
+  const zoom = state.mapZoom;
   const width = els.map.clientWidth || 1000;
   const height = els.map.clientHeight || 600;
-  visiblePlaces.forEach((place) => {
-    const point = projectToWorldPixel(place.gps.lat, place.gps.lon, state.mapZoom);
-    const button = document.createElement("button");
-    button.className = `map-pin map-pin-${primaryCategory(place)} map-pin-${scoreBand(place.indexTajemna)}`;
-    button.type = "button";
-    button.style.left = `${width / 2 + point.x - center.x}px`;
-    button.style.top = `${height / 2 + point.y - center.y}px`;
-    button.style.setProperty("--pin-score", place.indexTajemna);
-    button.title = `${localPlace(place, "nazev")} - ${localPlace(place, "zeme")} - ${place.indexTajemna}/100`;
-    button.setAttribute("aria-label", `${localPlace(place, "nazev")}, ${localPlace(place, "zeme")}, ${place.indexTajemna}/100`);
-    button.setAttribute("aria-pressed", String(place.id === state.activeId));
-    button.innerHTML = `<span>${place.indexTajemna}</span>`;
-    button.addEventListener("click", () => selectPlace(place.id));
-    els.map.append(button);
+  const scale = 256 * (2 ** zoom);
+  const center = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, zoom);
+  const markers = buildMapMarkers(places, zoom, width, height, center);
+  const shownCount = markers.reduce((sum, marker) => sum + (marker.type === "cluster" ? marker.count : 1), 0);
+
+  els.map.innerHTML = mapChromeMarkup(places.length, shownCount);
+  const world = els.map.querySelector(".map-world");
+  world.style.width = `${scale}px`;
+  world.style.height = `${scale}px`;
+
+  renderMapTiles(world, zoom, width, height, center);
+  renderMapMarkers(world, markers);
+  applyMapTransform();
+}
+
+function buildMapMarkers(places, zoom, width, height, center) {
+  const left = center.x - width / 2 - MAP_TILE_BUFFER;
+  const right = center.x + width / 2 + MAP_TILE_BUFFER;
+  const top = center.y - height / 2 - MAP_TILE_BUFFER;
+  const bottom = center.y + height / 2 + MAP_TILE_BUFFER;
+
+  const visible = [];
+  places.forEach((place) => {
+    const point = projectToWorldPixel(place.gps.lat, place.gps.lon, zoom);
+    if (point.x < left || point.x > right || point.y < top || point.y > bottom) return;
+    visible.push({ place, x: point.x, y: point.y });
   });
+
+  const buckets = new Map();
+  visible.forEach((entry) => {
+    const key = `${Math.floor(entry.x / MAP_CLUSTER_CELL)}:${Math.floor(entry.y / MAP_CLUSTER_CELL)}`;
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key).push(entry);
+  });
+
+  const markers = [];
+  buckets.forEach((entries) => {
+    if (entries.length === 1 || zoom >= MAP_ZOOM_MAX) {
+      entries.forEach((entry) => markers.push({ type: "pin", place: entry.place, x: entry.x, y: entry.y }));
+      return;
+    }
+    const x = entries.reduce((sum, entry) => sum + entry.x, 0) / entries.length;
+    const y = entries.reduce((sum, entry) => sum + entry.y, 0) / entries.length;
+    markers.push({ type: "cluster", x, y, count: entries.length, places: entries.map((entry) => entry.place) });
+  });
+  return markers;
+}
+
+function renderMapTiles(world, zoom, width, height, center) {
+  const tileCount = 2 ** zoom;
+  const leftEdge = center.x - width / 2 - MAP_TILE_BUFFER;
+  const topEdge = center.y - height / 2 - MAP_TILE_BUFFER;
+  const rightEdge = center.x + width / 2 + MAP_TILE_BUFFER;
+  const bottomEdge = center.y + height / 2 + MAP_TILE_BUFFER;
+  const startX = Math.floor(leftEdge / 256);
+  const endX = Math.floor(rightEdge / 256);
+  const startY = Math.floor(topEdge / 256);
+  const endY = Math.floor(bottomEdge / 256);
+  const layer = document.createElement("div");
+  layer.className = "osm-map";
+  layer.setAttribute("role", "img");
+  layer.setAttribute("aria-label", t("map.osmLabel", "OpenStreetMap world basemap"));
+  for (let y = startY; y <= endY; y += 1) {
+    if (y < 0 || y >= tileCount) continue;
+    for (let x = startX; x <= endX; x += 1) {
+      const wrappedX = ((x % tileCount) + tileCount) % tileCount;
+      const tile = document.createElement("img");
+      tile.className = "osm-tile";
+      tile.src = `https://tile.openstreetmap.org/${zoom}/${wrappedX}/${y}.png`;
+      tile.alt = "";
+      tile.loading = "lazy";
+      tile.decoding = "async";
+      tile.style.left = `${x * 256}px`;
+      tile.style.top = `${y * 256}px`;
+      layer.append(tile);
+    }
+  }
+  world.append(layer);
+}
+
+function renderMapMarkers(world, markers) {
+  markers.forEach((marker) => {
+    if (marker.type === "cluster") {
+      world.append(clusterButton(marker));
+      return;
+    }
+    world.append(pinButton(marker.place, marker.x, marker.y));
+  });
+}
+
+function pinButton(place, x, y) {
+  const button = document.createElement("button");
+  button.className = `map-pin map-pin-${primaryCategory(place)} map-pin-${scoreBand(place.indexTajemna)}`;
+  button.type = "button";
+  button.style.left = `${x}px`;
+  button.style.top = `${y}px`;
+  button.style.setProperty("--pin-score", place.indexTajemna);
+  button.title = `${localPlace(place, "nazev")} - ${localPlace(place, "zeme")} - ${place.indexTajemna}/100`;
+  button.setAttribute("aria-label", `${localPlace(place, "nazev")}, ${localPlace(place, "zeme")}, ${place.indexTajemna}/100`);
+  button.setAttribute("aria-pressed", String(place.id === state.activeId));
+  button.innerHTML = `<span>${place.indexTajemna}</span>`;
+  button.addEventListener("click", () => selectPlace(place.id));
+  return button;
+}
+
+function clusterButton(marker) {
+  const button = document.createElement("button");
+  button.className = "map-cluster";
+  button.type = "button";
+  button.style.left = `${marker.x}px`;
+  button.style.top = `${marker.y}px`;
+  button.style.setProperty("--cluster-size", String(clusterSize(marker.count)));
+  button.textContent = String(marker.count);
+  const label = `${marker.count} ${t("map.clusterLabel", "places in this area")}`;
+  button.title = label;
+  button.setAttribute("aria-label", label);
+  button.addEventListener("click", () => {
+    const { lat, lon } = worldPixelToLatLon(marker.x, marker.y, state.mapZoom);
+    state.mapCenter = { lat, lon };
+    state.mapZoom = clamp(state.mapZoom + 2, MAP_ZOOM_MIN, MAP_ZOOM_MAX);
+    render();
+  });
+  return button;
+}
+
+function clusterSize(count) {
+  if (count >= 50) return 3;
+  if (count >= 10) return 2;
+  return 1;
+}
+
+function applyMapTransform() {
+  const world = els.map?.querySelector(".map-world");
+  if (!world) return;
+  const width = els.map.clientWidth || 1000;
+  const height = els.map.clientHeight || 600;
+  const center = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, state.mapZoom);
+  world.style.transform = `translate(${width / 2 - center.x}px, ${height / 2 - center.y}px)`;
+}
+
+function panMapBy(dx, dy) {
+  const zoom = state.mapZoom;
+  const point = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, zoom);
+  state.mapCenter = worldPixelToLatLon(point.x + dx, point.y + dy, zoom);
+  render();
+}
+
+function zoomMapAt(delta, cursorPoint) {
+  const oldZoom = state.mapZoom;
+  const newZoom = clamp(oldZoom + delta, MAP_ZOOM_MIN, MAP_ZOOM_MAX);
+  if (newZoom === oldZoom) return;
+  if (cursorPoint) {
+    const width = els.map.clientWidth || 1000;
+    const height = els.map.clientHeight || 600;
+    const oldCenterPx = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, oldZoom);
+    const worldPointOld = { x: oldCenterPx.x - width / 2 + cursorPoint.x, y: oldCenterPx.y - height / 2 + cursorPoint.y };
+    const { lat, lon } = worldPixelToLatLon(worldPointOld.x, worldPointOld.y, oldZoom);
+    const newPointPx = projectToWorldPixel(lat, lon, newZoom);
+    const newCenterPx = { x: newPointPx.x - cursorPoint.x + width / 2, y: newPointPx.y - cursorPoint.y + height / 2 };
+    state.mapCenter = worldPixelToLatLon(newCenterPx.x, newCenterPx.y, newZoom);
+  }
+  state.mapZoom = newZoom;
+  render();
+}
+
+function fitMapToPlaces(places) {
+  if (!places.length) return;
+  let latMin = 90;
+  let latMax = -90;
+  let lonMin = 180;
+  let lonMax = -180;
+  places.forEach((place) => {
+    latMin = Math.min(latMin, place.gps.lat);
+    latMax = Math.max(latMax, place.gps.lat);
+    lonMin = Math.min(lonMin, place.gps.lon);
+    lonMax = Math.max(lonMax, place.gps.lon);
+  });
+  const width = els.map.clientWidth || 1000;
+  const height = els.map.clientHeight || 600;
+  let zoom = MAP_ZOOM_MAX;
+  for (; zoom > MAP_ZOOM_MIN; zoom -= 1) {
+    const p1 = projectToWorldPixel(latMax, lonMin, zoom);
+    const p2 = projectToWorldPixel(latMin, lonMax, zoom);
+    if (Math.abs(p2.x - p1.x) <= width * 0.86 && Math.abs(p2.y - p1.y) <= height * 0.8) break;
+  }
+  state.mapZoom = clamp(zoom, MAP_ZOOM_MIN, MAP_ZOOM_MAX);
+  state.mapCenter = { lat: (latMin + latMax) / 2, lon: (lonMin + lonMax) / 2 };
+  render();
+}
+
+function pointerDistance(a, b) {
+  return Math.hypot(a.x - b.x, a.y - b.y);
+}
+
+function pointerMidpoint(a, b) {
+  return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 };
 }
 
 function renderFilterControls() {
@@ -245,31 +491,14 @@ function renderFilterControls() {
     .join("");
 }
 
-function worldMapMarkup(totalCount, shownCount) {
-  const tileZoom = state.mapZoom;
-  const tileCount = 2 ** tileZoom;
-  const width = els.map?.clientWidth || 1000;
-  const height = els.map?.clientHeight || 600;
-  const center = projectToWorldPixel(state.mapCenter.lat, state.mapCenter.lon, tileZoom);
-  const leftEdge = center.x - width / 2;
-  const topEdge = center.y - height / 2;
-  const startX = Math.floor(leftEdge / 256);
-  const endX = Math.floor((leftEdge + width) / 256);
-  const startY = Math.floor(topEdge / 256);
-  const endY = Math.floor((topEdge + height) / 256);
-  const tiles = [];
-  for (let y = startY; y <= endY; y += 1) {
-    if (y < 0 || y >= tileCount) continue;
-    for (let x = startX; x <= endX; x += 1) {
-      const wrappedX = ((x % tileCount) + tileCount) % tileCount;
-      tiles.push(`<img class="osm-tile" src="https://tile.openstreetmap.org/${tileZoom}/${wrappedX}/${y}.png" alt="" loading="lazy" decoding="async" style="left:${Math.round(x * 256 - leftEdge)}px; top:${Math.round(y * 256 - topEdge)}px;">`);
-    }
-  }
+function mapChromeMarkup(totalCount, shownCount) {
   return `
-    <div class="osm-map" role="img" aria-label="${t("map.osmLabel", "OpenStreetMap world basemap")}">${tiles.join("")}</div>
+    <div class="map-world"></div>
+    <div class="map-viewport-shade" aria-hidden="true"></div>
     <div class="map-zoom-controls" aria-label="Map zoom">
-      <button type="button" data-map-zoom="1" aria-label="Zoom in">+</button>
-      <button type="button" data-map-zoom="-1" aria-label="Zoom out">-</button>
+      <button type="button" data-map-zoom="1" aria-label="${t("map.zoomIn", "Zoom in")}">+</button>
+      <button type="button" data-map-zoom="-1" aria-label="${t("map.zoomOut", "Zoom out")}">-</button>
+      <button type="button" id="mapFitButton" aria-label="${t("map.fit", "Zoom to results")}">⤢</button>
     </div>
     <div class="map-density">${t("map.visiblePins", "Pins shown")}: ${shownCount}/${totalCount}</div>
     <div class="map-legend" aria-hidden="true">
@@ -277,7 +506,6 @@ function worldMapMarkup(totalCount, shownCount) {
       <span><i class="legend-pin active"></i> ${t("map.legendSelected", "selected place")}</span>
       <span class="osm-credit">© OpenStreetMap</span>
     </div>`;
-
 }
 
 function renderCards(places) {
@@ -583,13 +811,17 @@ function scoreBand(score) {
 
 const EXTRA_UI_LABELS = {
   cs: {
-    "map.modeAll": "Vsechna mista",
-    "map.modeMystery": "Zahady",
-    "map.modeFilm": "Filmove lokace",
-    "map.osmLabel": "Svetova mapa OpenStreetMap",
-    "map.visiblePins": "Zobrazeno bodu",
-    "map.legendPlace": "viditelne misto",
-    "map.legendSelected": "vybrane misto"
+    "map.modeAll": "Všechna místa",
+    "map.modeMystery": "Záhady",
+    "map.modeFilm": "Filmové lokace",
+    "map.osmLabel": "Světová mapa OpenStreetMap",
+    "map.visiblePins": "Zobrazeno bodů",
+    "map.legendPlace": "viditelné místo",
+    "map.legendSelected": "vybrané místo",
+    "map.zoomIn": "Přiblížit",
+    "map.zoomOut": "Oddálit",
+    "map.fit": "Přiblížit na výsledky",
+    "map.clusterLabel": "míst v této oblasti"
   },
   en: {
     "map.modeAll": "All places",
@@ -598,7 +830,11 @@ const EXTRA_UI_LABELS = {
     "map.osmLabel": "OpenStreetMap world basemap",
     "map.visiblePins": "Pins shown",
     "map.legendPlace": "visible place",
-    "map.legendSelected": "selected place"
+    "map.legendSelected": "selected place",
+    "map.zoomIn": "Zoom in",
+    "map.zoomOut": "Zoom out",
+    "map.fit": "Zoom to results",
+    "map.clusterLabel": "places in this area"
   },
   de: {
     "map.modeAll": "Alle Orte",
@@ -607,7 +843,11 @@ const EXTRA_UI_LABELS = {
     "map.osmLabel": "OpenStreetMap-Weltkarte",
     "map.visiblePins": "Angezeigte Punkte",
     "map.legendPlace": "sichtbarer Ort",
-    "map.legendSelected": "ausgewahlter Ort"
+    "map.legendSelected": "ausgewählter Ort",
+    "map.zoomIn": "Vergrößern",
+    "map.zoomOut": "Verkleinern",
+    "map.fit": "Auf Ergebnisse zoomen",
+    "map.clusterLabel": "Orte in diesem Bereich"
   },
   es: {
     "map.modeAll": "Todos los lugares",
@@ -616,16 +856,24 @@ const EXTRA_UI_LABELS = {
     "map.osmLabel": "Mapa mundial de OpenStreetMap",
     "map.visiblePins": "Puntos visibles",
     "map.legendPlace": "lugar visible",
-    "map.legendSelected": "lugar seleccionado"
+    "map.legendSelected": "lugar seleccionado",
+    "map.zoomIn": "Acercar",
+    "map.zoomOut": "Alejar",
+    "map.fit": "Ajustar a los resultados",
+    "map.clusterLabel": "lugares en esta zona"
   },
   fr: {
     "map.modeAll": "Tous les lieux",
-    "map.modeMystery": "Mysteres",
+    "map.modeMystery": "Mystères",
     "map.modeFilm": "Lieux de tournage",
     "map.osmLabel": "Carte mondiale OpenStreetMap",
-    "map.visiblePins": "Points affiches",
+    "map.visiblePins": "Points affichés",
     "map.legendPlace": "lieu visible",
-    "map.legendSelected": "lieu selectionne"
+    "map.legendSelected": "lieu sélectionné",
+    "map.zoomIn": "Zoomer",
+    "map.zoomOut": "Dézoomer",
+    "map.fit": "Zoomer sur les résultats",
+    "map.clusterLabel": "lieux dans cette zone"
   }
 };
 
@@ -748,14 +996,16 @@ function selectPlace(id) {
 }
 
 function zoomMap(delta) {
-  state.mapZoom = clamp(state.mapZoom + delta, 2, 7);
-  render();
+  zoomMapAt(delta, null);
 }
 
 function endMapDrag(event) {
+  mapPointers.delete(event.pointerId);
+  if (mapPointers.size < 2) mapPinchBaseline = null;
   if (!state.mapDrag || state.mapDrag.pointerId !== event.pointerId) return;
   state.mapDrag = null;
   els.map.classList.remove("is-dragging");
+  render();
 }
 
 function handleCheckin() {
@@ -807,7 +1057,8 @@ function projectToWorldPixel(lat, lon, zoom) {
 
 function worldPixelToLatLon(x, y, zoom) {
   const scale = 256 * (2 ** zoom);
-  const lon = ((x / scale) * 360 + 180) % 360 - 180;
+  const rawLon = (x / scale) * 360 - 180;
+  const lon = ((rawLon + 180) % 360 + 360) % 360 - 180;
   const n = Math.PI - (2 * Math.PI * clamp(y, 0, scale)) / scale;
   const lat = (180 / Math.PI) * Math.atan(Math.sinh(n));
   return { lat: clamp(lat, -85.05112878, 85.05112878), lon };

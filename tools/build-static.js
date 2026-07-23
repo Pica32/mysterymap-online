@@ -569,7 +569,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta property="og:image" content="${siteUrl}/assets/hero-mystery-map.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="/styles.css?v=20260527-map5">
+    <link rel="stylesheet" href="/styles.css?v=20260722-map6">
     ${structuredData}
   </head>
   <body class="${escapeHtml(bodyClass)}">
@@ -597,7 +597,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20260527-map5" defer></script>
+    <script src="/i18n.js?v=20260722-map6" defer></script>
     ${script}
   </body>
 </html>
@@ -689,7 +689,7 @@ function placePage(place, language = "cs") {
     ogType: "article",
     bodyClass: themeClass,
     language,
-    script: `<script>document.body.dataset.placeId=${JSON.stringify(place.id)};</script><script src="/detail.js?v=20260527-map5" defer></script>`
+    script: `<script>document.body.dataset.placeId=${JSON.stringify(place.id)};</script><script src="/detail.js?v=20260722-map6" defer></script>`
   });
 }
 

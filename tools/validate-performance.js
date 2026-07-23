@@ -9,9 +9,9 @@ const budgets = [
   ["assets/hero-mystery-map-1600.webp", 180_000],
   ["assets/hero-mystery-map-1000.webp", 90_000],
   ["styles.css", 30_000],
-  ["app.js", 38_000],
+  ["app.js", 48_000],
   ["engage.js", 16_000],
-  ["i18n.js", 30_000],
+  ["i18n.js", 31_000],
   ["data/search-index.json", 1_320_000]
 ];
 
