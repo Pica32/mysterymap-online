@@ -10680,7 +10680,7 @@
     "nazev": "Sumela Monastery",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Klaster prilepeny ke skalni stene Pontskych hor, kde vira ziskala dramatickou vyskovou kulisu.",
+    "lead": "Klášter přilepený na skalní stěně, který založili mniši kvůli obrazu Panny Marie namalovanému údajně samotným apoštolem Lukášem.",
     "gps": {
       "lat": 40.69,
       "lon": 39.658
@@ -10697,44 +10697,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Sumela Monastery doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Klaster prilepeny ke skalni stene Pontskych hor, kde vira ziskala dramatickou vyskovou kulisu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na příkré skalní stěně v tureckých horách nad Trabzonem se drží klášter založený už kolem roku 386 n. l. - podle legendy kvůli ikoně, kterou měl namalovat přímo apoštol Lukáš.",
+      "historie": "Klášter založili podle historika Williama Millera dva athénští mniši, Barnabáš a Sofronios. Svou dnešní podobu získal ve 13. století za rozkvětu Trapezuntského císařství, nejvýznamnější podporu mu poskytl císař Alexios III. (1349-1390), který nechal klášter obnovit po tom, co ho podle legendy zachránila Bohorodička během bouře na moři.",
+      "legenda": "Proslulost klášteru přinesla ikona Panny Marie zvaná Panagia Gorgoepekoos, o které se traduje, že ji namaloval sám apoštol Lukáš. Chrysobulla z roku 1365 potvrdila klášteru svobodu a daňové úlevy, po osmanském dobytí roku 1461 si klášter podržel ochranu a výsady.",
+      "paranormalni": "Od roku 1682 v klášteře sídlila i Frontistérion Trapezúntu, proslulá řecká vzdělávací instituce - klášter tak fungoval nejen jako duchovní, ale i vzdělávací centrum regionu po staletí.",
+      "skepticke": "Klášter zůstal aktivní až do roku 1923, kdy řecko-turecká výměna obyvatelstva vedla k jeho opuštění - historicky doložený politický proces, ne tajemný zánik. Dnes funguje jako muzeum a turistická atrakce v národním parku Altındere a je na předběžném seznamu UNESCO, momentálně prochází obnovou tureckou vládou."
     },
-    "praktickeInfo": "Pred navstevou Sumela Monastery over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Klášter je přístupný s placeným vstupem, k vchodu vede strmá horská stezka, doporučuje se pevná obuv a počítat s vyšší nadmořskou výškou kolem 1200 metrů.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Sumela Monastery",
         "url": "https://en.wikipedia.org/wiki/Sumela_Monastery",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Sumela Monastery",
-        "url": "https://www.wikidata.org/w/index.php?search=Sumela%20Monastery",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Sumela Monastery",
+        "url": "https://www.wikidata.org/wiki/Q1419157",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Sumela%20Monastery%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Sumela%20Monastery%20Trabzon",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Sumela Monastery pridava motivy ritual, prirodni-anomalie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Ikona od apoštola Lukáše",
+        "text": "Klášter proslavila ikona Panny Marie, o které se tradovalo, že ji namaloval přímo apoštol Lukáš - relikvie, která z odlehlého horského místa udělala významný poutní cíl."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Císař zachráněný z bouře",
+        "text": "Císař Alexios III. nechal klášter rozsáhle obnovit poté, co ho podle legendy během bouře na moři zachránila sama Bohorodička."
       }
     ]
   },
@@ -32484,7 +32484,7 @@
     "nazev": "Pashupatinath Temple",
     "zeme": "Nepal",
     "kontinent": "Asie",
-    "lead": "Chramovy komplex u Bagmati, kde pohrebni ritualy a posvatny prostor stoji vedle kazdodenniho zivota.",
+    "lead": "Jeden z nejposvátnějších hinduistických chrámů světa nad řekou Bagmatí, kde se kremační žehřiště nachází jen pár kroků od modliteb.",
     "gps": {
       "lat": 27.71,
       "lon": 85.348
@@ -32501,44 +32501,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Pashupatinath Temple doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Chramovy komplex u Bagmati, kde pohrebni ritualy a posvatny prostor stoji vedle kazdodenniho zivota. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Nad břehem posvátné řeky Bagmatí v Káthmándú stojí komplex, jehož existence je doložena už kolem roku 400 n. l. - jeden z nejstarších a nejvýznamnějších hinduistických náboženských komplexů jižní Asie, kde se dodnes provádí veřejné kremace jen kroky od modlitebních obřadů.",
+      "historie": "Dnešní architektonickou podobu chrám získal v roce 1692 po poškození termity a zemětřeseními, po předchozích přestavbách včetně té od vládce Šivadévy (1099-1126). Komplex zasvěcený Pašupatimu, projevu boha Šivy, se rozkládá na ploše 246 hektarů a zahrnuje 518 menších svatyní. Od roku 1979 je na seznamu UNESCO.",
+      "legenda": "Podle hinduistické mytologie se po velkém pokání Pánduovců Šiva znovu objevil s hlavou v Pašupatinátu, hrbem v Kédárnátu, tváří v Rudranátu, pažemi v Tunganátu a pupkem v Madhjaméšvaru - pět míst propojených jedním božským tělem. Jiná tradice vypráví, jak se Šiva a Párvatí proměnili v antilopy, a když je bohové zajali, ulomený roh se stal uctívaným lingamem, který později objevil pastevec.",
+      "paranormalni": "V tibetském vadžrajánovém buddhismu je místo považováno za jedno z osmi velkých pohřebišť, kde duchovní mistři meditovali a dosahovali osvícení - meditační jeskyně spojené s praktikujícími jako Tilopa a Naropa zůstávají posvátnými poutními místy dodnes.",
+      "skepticke": "Kremační žehřiště je aktivní součástí náboženského provozu, ne turistickou atrakcí - komplex funguje jako živé místo hinduistické i buddhistické duchovní praxe současně, s dlouhou, dobře zdokumentovanou historií sahající přes 1600 let."
     },
-    "praktickeInfo": "Pred navstevou Pashupatinath Temple over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Přístup do vnitřního chrámu je vyhrazen hinduistům, veřejnost může sledovat kremace a náboženský provoz z okolních teras, doporučuje se respektovat probíhající obřady a citlivost místa.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Pashupatinath Temple",
         "url": "https://en.wikipedia.org/wiki/Pashupatinath_Temple",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Pashupatinath Temple",
-        "url": "https://www.wikidata.org/w/index.php?search=Pashupatinath%20Temple",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Pashupatinath Temple",
+        "url": "https://www.wikidata.org/wiki/Q380384",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Pashupatinath%20Temple%20Nepal",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Pashupatinath%20Temple%20Kathmandu",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Pashupatinath Temple posiluje mapu v motivech umrti, ritual a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Pět míst jednoho těla",
+        "text": "Podle legendy se Šivovo tělo po jeho zjevení rozdělilo mezi pět posvátných míst - hlava v Pašupatinátu, hrb, tvář, paže a pupek jinde v Himálaji."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Osm velkých pohřebišť buddhismu",
+        "text": "Vadžrajánová tradice řadí kremační žehřiště chrámu mezi osm nejposvátnějších míst, kde duchovní mistři dosahovali osvícení meditací mezi mrtvými."
       }
     ]
   },
@@ -35379,7 +35379,7 @@
     "nazev": "Chogha Zanbil",
     "zeme": "Iran",
     "kontinent": "Asie",
-    "lead": "Elamsky zikkurat v Khuzestanu, monumentalni pamet stareho kultu a mesta.",
+    "lead": "Nejzachovalejší stupňovitá pyramida na světě mimo Mezopotámii, kterou postavil král, aby sjednotil bohy dvou znepřátelených elamských krajů.",
     "gps": {
       "lat": 32.008,
       "lon": 48.52
@@ -35396,44 +35396,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chogha Zanbil doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Elamsky zikkurat v Khuzestanu, monumentalni pamet stareho kultu a mesta. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V íránském Chúzestánu leží pozůstatky obřího posvátného komplexu, který kolem roku 1250 př. n. l. postavil elamský král Untaš-Napiriša - a jehož skutečným cílem nebylo obydlené město, ale sjednocení bohů dvou soupeřících elamských oblastí na jednom místě.",
+      "historie": "Původní název komplexu byl Dur Untaš, tedy 'město Untaše', dnešní jméno Čoga Zanbíl znamená 'košíkovitá mohyla'. Ziggurat měřil původně 105,2 metru na stranu a dosahoval výšky asi 53 metrů v pěti patrech - dnes stojí už jen do výšky 24,75 metru, přesto zůstává podle UNESCO nejlépe dochovaným příkladem stupňovité pyramidové stavby a největším zikkuratem mimo Mezopotámii.",
+      "legenda": "Král nechal komplex postavit především na počest velkého boha Inšušinaka ve snaze vytvořit nové náboženské centrum, které by sjednotilo bohy vysočinného i nížinného Elamu na jediném místě - politicko-náboženský projekt sjednocení dvou částí říše.",
+      "paranormalni": "Komplex obklopovaly tři soustředné ochranné hradby zahrnující chrámové stavby, královské paláce a pět podzemních královských hrobek - rozsáhlé opevnění odpovídající významu místa jako náboženského i mocenského centra.",
+      "skepticke": "Zánik komplexu má jasnou historickou příčinu - novoasyrský vládce Aššurbanipal ho kolem roku 645 př. n. l. zničil, ne přírodní katastrofa nebo kletba. Roku 1979 se Čoga Zanbíl stal vůbec prvním íránským zápisem na seznam UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Chogha Zanbil over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště leží asi 30 kilometrů jihovýchodně od města Súsa, přístupné s placeným vstupem, doporučuje se ochrana proti slunci kvůli odkryté poloze v poušti.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Chogha Zanbil",
         "url": "https://en.wikipedia.org/wiki/Chogha_Zanbil",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Chogha Zanbil",
-        "url": "https://www.wikidata.org/w/index.php?search=Chogha%20Zanbil",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Chogha Zanbil",
+        "url": "https://www.wikidata.org/wiki/Q4523",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Chogha%20Zanbil%20Iran",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Chogha Zanbil posiluje mapu v motivech ritual, ztracena-mesta a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Chrám pro sjednocení dvou zemí",
+        "text": "Král Untaš-Napiriša nepostavil komplex jako obydlené město, ale jako náboženský projekt, který měl sjednotit bohy vysočinného a nížinného Elamu na jediném místě."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Nejlépe dochovaný zikkurat na světě",
+        "text": "Přestože dnes dosahuje jen necelé poloviny své původní výšky, zůstává Čoga Zanbíl podle UNESCO nejlépe dochovaným příkladem stupňovité pyramidové stavby a největším zikkuratem mimo Mezopotámii."
       }
     ]
   },
@@ -37718,7 +37718,7 @@
     "nazev": "Cerro Sechin",
     "zeme": "Peru",
     "kontinent": "Jizni Amerika",
-    "lead": "Archeologicke misto s vyobrazenim roztrhanych tel, silny a neklidny obraz ritualniho nasili.",
+    "lead": "300 kamenných reliéfů znázorňujících rozčtvrcené válečníky - a nikdo si není jistý, jestli jde o oslavu vítězství, nebo anatomickou učebnici.",
     "gps": {
       "lat": -9.466,
       "lon": -78.25
@@ -37739,40 +37739,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cerro Sechin doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Archeologicke misto s vyobrazenim roztrhanych tel, silny a neklidny obraz ritualniho nasili. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "V peruánském regionu Ancash stojí naleziště starší než proslulejší Chavín de Huántar - a jeho stěny zdobí přes 300 kamenných reliéfů zobrazujících useknuté hlavy, končetiny, oči a vnitřnosti, jejichž skutečný účel zůstává mezi archeology sporný.",
+      "historie": "Lokalitu objevili 1. července 1937 archeologové Julio C. Tello a Toribio Mejía Xesspe. Datování ukazuje vznik kolem roku 1600 př. n. l., dokončena byla před rokem 2000 př. n. l. a užívána zůstala až do roku 1500 př. n. l. - předchází tak proslulejší kulturu Chavín. Skuteční stavitelé i způsob výstavby zůstávají nejasní, přestože místo zjevně sloužilo jako správní i obřadní centrum.",
+      "legenda": "Reliéfy zobrazují takzvané 'válečníky-kněze' vedle rozčtvrcených obětí - hlav, končetin, očí, střev i páteří. Drápovité nohy kočkovitých postav lemujících centrální schodiště naznačují ranou tradici 'kultu felida', která později dosáhla vrcholu v Chavín de Huántaru.",
+      "paranormalni": "Badatelé nabízejí několik konkurenčních teorií výkladu: rituál lidských obětí bohům, oslavu vítězství nad sousedním lidem Casma, jakousi anatomickou 'laboratoř' pro studium lidského těla, nebo vizuální varování vládnoucí elity před povstáním.",
+      "skepticke": "Přesný účel reliéfů zůstává otevřenou archeologickou otázkou bez definitivní odpovědi - žádná z teorií zatím nezískala jednoznačnou převahu, což z místa dělá skutečně zajímavý předmět odborné debaty, ne jen turistickou záhadu."
     },
-    "praktickeInfo": "Pred navstevou Cerro Sechin over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště leží asi 5 kilometrů od města Casma a 13 kilometrů od pobřeží Tichého oceánu, přístupné s placeným vstupem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Cerro Sechin",
-        "url": "https://en.wikipedia.org/wiki/Cerro_Sechin",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Cerro Sechín",
+        "url": "https://en.wikipedia.org/wiki/Cerro_Sech%C3%ADn",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Cerro Sechin",
-        "url": "https://www.wikidata.org/w/index.php?search=Cerro%20Sechin",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Cerro Sechín",
+        "url": "https://www.wikidata.org/wiki/Q2045790",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Cerro%20Sechin%20Peru",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Cerro Sechin posiluje mene zastoupene regiony a motivy vrazdy, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Čtyři konkurenční teorie",
+        "text": "Archeologové nabízejí čtyři odlišné výklady krvavých reliéfů - lidskou oběť, oslavu vítězství, anatomickou studii nebo varování před vzpourou - a žádná z nich zatím nezvítězila jednoznačně."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Starší než slavnější Chavín",
+        "text": "Cerro Sechín předchází proslulejší kulturu Chavín de Huántar a jeho drápovité kočkovité motivy naznačují ranou verzi kultu, který tam později dosáhl vrcholu."
       }
     ]
   },
@@ -44297,7 +44297,7 @@
     "nazev": "Murujuga Rock Art",
     "zeme": "Australie",
     "kontinent": "Oceanie",
-    "lead": "Obrovska koncentrace skalniho umeni na Burrup Peninsula, citlive misto stare obrazove pameti.",
+    "lead": "Milion rytin starých až 50 000 let - největší sbírka skalního umění na světě, kterou ještě donedávna ničil průmysl, dnes chráněný jako UNESCO.",
     "gps": {
       "lat": -20.6,
       "lon": 116.8
@@ -44314,44 +44314,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.2,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Murujuga Rock Art doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Obrovska koncentrace skalniho umeni na Burrup Peninsula, citlive misto stare obrazove pameti. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na poloostrově Burrup v severozápadní Austrálii leží největší sbírka petroglyfů na světě - asi milion rytin starých 40 000 až 50 000 let, přičemž některé mohou být staré přes 45 000 let. Místo domorodý název Murujuga znamená v jazycích Ngajarda 'vyčnívající kyčelní kost'.",
+      "historie": "Lokalita zahrnuje kolem 2500 archeologických nalezišť včetně lomů, skořápkových středisek a táborů. Původními strážci území byl lid Yaburara, po zdrcujícím masakru Flying Foam roku 1869 převzalo tradiční správu pět klanů: Yaburara, Ngarluma, Mardudhunera, Yindjibarndi a Wong-Goo-Tt-Oo.",
+      "legenda": "Skalní rytiny uchovávají posvátné příběhy a písňové stezky domorodých obyvatel. Tradiční strážkyně Raelene Cooper to v roce 2022 vyjádřila slovy, že skalní umění 'archivuje naše zákony. Není psáno na kamenné desce, ale vyryto do ngurra, které uchovává naše Dreaming příběhy a Songlines.'",
+      "paranormalni": "Mezi lety 1963 a 2006 bylo kvůli průmyslovému rozvoji zničeno podle odhadů asi 24,4 procenta skalního umění, přestože státní vláda toto číslo zpochybňovala a tvrdila, že od roku 1972 bylo zasaženo jen 4 procenta. Vědci dále dokumentovali kyselé emise poškozující petroglyfy, což vyvolalo ostrý spor mezi odborníky a úřady o kvalitě ovzduší.",
+      "skepticke": "Spor o míru poškození i o kvalitu ovzduší zůstává vědecky i politicky kontroverzní, ale samotná existence a stáří rytin jsou archeologicky nezpochybnitelné - v červenci 2025 UNESCO oficiálně zapsalo Murujugu na seznam světového dědictví jako 21. australskou lokalitu a teprve druhou uznávající domorodé kulturní hodnoty."
     },
-    "praktickeInfo": "Pred navstevou Murujuga Rock Art over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Návštěva je možná s doprovodem tradičních strážců území nebo v rámci organizovaných prohlídek, doporučuje se respektovat posvátnost místa a probíhající domorodou správu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Murujuga Rock Art",
-        "url": "https://en.wikipedia.org/wiki/Murujuga_Rock_Art",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Murujuga",
+        "url": "https://en.wikipedia.org/wiki/Murujuga",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Murujuga Rock Art",
-        "url": "https://www.wikidata.org/w/index.php?search=Murujuga%20Rock%20Art",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Murujuga",
+        "url": "https://www.wikidata.org/wiki/Q269163",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Murujuga%20Rock%20Art%20Australie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Murujuga%20Burrup%20Peninsula",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Murujuga Rock Art posiluje mene zastoupene regiony a motivy ritual, mytologie. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Miliony let vyprávění vyrytého do kamene",
+        "text": "Podle tradiční strážkyně Raelene Cooper skalní umění uchovává posvátné zákony a příběhy jejího lidu - psané ne na kamenné desce, ale přímo do samotné krajiny."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "UNESCO uznání po desetiletích sporu",
+        "text": "V červenci 2025 UNESCO konečně zapsalo Murujugu na seznam světového dědictví, po letech sporů o průmyslové poškozování skalního umění."
       }
     ]
   },
@@ -45824,7 +45824,7 @@
     "nazev": "Rabaul Caldera",
     "zeme": "Papua-Nova Guinea",
     "kontinent": "Oceanie",
-    "lead": "Sopecna kaldera a mesto opakovane zasazene erupcemi, pacificka krajina katastrofy.",
+    "lead": "Sopečná kaldera, jejíž město po katastrofě roku 1937 vybudovalo plán, díky kterému erupce z roku 1994 přežilo skoro celé.",
     "gps": {
       "lat": -4.271,
       "lon": 152.203
@@ -45841,44 +45841,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.1,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Rabaul Caldera doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Sopecna kaldera a mesto opakovane zasazene erupcemi, pacificka krajina katastrofy. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na papuánském poloostrově Gazelle leží sopečná kaldera stará asi 1400 let, uvnitř které stojí samotné město Rabaul - a jeho obyvatelé se dvakrát v historii ocitli přímo v epicentru současné erupce dvou sopek najednou.",
+      "historie": "Kaldera vznikla subdukční vulkanickou aktivitou zhruba před 1400 lety a zahrnuje několik dílčích jícnů, z nichž nejaktivnější je stratovulkán Tavurvur. Nejvyšší bod dosahuje 688 metrů.",
+      "legenda": "Roku 1937 způsobila současná erupce sopek Tavurvur a Vulcan katastrofu s 507 oběťmi - tragédie, která vedla k založení Rabaulské vulkanologické observatoře, dodnes monitorující sopečnou aktivitu Papuy-Nové Guineje.",
+      "paranormalni": "Když roku 1994 obě sopky vybuchly znovu současně, zničily letiště a zasypaly město popelem - díky plánování založenému na zkušenosti z roku 1937 ale zahynulo jen pět lidí, z toho jeden neobvyklým způsobem: bleskem uvnitř sopečného popelového mraku.",
+      "skepticke": "Dramatický rozdíl v počtu obětí mezi lety 1937 a 1994 (507 versus 5) je přímým důsledkem systematické přípravy a evakuačních plánů vybudovaných po první katastrofě, ne štěstí - od roku 1994 zůstává Tavurvur pravidelně aktivní s dalšími erupcemi v letech 2006, 2009, 2010 a 2014."
     },
-    "praktickeInfo": "Pred navstevou Rabaul Caldera over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Oblast zůstává aktivní vulkanickou zónou pod stálým monitoringem, návštěva vyžaduje ověření aktuální sopečné aktivity a doporučení místních úřadů.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Rabaul Caldera",
-        "url": "https://en.wikipedia.org/wiki/Rabaul_Caldera",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Rabaul caldera",
+        "url": "https://en.wikipedia.org/wiki/Rabaul_caldera",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Rabaul Caldera",
-        "url": "https://www.wikidata.org/w/index.php?search=Rabaul%20Caldera",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Rabaul Caldera",
+        "url": "https://www.wikidata.org/wiki/Q1320298",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Rabaul%20Caldera%20Papua-Nova%20Guinea",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Rabaul%20Caldera%20Papua%20New%20Guinea",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Rabaul Caldera posiluje mene zastoupene regiony a motivy sopky, ztracena-mesta. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "507 obětí, které změnily přípravu na katastrofy",
+        "text": "Ničivá erupce roku 1937 s 507 mrtvými vedla k založení vulkanologické observatoře a evakuačním plánům, které o 57 let později zachránily téměř celé město."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Zabit bleskem v popelovém mraku",
+        "text": "Při erupci roku 1994 zahynul jeden člověk vzácným způsobem - bleskem vzniklým přímo uvnitř sopečného popelového mraku, jevem, který doprovází jen některé velké erupce."
       }
     ]
   },
