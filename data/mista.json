@@ -36186,7 +36186,7 @@
     "nazev": "Wadi Rum",
     "zeme": "Jordansko",
     "kontinent": "Asie",
-    "lead": "Pouštní krajina skal, petroglyfu a filmovych planet, kde priroda opakovane nahrazuje Mars.",
+    "lead": "Poušť, kterou proslavil T. E. Lawrence za arabské revolty a dnes slouží jako filmová kulisa cizích planet - se skalními rytinami starými tisíce let.",
     "gps": {
       "lat": 29.576,
       "lon": 35.42
@@ -36203,44 +36203,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Wadi Rum doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Pouštní krajina skal, petroglyfu a filmovych planet, kde priroda opakovane nahrazuje Mars. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V jižním Jordánsku se rozprostírá poušť s masivními pískovcovými skalami, kterou obývaly lidské kultury už od pravěku - a jejíž kaňony dodnes nesou tisíce let staré rytiny lidí i antilop vytesané thamúdskými obyvateli.",
+      "historie": "Wadi Rum bylo mezi 13. a 6. stoletím př. n. l. součástí Edómského království a fungovalo jako klíčová obchodní tepna spojující Arábii s Levantou. Nabatejský chrám objevený roku 1933 kompletně vykopal francouzský archeologický tým až v roce 1997.",
+      "legenda": "Kaňon Chaz'álí obsahuje významné petroglyfy vyryté do jeskynních stěn, zobrazující lidi a antilopy z thamúdské éry, po celém údolí se navíc dochovaly nabatejské nápisy dokládající starověkou přítomnost a migrační vzorce.",
+      "paranormalni": "Britský důstojník T. E. Lawrence zdokumentoval Wadi Rum během arabské revolty 1917-18 a proslule popsal velkolepost krajiny - v 80. letech byl jeden skalní útvar přejmenován na 'Sedm pilířů moudrosti' podle jeho memoárů, přestože souvislost s knihou byla čistě symbolická.",
+      "skepticke": "Krajina, kterou dnes lidé znají hlavně jako filmovou kulisu z Duny, Marťana nebo Rogue One, má za sebou tisíce let reálného lidského osídlení doloženého petroglyfy a nápisy - filmová sláva je jen nejnovější vrstvou mnohem starší historie. Od roku 2011 je na seznamu UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Wadi Rum over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Návštěva je možná s beduínským průvodcem, k dispozici jsou jeepové safari i velbloudí treky, doporučuje se přenocování v pouštním kempu pro zážitek z nočního nebe.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Wadi Rum",
         "url": "https://en.wikipedia.org/wiki/Wadi_Rum",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Wadi Rum",
-        "url": "https://www.wikidata.org/w/index.php?search=Wadi%20Rum",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Wadi Rum",
+        "url": "https://www.wikidata.org/wiki/Q40729",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Wadi%20Rum%20Jordansko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Wadi%20Rum%20Jordan",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Wadi Rum posiluje mapu v motivech film, prirodni-anomalie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Pilíře pojmenované podle knihy",
+        "text": "Skalní útvar dostal v 80. letech jméno 'Sedm pilířů moudrosti' podle Lawrencových memoárů, přestože žádná doslovná spojitost s obsahem knihy neexistuje."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Rytiny starší než římská Petra",
+        "text": "Petroglyfy v kaňonu Chaz'álí pocházejí z thamúdské éry, staletí předcházející nabatejskému rozkvětu regionu."
       }
     ]
   },
@@ -38006,7 +38006,7 @@
     "nazev": "El Brujo",
     "zeme": "Peru",
     "kontinent": "Jizni Amerika",
-    "lead": "Moche komplex spojeny s Paní z Cao, kde moc, tetovani a pohrebni ritual tvori silny pribeh.",
+    "lead": "Mumie tetované vládkyně, která přepsala představu o tom, kdo mohl v předkolumbovském Peru vládnout - a byla to žena.",
     "gps": {
       "lat": -7.919,
       "lon": -79.307
@@ -38023,44 +38023,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.2,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "El Brujo doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Moche komplex spojeny s Paní z Cao, kde moc, tetovani a pohrebni ritual tvori silny pribeh. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "V údolí Chicama severně od peruánského Trujilla objevili archeologové mumii bohatě tetované ženy pohřbené s královskými insigniemi - nález, který poskytl vůbec nejstarší dosud známý důkaz ženské vládkyně v dějinách Peru.",
+      "historie": "Komplex El Brujo zahrnuje stavby z několika period počínaje předkeramickou dobou. Kulturou Mochica (200 př. n. l. - 600 n. l.) vznikly tři hlavní pyramidové mohyly: Huaca Prieta, Huaca Cortada a Huaca Cao Viejo. Později lokalitu obývaly kultury Lambayeque a Chimú, než ji připojila Incká říše.",
+      "legenda": "V Huaca Cao Viejo objevili archeologové takzvanou Paní z Cao, jejíž ostatky představují nejstarší dosud známý doklad ženské vládkyně v peruánské historii. Nález doprovázely polychromní reliéfy a nástěnné malby dokládající vyspělé mochícké umění.",
+      "paranormalni": "Objev se dostal na stránky National Geographic v červenci 2004 i v červnu 2006 a vzbudil mezinárodní pozornost - důkaz, že předkolumbovské andské společnosti mohly být vedeny ženami stejně jako muži, což předchozí archeologické teorie většinou nepředpokládaly.",
+      "skepticke": "Nález Paní z Cao je vědecky ověřený a datovaný archeologický objev, ne legenda - jeho význam spočívá právě v tom, jak přepsal zavedené představy o genderové struktuře moci v předkolumbovském Peru. Areál byl veřejnosti otevřen v květnu 2006."
     },
-    "praktickeInfo": "Pred navstevou El Brujo over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Komplex je přístupný s placeným vstupem, zahrnuje muzeum s vystavenými nálezy včetně mumie Paní z Cao, nachází se blízko Trujilla na severním pobřeží Peru.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: El Brujo",
         "url": "https://en.wikipedia.org/wiki/El_Brujo",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: El Brujo",
-        "url": "https://www.wikidata.org/w/index.php?search=El%20Brujo",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: El Brujo",
+        "url": "https://www.wikidata.org/wiki/Q2603112",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=El%20Brujo%20Peru",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "El Brujo posiluje mene zastoupene regiony a motivy ritual, umrti. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Vládkyně, kterou historie přehlížela",
+        "text": "Paní z Cao představuje nejstarší dosud doložený případ ženské vládkyně v peruánské historii - objev, který zpochybnil dřívější předpoklad, že moc v regionu drželi výhradně muži."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Tetování jako doklad postavení",
+        "text": "Bohatá tetování na mumii spolu s královskými insigniemi posloužila archeologům jako klíčový důkaz jejího výjimečného společenského postavení."
       }
     ]
   },
@@ -38078,7 +38078,7 @@
     "nazev": "Huaca de la Luna",
     "zeme": "Peru",
     "kontinent": "Jizni Amerika",
-    "lead": "Moche chram s barevnymi reliefy a obetni vrstvou, kde archeologie zachycuje temny ritual.",
+    "lead": "Chrám Měsíce, kde archeologové našli důkazy obětí spojených s cykly El Niño - a který přežil španělské dobyvatele jen díky tomu, že ho ignorovali.",
     "gps": {
       "lat": -8.135,
       "lon": -78.991
@@ -38095,44 +38095,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.1,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Huaca de la Luna doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Moche chram s barevnymi reliefy a obetni vrstvou, kde archeologie zachycuje temny ritual. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Nedaleko peruánského Trujilla stojí cihlová stavba z nepálené hlíny, kterou postavil lid Mochica mezi 1. a 9. stoletím n. l. - a jejíž stěny skrývají rozsáhlé důkazy rituálních obětí spojovaných s klimatickými cykly El Niño.",
+      "historie": "Huaca de la Luna, tedy 'Chrám Měsíce', leží asi 5 kilometrů od Tichého oceánu a 4 kilometry od Trujilla, poblíž ústí řeky Moche jako součást starověkého hlavního města Cerro Blanco.",
+      "legenda": "Archeologické nálezy ukazují dva hlavní typy obětí: zemědělsky motivované, spojené s prosperitou úrody a přírodními katastrofami, a sociálně motivované oběti válečných zajatců nižšího postavení nesoucí stopy zlomenin a smrtelných úderů do hlavy.",
+      "paranormalni": "Druhá kategorie obětí koreluje s cykly El Niño - těla pohřbená v bahnitých podmínkách naznačují, že rituální zabíjení souviselo s tímto klimatickým jevem, přestože badatelé varují, že nelze zaměňovat korelaci za jistou příčinnou souvislost. Nálezy zahrnují i dětské oběti, možná zasvěcující dary po dokončení chrámu.",
+      "skepticke": "Přestože je Huaca de la Luna menší než sousední Huaca del Sol, poskytla archeologům mnohem více poznatků právě proto, že ji španělští dobyvatelé nechali relativně netknutou. Areál obsahuje přes 10 000 čtverečních metrů polychromních nástěnných maleb zobrazujících božstvo Ai-Apaec."
     },
-    "praktickeInfo": "Pred navstevou Huaca de la Luna over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Areál je přístupný s placeným vstupem a probíhajícím archeologickým výzkumem, podporovaným mimo jiné organizací World Monuments Fund od 90. let.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Huaca de la Luna",
         "url": "https://en.wikipedia.org/wiki/Huaca_de_la_Luna",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Huaca de la Luna",
-        "url": "https://www.wikidata.org/w/index.php?search=Huaca%20de%20la%20Luna",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Huaca de la Luna",
+        "url": "https://www.wikidata.org/wiki/Q1544441",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Huaca%20de%20la%20Luna%20Peru",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Huaca de la Luna posiluje mene zastoupene regiony a motivy ritual, vrazdy. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Přežil, protože ho přehlédli",
+        "text": "Chrám Měsíce zůstal na rozdíl od sousedního Chrámu Slunce relativně nedotčený, protože ho španělští dobyvatelé při plenění regionu z velké části ignorovali."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Oběti spojené s El Niño",
+        "text": "Archeologické nálezy naznačují, že část rituálních obětí souvisela s klimatickými cykly El Niño, přestože přesná příčinná souvislost zůstává předmětem odborné opatrnosti."
       }
     ]
   },
@@ -39451,10 +39451,10 @@
     "nazev": "Sima Humboldt",
     "zeme": "Venezuela",
     "kontinent": "Jizni Amerika",
-    "lead": "Obri propast na stolove hore Sarisarinama, izolovane vertikalni podzemi uprostred pralesa.",
+    "lead": "Propast hluboká přes 300 metrů s vlastním pralesem na dně - jediná zalesněná tepui propast na světě, objevená náhodou z letadla.",
     "gps": {
-      "lat": 5.65,
-      "lon": -66.15
+      "lat": 4.6855,
+      "lon": -64.2185
     },
     "kategorie": [
       "podzemi"
@@ -39468,44 +39468,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Sima Humboldt doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Obri propast na stolove hore Sarisarinama, izolovane vertikalni podzemi uprostred pralesa. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na stolové hoře Sarisariñama ve Venezuele leží obří propast s objemem 18 milionů krychlových metrů a hloubkou přes 300 metrů - a na jejím dně roste vlastní izolovaný prales, jediný svého druhu na jakékoli stolové hoře světa.",
+      "historie": "Propast poprvé identifikoval pilot Harry Gibson při leteckém průzkumu roku 1961. První sestup do propasti provedli badatelé až roku 1974, důkladnější průzkum následoval v roce 1976.",
+      "legenda": "Propast dosahuje maximální šířky 352 metrů u okraje, rozšiřující se na 502 metrů v hloubce, s celkovou hloubkou 314 metrů. Vznikla odlišným typem zvětrávání křemencové horniny, než je typické pro běžné jeskynní útvary.",
+      "paranormalni": "Izolovaný kus pralesa na dně propasti vytváří vlastní 'ztracený svět' uprostřed jinak bezlesé stolové hory - unikátní ekosystém odříznutý od okolní krajiny po tisíce let vlastní evoluce.",
+      "skepticke": "Vznik propasti má jasné geologické vysvětlení v erozi křemencové horniny, ne nadpřirozený původ - přístup je přísně omezený jen na výzkumníky se speciálním povolením kvůli ochraně tohoto vzácného, izolovaného ekosystému. Asi 700 metrů odtud leží další obří propast Sima Martel, na plošině Sarisariñama jsou celkem čtyři jeskynní útvary tohoto typu."
     },
-    "praktickeInfo": "Pred navstevou Sima Humboldt over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Přístup je omezen jen na vědecké výzkumníky se speciálním povolením, veřejnosti propast není běžně přístupná.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Sima Humboldt",
         "url": "https://en.wikipedia.org/wiki/Sima_Humboldt",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Sima Humboldt",
-        "url": "https://www.wikidata.org/w/index.php?search=Sima%20Humboldt",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Sima Humboldt",
+        "url": "https://www.wikidata.org/wiki/Q3484085",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Sima%20Humboldt%20Venezuela",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Sima Humboldt posiluje mene zastoupene regiony a motivy podzemi, prirodni-anomalie. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Objev z okna letadla",
+        "text": "Propast poprvé zaznamenal pilot Harry Gibson při běžném leteckém průzkumu roku 1961 - náhodný objev, který vědcům trval dalších 13 let, než ho dokázali skutečně prozkoumat."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Prales na dně propasti",
+        "text": "Sima Humboldt je jedinou zalesněnou propastí na jakékoli stolové hoře (tepui) na světě - izolovaný ekosystém uprostřed jinak strmé, bezlesé krajiny."
       }
     ]
   },
@@ -41483,7 +41483,7 @@
     "nazev": "Tiahuanaco Akapana",
     "zeme": "Bolivie",
     "kontinent": "Jizni Amerika",
-    "lead": "Pyramidalni platforma Akapana v Tiwanaku, kamenny uzel ritualu a alternativnich interpretaci.",
+    "lead": "Pyramida ve tvaru poloviny andského kříže, jejíž stavební plán badatelé dodnes nedokázali rozklíčovat - ani po přiznání, že žádnou jednotnou míru nenašli.",
     "gps": {
       "lat": -16.554,
       "lon": -68.673
@@ -41504,40 +41504,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tiahuanaco Akapana doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Pyramidalni platforma Akapana v Tiwanaku, kamenny uzel ritualu a alternativnich interpretaci. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "V bolivijském Tiwanaku stojí monumentální stavba ve tvaru poloviny andského kříže o rozměrech 257 na 197 metrů a výšce 16,5 metru - a přesný stavební princip, podle kterého ji stavitelé navrhli, se badatelům dosud nepodařilo jednoznačně rozklíčovat.",
+      "historie": "Pyramida Akapana vznikla kolem roku 110 n. l. a v centru měla propadlé nádvoří se západním schodištěm, v severovýchodním a jihovýchodním rohu pravděpodobně obsahovala obytné komplexy.",
+      "legenda": "Badatelé navrhli několik teorií o způsobu měření použitém při stavbě, včetně jednotky zvané luk'a (asi 60 centimetrů) - architekti Jean-Pierre Protzen a Stella Nairová ale při podrobném zkoumání nenašli žádnou přesvědčivou jednotnou míru, ze které by se odvozovaly ostatní rozměry stavby.",
+      "paranormalni": "Podle jedné z teorií mohla stavba sloužit jako astronomická observatoř zarovnaná s vrcholem hory Quimsačata, umožňující pozorovat rotaci Mléčné dráhy z jižního pólu - vykopávky navíc odhalily obětní ostatky lidí i lam, což naznačuje obřadní využití.",
+      "skepticke": "Absence jednotné stavební míry není důkazem nadpřirozeného původu, ale spíš dokladem, že stavitelé mohli používat kontextově závislé, proporčně škálované prvky bez potřeby jediné univerzální jednotky - vykrádání a amatérské vykopávky navíc stavbu vážně poškodily, což archeologickou interpretaci značně komplikuje."
     },
-    "praktickeInfo": "Pred navstevou Tiahuanaco Akapana over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště je součástí rozsáhlejšího komplexu Tiwanaku přístupného s placeným vstupem, poblíž bolivijského města La Paz.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Tiahuanaco Akapana",
-        "url": "https://en.wikipedia.org/wiki/Tiahuanaco_Akapana",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Tiwanaku",
+        "url": "https://en.wikipedia.org/wiki/Tiwanaku",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Tiahuanaco Akapana",
-        "url": "https://www.wikidata.org/w/index.php?search=Tiahuanaco%20Akapana",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Tiwanaku",
+        "url": "https://www.wikidata.org/wiki/Q61750",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Tiahuanaco%20Akapana%20Bolivie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Akapana%20Tiwanaku",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Tiahuanaco Akapana posiluje mene zastoupene regiony a motivy konspirace, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Míra, kterou nikdo nenašel",
+        "text": "Podrobný výzkum architektů Protzena a Nairové nedokázal najít žádnou jednotnou stavební míru, ze které by se odvozovaly ostatní rozměry pyramidy - záhada, která zůstává nevyřešená."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Observatoř zarovnaná s Mléčnou dráhou",
+        "text": "Podle jedné teorie byla stavba zarovnaná s vrcholem hory Quimsačata tak, aby umožňovala pozorovat rotaci Mléčné dráhy z jižního pólu."
       }
     ]
   },
