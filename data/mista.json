@@ -32047,7 +32047,7 @@
     "nazev": "Okinawa Himeyuri Monument",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Pametni misto bitvy o Okinawu, kde studentsky pribeh a valecna trauma vyzaduji citlivy ton.",
+    "lead": "Studentky, kterým řekli, že jedou pracovat do bezpečné nemocnice - místo toho je poslali na frontovou linii, kde jich 80 procent zahynulo za jediný týden.",
     "gps": {
       "lat": 26.095,
       "lon": 127.69
@@ -32064,44 +32064,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Okinawa Himeyuri Monument doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Pametni misto bitvy o Okinawu, kde studentsky pribeh a valecna trauma vyzaduji citlivy ton. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V okinawském Itomanu stojí památník připomínající 222 studentek a 18 učitelek dvou okinawských škol, kterým během druhé světové války řekli, že budou pracovat v bezpečných nemocnicích Červeného kříže - místo toho je nasadili přímo do bojů bitvy o Okinawu.",
+      "historie": "Skupina, dnes známá jako Himeyuri, byla mobilizována 23. března 1945 jako ošetřovatelská jednotka japonské císařské armády. Dívky prováděly hrubé chirurgické zákroky a amputace, pohřbívaly mrtvé a přenášely munici pod nepřetržitou palbou.",
+      "legenda": "Po rozkazu k rozpuštění jednotky 18. června 1945 zahynulo asi 80 procent zbývajících dívek na ostrově během jediného týdne. Celkový počet obětí dosáhl 211 studentek a 16 učitelek. Některé ze strachu před znásilněním spáchaly sebevraždu kyanidem nebo granáty, které jim dali japonští vojáci.",
+      "paranormalni": "Památník Himeyuri byl postaven 7. dubna 1946 na památku všech zemřelých a uvádí jméno každé jedné oběti. Muzeum míru Himeyuri, obnovené v roce 2009, obsahuje šest výstavních místností se svědectvími přeživších, fotografiemi a životní velikosti diorama jeskyně, ve které dívky pracovaly.",
+      "skepticke": "Přeživší ošetřovatelky samy dlouhá léta sloužily jako průvodkyně a kurátorky muzea, aby zajistily, že se historie bude vyprávět přesně a bez idealizace - tragédie je podrobně historicky zdokumentovaná, ne legendou, a muzeum slouží především jako místo usmíření a připomínky, ne turistické senzace."
     },
-    "praktickeInfo": "Pred navstevou Okinawa Himeyuri Monument over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Muzeum je přístupné s placeným vstupem, doporučuje se počítat s emocionálně náročnou návštěvou vzhledem k povaze vystavovaných svědectví.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Okinawa Himeyuri Monument",
-        "url": "https://en.wikipedia.org/wiki/Okinawa_Himeyuri_Monument",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Himeyuri Student Corps",
+        "url": "https://en.wikipedia.org/wiki/Himeyuri_Student_Corps",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Okinawa Himeyuri Monument",
-        "url": "https://www.wikidata.org/w/index.php?search=Okinawa%20Himeyuri%20Monument",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Himeyuri Student Corps",
+        "url": "https://www.wikidata.org/wiki/Q717158",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Okinawa%20Himeyuri%20Monument%20Japonsko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Himeyuri%20Peace%20Museum%20Itoman",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Okinawa Himeyuri Monument posiluje mapu v motivech valka, umrti a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Lež o bezpečné nemocnici",
+        "text": "Dívkám bylo řečeno, že budou pracovat v bezpečných nemocnicích Červeného kříže - místo toho je nasadili přímo do bojové linie bitvy o Okinawu."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Přeživší jako průvodkyně vlastní tragédie",
+        "text": "Ženy, které přežily jako studentky Himeyuri, se později staly průvodkyněmi a kurátorkami muzea, aby osobně předávaly svědectví o tom, co se jim a jejich spolužačkám stalo."
       }
     ]
   },
@@ -32335,7 +32335,7 @@
     "nazev": "Lumbini",
     "zeme": "Nepal",
     "kontinent": "Asie",
-    "lead": "Poutni misto spojovane s narozenim Buddhy, kde historie a globalni vira sdileji krajinu.",
+    "lead": "Místo, kde se podle buddhistické tradice narodil Buddha - a kde archeologové našli důkazy náboženské aktivity o 500 let starší, než byl on sám.",
     "gps": {
       "lat": 27.469,
       "lon": 83.275
@@ -32356,40 +32356,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Lumbini doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Poutni misto spojovane s narozenim Buddhy, kde historie a globalni vira sdileji krajinu. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V nepálském distriktu Rúpandéhí leží posvátné místo narození Siddhártha Gautamy, budoucího Buddhy - a archeologické vykopávky zde odhalily náboženskou aktivitu sahající stovky let před jeho narozením.",
+      "historie": "Podle buddhistické tradice zde kolem roku 563 př. n. l. porodila královna Máyá Siddhártha Gautamu. Lumbiní patří mezi čtyři nejposvátnější poutní místa buddhismu vedle Bódhgaji, Sárnáthu a Kušinagaru.",
+      "legenda": "Vykopávky u chrámu Máyádéví z roku 2013 odhalily řadu nejstarších buddhistických svatyní jižní Asie. Radiokarbonová analýza naznačuje, že lidská aktivita v Lumbiní začala kolem roku 1000 př. n. l. - stovky let před Buddhovým životem, což naznačuje existenci staršího stromového kultu na místě.",
+      "paranormalni": "V roce 1896 zde objevili monumentální sloup císaře Ašóky s nápisem v písmu bráhmí, který potvrzuje jeho návštěvu ve 3. století př. n. l. Nápis doslova říká: 'Když byl král Dévánamprija Prijadarsin dvacet let po korunovaci, přišel sem osobně a uctil toto místo, protože se zde narodil Buddha Šákjamuni.'",
+      "skepticke": "Sám Buddha před svou smrtí označil Lumbiní za jedno ze čtyř míst na zemi, která by si věřící měli po celý život připomínat - archeologické důkazy staršího uctívání na místě jsou vědecky doložené, ne legendou, a jen posilují mimořádný historický i duchovní význam lokality. Od roku 1997 je na seznamu UNESCO."
     },
-    "praktickeInfo": "Pred navstevou Lumbini over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Areál je přístupný s placeným vstupem, zahrnuje chrám Máyádéví, Ašókův sloup a posvátný rybník, doporučuje se počítat s celodenní návštěvou kvůli rozsahu poutního parku.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Lumbini",
         "url": "https://en.wikipedia.org/wiki/Lumbini",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Lumbini",
-        "url": "https://www.wikidata.org/w/index.php?search=Lumbini",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Lumbini",
+        "url": "https://www.wikidata.org/wiki/Q9213",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Lumbini%20Nepal",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Lumbini posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Sloup, který potvrdil legendu",
+        "text": "Ašókův sloup objevený roku 1896 nese nápis dokládající, že sám indický císař osobně navštívil místo Buddhova narození už ve 3. století př. n. l."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Kult starší než Buddha sám",
+        "text": "Radiokarbonové datování odhalilo náboženskou aktivitu na místě sahající až 500 let před narozením Buddhy - stopu staršího stromového kultu, který místu předcházel."
       }
     ]
   },
@@ -33070,7 +33070,7 @@
     "nazev": "Brihadeeswarar Temple",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Velky chram v Thanjavuru, monumentalni kamenny projev moci, geometrie a ritualu.",
+    "lead": "Chrám s 80tunovým žulovým blokem na vrcholu 63metrové věže, který postavili řemeslníci bez jeřábů a bez moderní techniky za pouhých sedm let.",
     "gps": {
       "lat": 10.7828,
       "lon": 79.1318
@@ -33087,44 +33087,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.1,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Brihadeeswarar Temple doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Velky chram v Thanjavuru, monumentalni kamenny projev moci, geometrie a ritualu. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V jihoindickém Thandžávúru stojí chrám s jedním z největších monolitických lingamů Šivy v Indii a s věží vysokou 63,4 metru, na jejímž vrcholu spočívá 25tunová kupole posazená na 80tunovém žulovém bloku - dílo, které představovalo technický průlom ve schopnosti stavět do výšky s těžkým kamenem.",
+      "historie": "Chrám nechal postavit čólský císař Rádžarádža I. mezi lety 1003 a 1010 n. l. Komplex o rozměrech 240,79 na 121,92 metru zahrnuje svatyně věnované více božstvům a obsahuje asi 670 čtverečních metrů fresek z 11. století.",
+      "legenda": "Chrám ukrývá jeden z největších monolitických Šivových lingamů v Indii, vysoký téměř devět metrů, a monolitický býk Nandi vážící 25 tun. Stěny zdobí 81 vytesaných tanečních pozic z klasického textu Nátjašástra a chrám je proslulý i tím, že zde vznikl ikonický bronzový design Nataradži z 11. století.",
+      "paranormalni": "Technický výkon zvednutí 80tunového žulového bloku na vrchol 63metrové věže bez moderních jeřábů zůstává předmětem obdivu inženýrů i archeologů - přesná metoda, jakou to čólští stavitelé dokázali, je stále předmětem odborných diskuzí.",
+      "skepticke": "Přestože přesná stavební technika není plně zdokumentována, jde o historicky doložený a datovaný projekt čólské dynastie, ne o nadpřirozený jev - restaurátoři navíc pomocí inovativních technik zachovali jak původní čólské fresky, tak pozdější malby z období Nájaků, což z chrámu dělá i unikátní vrstvenou galerii historie indického malířství."
     },
-    "praktickeInfo": "Pred navstevou Brihadeeswarar Temple over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Chrám je aktivním hinduistickým svatostánkem s volně přístupným areálem, doporučuje se skromné oblečení a respekt k probíhajícím bohoslužbám.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Brihadeeswarar Temple",
         "url": "https://en.wikipedia.org/wiki/Brihadeeswarar_Temple",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Brihadeeswarar Temple",
-        "url": "https://www.wikidata.org/w/index.php?search=Brihadeeswarar%20Temple",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Brihadeeswarar Temple",
+        "url": "https://www.wikidata.org/wiki/Q916943",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Brihadeeswarar%20Temple%20Indie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Brihadeeswarar%20Temple%20Thanjavur",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Brihadeeswarar Temple posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "80 tun na vrcholu věže",
+        "text": "Stavitelé dokázali zvednout 80tunový žulový blok na vrchol 63metrové věže bez jeřábů a moderní techniky - výkon, jehož přesnou metodu dodnes zkoumají inženýři."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Sedm let na jeden z divů Indie",
+        "text": "Celý monumentální komplex postavil čólský císař Rádžarádža I. za pouhých sedm let mezi lety 1003 a 1010 n. l."
       }
     ]
   },
@@ -33790,7 +33790,7 @@
     "nazev": "Adam's Peak",
     "zeme": "Sri Lanka",
     "kontinent": "Asie",
-    "lead": "Poutni hora s posvatnou stopou, kde ruzne tradice sdileji jeden vrchol a nocni vystup.",
+    "lead": "Otisk nohy na vrcholu srílanské hory, který čtyři náboženství nezávisle na sobě přiřazují čtyřem různým svatým postavám.",
     "gps": {
       "lat": 6.8096,
       "lon": 80.4994
@@ -33807,44 +33807,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 4.2,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Adam's Peak doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Poutni hora s posvatnou stopou, kde ruzne tradice sdileji jeden vrchol a nocni vystup. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Na vrcholu srílanské hory vysoké 2243 metrů leží 1,8metrový otisk v kameni, který čtyři odlišná náboženství interpretují čtyřmi zcela různými způsoby - a poutníci sem stoupají po staletí bez ohledu na to, čí otisk to podle nich vlastně je.",
+      "historie": "Poutní tradice se objevuje už v 5. století v kronice Mahávamsa, která zmiňuje Buddhovu návštěvu. Král Vidžajabáhu I. (1058-1114) měl na horu vystoupit a otisk uctít. Arabský cestovatel Ibn Battúta vystoupal na vrchol roku 1344 a popsal schodiště se železnými sloupky a řetězy pomáhajícími poutníkům.",
+      "legenda": "Buddhisté otisk uctívají jako levou nohu Buddhy, kterou tam zanechal při své třetí a poslední návštěvě Srí Lanky v 6. století př. n. l. Tamilští hinduisté ho označují za otisk Šivy a horu nazývají 'Hora Šivova světla'. Někteří muslimové a křesťané připisují otisk Adamovi nebo svatému Tomáši apoštolovi - odtud anglické jméno hory.",
+      "paranormalni": "Nejoblíbenější dobou pro výstup je duben, kdy poutníci míří k vrcholu, aby sledovali východ slunce - typický trojúhelníkový stín hory se pak vrhá přes okolní pláně v jednom z nejfotografovanějších přírodních úkazů Srí Lanky.",
+      "skepticke": "Skutečnost, že čtyři nezávislá náboženství přisuzují stejnému kamennému útvaru čtyři odlišné svaté postavy, je zajímavým dokladem toho, jak různé kultury interpretují stejný přírodní jev podle vlastní tradice - první zaznamenaný anglický výstup provedl poručík William Malcolm 26. dubna 1815."
     },
-    "praktickeInfo": "Pred navstevou Adam's Peak over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "K vrcholu vede šest turistických tras, sezónní vrchol návštěvnosti je v dubnu kvůli sledování východu slunce, výstup je fyzicky náročný a obvykle se provádí v noci, aby poutníci dorazili na vrchol před rozedněním.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Adam's Peak",
-        "url": "https://en.wikipedia.org/wiki/Adam's_Peak",
-        "licence": "CC BY-SA / reference discovery"
+        "url": "https://en.wikipedia.org/wiki/Adam%27s_Peak",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Adam's Peak",
-        "url": "https://www.wikidata.org/w/index.php?search=Adam's%20Peak",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Adam's Peak",
+        "url": "https://www.wikidata.org/wiki/Q60789",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Adam's%20Peak%20Sri%20Lanka",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Adam%27s%20Peak%20Sri%20Lanka",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Adam's Peak posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Jeden otisk, čtyři svatí",
+        "text": "Buddhisté, hinduisté, muslimové i křesťané nezávisle na sobě uctívají stejný kamenný otisk jako stopu jiné posvátné postavy své vlastní tradice."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Trojúhelníkový stín při východu slunce",
+        "text": "Za jasného rána v dubnu vrhá hora při východu slunce přes okolní krajinu výrazný trojúhelníkový stín, kvůli kterému sem míří tisíce poutníků ročně."
       }
     ]
   },
@@ -33934,7 +33934,7 @@
     "nazev": "Anuradhapura",
     "zeme": "Sri Lanka",
     "kontinent": "Asie",
-    "lead": "Stare kralovske a poutni mesto, kde stupy, nadrze a strom Bodhi vytvareji sakralni urbanismus.",
+    "lead": "Hlavní město staré 1500 let, kde roste nejstarší doloženě vysazený strom na světě - přímo z výhonku stromu, pod nímž Buddha dosáhl osvícení.",
     "gps": {
       "lat": 8.3114,
       "lon": 80.4037
@@ -33955,40 +33955,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Anuradhapura doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Stare kralovske a poutni mesto, kde stupy, nadrze a strom Bodhi vytvareji sakralni urbanismus. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Ve srílanském vnitrozemí leží starobylé hlavní město, které sloužilo jako centrum ostrova po neuvěřitelných 1500 let - a jehož nejposvátnějším pokladem je strom, o kterém se traduje, že vyrostl přímo z výhonku toho, pod nímž Buddha dosáhl osvícení.",
+      "historie": "Anuradhapura byla hlavním městem Srí Lanky přibližně od roku 437 př. n. l. do roku 1017 n. l. Podle kroniky Mahávamsa město založil ministr jménem Anuradha poblíž řeky Kadamba, formálně se stalo hlavním městem za vlády krále Pandukabhaji roku 377 př. n. l. a nakonec pokrylo plochu jednoho čtverečního kilometru, čímž patřilo mezi největší města tehdejší Asie.",
+      "legenda": "Město se stalo intelektuálním centrem buddhismu v jižní Asii. Nejvýznamnějším pokladem je Jaya Sri Maha Bódhi, popisovaný jako nejstarší dosud žijící, zdokumentovaný a záměrně vysazený strom na světě, o němž se věří, že pochází z původního stromu Bódhi, pod kterým Buddha dosáhl osvícení.",
+      "paranormalni": "Buddhistický klášterní komplex kolem posvátného stromu se rozprostírá na ploše přes 100 čtverečních kilometrů a zahrnuje velké chrámy jako Ruwanwelisaya a Jetavanaráma - jedno z největších náboženských center starověkého světa.",
+      "skepticke": "Zánik města má jasnou historickou příčinu - dobytí Čólskou dynastií z jižní Indie roku 993 n. l., ne kletbu nebo tajemný úpadek. Přestože politický význam Anuradhapury upadl, duchovní význam přetrval celý středověk, moderní obnova začala v 70. letech 19. století za britské koloniální správy a od roku 1949 vznikla samostatná 'Nová Anuradhapura', aby ochránila staré posvátné lokality."
     },
-    "praktickeInfo": "Pred navstevou Anuradhapura over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Areál je rozsáhlý a vyžaduje počítat s celodenní návštěvou nebo více dny, přístupný s placeným vstupem, doporučuje se skromné oblečení kvůli aktivnímu náboženskému provozu kolem posvátného stromu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Anuradhapura",
         "url": "https://en.wikipedia.org/wiki/Anuradhapura",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Anuradhapura",
-        "url": "https://www.wikidata.org/w/index.php?search=Anuradhapura",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Anuradhapura",
+        "url": "https://www.wikidata.org/wiki/Q5724",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Anuradhapura%20Sri%20Lanka",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Anuradhapura posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Nejstarší vysazený strom na světě",
+        "text": "Posvátný strom Jaya Sri Maha Bódhi je podle dostupných záznamů nejstarším doloženě záměrně vysazeným stromem na světě, o kterém se věří, že pochází z výhonku stromu Buddhova osvícení."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "1500 let jako hlavní město",
+        "text": "Anuradhapura sloužila jako hlavní město Srí Lanky nepřetržitě po dobu asi 1500 let, což z ní dělá jedno z nejdéle trvajících hlavních měst v historii lidstva."
       }
     ]
   },
