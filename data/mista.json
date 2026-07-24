@@ -42779,7 +42779,7 @@
     "nazev": "Chinguetti",
     "zeme": "Mauritanie",
     "kontinent": "Afrika",
-    "lead": "Pouštni knihovni mesto, kde rukopisy a pisečne ulice vytvareji obraz krehke pameti.",
+    "lead": "Poušť, kde stálo sedmé nejposvátnější město islámu - a kde se v pěti starobylých knihovnách dodnes prohýbají police pod středověkými rukopisy o matematice a astronomii.",
     "gps": {
       "lat": 20.463,
       "lon": -12.362
@@ -42800,40 +42800,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chinguetti doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Pouštni knihovni mesto, kde rukopisy a pisečne ulice vytvareji obraz krehke pameti. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Uprostřed saharské pouště leží město, jehož jméno v zaniklém jazyce Azajr znamená 'pramen koní' - v místech, kde dnes vládne písek, se kdysi rozkládala zelená savana, jak dokládají skalní malby žiraf a dobytka poblíž Agrour Amogjaru.",
+      "historie": "Chinguetti bylo založeno roku 777 n. l. Do 11. století se stalo obchodním centrem berberských kmenů Sanhadža, později propojených s Almorávidy. Ve 13. století bylo znovu založeno jako opevněné centrum transsaharských obchodních tras spojujících Středomoří se subsaharskou Afrikou.",
+      "legenda": "Město sloužilo jako hlavní shromaždiště poutníků z Maghribu na cestě do Mekky a získalo status svatého města pro ty, kdo nemohli dokončit cestu až na Arabský poloostrov. V celém arabském světě se region proslavil jako 'Bilád Šinkít' (země Chinguetti) a město je někdy označováno za sedmé nejposvátnější v islámu.",
+      "paranormalni": "Staré čtvrti ukrývají pět významných knihoven rukopisů s vědeckými i koránskými texty ze středověku. Ulice učenců (Rue des Savants) sloužila historicky jako místo, kde se učenci scházeli k diskusím o islámském právu - vzdělávací instituce zde vyučovaly rétoriku, právo, astronomii, matematiku i medicínu vedle náboženské výuky.",
+      "skepticke": "Označení 'sedmé nejposvátnější město islámu' je tradiční poctou spíše než formálním teologickým titulem - nesporný je ale reálný vědecký a náboženský význam města, doložený stovkami dochovaných rukopisů a Páteční mešitou ze 13.-14. století se čtvercovým minaretem zdobeným pěti pštrosími vejci, kterou UNESCO obnovilo v 70. letech 20. století a kterou Mauritánci považují za národní symbol."
     },
-    "praktickeInfo": "Pred navstevou Chinguetti over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Město je přístupné po saharských trasách ze Šingettí nebo Atáru, doporučuje se navštívit soukromé rukopisové knihovny s místním průvodcem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Chinguetti",
         "url": "https://en.wikipedia.org/wiki/Chinguetti",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Chinguetti",
-        "url": "https://www.wikidata.org/w/index.php?search=Chinguetti",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Chinguetti",
+        "url": "https://www.wikidata.org/wiki/Q312357",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Chinguetti%20Mauritanie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Chinguetti%20Mauritania",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Chinguetti posiluje mene zastoupene regiony a motivy tajne-spolecnosti, poust. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Pět knihoven uprostřed pouště",
+        "text": "Staré čtvrti Chinguetti ukrývají pět rukopisových knihoven se středověkými vědeckými a koránskými texty, přežívajícími navzdory saharskému vedru a písku."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Sedmé nejposvátnější město islámu",
+        "text": "Chinguetti je tradičně označováno za sedmé nejposvátnější město islámu díky roli hlavního shromaždiště poutníků z Maghribu na cestě do Mekky."
       }
     ]
   },
@@ -44806,7 +44806,7 @@
     "nazev": "Ball's Pyramid",
     "zeme": "Australie",
     "kontinent": "Oceanie",
-    "lead": "Osamely sopecny jehlan u Lord Howe Island, izolovany prirodni monument uprostred oceanu.",
+    "lead": "Nejvyšší sopečná skála světa, pod jejímž jediným keřem přežilo posledních 24 kusů hmyzu považovaného sedmdesát let za vyhynulý.",
     "gps": {
       "lat": -31.754,
       "lon": 159.251
@@ -44827,40 +44827,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ball's Pyramid doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Osamely sopecny jehlan u Lord Howe Island, izolovany prirodni monument uprostred oceanu. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Východně od Lord Howe Islandu se z oceánu zvedá 572 metrů vysoká skalní jehla, erodovaný zbytek sopky stará 6,4 milionu let - nejvyšší sopečný skalní útvar na světě, který dlouho skrýval jedno z nejpozoruhodnějších biologických překvapení posledních desetiletí.",
+      "historie": "Pojmenoval ji poručík Královského námořnictva Henry Lidgbird Ball, který ji objevil roku 1788. Poprvé ji zmapoval Henry Mangles Denham roku 1853, prvním zdokumentovaným návštěvníkem na pevnině byl geolog Henry Wilkinson roku 1882. Vrchol poprvé zdolal tým horolezců ze Sydney 14. února 1965.",
+      "legenda": "Strašidelný klacík (Dryococelus australis) z Lord Howe Islandu vymizel z hlavního ostrova do roku 1920 a byl považován za vyhynulý. Roku 2001 ochránci přírody objevili na Ball's Pyramid drobnou přeživší populaci - pouhých 24 jedinců žijících pod jediným keřem.",
+      "paranormalni": "Dva chovné páry byly přemístěny na australskou pevninu pro chovný program a plánovanou reintrodukci - objev proměnil hmyz, o kterém se sedmdesát let vědělo jen z fosilních záznamů, ve živoucí symbol naděje pro ohrožené druhy.",
+      "skepticke": "Horolezectví na skále bylo roku 1982 zakázáno novelou zákona o Lord Howe Islandu kvůli ochraně křehkého ekosystému, později byl přístup za přísných podmínek částečně uvolněn - opatrnost při ochraně místa se ukázala jako oprávněná právě díky objevu přeživší populace vzácného hmyzu."
     },
-    "praktickeInfo": "Pred navstevou Ball's Pyramid over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Skála je přístupná pouze lodí z Lord Howe Islandu, výstup na vrchol vyžaduje speciální povolení kvůli ochraně křehkého ekosystému.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Ball's Pyramid",
-        "url": "https://en.wikipedia.org/wiki/Ball's_Pyramid",
-        "licence": "CC BY-SA / reference discovery"
+        "url": "https://en.wikipedia.org/wiki/Ball%27s_Pyramid",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Ball's Pyramid",
-        "url": "https://www.wikidata.org/w/index.php?search=Ball's%20Pyramid",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Ball's Pyramid",
+        "url": "https://www.wikidata.org/wiki/Q152872",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Ball's%20Pyramid%20Australie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Ball%27s%20Pyramid%20Australia",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Ball's Pyramid posiluje mene zastoupene regiony a motivy prirodni-anomalie, oceany. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "24 přeživších pod jedním keřem",
+        "text": "Hmyz považovaný sedmdesát let za vyhynulý přežil v koloni pouhých 24 jedinců pod jediným keřem na téměř kolmé skalní stěně."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Nejvyšší sopečná jehla světa",
+        "text": "Ball's Pyramid, erodovaný zbytek 6,4 milionu let staré sopky, je s výškou 572 metrů nejvyšším sopečným skalním útvarem na světě."
       }
     ]
   },
@@ -45094,7 +45094,7 @@
     "nazev": "Ha'amonga a Maui",
     "zeme": "Tonga",
     "kontinent": "Oceanie",
-    "lead": "Megaliticka brana Tonga, casto spojovana s kralovskou moci, astronomii a mytem Mauiho.",
+    "lead": "'Tichomořský Stonehenge' postavený z kamenů, které podle legendy přinesl polobůh Maui na obřím kánoi - protože byly příliš velké pro obyčejné lidi.",
     "gps": {
       "lat": -21.139,
       "lon": -175.045
@@ -45111,44 +45111,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ha'amonga a Maui doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Megaliticka brana Tonga, casto spojovana s kralovskou moci, astronomii a mytem Mauiho. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na ostrově Tongatapu stojí trilit ze tří vápencových desek, z nichž každá svislá váží 30 až 40 tun - stavba, kterou místní tradice přisuzuje polobohu Mauimu, protože kameny prý byly příliš velké na to, aby je zvládli obyčejní smrtelníci.",
+      "historie": "Monument nechal kolem roku 1200 n. l. postavit král Tu'itātui, jedenáctý Tu'i Tonga. Stavba měří 5,2 metru na výšku, 1,4 metru na šířku a 5,8 metru na délku a pravděpodobně sloužila jako brána do Heketā, královského sídelního komplexu, přičemž svislé kameny symbolizovaly králova dva syny.",
+      "legenda": "Podle legendy Maui přinesl kameny z ostrova 'Uvea a dopravil je pomocí obří kánoe - protože jejich velikost přesahovala možnosti běžných lidí, jen mýtický hrdina mohl takový úkol zvládnout.",
+      "paranormalni": "Roku 1967 král Taufa'ahau Tupou IV. navrhl, že stavba označuje východy slunce při slunovratech a rovnodennostech. Historik Tevita Fale tuto teorii podporuje a poukazuje na značku ve tvaru V na vrcholu překladu, která se zarovnává s východem slunce při slunovratech a rovnodennostech.",
+      "skepticke": "Astronom C. F. Velt teorii o astronomickém zarovnání zpochybňuje s argumentem, že značka ve tvaru V je s deseti centimetry příliš malá na spolehlivé směrové určení - spor mezi zastánci a odpůrci astronomické interpretace zůstává nevyřešený, přestože stavba je od roku 1972 chráněna jako národní park."
     },
-    "praktickeInfo": "Pred navstevou Ha'amonga a Maui over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Monument stojí ve vesnici Niutōua v oblasti Heketā na ostrově Tongatapu a je volně přístupný.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Ha'amonga a Maui",
-        "url": "https://en.wikipedia.org/wiki/Ha'amonga_a_Maui",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Ha'amonga 'a Maui",
+        "url": "https://en.wikipedia.org/wiki/Ha%27amonga_%27a_Maui",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Ha'amonga a Maui",
-        "url": "https://www.wikidata.org/w/index.php?search=Ha'amonga%20a%20Maui",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Ha'amonga 'a Maui",
+        "url": "https://www.wikidata.org/wiki/Q1433433",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Ha'amonga%20a%20Maui%20Tonga",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Ha%27amonga%20%27a%20Maui%20Tonga",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Ha'amonga a Maui posiluje mene zastoupene regiony a motivy mytologie, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Kameny příliš velké pro lidi",
+        "text": "Podle legendy dokázal masivní kamenné desky trilitu dopravit na místo jedině polobůh Maui na své obří kánoi - byly prý příliš velké pro obyčejné smrtelníky."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Spor o tichomořský Stonehenge",
+        "text": "Astronomové se dodnes přou, zda značka ve tvaru V na vrcholu trilitu skutečně označuje slunovraty a rovnodennosti, nebo je na přesné určení směru příliš malá."
       }
     ]
   },
@@ -45459,10 +45459,10 @@
     "nazev": "Vanuatu Chief Roi Mata's Domain",
     "zeme": "Vanuatu",
     "kontinent": "Oceanie",
-    "lead": "Krajina spojena s nacelnikem Roi Matou, pohrebni a ustni tradice v tichomorskem prostoru.",
+    "lead": "Hromadný hrob náčelníka otráveného vlastním bratrem - místo, kde místní dodnes odmítají vyslovit jeho jméno ze strachu z jeho duše.",
     "gps": {
-      "lat": -17.7,
-      "lon": 168.3
+      "lat": -17.6281,
+      "lon": 168.1777
     },
     "kategorie": [
       "legenda"
@@ -45480,40 +45480,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Vanuatu Chief Roi Mata's Domain doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Krajina spojena s nacelnikem Roi Matou, pohrebni a ustni tradice v tichomorskem prostoru. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na třech ostrovech středního Vanuatu leží místa spojená s legendárním náčelníkem, jehož jméno místní dodnes odmítají vyslovovat ze strachu, že by mohlo přivolat neštěstí způsobené jeho duchem.",
+      "historie": "Roi Mata byl náčelnický titul náležející dynastii, která vládla od 11. do 17. století. Nejproslulejší nositel titulu žil kolem roku 1600 a je obvykle označován prostě jako 'Roi Mata'.",
+      "legenda": "Podle místního folklóru bylo Roi Matovým hlavním úspěchem sjednocení ostrovních kmenů do jednotné armády a jeho éra je líčena jako výjimečně mírová. Legenda ale končí tragicky - Roi Mata byl smrtelně otráven vlastním bratrem. Ze strachu z duchovních důsledků se místní vyhýbali pohřbení jeho těla v jeho domovině i pozdějšímu vyslovování jeho jména.",
+      "paranormalni": "Francouzský archeolog José Garanger objevil roku 1967 na ostrově Eretoka Roi Matův propracovaný hrob obsahující ostatky více než 25 členů jeho družiny - nález odhalující rozsah jeho vlivu a rituální význam obklopující jeho smrt.",
+      "skepticke": "Hromadný pohřeb více než 25 lidí spolu s náčelníkem je archeologicky doložený fakt objevený systematickým výzkumem, ne pouhá legenda - roku 2008 získala tři místa spojená s Roi Matou (na ostrovech Efate, Lelepa a Eretoka) status UNESCO, zahrnující jeho sídlo, místo smrti i místo posledního odpočinku."
     },
-    "praktickeInfo": "Pred navstevou Vanuatu Chief Roi Mata's Domain over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Návštěva ostrova Eretoka a dalších míst spojených s Roi Matou vyžaduje doprovod místního průvodce a respektování duchovního významu lokality pro místní komunity.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Vanuatu Chief Roi Mata's Domain",
-        "url": "https://en.wikipedia.org/wiki/Vanuatu_Chief_Roi_Mata's_Domain",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Chief Roi Mata's Domain",
+        "url": "https://en.wikipedia.org/wiki/Chief_Roi_Mata%27s_Domain",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Vanuatu Chief Roi Mata's Domain",
-        "url": "https://www.wikidata.org/w/index.php?search=Vanuatu%20Chief%20Roi%20Mata's%20Domain",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Chief Roi Mata's Domain",
+        "url": "https://www.wikidata.org/wiki/Q558599",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Vanuatu%20Chief%20Roi%20Mata's%20Domain%20Vanuatu",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Chief%20Roi%20Mata%27s%20Domain%20Vanuatu",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Vanuatu Chief Roi Mata's Domain posiluje mene zastoupene regiony a motivy umrti, ritual. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Jméno, které se nesmí vyslovit",
+        "text": "Ze strachu z duchovních následků se místní obyvatelé po smrti náčelníka Roi Maty dlouho vyhýbali vyslovování jeho jména."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Hrob s více než 25 průvodci na věčnost",
+        "text": "Archeolog José Garanger objevil roku 1967 hromadný hrob obsahující ostatky přes 25 členů náčelníkovy družiny, pohřbených společně s ním."
       }
     ]
   },
@@ -55575,7 +55575,7 @@
     "nazev": "Tiya Stelae",
     "zeme": "Etiopie",
     "kontinent": "Afrika",
-    "lead": "Megaliticke stely s vyrytymi symboly, archeologicka krajina pameti a ne zcela jasnych vyznamu.",
+    "lead": "Čtyřicet šest kamenných stél nad prehistorickým pohřebištěm, jejichž vytesané meče a lidské postavy dodnes nikdo nedokázal spolehlivě přiřadit ke konkrétní kultuře.",
     "gps": {
       "lat": 8.435,
       "lon": 38.612
@@ -55592,44 +55592,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tiya Stelae doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Megaliticke stely s vyrytymi symboly, archeologicka krajina pameti a ne zcela jasnych vyznamu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V etiopské vysočině stojí 46 kamenných stél označujících rozsáhlý prehistorický pohřební komplex - přestože stavba megalitů má v Etiopii velmi starou tradici sahající před náš letopočet, totožnost stavitelů právě tohoto pole zůstává nejasná.",
+      "historie": "Naleziště se datuje přibližně do 10.-15. století n. l. Stély pravděpodobně označují rozsáhlý prehistorický pohřební komplex a sloužily jako obřadní markery, přičemž 32 z nich nese vyryté symboly.",
+      "legenda": "Stély se dělí na tři typy: antropomorfní (lidské postavy), falické a neutrální tvary. Motivy zahrnují meče, rostlinné symboly, stojící lidskou postavu s rukama v bok a symboly ve tvaru T.",
+      "paranormalni": "Povrchové nálezy zahrnují nástroje ze střední doby kamenné, archeologové se dlouhodobě snaží rekonstruovat etnickou historii pomocí ústních tradic, které jsou ale v mnoha případech nedostupné nebo neinformativní.",
+      "skepticke": "Skutečnou identitu stavitelů megalitů nelze určit pouze na základě samotných kamenů - to je poctivé přiznání limitů archeologického bádání, ne důkaz nadpřirozeného původu. UNESCO přesto naleziště zapsalo na seznam světového dědictví už v roce 1980 pro jeho jedinečnou hodnotu v rámci etiopské megalitické tradice."
     },
-    "praktickeInfo": "Pred navstevou Tiya Stelae over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Naleziště je veřejně přístupné nedaleko vesnice Tija jižně od Addis Abeby.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Tiya Stelae",
-        "url": "https://en.wikipedia.org/wiki/Tiya_Stelae",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Tiya (archaeological site)",
+        "url": "https://en.wikipedia.org/wiki/Tiya_(archaeological_site)",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Tiya Stelae",
-        "url": "https://www.wikidata.org/w/index.php?search=Tiya%20Stelae",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Tiya",
+        "url": "https://www.wikidata.org/wiki/Q6130080",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Tiya%20Stelae%20Etiopie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Tiya%20Ethiopia",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Tiya Stelae pridava motivy archeologie, umrti a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Stavitelé bez jména",
+        "text": "Navzdory desetiletím výzkumu se archeologům nepodařilo spolehlivě určit, kteří konkrétní stavitelé stojí za 46 kamennými stélami z Tiji."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Meče vytesané do kamene",
+        "text": "Třicet dva stél nese vyryté symboly včetně mečů a rostlinných motivů, jejichž přesný obřadní význam zůstává předmětem archeologických spekulací."
       }
     ]
   },
