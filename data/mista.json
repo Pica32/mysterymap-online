@@ -41771,7 +41771,7 @@
     "nazev": "Cerro Tololo Observatory",
     "zeme": "Chile",
     "kontinent": "Jizni Amerika",
-    "lead": "Astronomicka observator v chilskych horach, kde poustni nebe prirozene patri do kosmicke mapy.",
+    "lead": "Observatoř, kde astronomové objevili supernovu v galaxii vzdálené 370 milionů světelných let - a mladou hvězdu obklopenou protoplanetárním diskem přezdívanou 'Hamburger'.",
     "gps": {
       "lat": -30.169,
       "lon": -70.806
@@ -41788,44 +41788,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cerro Tololo Observatory doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Astronomicka observator v chilskych horach, kde poustni nebe prirozene patri do kosmicke mapy. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Ve výšce 2207 metrů v chilském regionu Coquimbo stojí observatoř, jejíž umístění vybral německý astronom Jürgen Stock po systematickém průzkumu regionu specializovanými přístroji - jedno z nejlepších míst na jižní polokouli pro pozorování noční oblohy.",
+      "historie": "Stock dorazil do Santiaga roku 1959 a po průzkumu vybral horu Cerro Tololo roku 1962. Stavba začala roku 1963 se Stockem jako prvním ředitelem, pravidelná astronomická pozorování začala roku 1965.",
+      "legenda": "Observatoř provozuje NOIRLab pod Asociací univerzit pro astronomický výzkum (AURA) a hostí několik dalekohledů o průměru od 0,4 do 4,1 metru, podporujících výzkum od detekce exoplanet po studium Slunce.",
+      "paranormalni": "Mezi objevy observatoře patří šest asteroidů a supernova zachycená 7. prosince 2013 robotickým dalekohledem CATA 500 v galaxii ESO 365-G16, vzdálené 370 milionů světelných let. Roku 1985 astronomové objevili i takzvaný 'Gomezův hamburger' - mladou hvězdu obklopenou protoplanetárním diskem, jehož tvar připomíná právě tento pokrm.",
+      "skepticke": "Objevy jako 'Gomezův hamburger' mají neformální přezdívku odvozenou od vizuálního tvaru pozorovaného objektu, ne od jeho vědecké podstaty - jde o seriózně zdokumentovaný protoplanetární disk, jehož neobvyklý název jen usnadňuje komunikaci mezi vědci a veřejností."
     },
-    "praktickeInfo": "Pred navstevou Cerro Tololo Observatory over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Observatoř nabízí omezené veřejné prohlídky po předchozí rezervaci, leží asi 80 km východně od města La Serena.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Cerro Tololo Observatory",
-        "url": "https://en.wikipedia.org/wiki/Cerro_Tololo_Observatory",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Cerro Tololo Inter-American Observatory",
+        "url": "https://en.wikipedia.org/wiki/Cerro_Tololo_Inter-American_Observatory",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Cerro Tololo Observatory",
-        "url": "https://www.wikidata.org/w/index.php?search=Cerro%20Tololo%20Observatory",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Cerro Tololo Observatory",
+        "url": "https://www.wikidata.org/wiki/Q1056113",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Cerro%20Tololo%20Observatory%20Chile",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Cerro Tololo Observatory posiluje mene zastoupene regiony a motivy kosmicka-anomalie, ufo. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Supernova z 370 milionů světelných let",
+        "text": "Robotický dalekohled observatoře zachytil 7. prosince 2013 supernovu v galaxii vzdálené 370 milionů světelných let od Země."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Hvězda přezdívaná hamburger",
+        "text": "Objekt objevený roku 1985 - mladá hvězda obklopená protoplanetárním diskem - získal přezdívku 'Gomezův hamburger' podle svého charakteristického vizuálního tvaru."
       }
     ]
   },
@@ -42707,7 +42707,7 @@
     "nazev": "Tichitt",
     "zeme": "Mauritanie",
     "kontinent": "Afrika",
-    "lead": "Oazove mesto v Mauritanii, kde kamenne domy a Sahara drzi pamet obchodnich tras.",
+    "lead": "Nejstarší kamenná sídla subsaharské Afriky, kde zemědělci pěstovali proso už 2000 let před naším letopočtem - staletí předtím, než vzniklo Ghanské impérium.",
     "gps": {
       "lat": 18.45,
       "lon": -9.5
@@ -42724,44 +42724,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tichitt doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Oazove mesto v Mauritanii, kde kamenne domy a Sahara drzi pamet obchodnich tras. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "U paty náhorní plošiny Tagant v centrální Mauritánii leží vesnice, jejíž okolí ukrývá jeden z nejpozoruhodnějších archeologických komplexů celé západní Afriky - nejstarší dochovaná kamenná sídla jižně od Sahary.",
+      "historie": "Kolem roku 2000 př. n. l. založily zemědělsko-pastevecké komunity, známé jako kultura Tichitt, osady na pískovcových útesech Dhar Tichitt. Tato sídla pravděpodobně předcházela Ghanskému impériu a mohla je vybudovat protosoninkská populace. Osídlení bylo opuštěno kolem roku 500 př. n. l., pravděpodobně kvůli narůstajícímu suchu.",
+      "legenda": "Podle místní tradice bylo na tomto místě postaveno 'sedm měst jedno na druhém' - vrstvení osad odrážející tisíciletí nepřetržitého osídlení. Samotné město Tichit bylo založeno ve 12. století jako karavanní stanice na transsaharských obchodních trasách spojujících Oualátu a Chinguetti.",
+      "paranormalni": "Archeologické výzkumy odhalily stovky skalních maleb zobrazujících faunu a lovecké aktivity, spolu s důkazy pěstování prosa už od samého počátku osídlení - jeden z nejstarších dokladů zemědělství v širším regionu.",
+      "skepticke": "Označení sídel Dhar Tichitt za nejstarší kamenná sídla subsaharské Afriky je založeno na archeologickém datování, ne na tradiční legendě - katastrofální povodeň roku 1999 nicméně poškodila asi 80 % staveb moderní vesnice, což je reálná a dobře zdokumentovaná hrozba pro dědictví zapsané na seznam UNESCO od roku 1996."
     },
-    "praktickeInfo": "Pred navstevou Tichitt over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Vesnice je odlehlá a vyžaduje organizovaný transport terénním vozidlem, doporučuje se ověřit aktuální stav přístupových cest před cestou.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Tichitt",
+        "nazev": "Wikipedia: Tichit",
         "url": "https://en.wikipedia.org/wiki/Tichitt",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Tichitt",
-        "url": "https://www.wikidata.org/w/index.php?search=Tichitt",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Tichitt",
+        "url": "https://www.wikidata.org/wiki/Q985527",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Tichitt%20Mauritanie",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Tichitt%20Mauritania",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Tichitt posiluje mene zastoupene regiony a motivy ztracena-mesta, poust. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Sedm měst jedno na druhém",
+        "text": "Podle místní tradice bylo na místě dnešní vesnice postaveno sedm měst jedno na druhém - vrstvení odrážející tisíciletí nepřetržitého osídlení."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Proso staré čtyři tisíciletí",
+        "text": "Archeologické důkazy naznačují pěstování prosa v osadách Dhar Tichitt už od jejich založení kolem roku 2000 př. n. l., staletí před vznikem Ghanského impéria."
       }
     ]
   },
@@ -43721,7 +43721,7 @@
     "nazev": "Qalhat",
     "zeme": "Oman",
     "kontinent": "Asie",
-    "lead": "Ruiny pristavniho mesta v Omanu, kde obchod Indického oceanu zustal v tichych zdech.",
+    "lead": "Město, které obdivoval Marco Polo i Ibn Battúta - dokud ho nezničilo zemětřesení, jak nedávno prokázal geoarcheologický výzkum poruchy přímo pod městem.",
     "gps": {
       "lat": 22.695,
       "lon": 59.373
@@ -43738,44 +43738,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Qalhat doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Ruiny pristavniho mesta v Omanu, kde obchod Indického oceanu zustal v tichych zdech. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na pobřeží dnešního Ománu leží ruiny středověkého obchodního uzlu Indického oceánu, druhého města Hormuzského království - místa, které navštívili a obdivovali jedni z nejproslulejších cestovatelů historie.",
+      "historie": "Starověké město pokrývalo přes 60 akrů, obehnané opevněnými hradbami s domy a obchody uvnitř. Marco Polo město navštívil ve 13. století a nazval ho 'Calatu'. Ibn Battúta dorazil ve 14. století a chválil ho pro 'krásná tržiště a jednu z nejkrásnějších mešit'. Ve 15. století sem dorazil i čínský admirál Čeng Che, jehož posádka zaznamenala jméno města znaky 加剌哈.",
+      "legenda": "Vládkyně Bibi Marjam nechala postavit proslulou mešitu města se stěnami zdobenými keramikou kašání. Po smrti svého manžela Ajáze kolem let 1311-1312 vládla jak Qalhatu, tak Hormuzu. Její mauzoleum zůstává nejzachovalejší stavbou města, byť přišlo o svou kopuli.",
+      "paranormalni": "Nedávný geoarcheologický výzkum badatelů z Bonnské univerzity naznačuje, že seizmická aktivita podél zlomu Qalhat výrazně přispěla k opuštění středověkého města - fyzické vysvětlení zániku, které dlouho zůstávalo záhadou.",
+      "skepticke": "Zánik města byl dlouho připisován především portugalskému dobytí roku 1507 a přesunu obchodu do Muskatu - moderní geoarcheologický výzkum ale ukazuje, že zemětřesení podél místního zlomu hrálo v opuštění města významnější roli, než se dříve předpokládalo."
     },
-    "praktickeInfo": "Pred navstevou Qalhat over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště bylo zapsáno na seznam UNESCO roku 2018 a je veřejně přístupné s dobře udržovanou infrastrukturou pro návštěvníky.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Qalhat",
         "url": "https://en.wikipedia.org/wiki/Qalhat",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Qalhat",
-        "url": "https://www.wikidata.org/w/index.php?search=Qalhat",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Qalhat",
+        "url": "https://www.wikidata.org/wiki/Q680322",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Qalhat%20Oman",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Qalhat posiluje mene zastoupene regiony a motivy oceany, ztracena-mesta. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Město očima Marca Pola",
+        "text": "Marco Polo navštívil město ve 13. století a nazval ho 'Calatu' - jeden z prvních evropských popisů tohoto významného obchodního přístavu Indického oceánu."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Zemětřesení jako skutečný viník",
+        "text": "Nedávný geoarcheologický výzkum ukázal, že seizmická aktivita podél místního zlomu výrazně přispěla k zániku města - vysvětlení objevené teprve moderní vědou."
       }
     ]
   },
@@ -44009,7 +44009,7 @@
     "nazev": "Qalat al Bahrain",
     "zeme": "Bahrajn",
     "kontinent": "Asie",
-    "lead": "Archeologicka pevnost a vrstvy Dilmunu, kde obchodni pamet Perzskeho zalivu vystupuje z pisku.",
+    "lead": "Sedm archeologických vrstev na jednom pahorku - hlavní město civilizace Dilmun, kterou Epos o Gilgamešovi popisuje jako 'zemi nesmrtelnosti'.",
     "gps": {
       "lat": 26.233,
       "lon": 50.521
@@ -44026,44 +44026,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Qalat al Bahrain doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Archeologicka pevnost a vrstvy Dilmunu, kde obchodni pamet Perzskeho zalivu vystupuje z pisku.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na severním pobřeží Bahrajnu se zvedá 12metrový umělý pahorek o rozloze 17,5 hektaru, obývaný nepřetržitě po dobu zhruba 5000 let - jedno z nejstarších opevnění celého Perského zálivu.",
+      "historie": "Původní stavba vznikla kolem roku 2300 př. n. l., místo zůstalo osídlené až do 18. století. Dnešní portugalská pevnost pochází ze 6. století n. l. Archeologické vykopávky odhalily sedm vrstvených období osídlení od roku 2300 př. n. l. až po 16. století n. l.",
+      "legenda": "Místo sloužilo jako hlavní město civilizace Dilmun a obsahuje nejbohatší dochované pozůstatky této starověké kultury. Podle legendy zaznamenané v Eposu o Gilgamešovi byl Dilmun popisován jako 'země nesmrtelnosti', představující prapůvodní místo Sumerů a místo setkání božstev.",
+      "paranormalni": "Vykopávky od roku 1954 pod vedením Geoffreyho Bibbyho a pokračující dánskými a francouzskými expedicemi odhalily klínopisné tabulky, měděné artefakty, keramiku, pečetě a obchodní zboží spojující místo s Mezopotámií, Ománem a civilizací údolí Indu.",
+      "skepticke": "Popis Dilmunu jako 'země nesmrtelnosti' v Eposu o Gilgamešovi je literární mytologický motiv, ne historický zeměpisný popis - archeologické vrstvy samotné pevnosti jsou ale hmatatelným, systematicky zdokumentovaným důkazem reálné civilizace, jejíž obchodní síť sahala až k Mezopotámii a údolí Indu."
     },
-    "praktickeInfo": "Pred navstevou Qalat al Bahrain over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Naleziště je veřejně přístupné s přidruženým muzeem vystavujícím nálezy z vykopávek, UNESCO ho zapsalo na seznam světového dědictví roku 2005.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Qalat al Bahrain",
-        "url": "https://en.wikipedia.org/wiki/Qalat_al_Bahrain",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Qal'at al-Bahrain",
+        "url": "https://en.wikipedia.org/wiki/Qal%27at_al-Bahrain",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Qalat al Bahrain",
-        "url": "https://www.wikidata.org/w/index.php?search=Qalat%20al%20Bahrain",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Qal'at al-Bahrain",
+        "url": "https://www.wikidata.org/wiki/Q740104",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Qalat%20al%20Bahrain%20Bahrajn",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Qalat%20al-Bahrain",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Qalat al Bahrain pridava motivy archeologie, ztracena-mesta a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Země nesmrtelnosti z Gilgameše",
+        "text": "Epos o Gilgamešovi popisuje Dilmun, jehož hlavním městem byla tato pevnost, jako 'zemi nesmrtelnosti' a místo setkání božstev."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Sedm vrstev na jednom pahorku",
+        "text": "Archeologické vykopávky odhalily sedm po sobě jdoucích vrstev osídlení sahajících od roku 2300 př. n. l. až po 16. století n. l. na jediném místě."
       }
     ]
   },
@@ -55277,7 +55277,7 @@
     "nazev": "Pamukkale Travertines",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Bile travertinove terasy a termalni voda, kde geologie vytvari iluzi zmrzleho vodopadu.",
+    "lead": "Brána do podsvětí, kterou kněží vstupovali beztrestně - zatímco zvířata určená k obětem u vchodu okamžitě padala mrtvá k zemi.",
     "gps": {
       "lat": 37.913,
       "lon": 29.118
@@ -55298,40 +55298,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Pamukkale Travertines doplnuje desatou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Bile travertinove terasy a termalni voda, kde geologie vytvari iluzi zmrzleho vodopadu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: praveke stavby, podzemi, sopecna krajina, posvatna hora, zanikle mesto nebo neobvykly prirodni jev.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V tureckém Denizli se táhnou zářivě bílé terasy vytvořené horkými prameny - a přímo v srdci starověkého Hierapolisu ležela jeskyně považovaná za skutečnou bránu do podsvětí, kde toxický plyn zabíjel na místě.",
+      "historie": "Hierapolis vznikl jako termální lázně na počátku 2. století př. n. l. za seleukovské nadvlády. Do roku 62 př. n. l. zde žila židovská komunita čítající asi 50 000 lidí. Za římské éry město zasáhlo ničivé zemětřesení roku 17 n. l. Později zde poslední léta svého života strávil apoštol Filip, na jehož počest bylo vybudováno martyrium na místě jeho údajného ukřižování roku 80 n. l.",
+      "legenda": "Ploutonion, svatyně zasvěcená bohu podsvětí Plutovi, sestávala z malé jeskyně sotva dost velké pro jednoho člověka, odkud unikal smrtící oxid uhličitý. Podle starověkých pramenů jako Strabón, Cassius Dio a Damaskios sestupovali do toxické komory kastrovaní kněží bohyně Kybelé zvaní Galli a údajně vycházeli nezraněni, což mělo dokazovat božskou ochranu. Chrám prodával návštěvníkům zvířata, aby na vlastní oči viděli, jak plyn zabíjí tvory, než se sami odvážili zeptat na věštbu Pluta - výnosný obchodní model postavený na demonstraci údajné imunity kněží.",
+      "paranormalni": "Sedmnáct horkých pramenů o teplotě 35 až 100 °C nese vápník rozpuštěný ve vodě 320 metrů po svahu, kde se z ní uvolňuje oxid uhličitý a ukládá se uhličitan vápenatý, který postupně krystalizuje do dnes viditelných travertinových útvarů.",
+      "skepticke": "Moderní věda odhaluje skutečné vysvětlení jevu: oxid uhličitý, těžší než vzduch, se hromadí v nízko položených místech. Kněží pravděpodobně přežívali plazením po podlaze ke kapsám kyslíku nebo zadržováním dechu, ne díky nadpřirozené ochraně - před vchodem stála ohrazená plocha o rozloze asi 2000 čtverečních metrů, zcela smrtící pro kohokoli, kdo by do ní vstoupil bez znalosti triku. Raní křesťané vchod ve 4. století zazdili a teprve nedávno byl znovu vykopán."
     },
-    "praktickeInfo": "Pred navstevou Pamukkale Travertines over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Návštěvníci mohou chodit bosí po vlhkých travertinových terasách, doporučuje se navštívit i přidružené ruiny Hierapolisu včetně Ploutonionu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Pamukkale Travertines",
-        "url": "https://en.wikipedia.org/wiki/Pamukkale_Travertines",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Pamukkale",
+        "url": "https://en.wikipedia.org/wiki/Pamukkale",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Pamukkale Travertines",
-        "url": "https://www.wikidata.org/w/index.php?search=Pamukkale%20Travertines",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikipedia: Hierapolis",
+        "url": "https://en.wikipedia.org/wiki/Hierapolis",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Pamukkale%20Travertines%20Turecko",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Pamukkale%20Turkey",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Pamukkale Travertines pridava motivy prirodni-anomalie, ritual a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Kněží, kteří přežili bránu pekla",
+        "text": "Kastrovaní kněží bohyně Kybelé údajně sestupovali do toxické jeskyně Ploutonionu a vycházeli nezraněni, zatímco obětovaná zvířata u vchodu okamžitě padala mrtvá."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Vědecké vysvětlení starověkého zázraku",
+        "text": "Moderní věda odhalila, že kněží přežívali díky fyzikálním vlastnostem oxidu uhličitého - plazením ke kapsám kyslíku nebo zadržováním dechu, ne díky božské ochraně."
       }
     ]
   },
