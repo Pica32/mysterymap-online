@@ -33646,7 +33646,7 @@
     "nazev": "Paharpur",
     "zeme": "Banglades",
     "kontinent": "Asie",
-    "lead": "Ruiny buddhistickeho klastera Somapura Mahavihara, velky plan ztraceneho uceneho centra.",
+    "lead": "Největší univerzita starověké Indie, kde tibetští mniši studovali po čtyři staletí - a jejíž architektura ovlivnila chrámy od Barmy po Kambodžu.",
     "gps": {
       "lat": 25.031,
       "lon": 88.977
@@ -33663,44 +33663,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Paharpur doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Ruiny buddhistickeho klastera Somapura Mahavihara, velky plan ztraceneho uceneho centra. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V bangladéšském Naogaonu leží čtyřúhelníkový komplex o rozloze 11 hektarů se 177 klášterními celami kolem centrální stúpy - Sómapúra Mahávihára, jedna z pěti velkých mahávihár starověké Indie a snad největší buddhistická univerzita svého věku jižně od Himalájí.",
+      "historie": "Klášter vznikl za dynastie Pálů, vykopávky s pečetěmi ho spojují s králem Dharmapálou (asi 781-821 n. l.), druhým vládcem dynastie. Tibetské historické prameny ale naznačují, že stavbu mohl dokončit jeho nástupce Dévapála (asi 810-850 n. l.) po dobytí Varéndry. Klášter prošel opravami za vlády Mahipály (asi 995-1043 n. l.).",
+      "legenda": "Mezi 9. a 12. stoletím zde studovali proslulí učenci jako Atíša a Ratnákarašánti a klášter navštěvovali mniši z Tibetu. Sómapúra patřila mezi pět velkých mahávihár starověké Indie vedle Vikramašíly, Nálandy, Ódantapury a Džagaddaly a fungovala jako největší univerzita starověké Indie, podporující zároveň hinduistické a džinistické učence.",
+      "paranormalni": "Architektonický styl komplexu hluboce ovlivnil stavbu chrámů v jihovýchodní Asii, zejména v Barmě, na Jávě a v Kambodži - odkaz sahající daleko za hranice bengálského regionu, kde klášter stál.",
+      "skepticke": "Úpadek kláštera za dynastie Sénů ve 12. století byl pravděpodobně způsoben rozsáhlým společenským rozvratem, ne náhlým násilným zničením - archeologické důkazy naznačují postupný úpadek spíše než jedinou katastrofickou událost. UNESCO zapsalo naleziště na seznam světového dědictví roku 1985."
     },
-    "praktickeInfo": "Pred navstevou Paharpur over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště je veřejně přístupné s přidruženým muzeem vystavujícím nálezy z vykopávek.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Paharpur",
-        "url": "https://en.wikipedia.org/wiki/Paharpur",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Somapura Mahavihara",
+        "url": "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Paharpur",
-        "url": "https://www.wikidata.org/w/index.php?search=Paharpur",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Somapura Mahavihara",
+        "url": "https://www.wikidata.org/wiki/Q305044",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Paharpur%20Banglades",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Paharpur%20Bangladesh",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Paharpur posiluje mapu v motivech ritual, ztracena-mesta a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Univerzita, kam putovali tibetští mniši",
+        "text": "Mezi 9. a 12. stoletím sem putovali mniši z Tibetu studovat u proslulých učenců jako Atíša - výměna, která propojila bengálský klášter s himalájským buddhismem."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Vliv sahající do jihovýchodní Asie",
+        "text": "Architektonický styl kláštera hluboce ovlivnil stavbu buddhistických chrámů v Barmě, na Jávě a v Kambodži, daleko za hranicemi Bengálska."
       }
     ]
   },
@@ -35086,7 +35086,7 @@
     "nazev": "Petroglyphs of Cholpon-Ata",
     "zeme": "Kyrgyzstan",
     "kontinent": "Asie",
-    "lead": "Kamenne pole petroglyfu u Issyk Kulu, kde zvireci motivy vytvareji stepni galerii.",
+    "lead": "Dva tisíce rytin v balvanech pod horami - zobrazujících lovecké scény se zvířaty, která dnes v regionu buď vyhynula, nebo jsou vzácná.",
     "gps": {
       "lat": 42.65,
       "lon": 77.09
@@ -35103,44 +35103,39 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Petroglyphs of Cholpon-Ata doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Kamenne pole petroglyfu u Issyk Kulu, kde zvireci motivy vytvareji stepni galerii. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Na severním pobřeží jezera Issyk-Kul leží svah posetý balvany s téměř 2000 vyrytými obrazci - muzeum v přírodě zachycující tisíciletí lovecké a duchovní tradice kyrgyzských horských kmenů.",
+      "historie": "Petroglyfy se datují od roku 800 př. n. l. do roku 1200 n. l., což z nich činí svědectví o kontinuální lidské přítomnosti v regionu napříč více než dvěma tisíciletími.",
+      "legenda": "Jméno města Cholpon-Ata se překládá jako 'Otec Venuše', odkazující na mytologický význam planety pro místní kosmologii.",
+      "paranormalni": "Mezi vyrytými scénami dominují lovecké výjevy zobrazující zvířata, která jsou dnes v regionu buď vyhynulá, nebo vzácná - rytiny tak nedokumentují jen lovecké techniky, ale i proměnu místní fauny za poslední dva tisíce let.",
+      "skepticke": "Datování petroglyfů do rozmezí 800 př. n. l. až 1200 n. l. je založeno na stylistické analýze a archeologickém kontextu, ne na přesném jednotném určení stáří každé jednotlivé rytiny - přesto zobrazení vyhynulé nebo vzácné fauny poskytuje nezávislý ekologický důkaz podporující starobylost přinejmenším části obrazců."
     },
-    "praktickeInfo": "Pred navstevou Petroglyphs of Cholpon-Ata over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště funguje jako muzeum v přírodě s volným přístupem, doporučuje se navštívit s místním průvodcem pro identifikaci nejvýznamnějších obrazců.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Petroglyphs of Cholpon-Ata",
-        "url": "https://en.wikipedia.org/wiki/Petroglyphs_of_Cholpon-Ata",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Cholpon-Ata",
+        "url": "https://en.wikipedia.org/wiki/Cholpon-Ata",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Petroglyphs of Cholpon-Ata",
-        "url": "https://www.wikidata.org/w/index.php?search=Petroglyphs%20of%20Cholpon-Ata",
-        "licence": "CC0 / entity discovery"
-      },
-      {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Petroglyphs%20of%20Cholpon-Ata%20Kyrgyzstan",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Cholpon-Ata%20petroglyphs%20Kyrgyzstan",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Petroglyphs of Cholpon-Ata posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Zvířata, která už nejsou",
+        "text": "Rytiny zachycují lovecké scény se zvířaty, která v regionu dnes buď vyhynula, nebo jsou vzácná - nedokumentovaný záznam proměny místní přírody za dva tisíce let."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Otec planety Venuše",
+        "text": "Jméno města Cholpon-Ata se překládá jako 'Otec Venuše', odkazující na mytologický a kosmologický význam, který planeta měla pro místní obyvatele."
       }
     ]
   },
@@ -36474,7 +36469,7 @@
     "nazev": "Beit She'an",
     "zeme": "Izrael",
     "kontinent": "Asie",
-    "lead": "Anticke mesto poskozene zemetresenimi, kde sloupy a divadlo zustaly jako kamenny otisk katastrofy.",
+    "lead": "Osmnáct vrstev civilizací na jednom pahorku - od egyptské posádky přes biblické vyvěšení Saulova těla na hradbách až po zkázu jedním jediným zemětřesením roku 749.",
     "gps": {
       "lat": 32.5,
       "lon": 35.5
@@ -36491,44 +36486,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Beit She'an doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Anticke mesto poskozene zemetresenimi, kde sloupy a divadlo zustaly jako kamenny otisk katastrofy. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V izraelském údolí Jordánu leží pahorek s osmnácti po sobě jdoucími vrstvami starověkých měst - místo, kde se egyptská správa, kanaánské osídlení, řecko-římská Scythopolis a byzantské křesťanství vystřídaly na jediném místě napříč tisíciletími.",
+      "historie": "Za Nové říše se Bet Šean stal po dobytí faraonem Thutmosem III. v 15. století př. n. l. hlavním egyptským správním centrem regionu - archeologické nálezy zahrnují chrámy, stély Setiho I. a Ramesse II. a doklady egyptské posádky až do 20. dynastie. Kanaánské osídlení pokračovalo nepřetržitě od střední doby bronzové (asi 1820-1550 př. n. l.). V helénistické éře přijalo město řecké jméno Scythopolis ('město Skythů') a za římské nadvlády se stalo předním městem Dekapole s divadlem, hipodromem a akvadukty. Za byzantské éry dosáhlo města velikosti 40 000 obyvatel v 6. století.",
+      "legenda": "Podle biblické tradice vítězní Filištíni po bitvě na hoře Gilboa 'pověsili tělo krále Saula na hradby Bet Šeanu' spolu s těly tří jeho synů - žádné archeologické důkazy filištínské přítomnosti na místě ale nebyly nalezeny.",
+      "paranormalni": "18. ledna 749 n. l. zdevastovalo umajjovský Bajsán katastrofální zemětřesení, které natrvalo snížilo význam a prosperitu města - katastrofa, jež ukončila staletí kontinuálního růstu.",
+      "skepticke": "Absence archeologických důkazů filištínské přítomnosti navzdory biblickému vyprávění o Saulovi je významná diskrepance mezi textem a archeologií, ne důkaz, že se událost nestala - takové nesrovnalosti jsou běžné u starověkých textů popisujících události o staletí starší, než byly sepsány. Zemětřesení roku 749 je naproti tomu geologicky a archeologicky nesporně doloženo."
     },
-    "praktickeInfo": "Pred navstevou Beit She'an over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Národní park nabízí rozsáhlé římské divadlo, byzantské mozaiky a dobře udržovanou infrastrukturu pro návštěvníky.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Beit She'an",
-        "url": "https://en.wikipedia.org/wiki/Beit_She'an",
-        "licence": "CC BY-SA / reference discovery"
+        "url": "https://en.wikipedia.org/wiki/Beit_She%27an",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Beit She'an",
-        "url": "https://www.wikidata.org/w/index.php?search=Beit%20She'an",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Beit She'an",
+        "url": "https://www.wikidata.org/wiki/Q152368",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Beit%20She'an%20Izrael",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Beit%20She%27an%20Israel",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Beit She'an posiluje mapu v motivech katastrofa, ztracena-mesta a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Saulovo tělo na hradbách",
+        "text": "Podle biblické tradice pověsili vítězní Filištíni tělo krále Saula na hradby Bet Šeanu po jeho porážce na hoře Gilboa, přestože archeologie po nich žádné stopy nenašla."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Zemětřesení, které ukončilo zlatý věk",
+        "text": "Katastrofální zemětřesení 18. ledna 749 n. l. natrvalo snížilo význam kdysi vzkvétajícího města, jehož populace v 6. století dosahovala 40 000 obyvatel."
       }
     ]
   },
@@ -40542,7 +40537,7 @@
     "nazev": "Brimstone Hill Fortress",
     "zeme": "Svaty Krystof a Nevis",
     "kontinent": "Severni Amerika",
-    "lead": "Karibska pevnost na sopecnem kopci, kde kolonialni vojenska architektura dominuje oceanu.",
+    "lead": "'Gibraltar Karibiku', postavený otrockou prací afrických zajatců - francouzská armáda ho dobyla jednou, po roce 1783 už nikdy víc.",
     "gps": {
       "lat": 17.346,
       "lon": -62.837
@@ -40559,44 +40554,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Brimstone Hill Fortress doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Karibska pevnost na sopecnem kopci, kde kolonialni vojenska architektura dominuje oceanu. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Na západním pobřeží ostrova Svatý Kryštof stojí na strmém kopci vysokém 972 stop pevnost, kterou navrhli britští vojenští inženýři, ale postavili a udržovali zotročení Afričané - stavba, jež si vysloužila přezdívku 'Gibraltar Karibiku'.",
+      "historie": "Do roku 1780 pevnost získala pověst nedobytnosti díky svým 24librovým dělům a celkem 49 nasazeným zbraním do roku 1736.",
+      "legenda": "Nejvýznamnějším obléháním bylo to z roku 1782, kdy francouzský admirál François Joseph Paul de Grasse a markýz de Bouillé zahájili obléhání 11. ledna 1782. Po měsíci obléhání se početně výrazně slabší britská posádka vzdala. Pařížská smlouva z roku 1783 ale pevnost vrátila pod britskou kontrolu a od té doby 'nikdy znovu nepadla do rukou nepřítele' - francouzský pokus o dobytí roku 1806 selhal.",
+      "paranormalni": "Pevnost byla opuštěna roku 1853, obnovovací práce začaly na počátku 20. století. Princ Charles znovu otevřel baštu Prince Waleského roku 1973, královna Alžběta II. vyhlásila místo národním parkem roku 1985.",
+      "skepticke": "Tvrzení, že pevnost 'nikdy znovu nepadla do rukou nepřítele' po roce 1783, je historicky přesné navzdory jednomu úspěšnému francouzskému obležení roku 1782 - rozdíl je v tom, že diplomatické vyjednávání (Pařížská smlouva), ne vojenská porážka, vrátilo pevnost zpět Britům, takže vojenská 'nedobytnost' po roce 1783 zůstává technicky pravdivá."
     },
-    "praktickeInfo": "Pred navstevou Brimstone Hill Fortress over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Pevnost je zapsána na seznamu UNESCO od roku 1999 a nabízí rozsáhlé prohlídky s výhledem na okolní Karibské moře.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Brimstone Hill Fortress",
         "url": "https://en.wikipedia.org/wiki/Brimstone_Hill_Fortress",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Brimstone Hill Fortress",
-        "url": "https://www.wikidata.org/w/index.php?search=Brimstone%20Hill%20Fortress",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Brimstone Hill Fortress",
+        "url": "https://www.wikidata.org/wiki/Q200521",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Brimstone%20Hill%20Fortress%20Svaty%20Krystof%20a%20Nevis",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Brimstone%20Hill%20Fortress%20Saint%20Kitts",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Brimstone Hill Fortress posiluje mene zastoupene regiony a motivy hrad, valka. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Postavena otrockou prací",
+        "text": "Pevnost navrhli britští vojenští inženýři, ale fyzicky ji postavili a udržovali zotročení Afričané - realita skrytá za honosnou přezdívkou 'Gibraltar Karibiku'."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Jediné obléhání, které nakonec nevyhrálo",
+        "text": "Francouzi pevnost dobyli obležením roku 1782, ale Pařížská smlouva z roku 1783 ji vrátila zpět Britům, po čemž už nikdy nepadla do rukou nepřítele vojenskou silou."
       }
     ]
   },
@@ -41123,7 +41118,7 @@
     "nazev": "Tipon",
     "zeme": "Peru",
     "kontinent": "Jizni Amerika",
-    "lead": "Incky vodni system a terasy, misto, kde technika vody vypada jako posvatna geometrie.",
+    "lead": "Incká vodní inženýrská soustava srovnatelná s Machu Picchu - kde monumentální fontána dodnes rozvádí vodu do systému kamenných kanálů starých přes 500 let.",
     "gps": {
       "lat": -13.57,
       "lon": -71.79
@@ -41140,44 +41135,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tipon doplnuje dalsi cast svetove MysteryMap jako overitelne misto s GPS a silnym motivem: Incky vodni system a terasy, misto, kde technika vody vypada jako posvatna geometrie. Text je vlastni redakcni seed pripraveny k dalsimu prohloubeni.",
-      "historie": "Historicka cast drzi zakladni identitu mista, geografii a dohledatelny kontext. Pri velkem objemu je hlavni mit stabilni URL, zdroje, souradnice a jasnou kategorizaci.",
-      "legenda": "Legendova vrstva ukazuje, proc misto zije v pameti: posvatna krajina, ztracene mesto, opustena osada, katastrofa, podivna geologie, filmovy obraz nebo lokalni folklor.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako kulturni vrstva, ne jako dokaz. Muze jit o zjeveni, svetla, prokleti, zmizeni, ritualni auru, zakazane zony nebo silny psychologicky efekt mista.",
-      "skepticke": "Skepticky ramec oddeluje zdroje, prirodni vysvetleni, archeologii, historii, optiku, media a turistickou interpretaci. To drzi katalog pouzitelny pro SEO, GEO i LLM vyhledavani."
+      "zahada": "Nedaleko Cusca leží komplex nepřetržitě osídlený od roku 1000 př. n. l. až po dobu inckou - naleziště proslulé propracovaným vodohospodářským systémem srovnatelným svou sofistikovaností s proslulým Machu Picchu.",
+      "historie": "Před příchodem Inků místo, tehdy nazývané Muyna nebo Moyna, obývaly postupně kultury Marcavalle, Chanapata, Qotakalli, Huari a Killke a sloužilo jako důležité sídlo předinckého kmene Pinaguů. Pinaguové byli pravděpodobně podrobeni Pačakutekem v 15. století. Historické záznamy naznačují, že místo mohl jako rezidenci nechat postavit Viracocha Inka, byť se interpretace liší.",
+      "legenda": "Etymologie jména zůstává nejistá - možná odvozená z výrazu 'timpuee' (místo varu), odkazujícího na soustředěnou aktivitu. Prvek zvaný Intiwatana znamená 'místo, kde je uvázáno slunce' a představoval solární observatoř pro určování zemědělského kalendáře.",
+      "paranormalni": "Monumentální fontána svádí vodu z přirozeného pramene do sítě kanálů zásobujících terasy i obydlí. Inženýři použili kamenem obložené kanály, vertikální odtoky a zachytávací systémy pramenité vody - důkaz vyspělých hydraulických znalostí. Asi 100 hektarů teras (andénes) pokrývá park, přičemž 13 monumentálních teras v roklině má zdi ve tvaru písmene U s výškou 1 až 5 metrů.",
+      "skepticke": "Přesná role Viracochy Inky jako stavitele zůstává předmětem badatelské interpretace založené na historických záznamech, ne jednoznačně prokázaným faktem - hydraulická sofistikovanost samotného systému kanálů a fontán je ale hmatatelně doložena a obdivována jako jeden z nejpropracovanějších inckých vodních systémů vůbec."
     },
-    "praktickeInfo": "Pred navstevou Tipon over aktualni pristup, povoleni, mistni pravidla, ochranu pamatky a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště leží v Posvátném údolí Inků a je veřejně přístupné s placeným vstupem, doporučuje se kombinovat s návštěvou Pisacu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Tipon",
-        "url": "https://en.wikipedia.org/wiki/Tipon",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Tipón",
+        "url": "https://en.wikipedia.org/wiki/Tip%C3%B3n",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Tipon",
-        "url": "https://www.wikidata.org/w/index.php?search=Tipon",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Tipón",
+        "url": "https://www.wikidata.org/wiki/Q2003624",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Tipon%20Peru",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v sedme vlne",
-        "text": "Tipon posiluje mene zastoupene regiony a motivy ritual, prirodni-anomalie. Dava webu dalsi samostatnou URL pro mapu, sitemap, vyhledavani a tematicke prolinkovani."
+        "nazev": "Fontána stará přes 500 let, funkční dodnes",
+        "text": "Monumentální incká fontána stále rozvádí vodu z přirozeného pramene do sítě kamenných kanálů, které zásobují terasy i obydlí přesně podle původního návrhu."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Dalsi redakcni prace ma doplnit lokalni zdroje, fotografie s licenci, presne navstevnicke informace, puvodni nazvy a kvalitnejsi preklady."
+        "nazev": "Místo, kde je uvázáno slunce",
+        "text": "Prvek Intiwatana, jehož jméno znamená 'místo, kde je uvázáno slunce', sloužil jako solární observatoř pro určování zemědělského kalendáře Inků."
       }
     ]
   },
