@@ -32556,7 +32556,7 @@
     "nazev": "Swayambhunath",
     "zeme": "Nepal",
     "kontinent": "Asie",
-    "lead": "Stupa na kopci nad Kathmandu, kde symbol oci a opice vytvareji snadno rozpoznatelny posvatny obraz.",
+    "lead": "Chrám na kopci, který podle legendy vznikl na místě jezera vysušeného mečem bódhisattvy Maňdžušího - dnes hlídaný toulavými rodinami opic.",
     "gps": {
       "lat": 27.7149,
       "lon": 85.29
@@ -32577,40 +32577,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Swayambhunath doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Stupa na kopci nad Kathmandu, kde symbol oci a opice vytvareji snadno rozpoznatelny posvatny obraz. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Nad údolím Káthmándú se zvedá kopec s buddhistickou stúpou, přezdívaný 'opičí chrám' podle rodin toulavých opic, které ho obývají - jeho oči na všechny čtyři světové strany patří mezi nejrozpoznatelnější symboly Nepálu.",
+      "historie": "Místo navštívil ve 3. století př. n. l. císař Ašóka se svou rodinou, která zde nechala postavit chrámy. Vládci dynastie Ličhaviů stavby rozšířili, středověké renovace proběhly pod vedením postav jako Šáriputra v 15. století a Cangnjön Heruka roku 1504. Král Pratap Malla postavil východní schodiště v 17. století. Zemětřesení v Nepálu roku 2015 komplex poškodilo, velká renovace s použitím 20 kg zlata byla dokončena roku 2010.",
+      "legenda": "Podle Svajambhu Purány bylo údolí Káthmándú kdysi jezerem, do něhož Buddha Vipassí zasadil semínko lotosu, jenž vyrostl v tisícilistý květ vyzařující věčné zářivé světlo s Pěti velkými Buddhy zjevujícími se na paprscích různých barev. Buddha Maňdžuší později vysušil jezero, když mečem prosekl hory, čímž umožnil lidem dosáhnout a uctívat toto samovzniklé světlo.",
+      "paranormalni": "Stúpa má polokulovitou kopuli s krychlovou strukturou nahoře, pomalovanou 'Buddhovýma očima' hledícíma na všechny čtyři světové strany. Pozlacené bronzové prstence představují třináct stupňů před dosažením nirvány.",
+      "skepticke": "Legenda o vysušení jezera Maňdžušího mečem je tradiční buddhistický mýtus o stvoření, ne geologický popis - geologicky je ovšem prokázáno, že údolí Káthmándú bylo skutečně kdysi jezerem, což dodává legendě zajímavý, byť nezáměrný, symbolický odraz reálné geologické historie regionu."
     },
-    "praktickeInfo": "Pred navstevou Swayambhunath over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Vrchol je přístupný po 365 schodech nebo po přístupové silnici, doporučuje se dávat pozor na osobní věci kvůli přítomnosti opic.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Swayambhunath",
         "url": "https://en.wikipedia.org/wiki/Swayambhunath",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Swayambhunath",
-        "url": "https://www.wikidata.org/w/index.php?search=Swayambhunath",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Swayambhunath",
+        "url": "https://www.wikidata.org/wiki/Q12946982",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Swayambhunath%20Nepal",
-        "licence": "ODbL / map verification"
+        "nazev": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Swayambhunath%20Kathmandu",
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Swayambhunath posiluje mapu v motivech ritual, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Jezero vysušené mečem",
+        "text": "Podle legendy bódhisattva Maňdžuší vysušil jezero v údolí Káthmándú prosekáním hor mečem, aby lidé mohli dosáhnout samovzniklého světla lotosového květu."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Chrám hlídaný opicemi",
+        "text": "Kopec obývají rodiny toulavých opic, díky nimž si stúpa vysloužila přezdívku 'opičí chrám' mezi návštěvníky z celého světa."
       }
     ]
   },
@@ -34438,7 +34438,7 @@
     "nazev": "Derawar Fort",
     "zeme": "Pakistan",
     "kontinent": "Asie",
-    "lead": "Pousti pevnost v Cholistan, jejiz valcove bastiony pusobi jako geometricka mira v prazdne krajine.",
+    "lead": "Čtyřicet kruhových bašt vysokých 30 metrů, viditelných z pouště na míle daleko - pevnost, kterou lze spatřit dřív, než k ní člověk vůbec dorazí.",
     "gps": {
       "lat": 28.768,
       "lon": 71.334
@@ -34455,44 +34455,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Derawar Fort doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Pousti pevnost v Cholistan, jejiz valcove bastiony pusobi jako geometricka mira v prazdne krajine. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V poušti Čolistán stojí impozantní čtvercová cihlová pevnost, jejíchž čtyřicet kruhových bašt - deset na každé straně - je vidět z okolní pouště na míle daleko, dávno předtím, než k ní poutník dorazí.",
+      "historie": "Pevnost původně postavil roku 858 n. l. hinduistický rádžputský vládce Rai Jadždža Bhátí z klanu Bhátí. Zpočátku byla známa jako 'Dera Rawal', později 'Dera Rawar', z čehož se postupem času vyvinulo dnešní jméno Derawar. V 18. století převzali kontrolu muslimští nawábové z bahávalpurského kmene Šahotra, velkou renovaci provedl roku 1732 nawáb Sádik Muhammad Chán Abbásí. Později pevnost obsadili Britové a využívali ji jako vězení.",
+      "legenda": "Archeologické důkazy naznačují, že poušť Čolistán kdysi hostila osady civilizace údolí Indu. Pevnost sloužila jako klíčový bod na obchodních trasách střední Asie směřujících na indický subkontinent a fungovala i jako poutní zastávka na cestě do Mekky.",
+      "paranormalni": "Hradby o obvodu 1500 metrů dosahují výšky až 30 metrů, každá ze čtyřiceti bašt nese propracované cihlové vzory. Pod pevností se táhne podzemní chodba se sofistikovaným pasivním větracím systémem spolu s podzemními ubikacemi.",
+      "skepticke": "Spojení s civilizací údolí Indu je založeno na archeologických nálezech v širším regionu pouště Čolistán, ne přímo pod samotnou pevností - historie stavby samotné od roku 858 n. l. přes rádžputské, muslimské i britské období je ale dobře doložena písemnými prameny a stavebními fázemi."
     },
-    "praktickeInfo": "Pred navstevou Derawar Fort over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Pevnost leží asi 20 km jižně od Ahmadpur East a je veřejně přístupná, doporučuje se navštívit i nedaleké královské hrobky Abbásíovců.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
         "nazev": "Wikipedia: Derawar Fort",
         "url": "https://en.wikipedia.org/wiki/Derawar_Fort",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Derawar Fort",
-        "url": "https://www.wikidata.org/w/index.php?search=Derawar%20Fort",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Derawar Fort",
+        "url": "https://www.wikidata.org/wiki/Q2474542",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Derawar%20Fort%20Pakistan",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Derawar Fort posiluje mapu v motivech hrad, poust a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Vidět na míle daleko",
+        "text": "Čtyřicet kruhových bašt vysokých 30 metrů je vidět z okolní pouště Čolistán na míle daleko, dávno předtím, než poutník k pevnosti vůbec dorazí."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Vězení uprostřed pouště",
+        "text": "Britové později využívali pevnost jako vězeňské zařízení, čímž přidali další kapitolu k tisícileté historii stavby postavené rádžputským vládcem."
       }
     ]
   },
@@ -34510,7 +34510,7 @@
     "nazev": "Shakhrisabz",
     "zeme": "Uzbekistan",
     "kontinent": "Asie",
-    "lead": "Rodne mesto Timura s monumentalnimi ruinami, kde imperiální ambice zustala jako rozbita architektura.",
+    "lead": "Rodiště Tamerlána, který chtěl město udělat svým věčným odpočinkem - osud ho nakonec zavedl do hrobky v Samarkandu místo.",
     "gps": {
       "lat": 39.0578,
       "lon": 66.8342
@@ -34531,40 +34531,40 @@
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Shakhrisabz doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Rodne mesto Timura s monumentalnimi ruinami, kde imperiální ambice zustala jako rozbita architektura. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V Uzbekistánu leží jedno z nejstarších měst střední Asie, založené před více než 2700 lety pod jménem Keš neboli Kiš ('potěšení srdce') - rodiště jednoho z nejobávanějších dobyvatelů dějin.",
+      "historie": "Město bylo součástí Achaimenovské říše a zůstalo významným městským centrem Sogdiany napříč tureckým, arabským i karachanidským obdobím. Právě zde se mezi koncem 20. a rokem 1336 narodil Timur (Tamerlán), syn náčelníka konfederace Barlasů.",
+      "legenda": "Timur považoval Keš za svoje 'rodné město' a plánoval, že se právě zde nakonec stane místem jeho hrobky - nakonec byl ale pohřben v Samarkandu. Nejgrandióznější z jeho staveb, palác Ak-Saraj, začal vznikat roku 1380. Dodnes se dochovaly jen části jeho obřích 65metrových vstupních věží zdobených modrými, bílými a zlatými mozaikami, nesoucími nápis: 'Pokud zpochybňuješ naši moc - podívej se na naše stavby!'",
+      "paranormalni": "Nápis na bráně Ak-Saraje představuje jeden z nejvýmluvnějších dokladů imperiální sebeprezentace ve středověké architektuře - přímou výzvu adresovanou budoucím generacím, aby posoudily moc vládce podle velikosti jeho staveb.",
+      "skepticke": "Zničení rozsáhlých částí středověké městské zástavby roku 2015 kvůli vybudování parku a turistické infrastruktury je dobře zdokumentovaný, ne přehnaně líčený problém - vyvolalo to vážné obavy UNESCO o možné vyřazení historického centra ze seznamu světového dědictví, kam bylo zapsáno roku 2000."
     },
-    "praktickeInfo": "Pred navstevou Shakhrisabz over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Město je snadno dostupné ze Samarkandu, hlavní atrakcí jsou zbytky vstupních věží paláce Ak-Saraj a mauzoleum Dorut Tilavat.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Shakhrisabz",
+        "nazev": "Wikipedia: Shahrisabz",
         "url": "https://en.wikipedia.org/wiki/Shakhrisabz",
-        "licence": "CC BY-SA / reference discovery"
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Shakhrisabz",
-        "url": "https://www.wikidata.org/w/index.php?search=Shakhrisabz",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Shahrisabz",
+        "url": "https://www.wikidata.org/wiki/Q569766",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Shakhrisabz%20Uzbekistan",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Shakhrisabz posiluje mapu v motivech ztracena-mesta, tajne-spolecnosti a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Hrobka, která nikdy nebyla použita",
+        "text": "Timur plánoval udělat ze svého rodného města místo svého věčného odpočinku, nakonec byl ale pohřben v Samarkandu."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Nápis vyzývající k obdivu moci",
+        "text": "Vstupní brána paláce Ak-Saraj nese nápis vyzývající každého pochybovače, aby posoudil vládcovu moc podle velikosti jeho staveb."
       }
     ]
   },
@@ -34654,7 +34654,7 @@
     "nazev": "Bukhara Ark",
     "zeme": "Uzbekistan",
     "kontinent": "Asie",
-    "lead": "Citadela v Buchare, kde moc emiratu a vrstvy vezneni tvori tvrdy historicky profil.",
+    "lead": "Pevnost, kterou dobyl sám Čingischán - a odkud později emír nechal popravit dva britské důstojníky obviněné ze špionáže.",
     "gps": {
       "lat": 39.777,
       "lon": 64.411
@@ -34671,44 +34671,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.9,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bukhara Ark doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Citadela v Buchare, kde moc emiratu a vrstvy vezneni tvori tvrdy historicky profil. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "V srdci starobylé Buchary stojí pevnost datovaná do 5. století n. l., jejíž dnešní podoba se formovala v 16. století za dynastie Šajbánovců - sídlo vládců i vojenská bašta, která sloužila až do sovětské éry.",
+      "historie": "Pevnost padla vojskům Čingischána, jenž nechal obránce rozdrtit a pevnost vyplenit. Sloužila jako vojenská pevnost a královské sídlo až do roku 1920, kdy padla ruským silám. Během ruské občanské války roku 1920 Rudá armáda pod velením Michaila Frunzeho pevnost těžce poškodila leteckým bombardováním - poslední emír možná nařídil demolici, aby zabránil bolševické okupaci posvátných prostor.",
+      "legenda": "V areálu poblíž Arku se nacházel proslulý vězeňský 'zindán', kde byli roku 1842 na příkaz emíra Nasrulláha popraveni britští důstojníci Charles Stoddart a Arthur Conolly, obvinění ze špionáže ve prospěch Britského impéria - epizoda dobře zdokumentovaná v dobových pramenech jako Wolffovo vyprávění o misi do Buchary z roku 1845.",
+      "paranormalni": "Pevnost dnes zabírá plochu 3,96 hektaru s hradbami vysokými 16 až 20 metrů a funguje jako turistická atrakce s několika muzei uvnitř svých zdí.",
+      "skepticke": "Poprava britských důstojníků je historicky doložená událost potvrzená více nezávislými dobovými prameny, ne legenda - přesné podmínky jejich věznění v proslulé 'jámě s hmyzem' jsou popsány hlavně v dobových vyprávěních jako Wolffova zpráva, což znamená, že detaily jejich utrpení pocházejí z historických líčení, ne z archeologického průzkumu samotné cely."
     },
-    "praktickeInfo": "Pred navstevou Bukhara Ark over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Pevnost je veřejně přístupná s placeným vstupem, uvnitř areálu se nachází několik muzeí věnovaných historii Buchary.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Bukhara Ark",
-        "url": "https://en.wikipedia.org/wiki/Bukhara_Ark",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Ark of Bukhara",
+        "url": "https://en.wikipedia.org/wiki/Ark_of_Bukhara",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Bukhara Ark",
-        "url": "https://www.wikidata.org/w/index.php?search=Bukhara%20Ark",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikipedia: Charles Stoddart",
+        "url": "https://en.wikipedia.org/wiki/Charles_Stoddart",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "OpenStreetMap search",
-        "url": "https://www.openstreetmap.org/search?query=Bukhara%20Ark%20Uzbekistan",
-        "licence": "ODbL / map verification"
+        "nazev": "Wikidata: Ark of Bukhara",
+        "url": "https://www.wikidata.org/wiki/Q4069358",
+        "licence": "CC0"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Bukhara Ark posiluje mapu v motivech hrad, tajne-spolecnosti a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Poprava britských špionů",
+        "text": "Roku 1842 nechal emír Nasrulláh popravit britské důstojníky Charlese Stoddarta a Arthura Conollyho, obviněné ze špionáže ve prospěch Britského impéria."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Pevnost dobytá Čingischánem",
+        "text": "Ark padl vojskům Čingischána, který nechal obránce rozdrtit a pevnost vyplenit - jedna z mnoha kapitol dobyvatelské historie tohoto místa."
       }
     ]
   },
@@ -34798,7 +34798,7 @@
     "nazev": "Nisa",
     "zeme": "Turkmenistan",
     "kontinent": "Asie",
-    "lead": "Parthske pevnostni mesto u Ašchabadu, kde zanikla moc zustava ve fragmentu hradeb.",
+    "lead": "První sídlo Parthské říše, zničené zemětřesením - jehož poklad slonovinových rohů na pití dodnes patří k nejobdivovanějším nálezům střední Asie.",
     "gps": {
       "lat": 37.95,
       "lon": 58.2
@@ -34815,44 +34815,44 @@
     "historickaDolozenost": "overitelna zakladni identita",
     "nebezpecnost": "overit lokalne",
     "pristupnost": "overit pred cestou",
-    "atmosfera": 4,
+    "atmosfera": 3.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Nisa doplnuje globalni katalog MysteryMap jako overitelny bod s GPS a jasnym motivem: Parthske pevnostni mesto u Ašchabadu, kde zanikla moc zustava ve fragmentu hradeb. Text je vlastni seed, ne prevzaty popis z cizi databaze.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace: stabilni identita mista, region, dohledatelny kontext a prostor pro doplneni lokalnich zdroju v dalsi redakci.",
-      "legenda": "Legendova vrstva vysvetluje, proc misto pritahuje pozornost: posvatny pribeh, ruina, zmizeni, katastrofa, prirodni anomalie, filmovy obraz nebo spor o interpretaci.",
-      "paranormalni": "Paranormalni a zahadova tvrzeni jsou oddelena od faktu. Profil je uvadi jako folklor, popularni vypraveni, psychologicky dojem nebo kulturni pamet, nikoli jako dokaz nadprirozena.",
-      "skepticke": "Skepticka cast drzi geologii, archeologii, historii, optiku, medialni vliv a turisticky marketing jako mozna vysvetleni. To pomaha udrzet duveryhodnost pri velkem objemu."
+      "zahada": "Asi 18 kilometrů od Ašchabatu leží ruiny starověkého parthského sídla, které někteří badatelé označují za první sídlo Arsakovské říše, tradičně založené Arsakem I. kolem let 250-211 př. n. l.",
+      "historie": "Mithridatés I. Parthský (asi 171-138 př. n. l.) město přejmenoval na Mithradátkert. Nisa byla zcela zničena zemětřesením v první dekádě před naším letopočtem.",
+      "legenda": "Region se proslavil krásou, hbitostí a silou svých koní, díky čemuž se Nisa stala významným obchodním uzlem Parthské říše.",
+      "paranormalni": "Vykopávky odhalily rozsáhlé stavby, mauzolea a svatyně, četné popsané dokumenty a vyloupenou pokladnici. Mezi nejvýznamnější nálezy patří velké množství slonovinových rytonů (rohů na pití) a ozdobné mince zobrazující íránské motivy nebo scény z klasické mytologie.",
+      "skepticke": "Zničení zemětřesením je geologicky a archeologicky doložená událost datovaná do první dekády př. n. l., ne pouhá legenda - přesné datum založení města Arsakem I. zůstává o něco méně jisté, založené na tradičních historických pramenech spíše než na jednoznačném archeologickém důkazu prvního osídlení."
     },
-    "praktickeInfo": "Pred navstevou Nisa over aktualni pristup, povoleni, ochranu pamatky, mistni pravidla a bezpecnost. GPS souradnice jsou orientacni.",
+    "praktickeInfo": "Naleziště 'Parthské pevnosti Nisa' je veřejně přístupné nedaleko Ašchabatu a je zapsáno na seznamu UNESCO od roku 2007.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
       {
-        "nazev": "Wikipedia: Nisa",
-        "url": "https://en.wikipedia.org/wiki/Nisa",
-        "licence": "CC BY-SA / reference discovery"
+        "nazev": "Wikipedia: Nisa, Turkmenistan",
+        "url": "https://en.wikipedia.org/wiki/Nisa,_Turkmenistan",
+        "licence": "CC BY-SA"
       },
       {
-        "nazev": "Wikidata search: Nisa",
-        "url": "https://www.wikidata.org/w/index.php?search=Nisa",
-        "licence": "CC0 / entity discovery"
+        "nazev": "Wikidata: Nisa",
+        "url": "https://www.wikidata.org/wiki/Q854672",
+        "licence": "CC0"
       },
       {
-        "nazev": "OpenStreetMap search",
+        "nazev": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/search?query=Nisa%20Turkmenistan",
-        "licence": "ODbL / map verification"
+        "licence": "ODbL"
       }
     ],
     "pribehy": [
       {
-        "nazev": "Rozsireni svetove mapy",
-        "text": "Nisa posiluje mapu v motivech ztracena-mesta, mytologie a pomaha vytvaret globalni objem samostatnych stranek s GPS, zdroji a internim prolinkovanim."
+        "nazev": "Poklad slonovinových rohů",
+        "text": "Vykopávky v Nise odhalily velké množství slonovinových rytonů (rohů na pití), dnes patřících mezi nejobdivovanější archeologické nálezy Parthské říše."
       },
       {
-        "nazev": "Dalsi redakcni vrstva",
-        "text": "Profil je pripraveny k prohloubeni: lokalni prameny, fotografie s licenci, presne navstevnicke podminky, vicejazycne nazvy a lepsi regionální kontext."
+        "nazev": "Město zničené zemětřesením",
+        "text": "Nisa byla zcela zničena zemětřesením v první dekádě před naším letopočtem, po čemž její význam jako parthského centra postupně vyprchal."
       }
     ]
   },
