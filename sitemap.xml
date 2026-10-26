@@ -109,6 +109,8 @@
   <url><loc>https://mysterymap.online/cs/mista/mount-nemrut/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hashima-island/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/poveglia-island/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/bastei-bridge/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/corvin-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/pripyat/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/machu-picchu/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/easter-island/</loc></url>
@@ -119,6 +121,7 @@
   <url><loc>https://mysterymap.online/cs/mista/richat-structure/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tassili-n-ajjer/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/chateau-de-chillon/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/postojna-cave/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hill-of-crosses/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mont-saint-michel/</loc></url>
@@ -141,6 +144,7 @@
   <url><loc>https://mysterymap.online/cs/mista/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/plitvice-lakes/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/svalbard-global-seed-vault/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mount-kailash/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/potala-palace/</loc></url>
@@ -274,7 +278,9 @@
   <url><loc>https://mysterymap.online/cs/mista/bikini-atoll/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/enewetak-atoll/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/danakil-depression/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/sintra-quinta-da-regaleira/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/montserrat-monastery-spain/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kaymakli-underground-city/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cappadocia-fairy-chimneys/</loc></url>
@@ -310,9 +316,13 @@
   <url><loc>https://mysterymap.online/cs/mista/lut-desert-yardangs/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/merv-ruins/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/sulaiman-too-sacred-mountain/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/greyfriars-kirkyard/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/civita-di-bagnoregio/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/giant-s-causeway/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/capuchin-crypt-palermo/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/naples-underground/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/turda-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/blanik/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/propast-macocha/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hrad-bezdez/</loc></url>
@@ -355,7 +365,10 @@
   <url><loc>https://mysterymap.online/zh/places/dubrovnik-old-town/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/glenfinnan-viaduct/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/bastei-bridge/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/corvin-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/chateau-de-chillon/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/postojna-cave/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hill-of-crosses/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/mont-saint-michel/</loc></url>
@@ -369,11 +382,18 @@
   <url><loc>https://mysterymap.online/zh/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/plitvice-lakes/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/sintra-quinta-da-regaleira/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/greyfriars-kirkyard/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/civita-di-bagnoregio/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/giant-s-causeway/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/capuchin-crypt-palermo/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/naples-underground/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/turda-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cite-de-carcassonne/</loc></url>
@@ -385,7 +405,10 @@
   <url><loc>https://mysterymap.online/ja/places/dubrovnik-old-town/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/glenfinnan-viaduct/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/bastei-bridge/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/corvin-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/chateau-de-chillon/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/postojna-cave/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hill-of-crosses/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/mont-saint-michel/</loc></url>
@@ -399,11 +422,18 @@
   <url><loc>https://mysterymap.online/ja/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/plitvice-lakes/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/sintra-quinta-da-regaleira/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/greyfriars-kirkyard/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/civita-di-bagnoregio/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/giant-s-causeway/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/capuchin-crypt-palermo/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/naples-underground/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/turda-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cite-de-carcassonne/</loc></url>
@@ -415,7 +445,10 @@
   <url><loc>https://mysterymap.online/ko/places/dubrovnik-old-town/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/glenfinnan-viaduct/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/bastei-bridge/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/corvin-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/chateau-de-chillon/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/postojna-cave/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hill-of-crosses/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/mont-saint-michel/</loc></url>
@@ -429,11 +462,18 @@
   <url><loc>https://mysterymap.online/ko/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/plitvice-lakes/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/sintra-quinta-da-regaleira/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/greyfriars-kirkyard/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/civita-di-bagnoregio/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/giant-s-causeway/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/capuchin-crypt-palermo/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/naples-underground/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/turda-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cite-de-carcassonne/</loc></url>
