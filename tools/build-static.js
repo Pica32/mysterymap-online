@@ -11,11 +11,14 @@ const asiaDir = path.join(root, "data", "i18n-asia");
 if (fs.existsSync(asiaDir)) {
   const byId = new Map(places.map((place) => [place.id, place]));
   fs.readdirSync(asiaDir).filter((file) => file.endsWith(".json")).forEach((file) => {
-    const language = path.basename(file, ".json");
+    // zh.json, zh-2.json, ... patří všechny k jazyku zh.
+    const language = path.basename(file, ".json").split("-")[0];
+    if (!["zh", "ja", "ko"].includes(language)) throw new Error(`data/i18n-asia/${file}: unsupported language ${language}`);
     const translations = JSON.parse(fs.readFileSync(path.join(asiaDir, file), "utf8"));
     Object.entries(translations).forEach(([id, translation]) => {
       const place = byId.get(id);
       if (!place) throw new Error(`data/i18n-asia/${file}: unknown place ${id}`);
+      if (place.i18n?.[language]) throw new Error(`data/i18n-asia/${file}: duplicate ${language} translation for ${id}`);
       place.i18n = { ...place.i18n, [language]: translation };
     });
   });

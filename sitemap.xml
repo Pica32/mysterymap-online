@@ -98,7 +98,9 @@
   <url><loc>https://mysterymap.online/cs/mista/pevnost-bhangarh/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cernobylska-vyloucena-zona/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/petra-treasury/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/glenfinnan-viaduct/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/alcatraz-island/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/old-jewish-cemetery-prague/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/valley-of-the-kings/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/great-sphinx-of-giza/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/derinkuyu-underground-city/</loc></url>
@@ -115,8 +117,10 @@
   <url><loc>https://mysterymap.online/cs/mista/lake-natron/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/richat-structure/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tassili-n-ajjer/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/loch-ness/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/pompeii/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/acropolis-of-athens/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/sumela-monastery/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/minaret-of-jam/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/dilmun-burial-mounds/</loc></url>
@@ -126,6 +130,10 @@
   <url><loc>https://mysterymap.online/cs/mista/angkor-wat/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/leptis-magna/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/bandiagara-escarpment/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/karlstejn-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/meteora/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/svalbard-global-seed-vault/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mount-kailash/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/potala-palace/</loc></url>
@@ -293,6 +301,8 @@
   <url><loc>https://mysterymap.online/cs/mista/lut-desert-yardangs/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/merv-ruins/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/sulaiman-too-sacred-mountain/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/blanik/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/propast-macocha/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hrad-bezdez/</loc></url>
@@ -332,8 +342,18 @@
   <url><loc>https://mysterymap.online/zh/places/stonehenge/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/bran-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/sedlec-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/glenfinnan-viaduct/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/loch-ness/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/pompeii/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/acropolis-of-athens/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/karlstejn-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cite-de-carcassonne/</loc></url>
@@ -342,8 +362,18 @@
   <url><loc>https://mysterymap.online/ja/places/stonehenge/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/bran-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/sedlec-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/glenfinnan-viaduct/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/loch-ness/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/pompeii/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/acropolis-of-athens/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/karlstejn-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cite-de-carcassonne/</loc></url>
@@ -352,8 +382,18 @@
   <url><loc>https://mysterymap.online/ko/places/stonehenge/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/bran-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/sedlec-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/glenfinnan-viaduct/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/old-jewish-cemetery-prague/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/loch-ness/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/pompeii/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/acropolis-of-athens/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/karlstejn-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/meteora/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/zamek-cesky-krumlov/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cite-de-carcassonne/</loc></url>
