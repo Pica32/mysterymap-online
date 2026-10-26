@@ -8,6 +8,7 @@ const directories = ["assets", "clanky", "cs", "de", "docs", "en", "es", "fr", "
 const files = [
   "_headers",
   "_redirects",
+  "ads.txt",
   "app.js",
   "detail.js",
   "engage.js",

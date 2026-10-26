@@ -602,6 +602,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
     <link rel="stylesheet" href="/styles.css?v=20260722-map6">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     ${structuredData}
   </head>
   <body class="${escapeHtml(bodyClass)}">
