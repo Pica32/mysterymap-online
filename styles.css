@@ -12,6 +12,28 @@
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
+:lang(zh) {
+  font-family: Inter, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", "Noto Sans CJK SC", sans-serif;
+}
+
+:lang(ja) {
+  font-family: Inter, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, "Noto Sans JP", "Noto Sans CJK JP", sans-serif;
+}
+
+:lang(ko) {
+  font-family: Inter, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", "Noto Sans CJK KR", sans-serif;
+  word-break: keep-all;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -1385,4 +1407,67 @@ input[type="range"] {
     grid-template-columns: 1fr;
     grid-column: auto;
   }
+}
+
+.hub-why {
+  display: grid;
+  gap: 8px;
+  max-width: 720px;
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--muted);
+}
+
+.hub-why li::before {
+  content: "✓ ";
+  color: var(--accent);
+}
+
+.hub-count {
+  color: var(--muted);
+}
+
+.hub-empty {
+  padding: 16px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+}
+
+.hub-countries {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.hub-countries a {
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.hub-countries a:hover {
+  border-color: var(--accent);
+}
+
+.hub-countries span {
+  color: var(--accent);
+}
+
+.place-card[hidden],
+.hub-country[hidden] {
+  display: none;
+}
+
+.hub-invite {
+  display: block;
+  padding: 10px 16px;
+  background: var(--accent);
+  color: #111713;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
 }

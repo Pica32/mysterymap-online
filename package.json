@@ -1,6 +1,7 @@
 {
   "scripts": {
     "validate:i18n": "node tools/validate-i18n.js",
+    "validate:asia": "node tools/validate-asia.js",
     "validate:sources": "node tools/validate-sources.js",
     "validate:source-queries": "node tools/validate-source-queries.js",
     "validate:articles": "node tools/validate-articles.js",
@@ -14,7 +15,7 @@
     "generate:candidates": "node tools/generate-bulk-candidates.js",
     "import:candidates": "node tools/import-candidates.js",
     "analyze:drafts": "node tools/analyze-drafts.js",
-    "build": "npm run validate:i18n && npm run validate:sources && npm run validate:source-queries && npm run validate:articles && npm run validate:media && npm run validate && node tools/build-static.js && npm run validate:pages && npm run validate:search-index && npm run validate:performance"
+    "build": "npm run validate:i18n && npm run validate:asia && npm run validate:sources && npm run validate:source-queries && npm run validate:articles && npm run validate:media && npm run validate && node tools/build-static.js && npm run validate:pages && npm run validate:search-index && npm run validate:performance"
   },
   "devDependencies": {}
 }

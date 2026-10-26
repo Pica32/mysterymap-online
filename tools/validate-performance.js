@@ -11,7 +11,7 @@ const budgets = [
   ["styles.css", 30_000],
   ["app.js", 48_000],
   ["engage.js", 16_000],
-  ["i18n.js", 31_000],
+  ["i18n.js", 36_000],
   ["data/search-index.json", 1_320_000]
 ];
 

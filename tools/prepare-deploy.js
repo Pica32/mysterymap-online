@@ -4,7 +4,7 @@ const path = require("node:path");
 const root = path.resolve(__dirname, "..");
 const dist = path.join(root, "dist");
 
-const directories = ["assets", "clanky", "cs", "de", "docs", "en", "es", "fr", "landing", "mista"];
+const directories = ["assets", "clanky", "cs", "de", "docs", "en", "es", "fr", "ja", "ko", "landing", "mista", "zh"];
 const files = [
   "_headers",
   "_redirects",

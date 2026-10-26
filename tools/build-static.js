@@ -5,6 +5,21 @@ const root = path.resolve(__dirname, "..");
 const places = JSON.parse(fs.readFileSync(path.join(root, "data", "mista.json"), "utf8").replace(/^\uFEFF/, ""));
 const articles = JSON.parse(fs.readFileSync(path.join(root, "data", "articles.json"), "utf8").replace(/^\uFEFF/, ""));
 const sources = JSON.parse(fs.readFileSync(path.join(root, "data", "source-catalog.json"), "utf8").replace(/^\uFEFF/, ""));
+
+// Překlady pro asijské jazyky jsou v data/i18n-asia/<jazyk>.json, aby nenafukovaly mista.json pro mapu.
+const asiaDir = path.join(root, "data", "i18n-asia");
+if (fs.existsSync(asiaDir)) {
+  const byId = new Map(places.map((place) => [place.id, place]));
+  fs.readdirSync(asiaDir).filter((file) => file.endsWith(".json")).forEach((file) => {
+    const language = path.basename(file, ".json");
+    const translations = JSON.parse(fs.readFileSync(path.join(asiaDir, file), "utf8"));
+    Object.entries(translations).forEach(([id, translation]) => {
+      const place = byId.get(id);
+      if (!place) throw new Error(`data/i18n-asia/${file}: unknown place ${id}`);
+      place.i18n = { ...place.i18n, [language]: translation };
+    });
+  });
+}
 const siteUrl = "https://mysterymap.online";
 const buildDate = process.env.BUILD_DATE || "2026-06-01";
 const locales = {
@@ -12,8 +27,20 @@ const locales = {
   en: { placePrefix: "places", articlePrefix: "articles", label: "English" },
   de: { placePrefix: "orte", articlePrefix: "artikel", label: "Deutsch" },
   es: { placePrefix: "lugares", articlePrefix: "articulos", label: "Español" },
-  fr: { placePrefix: "lieux", articlePrefix: "articles", label: "Français" }
+  fr: { placePrefix: "lieux", articlePrefix: "articles", label: "Français" },
+  // Asijské jazyky: stránky vznikají jen pro místa se skutečným překladem a mají vlastní rozcestník.
+  zh: { placePrefix: "places", articlePrefix: "articles", label: "中文", htmlLang: "zh-Hans", hreflang: "zh-Hans", onlyTranslated: true },
+  ja: { placePrefix: "places", articlePrefix: "articles", label: "日本語", htmlLang: "ja", hreflang: "ja", onlyTranslated: true },
+  ko: { placePrefix: "places", articlePrefix: "articles", label: "한국어", htmlLang: "ko", hreflang: "ko", onlyTranslated: true }
 };
+
+function hasPage(item, language) {
+  return !locales[language].onlyTranslated || Boolean(item.i18n?.[language]);
+}
+
+function hreflangCode(language) {
+  return locales[language].hreflang || language;
+}
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -92,12 +119,17 @@ function hreflangLinks(item, kind) {
   const languages = Object.keys(locales).filter((language) => isIndexable(item, kind, language));
   if (!languages.length) return "";
   const defaultLanguage = languages.includes("en") ? "en" : "cs";
-  return `${languages.map((language) => `<link rel="alternate" hreflang="${language}" href="${escapeHtml(absoluteUrl(pathFn(item, language)))}">`).join("\n    ")}
+  return `${languages.map((language) => `<link rel="alternate" hreflang="${hreflangCode(language)}" href="${escapeHtml(absoluteUrl(pathFn(item, language)))}">`).join("\n    ")}
     <link rel="alternate" hreflang="x-default" href="${escapeHtml(absoluteUrl(pathFn(item, defaultLanguage)))}">`;
 }
 
 const uiText = {
   cs: {
+    nextSteps: "Další kroky",
+    trip: "Výprava",
+    languageLabel: "Jazyk",
+    mainNav: "Hlavní navigace",
+    breadcrumb: "Drobečková navigace",
     mystery: "Záhada místa",
     history: "Historie",
     legend: "Legenda",
@@ -137,6 +169,11 @@ const uiText = {
     moreInCategory: "Podobná kategorie"
   },
   en: {
+    nextSteps: "Next steps",
+    trip: "Trip",
+    languageLabel: "Language",
+    mainNav: "Main navigation",
+    breadcrumb: "Breadcrumb",
     mystery: "Mystery of the Place",
     history: "History",
     legend: "Legend",
@@ -176,6 +213,11 @@ const uiText = {
     moreInCategory: "Similar category"
   },
   de: {
+    nextSteps: "Nächste Schritte",
+    trip: "Reise",
+    languageLabel: "Sprache",
+    mainNav: "Hauptnavigation",
+    breadcrumb: "Brotkrumen-Navigation",
     mystery: "Rätsel des Ortes",
     history: "Geschichte",
     legend: "Legende",
@@ -215,6 +257,11 @@ const uiText = {
     moreInCategory: "Ähnliche Kategorie"
   },
   es: {
+    nextSteps: "Siguientes pasos",
+    trip: "Ruta",
+    languageLabel: "Idioma",
+    mainNav: "Navegación principal",
+    breadcrumb: "Ruta de navegación",
     mystery: "Misterio del lugar",
     history: "Historia",
     legend: "Leyenda",
@@ -254,6 +301,11 @@ const uiText = {
     moreInCategory: "Categoría similar"
   },
   fr: {
+    nextSteps: "Étapes suivantes",
+    trip: "Itinéraire",
+    languageLabel: "Langue",
+    mainNav: "Navigation principale",
+    breadcrumb: "Fil d'Ariane",
     mystery: "Mystère du lieu",
     history: "Histoire",
     legend: "Légende",
@@ -291,8 +343,198 @@ const uiText = {
     continueCopy: "Compare des lieux proches, ouvre la carte ou transforme ce lieu en prochain point de parcours.",
     moreInCountry: "Autres lieux du pays",
     moreInCategory: "Catégorie similaire"
+  },
+  zh: {
+    mystery: "地点之谜",
+    history: "历史",
+    legend: "传说",
+    paranormal: "灵异说法",
+    skeptic: "理性解释",
+    practical: "游客实用信息",
+    gps: "地图与GPS坐标",
+    sources: "资料来源",
+    sourceIntro: "以下来源用于核实事实与位置。页面文字为本站原创编辑内容，并非复制来源原文。",
+    trustTitle: "经过核实的编辑档案",
+    trustCopy: "本页为原创编辑内容。我们把可考证的历史、GPS和实用信息与传说、解读分开呈现，并为每个地点提供理性解释和明确来源。",
+    contentType: "类型",
+    themes: "主题",
+    sourceCount: "来源数量",
+    lastBuild: "更新日期",
+    storyHooks: "故事与看点",
+    paranormalLayer: "灵异层面",
+    paranormalClaims: "人们声称在这里发生了什么",
+    legendClaims: "传说怎么讲",
+    verifyClaims: "我们如何核实",
+    mysteryIndex: "神秘指数",
+    activity: "灵异传闻",
+    evidence: "史料可信度",
+    danger: "危险程度",
+    access: "开放情况",
+    atmosphere: "氛围",
+    night: "适合夜访",
+    kids: "适合儿童",
+    yes: "是",
+    no: "否",
+    notReally: "不太适合",
+    navigate: "Google 地图导航",
+    backMap: "返回欧洲神秘地点",
+    continueTitle: "继续探索",
+    continueCopy: "看看附近或同类型的神秘地点，把它们排进你的欧洲行程。",
+    moreInCountry: "同一国家",
+    moreInCategory: "同类地点",
+    nextSteps: "下一站",
+    trip: "行程",
+    languageLabel: "语言",
+    mainNav: "主导航",
+    breadcrumb: "页面路径",
+    hubTitleShort: "欧洲神秘地点",
+    placeTitleTail: "欧洲神秘地点旅游指南 | MysteryMap",
+    search: "搜索",
+    worldMap: "世界地图",
+    hubTitle: "欧洲神秘地点旅游指南",
+    hubEyebrow: "为中文游客精选",
+    hubIntro: "城堡、地下墓穴、骨堂、古老的石阵和传说中的湖泊——我们用中文介绍欧洲最神秘的地方：真实的历史、流传的传说、理性的解释，以及门票、交通和参观时间等实用信息。",
+    hubSearchLabel: "搜索地点、国家或城市",
+    hubSearchPlaceholder: "例如：城堡、巴黎、布拉格、吸血鬼……",
+    hubResults: "个地点",
+    hubNoResults: "没有找到匹配的地点。试试国家名称或“城堡”“地下”等关键词。",
+    hubCountries: "按国家浏览",
+    hubWhyTitle: "为什么用 MysteryMap",
+    hubWhy1: "史实、传说和理性解释分开写，不夸大、不猎奇。",
+    hubWhy2: "每个地点都有GPS坐标、Google 地图和 Apple 地图导航。",
+    hubWhy3: "注明门票预约、开放情况和安全提示，方便规划行程。",
+    readMore: "查看详情",
+    categories: { hrad: "城堡", podzemi: "地下空间", priroda: "自然奇观", legenda: "传说", veznice: "监狱", ostrov: "岛屿", katastrofa: "灾难遗址", historie: "历史遗迹", "filmova-lokace": "影视取景地", "zakazane-zony": "禁区", "ztracena-mesta": "失落之城", opustene: "废墟", tragedie: "悲剧遗址", anomalie: "异常现象" }
+  },
+  ja: {
+    mystery: "この場所の謎",
+    history: "歴史",
+    legend: "伝説",
+    paranormal: "心霊・怪異の噂",
+    skeptic: "合理的な解説",
+    practical: "旅行者向け実用情報",
+    gps: "地図とGPS",
+    sources: "参考資料",
+    sourceIntro: "事実と位置の確認に使った資料です。本文は資料の転載ではなく、編集部によるオリジナル記事です。",
+    trustTitle: "検証済みの編集記事",
+    trustCopy: "本ページはオリジナルの編集記事です。史実・GPS・実用情報を伝説や解釈と分けて掲載し、すべての場所に合理的な解説と出典を添えています。",
+    contentType: "種類",
+    themes: "テーマ",
+    sourceCount: "出典の数",
+    lastBuild: "更新日",
+    storyHooks: "エピソード",
+    paranormalLayer: "心霊・怪異",
+    paranormalClaims: "ここで起きると言われていること",
+    legendClaims: "伝説の内容",
+    verifyClaims: "検証の視点",
+    mysteryIndex: "ミステリー指数",
+    activity: "怪異の噂",
+    evidence: "史料の確かさ",
+    danger: "危険度",
+    access: "アクセス",
+    atmosphere: "雰囲気",
+    night: "夜の訪問",
+    kids: "子ども連れ",
+    yes: "可",
+    no: "不可",
+    notReally: "あまり向かない",
+    navigate: "Google マップで開く",
+    backMap: "ヨーロッパのミステリースポット一覧へ",
+    continueTitle: "さらに探す",
+    continueCopy: "同じ国や同じ種類のスポットを見て、ヨーロッパ旅行の計画に加えましょう。",
+    moreInCountry: "同じ国のスポット",
+    moreInCategory: "似た種類のスポット",
+    nextSteps: "次の目的地",
+    trip: "旅程",
+    languageLabel: "言語",
+    mainNav: "メインメニュー",
+    breadcrumb: "現在地",
+    hubTitleShort: "ヨーロッパのミステリースポット",
+    placeTitleTail: "ヨーロッパ・ミステリースポット旅行ガイド | MysteryMap",
+    search: "検索",
+    worldMap: "世界地図",
+    hubTitle: "ヨーロッパのミステリースポット旅行ガイド",
+    hubEyebrow: "日本の旅行者のために",
+    hubIntro: "古城、地下墓地、骸骨の礼拝堂、謎の巨石、伝説の湖。ヨーロッパの不思議な場所を、史実・伝説・合理的な解説に分けて日本語で紹介します。チケット予約、行き方、所要時間など旅行に役立つ情報も掲載。",
+    hubSearchLabel: "スポット・国・都市を検索",
+    hubSearchPlaceholder: "例：城、パリ、プラハ、ドラキュラ…",
+    hubResults: "件のスポット",
+    hubNoResults: "該当するスポットが見つかりません。国名や「城」「地下」などで検索してください。",
+    hubCountries: "国から探す",
+    hubWhyTitle: "MysteryMap の特徴",
+    hubWhy1: "史実と伝説と合理的な解説を分けて紹介。誇張はしません。",
+    hubWhy2: "すべてのスポットにGPS座標、Google マップと Apple マップのリンク付き。",
+    hubWhy3: "予約の要否、開館状況、安全上の注意など旅の計画に役立つ情報を掲載。",
+    readMore: "詳しく見る",
+    categories: { hrad: "城", podzemi: "地下", priroda: "自然の神秘", legenda: "伝説", veznice: "監獄", ostrov: "島", katastrofa: "災害の跡", historie: "史跡", "filmova-lokace": "ロケ地", "zakazane-zony": "立入禁止区域", "ztracena-mesta": "失われた都市", opustene: "廃墟", tragedie: "悲劇の地", anomalie: "怪現象" }
+  },
+  ko: {
+    mystery: "이곳의 미스터리",
+    history: "역사",
+    legend: "전설",
+    paranormal: "초자연 현상 이야기",
+    skeptic: "합리적인 설명",
+    practical: "여행자를 위한 실용 정보",
+    gps: "지도와 GPS",
+    sources: "참고 자료",
+    sourceIntro: "사실과 위치 확인에 사용한 자료입니다. 본문은 자료를 복사한 것이 아니라 편집팀이 직접 작성한 글입니다.",
+    trustTitle: "검증된 편집 프로필",
+    trustCopy: "이 페이지는 직접 작성한 편집 콘텐츠입니다. 역사적 사실, GPS, 실용 정보를 전설이나 해석과 구분해 소개하며, 모든 장소에 합리적인 설명과 출처를 함께 제공합니다.",
+    contentType: "유형",
+    themes: "테마",
+    sourceCount: "출처 수",
+    lastBuild: "업데이트",
+    storyHooks: "이야기와 볼거리",
+    paranormalLayer: "초자연 현상",
+    paranormalClaims: "이곳에서 일어난다고 전해지는 일",
+    legendClaims: "전설의 내용",
+    verifyClaims: "검증해 보면",
+    mysteryIndex: "미스터리 지수",
+    activity: "괴담",
+    evidence: "기록의 신뢰도",
+    danger: "위험도",
+    access: "방문 방법",
+    atmosphere: "분위기",
+    night: "야간 방문",
+    kids: "아이 동반",
+    yes: "가능",
+    no: "불가",
+    notReally: "추천하지 않음",
+    navigate: "Google 지도로 길찾기",
+    backMap: "유럽 미스터리 명소 목록으로",
+    continueTitle: "계속 둘러보기",
+    continueCopy: "같은 나라나 비슷한 유형의 명소를 살펴보고 유럽 여행 일정에 넣어 보세요.",
+    moreInCountry: "같은 나라의 명소",
+    moreInCategory: "비슷한 유형",
+    nextSteps: "다음 목적지",
+    trip: "여행 일정",
+    languageLabel: "언어",
+    mainNav: "주 메뉴",
+    breadcrumb: "현재 위치",
+    hubTitleShort: "유럽 미스터리 명소",
+    placeTitleTail: "유럽 미스터리 여행 가이드 | MysteryMap",
+    search: "검색",
+    worldMap: "세계 지도",
+    hubTitle: "유럽 미스터리 명소 여행 가이드",
+    hubEyebrow: "한국 여행자를 위한 큐레이션",
+    hubIntro: "고성, 지하 묘지, 해골 성당, 수수께끼의 거석, 전설의 호수까지. 유럽의 신비로운 장소를 역사·전설·합리적인 설명으로 나누어 한국어로 소개합니다. 예약, 가는 방법, 소요 시간 등 여행에 바로 쓸 수 있는 정보도 담았습니다.",
+    hubSearchLabel: "장소, 나라, 도시 검색",
+    hubSearchPlaceholder: "예: 성, 파리, 프라하, 드라큘라…",
+    hubResults: "곳",
+    hubNoResults: "검색 결과가 없습니다. 나라 이름이나 '성', '지하' 같은 단어로 검색해 보세요.",
+    hubCountries: "나라별 보기",
+    hubWhyTitle: "MysteryMap이 다른 점",
+    hubWhy1: "역사, 전설, 합리적인 설명을 나누어 과장 없이 소개합니다.",
+    hubWhy2: "모든 장소에 GPS 좌표와 Google 지도·Apple 지도 링크가 있습니다.",
+    hubWhy3: "예약 필요 여부, 운영 상황, 안전 수칙 등 일정 계획에 필요한 정보를 담았습니다.",
+    readMore: "자세히 보기",
+    categories: { hrad: "성", podzemi: "지하", priroda: "자연의 신비", legenda: "전설", veznice: "감옥", ostrov: "섬", katastrofa: "재난의 현장", historie: "유적", "filmova-lokace": "촬영지", "zakazane-zony": "출입 금지 구역", "ztracena-mesta": "잃어버린 도시", opustene: "폐허", tragedie: "비극의 현장", anomalie: "이상 현상" }
   }
 };
+
+function categoryText(language, category) {
+  return uiText[language]?.categories?.[category] || category;
+}
 
 function tt(language, key) {
   return uiText[language]?.[key] || uiText.en[key] || uiText.cs[key] || key;
@@ -423,9 +665,10 @@ function heroBackgroundStyle(image) {
   return `style="background-image: linear-gradient(90deg, rgba(17, 23, 19, 0.95) 0%, rgba(17, 23, 19, 0.68) 52%, rgba(17, 23, 19, 0.22) 100%), linear-gradient(0deg, var(--bg) 0%, rgba(17, 23, 19, 0) 35%), url('${escapeHtml(image.url)}'), image-set(url('/assets/hero-mystery-map-1000.webp') type('image/webp') 1x, url('/assets/hero-mystery-map-1600.webp') type('image/webp') 2x, url('/assets/hero-mystery-map.png') type('image/png') 2x);"`;
 }
 
-function photoCredit(image) {
+function photoCredit(image, language = "cs") {
   if (!image?.url) return "";
-  return `<p class="photo-credit">Foto: <a href="${escapeHtml(image.sourceUrl || image.url)}" target="_blank" rel="noreferrer">${escapeHtml(image.author || "autor neuveden")}</a> · ${escapeHtml(image.license || "licence neuvedena")}</p>`;
+  const label = { cs: "Foto", en: "Photo", de: "Foto", es: "Foto", fr: "Photo", zh: "图片", ja: "写真", ko: "사진" }[language] || "Foto";
+  return `<p class="photo-credit">${label}: <a href="${escapeHtml(image.sourceUrl || image.url)}" target="_blank" rel="noreferrer">${escapeHtml(image.author || "autor neuveden")}</a> · ${escapeHtml(image.license || "licence neuvedena")}</p>`;
 }
 
 function paranormalClaimPanel(place, language = "cs") {
@@ -450,12 +693,13 @@ function paranormalClaimPanel(place, language = "cs") {
 }
 
 function storyList(place, language = "cs") {
-  if (!place.pribehy?.length) return "";
+  const stories = place.i18n?.[language]?.pribehy || place.pribehy;
+  if (!stories?.length) return "";
   return `
     <section class="detail-section" id="pribehy">
       <h2>${escapeHtml(tt(language, "storyHooks"))}</h2>
       <div class="compact-list">
-        ${place.pribehy.map((story) => `
+        ${stories.map((story) => `
           <article class="compact-link">
             <strong>${escapeHtml(story.nazev)}</strong>
             <span>${escapeHtml(story.text)}</span>
@@ -467,11 +711,11 @@ function storyList(place, language = "cs") {
 
 function continueDiscovery(place, language = "cs") {
   const countryItems = places
-    .filter((item) => item.id !== place.id && item.zeme === place.zeme)
+    .filter((item) => item.id !== place.id && item.zeme === place.zeme && hasPage(item, language))
     .sort((a, b) => b.indexTajemna - a.indexTajemna)
     .slice(0, 3);
   const categoryItems = places
-    .filter((item) => item.id !== place.id && item.kategorie.some((category) => place.kategorie.includes(category)))
+    .filter((item) => item.id !== place.id && hasPage(item, language) && item.kategorie.some((category) => place.kategorie.includes(category)))
     .sort((a, b) => b.indexTajemna - a.indexTajemna)
     .slice(0, 3);
   const links = [
@@ -482,12 +726,12 @@ function continueDiscovery(place, language = "cs") {
   return `
     <section class="detail-section continue-panel" id="dalsi-objevovani">
       <div>
-        <p class="eyebrow">Next steps</p>
+        <p class="eyebrow">${escapeHtml(tt(language, "nextSteps"))}</p>
         <h2>${escapeHtml(tt(language, "continueTitle"))}</h2>
         <p>${escapeHtml(tt(language, "continueCopy"))}</p>
         <div class="hero-actions">
-          <a class="button primary" href="/index.html#mapa">${escapeHtml(tt(language, "backMap"))}</a>
-          <a class="button secondary" href="/index.html#vyprava">Výprava</a>
+          <a class="button primary" href="${homeHref(language)}">${escapeHtml(tt(language, "backMap"))}</a>
+          <a class="button secondary" href="/index.html#vyprava">${escapeHtml(tt(language, "trip"))}</a>
         </div>
       </div>
       <div class="compact-list">${links.join("")}</div>
@@ -502,16 +746,43 @@ function discoveryLink(place, language, label) {
     </a>`;
 }
 
+function homeHref(language) {
+  return locales[language].onlyTranslated ? `/${language}/` : "/index.html#mapa";
+}
+
+function countryAnchor(place) {
+  return `zeme-${slugify(place.zeme)}`;
+}
+
+function breadcrumbItems(place, language) {
+  const name = placeField(place, "nazev", language);
+  if (locales[language].onlyTranslated) {
+    return [
+      { name: tt(language, "hubTitleShort"), href: `/${language}/` },
+      { name: placeField(place, "zeme", language), href: `/${language}/#${countryAnchor(place)}` },
+      { name, href: placePath(place, language) }
+    ];
+  }
+  return [
+    { name: "MysteryMap.online", href: "/" },
+    { name: placeField(place, "kontinent", language), href: `/landing/kontinent-${slugify(place.kontinent)}.html` },
+    { name: placeField(place, "zeme", language), href: `/landing/zeme-${slugify(place.zeme)}.html` },
+    { name, href: placePath(place, language) }
+  ];
+}
+
 function jsonLd(place, language = "cs") {
   const currentPath = placePath(place, language);
+  const name = placeField(place, "nazev", language);
+  const lead = placeField(place, "lead", language);
   const graph = [
     {
       "@type": "WebPage",
       "@id": `${absoluteUrl(currentPath)}#webpage`,
       "url": absoluteUrl(currentPath),
-      "name": `${place.nazev} | MysteryMap.online`,
-      "description": place.lead,
-      "inLanguage": language,
+      "name": `${name} | MysteryMap.online`,
+      "description": lead,
+      "inLanguage": hreflangCode(language),
       "isPartOf": { "@id": `${siteUrl}/#website` },
       "dateModified": buildDate,
       "about": { "@id": `${absoluteUrl(currentPath)}#place` },
@@ -527,8 +798,8 @@ function jsonLd(place, language = "cs") {
     {
       "@type": "TouristAttraction",
       "@id": `${absoluteUrl(currentPath)}#place`,
-      "name": place.nazev,
-      "description": place.lead,
+      "name": name,
+      "description": lead,
       "url": absoluteUrl(currentPath),
       "geo": {
         "@type": "GeoCoordinates",
@@ -537,7 +808,7 @@ function jsonLd(place, language = "cs") {
       },
       "address": {
         "@type": "PostalAddress",
-        "addressCountry": place.zeme
+        "addressCountry": placeField(place, "zeme", language)
       },
       "subjectOf": place.zdroje.map((source) => ({
         "@type": "CreativeWork",
@@ -549,12 +820,12 @@ function jsonLd(place, language = "cs") {
     {
       "@type": "BreadcrumbList",
       "@id": `${absoluteUrl(currentPath)}#breadcrumb`,
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "MysteryMap.online", "item": siteUrl },
-        { "@type": "ListItem", "position": 2, "name": place.kontinent, "item": absoluteUrl(`/landing/kontinent-${slugify(place.kontinent)}.html`) },
-        { "@type": "ListItem", "position": 3, "name": place.zeme, "item": absoluteUrl(`/landing/zeme-${slugify(place.zeme)}.html`) },
-        { "@type": "ListItem", "position": 4, "name": place.nazev, "item": absoluteUrl(currentPath) }
-      ]
+      "itemListElement": breadcrumbItems(place, language).map((item, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "name": item.name,
+        "item": absoluteUrl(item.href)
+      }))
     }
   ];
 
@@ -581,9 +852,26 @@ function articleJsonLd(article, language = "cs") {
   })}</script>`;
 }
 
+function navigation(language) {
+  if (locales[language]?.onlyTranslated) {
+    return `<nav class="nav-menu" aria-label="${escapeHtml(tt(language, "mainNav"))}">
+        <a href="/${language}/">${escapeHtml(tt(language, "hubTitleShort"))}</a>
+        <a href="/${language}/#search">${escapeHtml(tt(language, "search"))}</a>
+        <a href="/index.html#mapa">${escapeHtml(tt(language, "worldMap"))}</a>
+      </nav>`;
+  }
+  return `<nav class="nav-menu" aria-label="${escapeHtml(tt(language, "mainNav"))}">
+        <a href="/index.html#mapa" data-i18n="nav.map">Mapa</a>
+        <a href="/index.html#mista" data-i18n="nav.places">Místa</a>
+        <a href="/index.html#zebricky" data-i18n="nav.rankings">Žebříčky</a>
+        <a href="/index.html#vyprava">${escapeHtml(tt(language, "trip"))}</a>
+        <a href="/docs/sources.md" data-i18n="detail.sources">Zdroje</a>
+      </nav>`;
+}
+
 function pageShell({ title, description, body, script = "", canonical = "/", structuredData = "", ogType = "website", alternates = "", bodyClass = "", language = "cs", indexable = true }) {
   return `<!doctype html>
-<html lang="${escapeHtml(language)}">
+<html lang="${escapeHtml(locales[language]?.htmlLang || language)}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -601,7 +889,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta property="og:image" content="${siteUrl}/assets/hero-mystery-map.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="/styles.css?v=20260722-map6">
+    <link rel="stylesheet" href="/styles.css?v=20261026-asia1">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     ${structuredData}
   </head>
@@ -611,26 +899,16 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
         <span class="brand-mark" aria-hidden="true">?</span>
         <span>MysteryMap.online</span>
       </a>
-      <nav class="nav-menu" aria-label="Hlavní navigace">
-        <a href="/index.html#mapa" data-i18n="nav.map">Mapa</a>
-        <a href="/index.html#mista" data-i18n="nav.places">Místa</a>
-        <a href="/index.html#zebricky" data-i18n="nav.rankings">Žebříčky</a>
-        <a href="/index.html#vyprava">Výprava</a>
-        <a href="/docs/sources.md" data-i18n="detail.sources">Zdroje</a>
-      </nav>
+      ${navigation(language)}
       <label class="language-select" for="languageSelect">
-        <span data-i18n="language.label">Jazyk</span>
-        <select id="languageSelect" aria-label="Jazyk webu">
-          <option value="cs">Čeština</option>
-          <option value="en">English</option>
-          <option value="de">Deutsch</option>
-          <option value="es">Español</option>
-          <option value="fr">Français</option>
+        <span${locales[language]?.onlyTranslated ? "" : ' data-i18n="language.label"'}>${escapeHtml(tt(language, "languageLabel"))}</span>
+        <select id="languageSelect" aria-label="${escapeHtml(tt(language, "languageLabel"))}">
+          ${Object.entries(locales).map(([code, locale]) => `<option value="${code}" lang="${locale.htmlLang || code}"${code === language ? " selected" : ""}>${locale.label}</option>`).join("\n          ")}
         </select>
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20261026-lang1" defer></script>
+    <script src="/i18n.js?v=20261026-asia1" defer></script>
     ${script}
   </body>
 </html>
@@ -641,7 +919,11 @@ function placePage(place, language = "cs") {
   const canonicalPath = placePath(place, language);
   const themeClass = placeThemeClass(place);
   const heroImage = place.obrazky?.[0];
-  const title = `${placeField(place, "nazev", language)}: ${tt(language, "mystery").toLowerCase()}, GPS, ${tt(language, "sources").toLowerCase()}`;
+  const title = locales[language].onlyTranslated
+    ? `${placeField(place, "nazev", language)} | ${tt(language, "placeTitleTail")}`
+    : `${placeField(place, "nazev", language)}: ${tt(language, "mystery").toLowerCase()}, GPS, ${tt(language, "sources").toLowerCase()}`;
+  const mapLinks = `<a class="button primary" target="_blank" rel="noreferrer" href="https://www.google.com/maps?q=${place.gps.lat},${place.gps.lon}">${escapeHtml(tt(language, "navigate"))}</a>${locales[language].onlyTranslated ? `
+            <a class="button secondary" target="_blank" rel="noreferrer" href="https://maps.apple.com/?ll=${place.gps.lat},${place.gps.lon}&amp;q=${encodeURIComponent(placeField(place, "nazev", language))}">Apple Maps</a>` : ""}`;
   const description = `${placeField(place, "lead", language)} ${tt(language, "history")}, ${tt(language, "legend").toLowerCase()}, ${tt(language, "skeptic").toLowerCase()}, GPS.`;
   const body = `
     <main>
@@ -650,21 +932,18 @@ function placePage(place, language = "cs") {
           <p class="eyebrow">${escapeHtml(placeField(place, "kontinent", language))} · ${escapeHtml(placeField(place, "zeme", language))}</p>
           <h1>${escapeHtml(placeField(place, "nazev", language))}</h1>
           <p class="hero-copy">${escapeHtml(placeField(place, "lead", language))}</p>
-          ${photoCredit(heroImage)}
+          ${photoCredit(heroImage, language)}
           <div class="hero-actions">
-            <a class="button primary" target="_blank" rel="noreferrer" href="https://www.google.com/maps?q=${place.gps.lat},${place.gps.lon}">${escapeHtml(tt(language, "navigate"))}</a>
-            <a class="button secondary" href="/index.html#mapa">${escapeHtml(tt(language, "backMap"))}</a>
+            ${mapLinks}
+            <a class="button secondary" href="${homeHref(language)}">${escapeHtml(tt(language, "backMap"))}</a>
           </div>
         </section>
         <section class="places-section detail-page-body">
-          <nav class="breadcrumb" aria-label="Drobečková navigace">
-            <a href="/">MysteryMap.online</a>
-            <span>›</span>
-            <a href="/landing/kontinent-${slugify(place.kontinent)}.html">${escapeHtml(place.kontinent)}</a>
-            <span>›</span>
-            <a href="/landing/zeme-${slugify(place.zeme)}.html">${escapeHtml(place.zeme)}</a>
-            <span>›</span>
-            <span>${escapeHtml(place.nazev)}</span>
+          <nav class="breadcrumb" aria-label="${escapeHtml(tt(language, "breadcrumb"))}">
+            ${breadcrumbItems(place, language).map((item, index, items) => index === items.length - 1
+              ? `<span aria-current="page">${escapeHtml(item.name)}</span>`
+              : `<a href="${escapeHtml(item.href)}">${escapeHtml(item.name)}</a>
+            <span aria-hidden="true">›</span>`).join("\n            ")}
           </nav>
           <section class="trust-panel" aria-labelledby="trust-title">
             <div>
@@ -673,18 +952,18 @@ function placePage(place, language = "cs") {
               <p>${escapeHtml(tt(language, "trustCopy"))}</p>
             </div>
             <dl>
-              <div><dt>${escapeHtml(tt(language, "contentType"))}</dt><dd>${escapeHtml(place.kategorie.join(", "))}</dd></div>
-              <div><dt>${escapeHtml(tt(language, "themes"))}</dt><dd>${escapeHtml((place.temata || []).join(", "))}</dd></div>
+              <div><dt>${escapeHtml(tt(language, "contentType"))}</dt><dd>${escapeHtml(place.kategorie.map((category) => categoryText(language, category)).join(", "))}</dd></div>
+              ${locales[language].onlyTranslated ? "" : `<div><dt>${escapeHtml(tt(language, "themes"))}</dt><dd>${escapeHtml((place.temata || []).join(", "))}</dd></div>`}
               <div><dt>${escapeHtml(tt(language, "sourceCount"))}</dt><dd>${place.zdroje.length}</dd></div>
               <div><dt>${escapeHtml(tt(language, "lastBuild"))}</dt><dd>${buildDate}</dd></div>
             </dl>
           </section>
           <div class="metric-grid">
             ${metric(tt(language, "mysteryIndex"), `${place.indexTajemna}/100`)}
-            ${metric(tt(language, "activity"), place.paranormalniAktivita)}
-            ${metric(tt(language, "evidence"), place.historickaDolozenost)}
-            ${metric(tt(language, "danger"), place.nebezpecnost)}
-            ${metric(tt(language, "access"), place.pristupnost)}
+            ${metric(tt(language, "activity"), placeField(place, "paranormalniAktivita", language))}
+            ${metric(tt(language, "evidence"), placeField(place, "historickaDolozenost", language))}
+            ${metric(tt(language, "danger"), placeField(place, "nebezpecnost", language))}
+            ${metric(tt(language, "access"), placeField(place, "pristupnost", language))}
             ${metric(tt(language, "atmosphere"), `${place.atmosfera}/5`)}
             ${metric(tt(language, "night"), place.nocniVhodnost ? tt(language, "yes") : tt(language, "no"))}
             ${metric(tt(language, "kids"), place.vhodneProDeti ? tt(language, "yes") : tt(language, "notReally"))}
@@ -700,7 +979,7 @@ function placePage(place, language = "cs") {
           <section class="detail-section" id="gps">
             <h2>${escapeHtml(tt(language, "gps"))}</h2>
             <p><strong>GPS:</strong> ${place.gps.lat.toFixed(5)}, ${place.gps.lon.toFixed(5)}</p>
-            <p><a class="button secondary" target="_blank" rel="noreferrer" href="https://www.google.com/maps?q=${place.gps.lat},${place.gps.lon}">${escapeHtml(tt(language, "navigate"))}</a></p>
+            <p class="hero-actions">${mapLinks}</p>
           </section>
           <section class="detail-section source-section" id="zdroje">
             <h2>${escapeHtml(tt(language, "sources"))}</h2>
@@ -878,6 +1157,107 @@ function articleIndexPage(language = "cs") {
   });
 }
 
+// Rozcestník pro asijské jazyky: vyhledávání mezi přeloženými místy, seskupené podle zemí.
+function hubPage(language) {
+  const items = places.filter((place) => hasPage(place, language));
+  const hubLanguages = Object.keys(locales).filter((code) => locales[code].onlyTranslated && places.some((place) => hasPage(place, code)));
+  const alternates = hubLanguages.map((code) => `<link rel="alternate" hreflang="${hreflangCode(code)}" href="${absoluteUrl(`/${code}/`)}">`).join("\n    ");
+  const countries = Array.from(groupBy(items, "zeme").entries())
+    .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+  const card = (place) => {
+    const name = placeField(place, "nazev", language);
+    const country = placeField(place, "zeme", language);
+    const categories = place.kategorie.map((category) => categoryText(language, category));
+    const searchText = [name, place.nazev, place.slug.replaceAll("-", " "), country, place.zeme, placeField(place, "lead", language), ...categories, ...(place.i18n[language].hledat || [])].join(" ").toLowerCase();
+    return `
+          <a class="place-card" href="${placePath(place, language)}" data-search="${escapeHtml(searchText)}">
+            <span class="score" aria-label="${escapeHtml(tt(language, "mysteryIndex"))}">${place.indexTajemna}</span>
+            <h3>${escapeHtml(name)}</h3>
+            <p>${escapeHtml(country)} · ${escapeHtml(placeField(place, "lead", language))}</p>
+            <span class="tags">${categories.map((category) => `<span class="tag">${escapeHtml(category)}</span>`).join("")}</span>
+          </a>`;
+  };
+  const body = `
+    <main>
+      <section class="detail-hero hub-hero">
+        <p class="eyebrow">${escapeHtml(tt(language, "hubEyebrow"))}</p>
+        <h1>${escapeHtml(tt(language, "hubTitle"))}</h1>
+        <p class="hero-copy">${escapeHtml(tt(language, "hubIntro"))}</p>
+        <ul class="hub-why" aria-label="${escapeHtml(tt(language, "hubWhyTitle"))}">
+          <li>${escapeHtml(tt(language, "hubWhy1"))}</li>
+          <li>${escapeHtml(tt(language, "hubWhy2"))}</li>
+          <li>${escapeHtml(tt(language, "hubWhy3"))}</li>
+        </ul>
+      </section>
+      <section class="places-section hub-search" id="search" aria-labelledby="hub-search-title">
+        <h2 id="hub-search-title">${escapeHtml(tt(language, "hubSearchLabel"))}</h2>
+        <label class="visually-hidden" for="hubSearch">${escapeHtml(tt(language, "hubSearchLabel"))}</label>
+        <input id="hubSearch" class="hub-search-input" type="search" autocomplete="off" placeholder="${escapeHtml(tt(language, "hubSearchPlaceholder"))}">
+        <p class="hub-count" aria-live="polite"><span id="hubCount">${items.length}</span> ${escapeHtml(tt(language, "hubResults"))}</p>
+        <p class="hub-empty" id="hubEmpty" hidden>${escapeHtml(tt(language, "hubNoResults"))}</p>
+        <nav class="hub-countries" aria-label="${escapeHtml(tt(language, "hubCountries"))}">
+          ${countries.map(([country, list]) => `<a href="#${countryAnchor(list[0])}">${escapeHtml(placeField(list[0], "zeme", language))} <span>${list.length}</span></a>`).join("\n          ")}
+        </nav>
+      </section>
+      ${countries.map(([country, list]) => `
+      <section class="places-section hub-country" id="${countryAnchor(list[0])}" aria-labelledby="${countryAnchor(list[0])}-title">
+        <h2 id="${countryAnchor(list[0])}-title">${escapeHtml(placeField(list[0], "zeme", language))}</h2>
+        <div class="places-grid">${list.sort((a, b) => b.indexTajemna - a.indexTajemna).map(card).join("")}
+        </div>
+      </section>`).join("")}
+    </main>`;
+  const script = `<script>
+(() => {
+  const input = document.getElementById("hubSearch");
+  const count = document.getElementById("hubCount");
+  const empty = document.getElementById("hubEmpty");
+  const cards = Array.from(document.querySelectorAll(".hub-country .place-card"));
+  input.addEventListener("input", () => {
+    const query = input.value.trim().toLowerCase();
+    let visible = 0;
+    cards.forEach((card) => {
+      const match = !query || query.split(/\\s+/).every((word) => card.dataset.search.includes(word));
+      card.hidden = !match;
+      if (match) visible += 1;
+    });
+    document.querySelectorAll(".hub-country").forEach((section) => {
+      section.hidden = !section.querySelector(".place-card:not([hidden])");
+    });
+    count.textContent = visible;
+    empty.hidden = visible > 0;
+  });
+})();
+</script>`;
+  return pageShell({
+    title: `${tt(language, "hubTitle")} | MysteryMap`,
+    description: tt(language, "hubIntro"),
+    body,
+    canonical: `/${language}/`,
+    alternates,
+    language,
+    indexable: items.length > 0,
+    script,
+    structuredData: `<script type="application/ld+json">${JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": tt(language, "hubTitle"),
+      "description": tt(language, "hubIntro"),
+      "url": absoluteUrl(`/${language}/`),
+      "inLanguage": hreflangCode(language),
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": items.length,
+        "itemListElement": items.map((place, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "name": placeField(place, "nazev", language),
+          "url": absoluteUrl(placePath(place, language))
+        }))
+      }
+    })}</script>`
+  });
+}
+
 function groupBy(items, key) {
   const groups = new Map();
   items.forEach((item) => {
@@ -925,8 +1305,13 @@ function themeLabel(theme) {
 
 Object.keys(locales).forEach((language) => {
   places.forEach((place) => {
+    if (!hasPage(place, language)) return;
     writeFile(path.join(root, placePath(place, language), "index.html"), placePage(place, language));
   });
+  if (locales[language].onlyTranslated) {
+    writeFile(path.join(root, language, "index.html"), hubPage(language));
+    return;
+  }
   writeFile(path.join(root, language, locales[language].articlePrefix, "index.html"), articleIndexPage(language));
   articles.forEach((article) => {
     writeFile(path.join(root, articlePath(article, language), "index.html"), articlePage(article, language));
@@ -1006,6 +1391,7 @@ for (const [theme, items] of themeMap) {
 const sitemapUrls = [
   "/",
   "/cs/clanky/",
+  ...Object.keys(locales).filter((language) => locales[language].onlyTranslated && places.some((place) => hasPage(place, language))).map((language) => `/${language}/`),
   ...Object.keys(locales).flatMap((language) => [
     ...articles.filter((article) => isIndexable(article, "article", language)).map((article) => articlePath(article, language)),
     ...places.filter((place) => isIndexable(place, "place", language)).map((place) => placePath(place, language))
@@ -1023,7 +1409,7 @@ const searchIndex = places.map((place) => ({
   country: place.zeme,
   continent: place.kontinent,
   url: place.detailPath,
-  urls: Object.fromEntries(Object.keys(locales).map((language) => [language, placePath(place, language)])),
+  urls: Object.fromEntries(Object.keys(locales).filter((language) => hasPage(place, language)).map((language) => [language, placePath(place, language)])),
   categories: place.kategorie,
   themes: place.temata || [],
   mysteryScore: place.indexTajemna,
@@ -1036,7 +1422,7 @@ const articleSearchIndex = articles.map((article) => ({
   slug: article.slug,
   title: article.title,
   url: `/clanky/${article.slug}/`,
-  urls: Object.fromEntries(Object.keys(locales).map((language) => [language, articlePath(article, language)])),
+  urls: Object.fromEntries(Object.keys(locales).filter((language) => !locales[language].onlyTranslated).map((language) => [language, articlePath(article, language)])),
   categories: [article.category],
   themes: article.themes,
   summary: article.description,

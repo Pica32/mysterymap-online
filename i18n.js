@@ -488,7 +488,10 @@ function getInitialLanguage() {
   if (SUPPORTED_LANGUAGES.includes(urlLanguage)) return urlLanguage;
   const pathLanguage = location.pathname.split("/").filter(Boolean)[0];
   if (SUPPORTED_LANGUAGES.includes(pathLanguage)) return pathLanguage;
-  const saved = localStorage.getItem("mysterymap-language");
+  let saved = null;
+  try {
+    saved = localStorage.getItem("mysterymap-language");
+  } catch {}
   if (SUPPORTED_LANGUAGES.includes(saved)) return saved;
   const browserLanguage = navigator.language?.slice(0, 2);
   return SUPPORTED_LANGUAGES.includes(browserLanguage) ? browserLanguage : DEFAULT_LANGUAGE;
@@ -501,7 +504,7 @@ function translate(key, language = window.MysteryMapI18n?.language || DEFAULT_LA
 function setLanguage(language) {
   const nextLanguage = SUPPORTED_LANGUAGES.includes(language) ? language : DEFAULT_LANGUAGE;
   window.MysteryMapI18n.language = nextLanguage;
-  localStorage.setItem("mysterymap-language", nextLanguage);
+  storeLanguage(nextLanguage);
   document.documentElement.lang = nextLanguage;
   document.querySelectorAll("[data-i18n]").forEach((node) => {
     node.textContent = translate(node.dataset.i18n, nextLanguage);
@@ -518,19 +521,53 @@ window.MysteryMapI18n = {
   setLanguage
 };
 
+// Asijské jazyky mají předgenerované stránky a vlastní rozcestník, ne překlad rozhraní aplikace.
+const HUB_LANGUAGES = {
+  zh: { hreflang: "zh-Hans", hub: "/zh/", invite: "中文版：欧洲神秘地点旅游指南 →" },
+  ja: { hreflang: "ja", hub: "/ja/", invite: "日本語版：ヨーロッパのミステリースポット →" },
+  ko: { hreflang: "ko", hub: "/ko/", invite: "한국어판: 유럽 미스터리 명소 가이드 →" }
+};
+
+function storeLanguage(language) {
+  try {
+    localStorage.setItem("mysterymap-language", language);
+  } catch {}
+}
+
+function showHubInvite() {
+  const browserLanguage = navigator.language?.slice(0, 2);
+  const hub = HUB_LANGUAGES[browserLanguage];
+  if (!hub || document.querySelector("meta[name='mysterymap-page-language']")) return;
+  const link = document.createElement("a");
+  link.className = "hub-invite";
+  link.href = hub.hub;
+  link.lang = hub.hreflang;
+  link.textContent = hub.invite;
+  document.body.prepend(link);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  const pageLanguage = document.querySelector("meta[name='mysterymap-page-language']")?.content;
   const select = document.querySelector("#languageSelect");
   if (select) {
-    select.value = window.MysteryMapI18n.language;
+    select.value = HUB_LANGUAGES[pageLanguage] ? pageLanguage : window.MysteryMapI18n.language;
     select.addEventListener("change", (event) => {
-      const alternate = document.querySelector(`link[rel='alternate'][hreflang='${event.target.value}']`);
-      if (alternate) {
-        localStorage.setItem("mysterymap-language", event.target.value);
-        location.href = alternate.href;
+      const language = event.target.value;
+      const hreflang = HUB_LANGUAGES[language]?.hreflang || language;
+      const alternate = document.querySelector(`link[rel='alternate'][hreflang='${hreflang}']`);
+      if (alternate || HUB_LANGUAGES[language]) {
+        storeLanguage(language);
+        location.href = alternate ? alternate.href : HUB_LANGUAGES[language].hub;
         return;
       }
-      setLanguage(event.target.value);
+      if (HUB_LANGUAGES[pageLanguage]) {
+        location.href = language === "cs" ? "/" : `/?lang=${language}`;
+        return;
+      }
+      setLanguage(language);
     });
   }
+  showHubInvite();
+  if (HUB_LANGUAGES[pageLanguage]) return;
   setLanguage(window.MysteryMapI18n.language);
 });
