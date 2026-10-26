@@ -2960,10 +2960,10 @@
       "fr": "highgate-cemetery"
     },
     "detailPath": "/mista/highgate-cemetery/",
-    "nazev": "Highgate Cemetery",
+    "nazev": "Hřbitov Highgate v Londýně",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Londynsky viktoriansky hrbitov, kde goticka architektura a vampyrska legenda vytvorily silny mytus.",
+    "lead": "Viktoriánský hřbitov plný zarostlých hrobek, egyptské avenue a hrobu Karla Marxe - a místo, kde v 70. letech začal hon na „Highgatského upíra“.",
     "gps": {
       "lat": 51.5675,
       "lon": -0.1483
@@ -2976,21 +2976,21 @@
       "mytologie"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "střední",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silná mediální tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, západní část jen s prohlídkou",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Highgate Cemetery patri do databaze MysteryMap jako globalni misto s opakovanou verejnou asociaci: Londynsky viktoriansky hrbitov, kde goticka architektura a vampyrska legenda vytvorily silny mytus. Profil oddeluje realnou polohu, overitelne zdroje a pribehovou vrstvu.",
-      "historie": "Historicka cast vychazi ze stabilnich verejnych zdroju, geografickych dat a dohledatelnych popisu mista. U seedovych globalnich profilu je dulezite drzet jasnou stopu zdroju a pozdeji doplnovat mistni autority.",
-      "legenda": "Legendova vrstva shrnuje, proc se misto objevuje v cestovatelskych seznamech, folkloru, popkulture nebo lokalnich vypravenich. Tvrzeni jsou oznacena jako kulturni pribeh, ne jako prokazany fakt.",
-      "paranormalni": "Paranormalni vrstva zaznamenava to, co lide s mistem spojuji: zjeveni, zvuky, zvlastni atmosferu, zahadne zmizeni, posvatny respekt, anomalni krajinu nebo temnou historickou pamet podle typu lokace.",
-      "skepticke": "Skepticky ramec pocita s prirodnimi jevy, architekturou, turismem, medialnim opakovanim, nepresnou pameti a silou ocekavani. Cilem neni legendu mazat, ale jasne ukazat hranici mezi zdrojem a interpretaci."
+      "zahada": "Highgate Cemetery na severu Londýna byl otevřen roku 1839 jako jeden z „Velkolepé sedmičky“ viktoriánských hřbitovů. Západní část s Egyptskou alejí a Libanonským kruhem patří k nejatmosféričtějším místům Londýna.",
+      "historie": "Po druhé světové válce hřbitov zarostl a chátral. Od roku 1975 ho spravuje dobrovolnický spolek Friends of Highgate Cemetery. Ve východní části je pohřben Karel Marx, George Eliot či Douglas Adams.",
+      "legenda": "Roku 1970 vyvolaly zprávy o „Highgatském upírovi“ mediální šílenství. Dva samozvaní lovci upírů, Seán Manchester a David Farrant, vedli rivalitu, která skončila soudy. Na hřbitov tehdy vtrhly davy s kůly.",
+      "paranormalni": "Mezi hlášenými jevy jsou vysoká postava v kloboučku, duch ženy hledající své děti a stíny mezi hroby.",
+      "skepticke": "Upír byl produktem mediální hysterie a soupeření dvou mužů. Zarostlý hřbitov s mlhou a tmou svádí k představivosti. Skutečně byly v té době poškozovány hroby vandaly."
     },
-    "praktickeInfo": "Pred navstevou Highgate Cemetery over aktualni pristup, vlastnictvi pozemku, oteviraci dobu, pravidla foceni a bezpecnostni omezeni. Souradnice slouzi k orientaci, ne jako povoleni vstupu.",
+    "praktickeInfo": "Highgate je u stanice metra Archway (asi 15 minut chůze). Východní část lze navštívit samostatně, západní jen s prohlídkou s průvodcem, kterou je třeba rezervovat. Je to stále činný hřbitov - chovej se s respektem. Kombinuj s parkem Hampstead Heath.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -3012,12 +3012,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je misto na mape",
-        "text": "Highgate Cemetery ma silnou kombinaci dohledatelne lokace, verejne znameho pribehu a tematu umrti, mytologie. To z nej dela vhodny uzel pro globální mapu zahad."
+        "nazev": "Upír z Highgate",
+        "text": "V roce 1970 vyrazily do Highgate davy lovců upírů po televizní reportáži - jeden z nejzvláštnějších mediálních příběhů Londýna."
       },
       {
-        "nazev": "Co doplnit v dalsi redakci",
-        "text": "Dalsi krok je pridat lokalni zdroje, fotografie s jasnou licenci, presne navstevnicke informace a jazykove lokalizovane texty podle regionu."
+        "nazev": "Egyptská alej",
+        "text": "Vstup do západní části vede branou ve stylu starověkého Egypta, oblíbeného ve viktoriánské době."
       }
     ]
   },
@@ -7149,10 +7149,10 @@
       "fr": "spis-castle"
     },
     "detailPath": "/mista/spis-castle/",
-    "nazev": "Spiš Castle",
+    "nazev": "Spišský hrad",
     "zeme": "Slovensko",
     "kontinent": "Evropa",
-    "lead": "Rozsahla zricenina na kopci, kde monumentalni ruina prirozene nese historicke i legendarni vrstvy.",
+    "lead": "Jeden z největších hradních komplexů střední Evropy, rozkládající se na celém vrcholu travertinového kopce - kde se natáčel film Dračí srdce.",
     "gps": {
       "lat": 49.0006,
       "lon": 20.7683
@@ -7165,21 +7165,21 @@
       "mytologie"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Spiš Castle rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Rozsahla zricenina na kopci, kde monumentalni ruina prirozene nese historicke i legendarni vrstvy. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Spišský hrad pokrývá asi 4 hektary na vrcholu kopce nad městečkem Spišské Podhradie. Jeho zříceniny jsou viditelné z velké dálky a patří k nejfotografovanějším místům Slovenska.",
+      "historie": "Hrad vznikl ve 12. století jako sídlo uherských králů a správní středisko Spiše. Po požáru roku 1780 byl opuštěn a zchátral. Spolu se Spišskou Kapitulou a kostelem v Žehře je od roku 1993 na seznamu UNESCO.",
+      "legenda": "Pověst vypráví o Tatarech, kteří obléhali hrad ve 13. století, a o pokladu, který mají střežit duchové. Ve zříceninách se natáčely filmy Dračí srdce (1996) a Poslední legie.",
+      "paranormalni": "Návštěvníci zmiňují vítr hvízdající v ruinách, který zní jako hlasy. Ve sklepích je výstava mučících nástrojů.",
+      "skepticke": "Pověsti o pokladech jsou typické pro velké hrady. Hrad nikdy nedobyli Tataři - odolal i jejich vpádu roku 1241."
     },
-    "praktickeInfo": "Pred navstevou Spiš Castle over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Hrad je asi 15 minut autem od Levoče a 1 hodinu od Popradu (Vysoké Tatry). Vstupné je placené, prohlídka trvá 1,5-2 hodiny. Nahoře hodně fouká. Nejlepší výhled na hrad je od Spišské Kapituly nebo z Dreveníku.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7201,12 +7201,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Spiš Castle je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu hrad, mytologie a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Hrad, který neporazili Tataři",
+        "text": "Při mongolském vpádu roku 1241 hrad odolal - a stal se symbolem síly Spiše."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Filmový drak",
+        "text": "Ve filmu Dračí srdce létá drak nad hradbami Spišského hradu."
       }
     ]
   },
@@ -7293,10 +7293,10 @@
       "fr": "wawel-dragon-s-den"
     },
     "detailPath": "/mista/wawel-dragon-s-den/",
-    "nazev": "Wawel Dragon's Den",
+    "nazev": "Dračí sluj pod Wawelem",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Jeskyně pod Wawelem spojena s draci legendou a identitou Krakova.",
+    "lead": "Vápencová jeskyně pod královským hradem v Krakově, kde podle legendy žil drak - a kde dnes u řeky stojí kovový drak, který každých pár minut chrlí oheň.",
     "gps": {
       "lat": 50.054,
       "lon": 19.935
@@ -7309,21 +7309,21 @@
       "dabel"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "slavná legenda",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "malé vstupné, sezónně",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Wawel Dragon's Den rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Jeskyně pod Wawelem spojena s draci legendou a identitou Krakova. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Smocza Jama (Dračí sluj) je jeskyně ve vápencové skále Wawel nad řekou Vislou. Prohlídková trasa vede jeskyní dolů a ústí na nábřeží u sochy draka.",
+      "historie": "Jeskyně byla v historii obývaná, sloužila i jako krčma. Kovovou sochu draka od Bronisława Chromého instalovali roku 1972 a od té doby plive plyn zapálený v plamen. Wawel s královským hradem a katedrálou je součástí UNESCO.",
+      "legenda": "Drak terorizoval Krakov a požíral dobytek i panny. Chytrý švec Skuba mu podstrčil ovci nacpanou sírou. Drak ji sežral, dostal žízeň, pil vodu z Visly, až praskl. Švec si vzal za ženu královu dceru.",
+      "paranormalni": "Krakované věří, že drak je ochráncem města. Obchody jsou plné plyšových draků.",
+      "skepticke": "Legenda o drakovi je zapsána už ve 13. století v kronice Wincenta Kadłubka. V jeskyni se našly kosti pravěkých zvířat, které mohly pověst inspirovat."
     },
-    "praktickeInfo": "Pred navstevou Wawel Dragon's Den over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Vstup do jeskyně je z nádvoří Wawelu, prohlídka trvá asi 15 minut a je jednosměrná - končí na nábřeží Visly. Otevřeno je zhruba od dubna do října. Drak chrlí oheň každých několik minut. Kombinuj s prohlídkou Wawelu a katedrály, kde jsou nad vchodem kosti, které měly patřit drakovi.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7345,12 +7345,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Wawel Dragon's Den je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu mytologie, dabel a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Švec a ovce se sírou",
+        "text": "Švec Skuba porazil draka lstí: ovce plná síry draka tak vysušila, že vypil půl Visly a praskl."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Dračí kosti u katedrály",
+        "text": "U vchodu do katedrály na Wawelu visí obrovské kosti - podle legendy z draka, ve skutečnosti z pravěkých zvířat."
       }
     ]
   },
@@ -8085,10 +8085,10 @@
       "fr": "carnac-stones"
     },
     "detailPath": "/mista/carnac-stones/",
-    "nazev": "Carnac Stones",
+    "nazev": "Kamenné řady v Carnacu",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Obrovske rady menhiru v Bretani, kde pocet kamenu a nejistota ucelu vytvareji pravekou zahadu.",
+    "lead": "Přes 3 000 menhirů seřazených do kilometrových řad v Bretani - podle legendy zkamenělá římská armáda, kterou proklel svatý Kornelius.",
     "gps": {
       "lat": 47.5926,
       "lon": -3.082
@@ -8101,21 +8101,21 @@
       "mytologie"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "mytologie a esoterika",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "v létě s prohlídkou, v zimě volněji",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Carnac Stones rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Obrovske rady menhiru v Bretani, kde pocet kamenu a nejistota ucelu vytvareji pravekou zahadu. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "V okolí Carnacu v Bretani stojí přes 3 000 vztyčených kamenů v řadách dlouhých až kilometr. Jde o největší soubor menhirů na světě. Proč je pravěcí lidé postavili, zůstává záhadou.",
+      "historie": "Kameny vztyčili neolitičtí obyvatelé zhruba mezi 4500 a 3300 př. n. l. Hlavní skupiny jsou Le Ménec, Kermario a Kerlescan. Nedaleko jsou mohyly jako Tumulus Saint-Michel.",
+      "legenda": "Podle pověsti římští vojáci pronásledovali svatého Kornelia (Cornély) a ten je proměnil v kámen. Proto stojí kameny v řadách jako vojáci. Kornelius je patronem dobytka v Carnacu.",
+      "paranormalni": "Esoterici tu hledají energetické linie a kalendář sladěný se sluncem. Místní věří, že kameny v noc Vánoc jdou k moři napít se.",
+      "skepticke": "Teorie o kalendáři mají jen částečnou oporu - některé řady jsou orientovány podle slunovratů, jiné ne. Kameny pocházejí z místní žuly a mohly sloužit k rituálům nebo vymezení území."
     },
-    "praktickeInfo": "Pred navstevou Carnac Stones over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Carnac je v Bretani, asi 2 hodiny autem z Nantes a 30 minut od Vannes. Od dubna do září je vstup do řad omezený na prohlídky s průvodcem (kvůli ochraně), z cest kolem je ale vidět vše. Informační centrum Maison des Mégalithes je u Le Ménec.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -8137,12 +8137,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Carnac Stones je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu ritual, mytologie a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Zkamenělá armáda",
+        "text": "Římští vojáci honili svatého Kornelia, až je proklel - dodnes prý stojí v řadách jako kamenní vojáci."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Kameny, které chodí pít",
+        "text": "Bretaňská pověst praví, že o Vánocích kameny odcházejí k moři napít se a nechávají za sebou poklady."
       }
     ]
   },
@@ -8301,10 +8301,10 @@
       "fr": "rennes-le-chateau"
     },
     "detailPath": "/mista/rennes-le-chateau/",
-    "nazev": "Rennes-le-Chateau",
+    "nazev": "Rennes-le-Château",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Vesnice proslavena modernimi teoriemi o pokladech, tajnych rodech a spornych historickych vazbach.",
+    "lead": "Vesnička v Pyrenejích, kde chudý farář Saunière náhle zbohatl - a z jehož tajemství vznikla legenda o pokladu templářů a pokrevní linii Ježíše.",
     "gps": {
       "lat": 42.9281,
       "lon": 2.2633
@@ -8318,21 +8318,21 @@
       "konspirace"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "konspirační teorie",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "vesnice volně, muzeum placené",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Rennes-le-Chateau rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Vesnice proslavena modernimi teoriemi o pokladech, tajnych rodech a spornych historickych vazbach. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Rennes-le-Château je malá vesnice v departementu Aude. Farář Bérenger Saunière, který sem přišel roku 1885, za několik let postavil vilu, věž Magdala a vyzdobil kostel - za peníze, jejichž původ byl záhadou.",
+      "historie": "Saunière renovoval kostel Máří Magdalény a nad vchod nechal napsat „Terribilis est locus iste“ (Toto místo je hrozné). U vchodu stojí socha démona Asmodea. Roku 1910 byl biskupem potrestán za obchod s mešemi.",
+      "legenda": "V 50.-60. letech 20. století rozšířili Noël Corbu a Pierre Plantard příběh o pokladu, který Saunière našel. Později z toho vznikla kniha Svatá krev, svatý grál a román Šifra mistra Leonarda.",
+      "paranormalni": "Hledači pokladů po desetiletí kopali ve vesnici, až obec kopání zakázala. Esoterici v kostele hledají šifry a symboly.",
+      "skepticke": "Historici doložili, že Saunière zbohatl prodejem mší (přijímal peníze za tisíce mší, které nesloužil). Dokumenty „Převorství Sionu“ byly podvrhem Pierra Plantarda, který to sám přiznal u soudu."
     },
-    "praktickeInfo": "Pred navstevou Rennes-le-Chateau over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Rennes-le-Château je asi 1 hodinu autem z Carcassonne. Kostel a muzeum Saunièrovy vily jsou otevřené po většinu roku. Kopání je zakázané. Výhled z věže Magdala na Pyreneje je nádherný.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -8354,12 +8354,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Rennes-le-Chateau je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu templari, tajne-spolecnosti, konspirace a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Farář, který zbohatl",
+        "text": "Saunière místo pokladu nabízel věřícím po celé Evropě mše - a za peníze postavil vilu s věží."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Démon u vchodu",
+        "text": "Socha démona Asmodea u vstupu do kostela je jednou z nejzvláštnějších výzdob francouzských kostelů."
       }
     ]
   },
@@ -8446,10 +8446,10 @@
       "fr": "tintagel-castle"
     },
     "detailPath": "/mista/tintagel-castle/",
-    "nazev": "Tintagel Castle",
+    "nazev": "Hrad Tintagel",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Pobrezni hrad spojovany s krale Artusem, kde ruina a more posiluji legendu.",
+    "lead": "Zřícenina na útesu v Cornwallu, kde se podle legendy narodil král Artuš - a pod kterou je Merlinova jeskyně, do níž vtéká moře.",
     "gps": {
       "lat": 50.668,
       "lon": -4.759
@@ -8462,21 +8462,21 @@
       "hrad"
     ],
     "indexTajemna": 83,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "artušovská legenda",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká (vítr, schody)",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tintagel Castle rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Pobrezni hrad spojovany s krale Artusem, kde ruina a more posiluji legendu. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Tintagel leží na skalnatém poloostrově na severním pobřeží Cornwallu. Most otevřený roku 2019 spojuje pevninu s ostrovní částí hradu. Na útesu stojí bronzová socha „Gallos“, připomínající Artuše.",
+      "historie": "Ruiny hradu jsou ze 13. století, postavil ho Richard, hrabě z Cornwallu - pravděpodobně právě kvůli slávě artušovské legendy. Archeologové však našli doklady osídlení z 5.-7. století, kdy tu bylo bohaté obchodní středisko s dovozem keramiky ze Středomoří.",
+      "legenda": "Geoffrey z Monmouthu ve 12. století napsal, že Artuš byl počat v Tintagelu, když Merlin proměnil krále Uthera v podobu manžela Ygerny. Merlinova jeskyně pod hradem je s legendou spojována.",
+      "paranormalni": "Návštěvníci popisují v Merlinově jeskyni pocit kouzla a v ruinách mlhu, která přichází od moře během minut.",
+      "skepticke": "Artuš je pravděpodobně legendární postava. Geoffrey z Monmouthu psal příběhy, ne historii. Skutečná historie Tintagelu je ale zajímavá - šlo o významné sídlo raného středověku."
     },
-    "praktickeInfo": "Pred navstevou Tintagel Castle over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Tintagel je asi 1 hodinu autem z Newquay a 4,5 hodiny z Londýna. Vstupenky na čas je vhodné rezervovat u English Heritage. Cesta na hrad má mnoho schodů a za větru je nepříjemná. Merlinova jeskyně je přístupná jen při odlivu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -8498,12 +8498,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Tintagel Castle je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu mytologie, hrad a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Most přes propast",
+        "text": "Moderní most vede přes mezeru mezi útesy, kterou kdysi spojovala úzká šíje. Uprostřed je mezera 4 cm jako symbol hranice mezi pevninou a ostrovem."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Merlinova jeskyně",
+        "text": "Do jeskyně pod hradem při přílivu vtéká moře. Tennyson v ní umístil scénu, kdy Merlin najde malého Artuše."
       }
     ]
   },
@@ -9166,10 +9166,10 @@
       "fr": "delphi"
     },
     "detailPath": "/mista/delphi/",
-    "nazev": "Delphi",
+    "nazev": "Delfy",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Anticka vestirna, kde politicka rozhodnuti, posvatny prostor a prirodni krajina vytvorily centrum proroctvi.",
+    "lead": "Svatyně Apollóna na svahu Parnasu, kde Pýthie v transu věštila králům osud - a kde podle Řeků ležel „pupek světa“.",
     "gps": {
       "lat": 38.4824,
       "lon": 22.501
@@ -9182,21 +9182,21 @@
       "ritual"
     ],
     "indexTajemna": 84,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "starověká věštírna",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká (horko, svah)",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Delphi rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Anticka vestirna, kde politicka rozhodnuti, posvatny prostor a prirodni krajina vytvorily centrum proroctvi. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Delfy byly nejvýznamnější věštírnou antického světa. Pýthie, Apollónova kněžka, seděla na trojnožce v chrámu a pronášela věštby, které kněží vykládali. Ptali se jí králové i obyčejní lidé.",
+      "historie": "Svatyně vzkvétala od 8. století př. n. l. a fungovala až do konce 4. století n. l., kdy ji zavřel císař Theodosius. Kromě chrámu Apollóna tu je divadlo, stadion a pokladnice řeckých městských států. Od roku 1987 je na seznamu UNESCO.",
+      "legenda": "Zeus vypustil dva orly z opačných konců světa a v Delfách se setkali. Proto zde ležel omfalos, kámen „pupku světa“. Apollón tu měl zabít draka Pýthóna.",
+      "paranormalni": "Starověké prameny popisují, že Pýthie věštila v omamném stavu. Kroisovi prý věštba řekla, že zničí velkou říši - a zničil tu svou.",
+      "skepticke": "Geologové objevili pod chrámem zlom a uvažují o výronech plynů, jako je etylen, které mohly vyvolat trans. Teorie je sporná. Věštby byly často dvojznačné, takže „vždy platily“."
     },
-    "praktickeInfo": "Pred navstevou Delphi over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Delfy jsou asi 2,5 hodiny autem z Atén, jezdí sem autobusy i jednodenní zájezdy. Archeologické naleziště a muzeum mají společnou vstupenku. Svah je strmý a v létě velmi horký - přijď ráno. Svatyně Athény Pronaie s tholem je kousek pod hlavním areálem a je zdarma.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -9218,12 +9218,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Delphi je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu mytologie, ritual a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Věštba pro Kroisa",
+        "text": "Lýdský král se zeptal, zda má napadnout Persii. Věštba řekla, že zničí velkou říši - a zničila se jeho vlastní."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Pupek světa",
+        "text": "Kámen omfalos v muzeu v Delfách označoval místo, kde se podle Řeků setkali Diovi orli - střed světa."
       }
     ]
   },
@@ -21360,10 +21360,10 @@
       "fr": "cachtice-castle"
     },
     "detailPath": "/mista/cachtice-castle/",
-    "nazev": "Cachtice Castle",
+    "nazev": "Čachtický hrad",
     "zeme": "Slovensko",
     "kontinent": "Evropa",
-    "lead": "Zricenina spojovana s Alzbetou Bathory, kde realna historie a krvava legenda tezko oddeluji hranice.",
+    "lead": "Zřícenina hradu Alžběty Báthoryové, „krvavé grófky“, obviněné z vraždy desítek dívek - a podle pověsti z koupelí v jejich krvi.",
     "gps": {
       "lat": 48.724,
       "lon": 17.76
@@ -21376,21 +21376,21 @@
       "duchove"
     ],
     "indexTajemna": 84,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silná lidová tradice",
+    "historickaDolozenost": "dobrá (proces), legenda nedoložená",
+    "nebezpecnost": "nízká",
+    "pristupnost": "malé vstupné, výstup pěšky",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cachtice Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Zricenina spojovana s Alzbetou Bathory, kde realna historie a krvava legenda tezko oddeluji hranice. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Čachtický hrad je zřícenina na vápencovém kopci nad obcí Čachtice na západě Slovenska. Proslavila ho Alžběta Báthoryová (1560-1614), uherská šlechtična, kterou Guinnessova kniha rekordů dlouho uváděla jako nejplodnější vražedkyni historie.",
+      "historie": "Hrad vznikl ve 13. století na obranu uherské hranice. Alžběta Báthoryová ho získala jako svatební dar. Roku 1610 byla na příkaz palatina Jiřího Thurza zatčena a obviněna z mučení a zabíjení služebných a dívek ze šlechtických rodin. Její pomocníci byli popraveni, ona sama zůstala bez soudu uvězněna v zazděných komnatách hradu až do smrti roku 1614. Od roku 1708 je hrad zříceninou.",
+      "legenda": "Pověst tvrdí, že se Báthoryová koupala v krvi panen, aby si zachovala mládí. Svědkové hovořili až o 650 obětech. Postava „krvavé grófky“ se stala vzorem pro upírské příběhy a filmy, například Bathory (2008) Juraje Jakubiska.",
+      "paranormalni": "Místní tvrdí, že za nocí se v ruinách objevuje žena v bílém a ozývají se výkřiky. Kolem hradu se konají noční prohlídky s historkami o grófce.",
+      "skepticke": "Koupele v krvi se v soudních výpovědích neobjevují - legenda vznikla až v 18. století. Někteří historici upozorňují, že proces mohl být i politicky motivovaný: šlo o majetek a vliv bohaté vdovy. Násilí na služebných je ale doložené desítkami svědectví."
     },
-    "praktickeInfo": "Pred navstevou Cachtice Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Čachtice jsou asi 1,5 hodiny autem z Bratislavy, nejbližší větší vlakové nádraží je Nové Mesto nad Váhom. Na hrad vede pěší stezka z obce (asi 30-40 minut) nebo kratší cesta z parkoviště u Višňového. Vstupné je malé. Kopec je chráněnou přírodní rezervací.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21412,12 +21412,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Cachtice Castle rozsiruje mapu o motivy vrazdy, duchove a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Zazděná grófka",
+        "text": "Alžběta Báthoryová strávila poslední čtyři roky života v komnatě se zazděnými okny a dveřmi, kudy jí podávali jen jídlo."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Krev a mládí",
+        "text": "Legenda o koupelích v krvi vznikla až dlouho po její smrti - a z Báthoryové udělala jednu z nejslavnějších temných postav Evropy."
       }
     ]
   },
@@ -22080,10 +22080,10 @@
       "fr": "ksiaz-castle"
     },
     "detailPath": "/mista/ksiaz-castle/",
-    "nazev": "Ksiaz Castle",
+    "nazev": "Zámek Książ",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Zamek v Dolnim Slezsku spojovany s podzemnim projektem Riese a valecnymi tajemstvimi.",
+    "lead": "Třetí největší zámek Polska, pod kterým nacisté začali hloubit tajné tunely projektu Riese - a kde se dodnes hledá „zlatý vlak“.",
     "gps": {
       "lat": 50.8422,
       "lon": 16.2925
@@ -22096,21 +22096,21 @@
       "valka"
     ],
     "indexTajemna": 81,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "konspirační teorie",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, podzemí s prohlídkou",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ksiaz Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Zamek v Dolnim Slezsku spojovany s podzemnim projektem Riese a valecnymi tajemstvimi. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Książ (německy Fürstenstein) stojí na skále nad roklí u Valbřichu v Dolním Slezsku. Pod zámkem jsou chodby vyražené za druhé světové války v rámci tajného projektu Riese.",
+      "historie": "Zámek vlastnil rod Hochbergů. Jeho nejslavnější obyvatelkou byla princezna Daisy, anglická aristokratka a hvězda společnosti počátku 20. století. Roku 1941 zámek zabavili nacisté a začali ho přestavovat, možná jako jedno ze sídel Hitlera. Podzemí razili vězni koncentračního tábora Gross-Rosen.",
+      "legenda": "Okolo projektu Riese kolují teorie o ukrytých pokladech a o „zlatém vlaku“ nacistů naloženém zlatem, který měl zmizet v tunelu u Valbřichu na konci války.",
+      "paranormalni": "Návštěvníci zmiňují ducha princezny Daisy v komnatách a tísnivou atmosféru v podzemí.",
+      "skepticke": "V roce 2015 hlásili dva hledači objev zlatého vlaku pod zemí. Vykopávky v roce 2016 nic nenašly. Účel tunelů zůstává nejasný, ale nejde o nadpřirozenou záhadu - spíše o nedokončený válečný projekt."
     },
-    "praktickeInfo": "Pred navstevou Ksiaz Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Książ je asi 1 hodinu autem z Vratislavi, nejbližší město je Valbřich. Zámek a zahrady jsou placené, podzemní trasa je zvlášť a jen s průvodcem. V okolí jsou další podzemní komplexy Riese (Osówka, Włodarz).",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -22132,12 +22132,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Ksiaz Castle rozsiruje mapu o motivy tajne-spolecnosti, valka a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Princezna Daisy",
+        "text": "Anglická šlechtična Daisy z Plessu byla hvězdou evropské smetánky. Její deníky dnes čtou lidé po celém světě."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Zlatý vlak",
+        "text": "Legenda o nacistickém vlaku plném zlata v tunelu u Valbřichu vzbudila v roce 2015 mezinárodní pozornost - zatím bez nálezu."
       }
     ]
   },
@@ -48995,10 +48995,10 @@
       "fr": "tomar-convent-of-christ"
     },
     "detailPath": "/mista/tomar-convent-of-christ/",
-    "nazev": "Tomar Convent of Christ",
+    "nazev": "Klášter Krista v Tomaru",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Centrum templarske a Kristovy rady v Portugalsku, silny historicky uzel radu a symbolu.",
+    "lead": "Hrad templářů s kruhovou kaplí podle chrámu v Jeruzalémě, kde rytíři prý mohli poslouchat mši přímo z koní - a kde templáři přežili zrušení řádu pod novým jménem.",
     "gps": {
       "lat": 39.604,
       "lon": -8.418
@@ -49011,21 +49011,21 @@
       "tajne-spolecnosti"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "templářská legenda",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Tomar Convent of Christ rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Centrum templarske a Kristovy rady v Portugalsku, silny historicky uzel radu a symbolu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Convento de Cristo v Tomaru ve středním Portugalsku je hradní a klášterní komplex, který postavili templáři. Jeho srdcem je Charola, šestnáctiboká rotunda inspirovaná chrámem Božího hrobu v Jeruzalémě.",
+      "historie": "Templáři pod vedením Gualdima Paise založili hrad roku 1160. Když papež roku 1312 řád zrušil, portugalský král Diniz z templářů a jejich majetku vytvořil Kristův řád. Ten pak financoval portugalské zámořské objevy - kříž řádu byl na plachtách lodí Vasca da Gamy. Od roku 1983 je klášter na seznamu UNESCO.",
+      "legenda": "Podle tradice byla rotunda Charola postavena tak, aby rytíři mohli sledovat mši ze sedla. Templáři prý v Tomaru ukryli poklad a tajemství, které unikly pronásledování ve Francii.",
+      "paranormalni": "Okno kapituly v manuelském stylu je plné symbolů - lan, korálů, mořských řas - a lidé v nich hledají šifry. Tomar je centrem templářských legend v Portugalsku.",
+      "skepticke": "Přechod templářů do Kristova řádu je doložený, poklad nikoli. Historka o mši z koňského sedla je spíše oblíbená legenda než doložený zvyk."
     },
-    "praktickeInfo": "Pred navstevou Tomar Convent of Christ over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Tomar je asi 1,5-2 hodiny vlakem z Lisabonu. Klášter je na kopci nad městem, asi 15 minut chůze. Prohlídka trvá 2 hodiny. V červenci se každé 4 roky koná slavnost Festa dos Tabuleiros. Kombinuj s Fátimou a Batalhou.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49047,12 +49047,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Tomar Convent of Christ pridava motivy templari, tajne-spolecnosti a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Templáři pod novým jménem",
+        "text": "Portugalský král templáře nezničil, ale přejmenoval na Kristův řád - a jejich kříž pak doplul až do Indie."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Mše ze sedla",
+        "text": "Kruhová Charola měla podle legendy umožnit rytířům sledovat mši, aniž by sesedli z koní."
       }
     ]
   },
