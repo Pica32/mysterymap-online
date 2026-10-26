@@ -139,9 +139,13 @@
   <url><loc>https://mysterymap.online/cs/mista/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/wolf-s-lair/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hill-of-crosses/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/kaali-crater/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/suomenlinna/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/borgvattnet-vicarage/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/trolltunga/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/maeshowe/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/callanish-stones/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dunwich/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/carnac-stones/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/lascaux-cave/</loc></url>
@@ -171,6 +175,8 @@
   <url><loc>https://mysterymap.online/cs/mista/bandiagara-escarpment/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/orava-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cachtice-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/trencin-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/devin-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/trosky-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/karlstejn-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/loket-castle/</loc></url>
@@ -183,11 +189,15 @@
   <url><loc>https://mysterymap.online/cs/mista/neuschwanstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/frankenstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/beelitz-heilstatten/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/burg-kreuzenstein/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/chateau-de-gruyeres/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/bomarzo-monster-park/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/villa-palagonia/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/castel-del-monte/</loc></url>
@@ -476,9 +486,13 @@
   <url><loc>https://mysterymap.online/zh/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/wolf-s-lair/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hill-of-crosses/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/kaali-crater/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/suomenlinna/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/borgvattnet-vicarage/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/trolltunga/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/maeshowe/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/callanish-stones/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dunwich/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/carnac-stones/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/lascaux-cave/</loc></url>
@@ -499,6 +513,8 @@
   <url><loc>https://mysterymap.online/zh/places/acropolis-of-athens/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/orava-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cachtice-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/trencin-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/devin-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/trosky-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/karlstejn-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/loket-castle/</loc></url>
@@ -511,11 +527,15 @@
   <url><loc>https://mysterymap.online/zh/places/neuschwanstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/frankenstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/beelitz-heilstatten/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/burg-kreuzenstein/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/chateau-de-gruyeres/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/bomarzo-monster-park/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/villa-palagonia/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/castel-del-monte/</loc></url>
@@ -606,9 +626,13 @@
   <url><loc>https://mysterymap.online/ja/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/wolf-s-lair/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hill-of-crosses/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/kaali-crater/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/suomenlinna/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/borgvattnet-vicarage/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/trolltunga/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/maeshowe/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/callanish-stones/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dunwich/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/carnac-stones/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/lascaux-cave/</loc></url>
@@ -629,6 +653,8 @@
   <url><loc>https://mysterymap.online/ja/places/acropolis-of-athens/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/orava-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cachtice-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/trencin-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/devin-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/trosky-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/karlstejn-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/loket-castle/</loc></url>
@@ -641,11 +667,15 @@
   <url><loc>https://mysterymap.online/ja/places/neuschwanstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/frankenstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/beelitz-heilstatten/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/burg-kreuzenstein/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/chateau-de-gruyeres/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/bomarzo-monster-park/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/villa-palagonia/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/castel-del-monte/</loc></url>
@@ -736,9 +766,13 @@
   <url><loc>https://mysterymap.online/ko/places/wieliczka-salt-mine/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/wolf-s-lair/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hill-of-crosses/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/kaali-crater/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/suomenlinna/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/borgvattnet-vicarage/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/trolltunga/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/maeshowe/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/callanish-stones/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dunwich/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/carnac-stones/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/mont-saint-michel/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/lascaux-cave/</loc></url>
@@ -759,6 +793,8 @@
   <url><loc>https://mysterymap.online/ko/places/acropolis-of-athens/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/orava-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cachtice-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/trencin-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/devin-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/trosky-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/karlstejn-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/loket-castle/</loc></url>
@@ -771,11 +807,15 @@
   <url><loc>https://mysterymap.online/ko/places/neuschwanstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/frankenstein-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/beelitz-heilstatten/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hallstatt-ossuary/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/burg-kreuzenstein/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/chateau-de-gruyeres/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/bomarzo-monster-park/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/villa-palagonia/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/castel-del-monte/</loc></url>
