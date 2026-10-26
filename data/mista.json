@@ -7077,10 +7077,10 @@
       "fr": "kost-castle"
     },
     "detailPath": "/mista/kost-castle/",
-    "nazev": "Kost Castle",
+    "nazev": "Hrad Kost",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Goticky hrad v Ceskem raji s pevnostni atmosferou a dobrym napojenim na legendy krajiny.",
+    "lead": "Jeden z nejzachovalejších gotických hradů v Česku, ukrytý v údolí Českého ráje - s mučírnou a pověstí o Bílé paní z rodu Šelmberků.",
     "gps": {
       "lat": 50.4907,
       "lon": 15.1357
@@ -7093,21 +7093,21 @@
       "legenda"
     ],
     "indexTajemna": 72,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kost Castle rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Goticky hrad v Ceskem raji s pevnostni atmosferou a dobrym napojenim na legendy krajiny. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Hrad Kost stojí na pískovcové skále v Plakánkově údolí. Na rozdíl od jiných hradů nikdy nebyl dobyt a nikdy úplně nezpustl. Jméno má prý podle toho, že je pevný „jako kost“.",
+      "historie": "Hrad vznikl ve 14. století za pánů z Vartenberka. Později patřil Šelmberkům, Biberštejnům a Lobkovicům. Dnes ho vlastní rod Kinských. V hradní věži je hluboká hladomorna.",
+      "legenda": "Pověst vypráví o Bílé paní, šlechtičně, která byla krutá k poddaným a po smrti nenachází klid. Další pověsti mluví o pokladu ukrytém v pískovcových skalách pod hradem.",
+      "paranormalni": "Na hradě se konají noční prohlídky s historkami o duchu Bílé paní. V mučírně jsou repliky mučicích nástrojů.",
+      "skepticke": "Pověsti o Bílých paních jsou běžné na českých hradech. Kost nebyl dobyt pravděpodobně proto, že nebyl strategicky důležitý."
     },
-    "praktickeInfo": "Pred navstevou Kost Castle over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Kost je asi 1,5 hodiny autem z Prahy, blízko Sobotky a Jičína. Prohlídky s průvodcem jsou v sezóně (duben-říjen). Kolem vede turistická trasa Plakánkovým údolím. Kombinuj s Troskami a Prachovskými skalami.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7129,12 +7129,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Kost Castle je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu hrad, legenda a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Pevný jako kost",
+        "text": "Hrad nikdy nikdo nedobyl - lidová etymologie z toho udělala základ jeho jména."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Krutá Bílá paní",
+        "text": "Bílá paní z Kosti je podle pověsti duchem šlechtičny, která trýznila poddané."
       }
     ]
   },
@@ -7221,10 +7221,10 @@
       "fr": "bojnice-castle"
     },
     "detailPath": "/mista/bojnice-castle/",
-    "nazev": "Bojnice Castle",
+    "nazev": "Zámek Bojnice",
     "zeme": "Slovensko",
     "kontinent": "Evropa",
-    "lead": "Romanticky zamek s festivalovou a pohadkovou reputaci, vhodny pro jemnejsi tajemnou vrstvu.",
+    "lead": "Pohádkový zámek na Slovensku přestavěný podle francouzských zámků na Loiře - kde se každé jaro koná Mezinárodní festival duchů a strašidel.",
     "gps": {
       "lat": 48.7797,
       "lon": 18.5778
@@ -7237,21 +7237,21 @@
       "legenda"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silná místní tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bojnice Castle rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Romanticky zamek s festivalovou a pohadkovou reputaci, vhodny pro jemnejsi tajemnou vrstvu. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Bojnický zámek na středním Slovensku vypadá jako zámek z pohádky. Pod ním je přírodní jeskyně a v hradním nádvoří roste prastará lípa, kterou podle pověsti zasadil Matyáš Korvín.",
+      "historie": "Původní hrad je doložen od roku 1113. Na přelomu 19. a 20. století ho hrabě Ján Pálffy přestavěl v romantickém stylu podle zámků na Loiře. Dnes je pobočkou Slovenského národního muzea.",
+      "legenda": "Mezi duchy patří Bílá paní, nešťastně zamilovaná dívka, která podle pověsti zemřela na zámku, a duch hraběte Pálffyho, který prý nechce opustit své sbírky.",
+      "paranormalni": "Každý rok v květnu se koná Mezinárodní festival duchů a strašidel, kdy zámek obsadí herci v kostýmech. Návštěvníci hlásí zjevení v hradní jeskyni.",
+      "skepticke": "Festival je divadelní akce, ne paranormální jev. Pověsti o otrávené ženě a zakletých pokladech jsou typické pro šlechtická sídla."
     },
-    "praktickeInfo": "Pred navstevou Bojnice Castle over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Bojnice jsou asi 2,5 hodiny autem z Bratislavy, blízko Prievidze. Prohlídky jsou s průvodcem celoročně (kromě pondělí). Festival duchů je v květnu a vstupenky se rychle vyprodávají. Vedle zámku je zoo a lázně.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7273,12 +7273,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Bojnice Castle je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu duchove, legenda a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Festival duchů",
+        "text": "Každý květen zámek ožívá desítkami duchů, čarodějnic a strašidel - jedna z nejoblíbenějších akcí na Slovensku."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Lípa krále Matyáše",
+        "text": "Prastará lípa u zámku je podle pověsti stará přes 600 let a pamatuje uherského krále."
       }
     ]
   },
@@ -21576,10 +21576,10 @@
       "fr": "trosky-castle"
     },
     "detailPath": "/mista/trosky-castle/",
-    "nazev": "Trosky Castle",
+    "nazev": "Hrad Trosky",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Dve veze na sopecnych sukach v Ceskem raji, prirozene dramaticke misto pro legendy a temnou siluetu.",
+    "lead": "Zřícenina se dvěma věžemi na čedičových sopouchách - Baba a Panna - symbol Českého ráje, viditelný z desítek kilometrů.",
     "gps": {
       "lat": 50.515,
       "lon": 15.23
@@ -21592,21 +21592,21 @@
       "dabel"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Trosky Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Dve veze na sopecnych sukach v Ceskem raji, prirozene dramaticke misto pro legendy a temnou siluetu. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Trosky stojí na dvou čedičových sopouchách, zbytcích třetihorní sopky. Na vyšší je věž Panna (57 m), na nižší Baba (47 m). Silueta je symbolem Českého ráje.",
+      "historie": "Hrad postavil Čeněk z Vartenberka ve druhé polovině 14. století. Za husitských válek ho držela katolická strana. Za třicetileté války byl dobyt a vypálen a od té doby je zříceninou. V 19. století se stal oblíbeným cílem romantických výletníků.",
+      "legenda": "Pověst vypráví o Ofce z Bukovan, šlechtičně, která po smrti manžela proměnila hrad v loupežnické hnízdo. Jiné pověsti mluví o pokladu ukrytém ve skále mezi věžemi.",
+      "paranormalni": "Místní tvrdí, že za bouřek lze na věžích spatřit bílou postavu. Vrchol Panny je nepřístupný a čarovný už svou nedostupností.",
+      "skepticke": "Názvy věží jsou lidové, nemají spojení s konkrétními ženami. Pověst o loupežnicích má nejasné historické jádro. Sopouchy jsou geologický útvar, vznik vysvětluje vulkanismus."
     },
-    "praktickeInfo": "Pred navstevou Trosky Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Trosky jsou asi 1,5 hodiny autem z Prahy, nejbližší železniční zastávka je Ktová nebo Borek pod Troskami. Pěšky se na hrad jde asi 20 minut od parkoviště. Otevřeno je od jara do podzimu, na nádvoří a na věž Baba je přístup. Výhled sahá až ke Krkonoším.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21628,12 +21628,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Trosky Castle rozsiruje mapu o motivy hrad, dabel a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Panna a Baba",
+        "text": "Vyšší věž se jmenuje Panna, nižší Baba - podle lidového vyprávění se vyšší věž nikdy nevzdala."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Sopka pod hradem",
+        "text": "Hrad stojí na pozůstatcích sopky staré miliony let - čedičové sloupy dávají Troskám jejich nezaměnitelný tvar."
       }
     ]
   },
@@ -21720,10 +21720,10 @@
       "fr": "loket-castle"
     },
     "detailPath": "/mista/loket-castle/",
-    "nazev": "Loket Castle",
+    "nazev": "Hrad Loket",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Kamenny hrad nad Ohri s vezenim a stredovekou tvrdosti, vhodny pro temnou i filmovou vrstvu.",
+    "lead": "Gotický hrad nad meandrem Ohře, kde se natáčela bondovka Casino Royale - a kde je uložen „zakletý purkrabí“, meteorit, který podle pověsti spadl z nebe.",
     "gps": {
       "lat": 50.1865,
       "lon": 12.7546
@@ -21736,21 +21736,21 @@
       "veznice"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Loket Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Kamenny hrad nad Ohri s vezenim a stredovekou tvrdosti, vhodny pro temnou i filmovou vrstvu. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Hrad Loket stojí na skále nad řekou Ohří, která město obtéká jako loket. V hradě je uložen železný meteorit „Zakletý purkrabí“, který podle pověsti spadl z nebe a měl v sobě uvězněného krutého purkrabího.",
+      "historie": "Hrad založili ve 12. století Přemyslovci. Jako malý byl tu prý vězněn budoucí císař Karel IV. jeho otcem Janem Lucemburským. V letech 1822-1948 sloužil hrad jako vězení. Goethe sem často jezdil.",
+      "legenda": "Purkrabí, který týral poddané, byl potrestán tím, že se proměnil v kus železa - nebo ho do železa zaklel čaroděj. Meteorit vážil přes 100 kg, jeho větší část byla roku 1811 odvezena do Vídně.",
+      "paranormalni": "Na hradě se vypráví o duchu purkrabího a v mučírně je výstava s figurínami. Návštěvníci hledají v hradních sklepích stopy po bývalém vězení.",
+      "skepticke": "Meteorit je skutečný - jde o železný meteorit, který skutečně spadl z vesmíru, jen ne s purkrabím uvnitř. Historka o malém Karlovi je doložená pouze částečně."
     },
-    "praktickeInfo": "Pred navstevou Loket Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Loket je asi 20 minut autem z Karlových Varů, jezdí sem vlaky i autobusy. Hrad je otevřený celoročně, prohlídka trvá kolem hodiny. Na nádvoří se natáčel Casino Royale (2006). Kolem vede naučná stezka podél Ohře.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21772,12 +21772,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Loket Castle rozsiruje mapu o motivy hrad, veznice a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Zakletý purkrabí",
+        "text": "Kus železa z nebe podle pověsti ukrývá krutého purkrabího. Ve skutečnosti jde o meteorit z vesmíru."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Bond v Lokti",
+        "text": "Hrad hrál v Casino Royale lázně Hotel Splendide v Černé Hoře."
       }
     ]
   },
@@ -21792,10 +21792,10 @@
       "fr": "zvikov-castle"
     },
     "detailPath": "/mista/zvikov-castle/",
-    "nazev": "Zvikov Castle",
+    "nazev": "Hrad Zvíkov",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Hrad na soutoku Vltavy a Otavy s povestmi o Zvikovskem raraskovi a silnou nocni atmosferou.",
+    "lead": "„Král českých hradů“ na soutoku Vltavy a Otavy - s věží Markomankou, kde podle pověsti sídlí skřítek Zvíkovský rarášek, který mate a straší.",
     "gps": {
       "lat": 49.438,
       "lon": 14.198
@@ -21808,21 +21808,21 @@
       "hrad"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silná místní tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Zvikov Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Hrad na soutoku Vltavy a Otavy s povestmi o Zvikovskem raraskovi a silnou nocni atmosferou. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Hrad Zvíkov stojí na ostrohu nad soutokem Vltavy a Otavy. Jeho nejstarší věž Markomanka je postavena z obrovských kamenných kvádrů. Hrad patří k nejstrašidelnějším místům v Česku.",
+      "historie": "Zvíkov založil ve 13. století Přemysl Otakar I. nebo Václav I. jako královský hrad. Později patřil Rožmberkům. Dnes je státním hradem a díky přehradě Orlík je obklopen vodou.",
+      "legenda": "Zvíkovský rarášek je malý skřítek, který způsobuje nehody, smrt a zmatky. Kdo přenocuje ve věži Markomance, má podle pověsti do roka zemřít. Proto se tam traduje „zákaz spaní“.",
+      "paranormalni": "Mnoho příběhů o rarášku zaznamenali i průvodci: zhasínající světla, padající předměty a nesrozumitelné hlasy. Klicperova hra a film Zvíkovský rarášek (1957) z něj udělaly národní postavu.",
+      "skepticke": "Rarášek je lidová postava, kterou proslavila Klicperova hra. Nehody na hradech lze vysvětlit starými konstrukcemi a nevhodným chováním návštěvníků."
     },
-    "praktickeInfo": "Pred navstevou Zvikov Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Zvíkov je asi 1,5 hodiny autem z Prahy, blízko Písku. Prohlídka je s průvodcem nebo samostatná podle sezóny. Na hrad vede most přes Otavu. Kombinuj se zámkem Orlík, kam lze dojet i lodí.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21844,12 +21844,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Zvikov Castle rozsiruje mapu o motivy duchove, hrad a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Noc v Markomance",
+        "text": "Podle pověsti, kdo přespí ve věži Markomance, do roka zemře - nikdo to už dlouho nezkoušel."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Rarášek z divadla",
+        "text": "Klicperova veselohra Zvíkovský rarášek udělala ze skřítka slavnou postavu české kultury."
       }
     ]
   },
@@ -21936,10 +21936,10 @@
       "fr": "trakai-island-castle"
     },
     "detailPath": "/mista/trakai-island-castle/",
-    "nazev": "Trakai Island Castle",
+    "nazev": "Hrad Trakai",
     "zeme": "Litva",
     "kontinent": "Evropa",
-    "lead": "Ostrovni hrad v jezerni krajine, kde voda a cihlová architektura posiluji izolovany historicky dojem.",
+    "lead": "Jediný hrad na ostrově ve východní Evropě, z červených cihel uprostřed jezera Galvė - sídlo litevských velkoknížat a karaimských stráží.",
     "gps": {
       "lat": 54.6528,
       "lon": 24.9347
@@ -21952,21 +21952,21 @@
       "ostrov"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Trakai Island Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Ostrovni hrad v jezerni krajine, kde voda a cihlová architektura posiluji izolovany historicky dojem. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Ostrovní hrad Trakai stojí na ostrůvku v jezeře Galvė asi 30 km od Vilniusu. K hradu vede dřevěný most.",
+      "historie": "Hrad začal stavět velkokníže Kęstutis ve 14. století a dokončil jeho syn Vytautas Veliký. Po bitvě u Grunwaldu (1410) ztratil vojenský význam a zchátral. V 20. století byl rekonstruován. Okolní Trakai je domovem Karaimů, turkického národa, kterého Vytautas přivedl z Krymu jako stráž.",
+      "legenda": "Pověst vypráví o Vytautově pokladu ukrytém na dně jezera a o tom, že velkokníže zemřel v hradě roku 1430, když mu nedorazila královská koruna.",
+      "paranormalni": "Za mlhavých rán vypadá hrad, jako by se vznášel nad jezerem. Místní vyprávějí o duchu velkoknížete na hradbách.",
+      "skepticke": "Vytautova smrt v Trakai je doložená, ale spojení s nedoručenou korunou je zjednodušení. Hrad je z velké části rekonstrukcí z 20. století."
     },
-    "praktickeInfo": "Pred navstevou Trakai Island Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Trakai je asi 40 minut autobusem nebo vlakem z Vilniusu. Hrad je placený, v jeho muzeu je historie Litvy. Ochutnej karaimské pirožky kibinai v místních restauracích. Kolem jezera lze půjčit loďky.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21988,12 +21988,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Trakai Island Castle rozsiruje mapu o motivy hrad, ostrov a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Karaimští strážci",
+        "text": "Velkokníže Vytautas přivedl z Krymu Karaimy, kteří tu žijí dodnes - jejich dřevěné domy mají tři okna do ulice."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Koruna, která nedorazila",
+        "text": "Vytautas měl být korunován králem, ale korunu zadrželi Poláci. Zemřel krátce poté v Trakai."
       }
     ]
   },
@@ -61491,10 +61491,10 @@
       "fr": "patarei-sea-fortress-prison"
     },
     "detailPath": "/mista/patarei-sea-fortress-prison/",
-    "nazev": "Patarei Sea Fortress Prison",
+    "nazev": "Vězení Patarei v Tallinnu",
     "zeme": "Estonsko",
     "kontinent": "Evropa",
-    "lead": "Pobrezni pevnost a veznice v Tallinnu, kde carsky, nacisticky i sovetsky rezim zanechaly tvrdou stopu.",
+    "lead": "Námořní pevnost z 19. století, z níž se stalo sovětské vězení - fungovalo až do roku 2002 a dodnes v ní zůstaly cely, jak je opustili poslední vězni.",
     "gps": {
       "lat": 59.451,
       "lon": 24.738
@@ -61507,21 +61507,21 @@
       "politika"
     ],
     "indexTajemna": 81,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "pietní místo s temnou atmosférou",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká na trase",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Patarei Sea Fortress Prison rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Pobrezni pevnost a veznice v Tallinnu, kde carsky, nacisticky i sovetsky rezim zanechaly tvrdou stopu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Patarei je komplex budov na pobřeží Tallinnu. Opuštěné cely, oprýskané zdi a popravčí místnost vytvářejí jednu z nejtemnějších atmosfér v Evropě.",
+      "historie": "Pevnost postavil car Mikuláš I. v letech 1828-1840 jako námořní dělostřeleckou pevnost. Od roku 1920 sloužila jako vězení. Za sovětské a nacistické okupace v ní byly vězněny a popravovány tisíce lidí. Vězení se uzavřelo až roku 2002. Dnes v něm vzniká Mezinárodní muzeum obětí komunismu.",
+      "legenda": "Opuštěné cely s nástěnnými kresbami vězňů a lékařské místnosti dodávají místu mrazivou atmosféru. Patarei je oblíbené místo festivalů a výstav.",
+      "paranormalni": "Návštěvníci hovoří o tíze v popravčí cele a o pocitu přítomnosti. Patarei se objevuje v pořadech o opuštěných místech.",
+      "skepticke": "Síla místa vychází z historie skutečného utrpení. Jde o pietní místo, ne o atrakci se strašidly."
     },
-    "praktickeInfo": "Pred navstevou Patarei Sea Fortress Prison over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Patarei je asi 15 minut chůze od Starého Města Tallinnu, kousek od přístavu Seaplane Harbour (Lennusadam). Areál je v rekonstrukci, otevírací doby se mění - ověř online. Chovej se s respektem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61543,12 +61543,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Patarei Sea Fortress Prison pridava motivy veznice, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Vězení do roku 2002",
+        "text": "Poslední vězni odešli teprve v roce 2002 - opuštěné cely tak působí, jako by se zastavil čas."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Muzeum obětí",
+        "text": "V pevnosti vzniká muzeum věnované obětem komunistických režimů."
       }
     ]
   },
@@ -61779,10 +61779,10 @@
       "fr": "kaunas-ninth-fort"
     },
     "detailPath": "/mista/kaunas-ninth-fort/",
-    "nazev": "Kaunas Ninth Fort",
+    "nazev": "Devátá pevnost v Kaunasu",
     "zeme": "Litva",
     "kontinent": "Evropa",
-    "lead": "Pevnost, veznice a misto masovych vrazd u Kaunasu, kde vojenska architektura nese memorialni tihou.",
+    "lead": "Carská pevnost, která se za druhé světové války stala místem vyvraždění desítek tisíc lidí - dnes muzeum a monumentální památník.",
     "gps": {
       "lat": 54.943,
       "lon": 23.87
@@ -61795,21 +61795,21 @@
       "valka"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "pietní místo",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup do muzea",
+    "atmosfera": 5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kaunas Ninth Fort rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Pevnost, veznice a misto masovych vrazd u Kaunasu, kde vojenska architektura nese memorialni tihou.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Devátá pevnost na okraji Kaunasu je součástí carského opevnění z počátku 20. století. Dnes nad ní ční 32 metrů vysoký betonový památník obětem.",
+      "historie": "Za sovětské okupace sloužila jako vězení NKVD. Po nacistické invazi roku 1941 zde nacisté a jejich kolaboranti zavraždili kolem 50 000 lidí, především Židů z Kaunasu a z celé Evropy. Roku 1943 se skupině vězňů podařilo z pevnosti uprchnout.",
+      "legenda": "Útěk 64 vězňů o Vánocích 1943 se stal symbolem odporu. Vězni měli za úkol vykopávat a pálit těla obětí, aby nacisté zahladili stopy.",
+      "paranormalni": "Návštěvníci popisují tíhu a ticho. Místo slouží k připomínce obětí.",
+      "skepticke": "Místo nemá paranormální rozměr - je svědectvím o genocidě. Chovej se s úctou."
     },
-    "praktickeInfo": "Pred navstevou Kaunas Ninth Fort over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Devátá pevnost je asi 15 minut autem nebo autobusem z centra Kaunasu, kousek od dálnice do Vilniusu. Muzeum je placené a v pondělí zavřené. Prohlídka trvá 2 hodiny. Prosíme, nefoť se pro zábavu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61831,12 +61831,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kaunas Ninth Fort pridava motivy umrti, valka a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Vánoční útěk",
+        "text": "O Vánocích 1943 se 64 vězňům podařilo uprchnout. Jejich svědectví odhalila, co se v pevnosti dělo."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Památník",
+        "text": "Obří betonový památník z roku 1984 připomíná oběti a je viditelný z velké dálky."
       }
     ]
   },
@@ -72219,10 +72219,10 @@
       "fr": "rasnov-citadel"
     },
     "detailPath": "/mista/rasnov-citadel/",
-    "nazev": "Rasnov Citadel",
+    "nazev": "Pevnost Râșnov",
     "zeme": "Rumunsko",
     "kontinent": "Evropa",
-    "lead": "Sedmohradska citadela nad mestem Rasnov, pevnostni bod pro doplneni rumunske hradni vrstvy mapy.",
+    "lead": "Rolnická pevnost na kopci v Transylvánii, kde se obyvatelé při obléhání skrývali s dobytkem - a kde studnu kopali dva turečtí zajatci 17 let.",
     "gps": {
       "lat": 45.5906,
       "lon": 25.4676
@@ -72235,21 +72235,21 @@
       "stredovek"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Rasnov Citadel rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Sedmohradska citadela nad mestem Rasnov, pevnostni bod pro doplneni rumunske hradni vrstvy mapy.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Citadela Râșnov stojí na kopci nad městem Râșnov kousek od Branu. Jde o rolnickou pevnost, kam se ukrývali obyvatelé okolních vesnic s rodinami a dobytkem. Na kopci je velký nápis RÂȘNOV ve stylu Hollywoodu.",
+      "historie": "Pevnost vznikla ve 13.-14. století, podle části historiků ji založili řádoví rytíři a rozšířili místní obyvatelé. Byla dobyta jen jednou, roku 1612, když nepřítel našel tajnou cestu k vodě. Ve 30. letech 20. století byla restaurována.",
+      "legenda": "Podle pověsti studnu hlubokou asi 146 metrů kopali dva turečtí zajatci 17 let za slib svobody. Po dokončení byli prý stejně popraveni. Na stěně studny mají být vyryté verše z Koránu.",
+      "paranormalni": "Návštěvníci zmiňují ozvěny ve studni a tísnivou atmosféru v ruinách. V pevnosti se natáčel film Návrat do Cold Mountain.",
+      "skepticke": "Pověst o zajatcích je podobná jiným transylvánským legendám (např. Corvin). Hloubka studny a délka kopání jsou spíše tradice než doložená fakta."
     },
-    "praktickeInfo": "Pred navstevou Rasnov Citadel over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Râșnov je asi 20 minut autem z Brašova a 15 minut od Branu - ideální kombinace na jeden den. Na kopec vede cesta pěšky nebo vláček. Citadela je otevřená celoročně. Výhled sahá na hory Bucegi.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72271,12 +72271,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Rasnov Citadel pridava na mapu motivy hrad, stredovek a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Studna zajatců",
+        "text": "Dva zajatci kopali skrze skálu 17 let s nadějí na svobodu - pověst o hořkém konci se vypráví dodnes."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Pevnost pro vesničany",
+        "text": "Ne rytíři, ale rolníci se tu bránili - za hradbami měli domy, školu i kapli."
       }
     ]
   },
@@ -95115,10 +95115,10 @@
       "fr": "olavinlinna-castle"
     },
     "detailPath": "/mista/olavinlinna-castle/",
-    "nazev": "Olavinlinna Castle",
+    "nazev": "Hrad Olavinlinna",
     "zeme": "Finsko",
     "kontinent": "Evropa",
-    "lead": "Jezerni hrad Savonlinny, kamenne veze mezi vodou, hranici a severskou legendou.",
+    "lead": "Nejsevernější středověký kamenný hrad světa na ostrůvku v jezerech Savonlinny - s pověstí o dívce zazděné ve zdi, na jejímž místě vyrostla jeřabina.",
     "gps": {
       "lat": 61.864,
       "lon": 28.901
@@ -95131,21 +95131,21 @@
       "voda"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Olavinlinna Castle rozsiruje petadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Jezerni hrad Savonlinny, kamenne veze mezi vodou, hranici a severskou legendou.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, poutni trasu, prirodni anomalni tvar, podzemi, opustenou infrastrukturu nebo ritualni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Olavinlinna stojí na skalním ostrůvku mezi jezery Haukivesi a Pihlajavesi ve městě Savonlinna. Každé léto se tu koná slavný operní festival.",
+      "historie": "Hrad založil roku 1475 dánský šlechtic Erik Axelsson Tott ve službách Švédska na ochranu hranice s Ruskem. Několikrát změnil majitele mezi Švédskem a Ruskem. Operní festival se tu koná od roku 1912.",
+      "legenda": "Podle pověsti byla dívka zazděna do zdi hradu za to, že zradila. Z místa, kde zemřela, vyrostla jeřabina s bílými květy jako symbol její nevinnosti.",
+      "paranormalni": "Místní tvrdí, že v noci lze na hradbách spatřit dívku v bílém. Jezera kolem jsou podle pověstí domovem vodníků.",
+      "skepticke": "Pověsti o zazděných dívkách jsou běžné po celé Evropě. Jeřabiny rostou na hradbách díky ptákům, kteří roznášejí semena."
     },
-    "praktickeInfo": "Pred navstevou Olavinlinna Castle over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Savonlinna je asi 4 hodiny vlakem nebo autem z Helsinek. Na hrad vede pontonový most. Prohlídky s průvodcem jsou v angličtině a dalších jazycích. Operní festival se koná v červenci, vstupenky je nutné rezervovat měsíce předem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -95167,12 +95167,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Olavinlinna Castle posiluje geograficke pokryti mapy motivy pevnost, voda a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Jeřabina u zdi",
+        "text": "Bílé květy jeřabiny na hradbách jsou podle pověsti znamením nevinnosti zazděné dívky."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Opera na hradě",
+        "text": "Každý červenec zní nádvořím opera - festival patří k nejznámějším v Evropě."
       }
     ]
   },
