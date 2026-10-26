@@ -2819,7 +2819,7 @@
     "nazev": "Pendle Hill",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Kopec v Lancashiru spojeny s procesy s carodejnicemi a jednim z nejsilnejsich anglickych folklornich pribehu.",
+    "lead": "Holý kopec v Lancashiru spojený s nejslavnějším anglickým čarodějnickým procesem z roku 1612 - a zároveň místo, kde vzniklo hnutí kvakerů.",
     "gps": {
       "lat": 53.8685,
       "lon": -2.299
@@ -2832,21 +2832,21 @@
       "vrazdy"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "střední",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, turistický výstup",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Pendle Hill patri do databaze MysteryMap jako globalni misto s opakovanou verejnou asociaci: Kopec v Lancashiru spojeny s procesy s carodejnicemi a jednim z nejsilnejsich anglickych folklornich pribehu. Profil oddeluje realnou polohu, overitelne zdroje a pribehovou vrstvu.",
-      "historie": "Historicka cast vychazi ze stabilnich verejnych zdroju, geografickych dat a dohledatelnych popisu mista. U seedovych globalnich profilu je dulezite drzet jasnou stopu zdroju a pozdeji doplnovat mistni autority.",
-      "legenda": "Legendova vrstva shrnuje, proc se misto objevuje v cestovatelskych seznamech, folkloru, popkulture nebo lokalnich vypravenich. Tvrzeni jsou oznacena jako kulturni pribeh, ne jako prokazany fakt.",
-      "paranormalni": "Paranormalni vrstva zaznamenava to, co lide s mistem spojuji: zjeveni, zvuky, zvlastni atmosferu, zahadne zmizeni, posvatny respekt, anomalni krajinu nebo temnou historickou pamet podle typu lokace.",
-      "skepticke": "Skepticky ramec pocita s prirodnimi jevy, architekturou, turismem, medialnim opakovanim, nepresnou pameti a silou ocekavani. Cilem neni legendu mazat, ale jasne ukazat hranici mezi zdrojem a interpretaci."
+      "zahada": "Pendle Hill (557 m) se zvedá osaměle nad krajinou východního Lancashiru. V okolních vesnicích žily rodiny obviněné z čarodějnictví. Kopec je dodnes spojen s tímto příběhem a na Halloween se na něj vydávají stovky lidí.",
+      "historie": "V roce 1612 obvinila mladá Alizon Deviceová podomního obchodníka z toho, že ho očarovala, když ho po jejím prokletí ranila mrtvice. Vyšetřování zasáhlo dvě znepřátelené rodiny - Demdikeových a Chattoxových. V Lancasteru bylo oběšeno deset lidí. Klíčovou svědkyní byla devítiletá Jennet Deviceová. Průběh procesu popsal soudní úředník Thomas Potts. V roce 1652 tu George Fox zažil vizi, která vedla ke vzniku kvakerů.",
+      "legenda": "Pověst vypráví o setkání čarodějnic ve Velký pátek ve věži Malkin Tower, kde prý plánovaly vyhodit do povětří lancasterský hrad. Říká se, že duchové odsouzených se na kopci zjevují dodnes.",
+      "paranormalni": "Turisté na Halloween hlásí pocit tíže, hlasy ve větru a náhlé mlhy. V okolních vesnicích se konají strašidelné prohlídky a festival čarodějnic.",
+      "skepticke": "Proces byl založen na výpovědích dítěte, přiznáních pod nátlakem a strachu z katolických spiknutí. Dnešní historici obviněné vnímají jako oběti chudoby, nevzdělanosti a politického tlaku."
     },
-    "praktickeInfo": "Pred navstevou Pendle Hill over aktualni pristup, vlastnictvi pozemku, oteviraci dobu, pravidla foceni a bezpecnostni omezeni. Souradnice slouzi k orientaci, ne jako povoleni vstupu.",
+    "praktickeInfo": "Nejlepší výchozí bod je vesnice Barley s parkovištěm a kavárnou. Výstup na vrchol trvá 1-1,5 hodiny, poslední úsek je strmý. Ve vesnici Newchurch-in-Pendle je u kostela hrob přezdívaný „Witch's Grave“ a obchod s čarodějnickými suvenýry. Nejbližší větší města jsou Clitheroe a Burnley, z Manchesteru je to autem asi 1 hodina.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -2868,12 +2868,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je misto na mape",
-        "text": "Pendle Hill ma silnou kombinaci dohledatelne lokace, verejne znameho pribehu a tematu carodejnictvi, vrazdy. To z nej dela vhodny uzel pro globální mapu zahad."
+        "nazev": "Prokletí obchodníka",
+        "text": "Celý proces začal hádkou dívky Alizon s podomním obchodníkem, kterého hned poté ranila mrtvice."
       },
       {
-        "nazev": "Co doplnit v dalsi redakci",
-        "text": "Dalsi krok je pridat lokalni zdroje, fotografie s jasnou licenci, presne navstevnicke informace a jazykove lokalizovane texty podle regionu."
+        "nazev": "Vize George Foxe",
+        "text": "Na vrcholu Pendle Hill zažil George Fox v roce 1652 vizi, z níž vzešlo hnutí kvakerů."
       }
     ]
   },
@@ -2891,7 +2891,7 @@
     "nazev": "Borley Rectory",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Misto spojene s povesti nejslavnejsiho strasidelneho domu Anglie, i kdyz samotna stavba uz nestojí.",
+    "lead": "Fara v Essexu, kterou spisovatel Harry Price proslavil jako „nejstrašidelnější dům Anglie“ - shořela v roce 1939 a dnes z ní nezbylo nic než příběh.",
     "gps": {
       "lat": 52.052,
       "lon": 0.693
@@ -2904,21 +2904,21 @@
       "media"
     ],
     "indexTajemna": 81,
-    "paranormalniAktivita": "střední",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "slavný případ",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen kostel, fara neexistuje",
+    "atmosfera": 4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Borley Rectory patri do databaze MysteryMap jako globalni misto s opakovanou verejnou asociaci: Misto spojene s povesti nejslavnejsiho strasidelneho domu Anglie, i kdyz samotna stavba uz nestojí. Profil oddeluje realnou polohu, overitelne zdroje a pribehovou vrstvu.",
-      "historie": "Historicka cast vychazi ze stabilnich verejnych zdroju, geografickych dat a dohledatelnych popisu mista. U seedovych globalnich profilu je dulezite drzet jasnou stopu zdroju a pozdeji doplnovat mistni autority.",
-      "legenda": "Legendova vrstva shrnuje, proc se misto objevuje v cestovatelskych seznamech, folkloru, popkulture nebo lokalnich vypravenich. Tvrzeni jsou oznacena jako kulturni pribeh, ne jako prokazany fakt.",
-      "paranormalni": "Paranormalni vrstva zaznamenava to, co lide s mistem spojuji: zjeveni, zvuky, zvlastni atmosferu, zahadne zmizeni, posvatny respekt, anomalni krajinu nebo temnou historickou pamet podle typu lokace.",
-      "skepticke": "Skepticky ramec pocita s prirodnimi jevy, architekturou, turismem, medialnim opakovanim, nepresnou pameti a silou ocekavani. Cilem neni legendu mazat, ale jasne ukazat hranici mezi zdrojem a interpretaci."
+      "zahada": "Na faře v Borley se podle svědků objevovala jeptiška, bezhlavý kočí s kočárem, zvonily zvonky a na zdech se objevovaly nápisy. Žádný jiný anglický dům nevyvolal tolik knih, sporů a vyšetřování.",
+      "historie": "Faru postavil v roce 1862 reverend Henry Dawson Ellis Bull. Příběhy o jeptišce se v rodině Bullů vyprávěly už v 19. století. V letech 1930-1935 tu žil reverend Lionel Foyster s manželkou Marianne a právě tehdy přišly nápisy na zdech. Harry Price vydal v roce 1940 knihu The Most Haunted House in England. Fara vyhořela v únoru 1939 a v roce 1944 byla zbourána.",
+      "legenda": "Podle pověsti se jeptiška z kláštera zamilovala do mnicha a chtěli spolu utéct kočárem. Byli chyceni, mnich popraven a jeptiška zazděna zaživa. Její duch prý chodí po zahradě po „Jeptiščině stezce“.",
+      "paranormalni": "Price a jeho dobrovolníci zaznamenali stovky jevů: přemisťování předmětů, kroky, pachy a světla. Někteří svědci tvrdili, že při požáru viděli v oknech postavy.",
+      "skepticke": "Společnost pro psychický výzkum v roce 1956 vydala zprávu, která Priceovi vyčítala zveličování a možné podvody. Marianne Foysterová byla podezřívána, že nápisy psala sama. Klášter v Borley nikdy neexistoval."
     },
-    "praktickeInfo": "Pred navstevou Borley Rectory over aktualni pristup, vlastnictvi pozemku, oteviraci dobu, pravidla foceni a bezpecnostni omezeni. Souradnice slouzi k orientaci, ne jako povoleni vstupu.",
+    "praktickeInfo": "Borley je malá vesnice v Essexu u hranic se Suffolkem, asi 3 km od města Sudbury (vlak z Londýna přes Marks Tey). Fara ani její zahrada už neexistují, na místě stojí soukromé domy - respektuj soukromí obyvatel. Vidět lze kostel Panny Marie naproti, o němž se rovněž vyprávějí příběhy.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -2940,12 +2940,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je misto na mape",
-        "text": "Borley Rectory ma silnou kombinaci dohledatelne lokace, verejne znameho pribehu a tematu duchove, media. To z nej dela vhodny uzel pro globální mapu zahad."
+        "nazev": "Nápisy pro Marianne",
+        "text": "Na zdech se objevovaly neuměle tužkou psané prosby adresované Marianne - dodnes se neví, kdo je psal."
       },
       {
-        "nazev": "Co doplnit v dalsi redakci",
-        "text": "Dalsi krok je pridat lokalni zdroje, fotografie s jasnou licenci, presne navstevnicke informace a jazykove lokalizovane texty podle regionu."
+        "nazev": "Dům, který zmizel",
+        "text": "Nejslavnější strašidelný dům Anglie shořel v roce 1939 a byl zbourán. Zůstal jen příběh a desítky knih."
       }
     ]
   },
@@ -3104,10 +3104,10 @@
       "fr": "hellfire-club-dublin"
     },
     "detailPath": "/mista/hellfire-club-dublin/",
-    "nazev": "Hellfire Club Dublin",
+    "nazev": "Hellfire Club (Dublin)",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Ruina na Montpelier Hill spojovana s tajnymi schuzkami, satanistickymi povestmi a nocnimi vypravami.",
+    "lead": "Kamenná lovecká chata z 18. století na vrcholu Montpelier Hill nad Dublinem - postavená z kamenů pravěké mohyly a opředená pověstmi o ďáblovi u karetního stolu.",
     "gps": {
       "lat": 53.2511,
       "lon": -6.3337
@@ -3120,21 +3120,21 @@
       "ritual"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "střední",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, lesní stezka",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Hellfire Club Dublin patri do databaze MysteryMap jako globalni misto s opakovanou verejnou asociaci: Ruina na Montpelier Hill spojovana s tajnymi schuzkami, satanistickymi povestmi a nocnimi vypravami. Profil oddeluje realnou polohu, overitelne zdroje a pribehovou vrstvu.",
-      "historie": "Historicka cast vychazi ze stabilnich verejnych zdroju, geografickych dat a dohledatelnych popisu mista. U seedovych globalnich profilu je dulezite drzet jasnou stopu zdroju a pozdeji doplnovat mistni autority.",
-      "legenda": "Legendova vrstva shrnuje, proc se misto objevuje v cestovatelskych seznamech, folkloru, popkulture nebo lokalnich vypravenich. Tvrzeni jsou oznacena jako kulturni pribeh, ne jako prokazany fakt.",
-      "paranormalni": "Paranormalni vrstva zaznamenava to, co lide s mistem spojuji: zjeveni, zvuky, zvlastni atmosferu, zahadne zmizeni, posvatny respekt, anomalni krajinu nebo temnou historickou pamet podle typu lokace.",
-      "skepticke": "Skepticky ramec pocita s prirodnimi jevy, architekturou, turismem, medialnim opakovanim, nepresnou pameti a silou ocekavani. Cilem neni legendu mazat, ale jasne ukazat hranici mezi zdrojem a interpretaci."
+      "zahada": "Na vrcholu Montpelier Hill stojí bez střechy jen kamenné zdi lovecké chaty. Pod ní a kolem ní jsou zbytky pravěké mohyly s chodbovým hrobem. Jméno Hellfire Club („Klub pekelného ohně“) dostala chata podle společnosti dublinských šlechticů, která se proslavila výstřednostmi.",
+      "historie": "Chatu nechal kolem roku 1725 postavit William Conolly, předseda irské Dolní sněmovny. Na stavbu se použily kameny z mohyly. Dublinský Hellfire Club založili kolem roku 1735 Richard Parsons, hrabě z Rosse, a malíř James Worsdale. Zda se členové skutečně scházeli právě v chatě, není jisté.",
+      "legenda": "Nejznámější pověst vypráví o neznámém hostovi, který hrál s členy klubu karty. Když jeden z hráčů upustil kartu a sehnul se pro ni, uviděl pod stolem kopyto místo nohy. Host prý zmizel v plamenech. Další příběhy mluví o černé kočce a obětovaných zvířatech.",
+      "paranormalni": "Návštěvníci popisují náhlý chlad, pocit, že je někdo sleduje, a postavy v okenních otvorech. Chata se objevuje v irských pořadech o duchách a na Halloween sem chodí skupiny nadšenců.",
+      "skepticke": "Pro černé mše ani ďábelské hry nejsou spolehlivé doklady. Většina příběhů vznikla až v 19. století. Stavba na pravěkém hrobě a holé zdi na osamělém kopci strašidelnou atmosféru přirozeně podporují."
     },
-    "praktickeInfo": "Pred navstevou Hellfire Club Dublin over aktualni pristup, vlastnictvi pozemku, oteviraci dobu, pravidla foceni a bezpecnostni omezeni. Souradnice slouzi k orientaci, ne jako povoleni vstupu.",
+    "praktickeInfo": "Montpelier Hill je asi 15 km jižně od centra Dublinu v Dublinských horách. Z parkoviště Hellfire Club u silnice R115 (Killakee) vede lesní stezka, výstup trvá 20-30 minut. Vstup je zdarma. Nahoře je výhled na celý Dublin a záliv. Vezmi pevnou obuv, stezka bývá blátivá.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -3156,12 +3156,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je misto na mape",
-        "text": "Hellfire Club Dublin ma silnou kombinaci dohledatelne lokace, verejne znameho pribehu a tematu dabel, ritual. To z nej dela vhodny uzel pro globální mapu zahad."
+        "nazev": "Kopyto pod stolem",
+        "text": "Hráč, který se sehnul pro upuštěnou kartu, prý uviděl, že jeho spoluhráč má místo nohy kopyto."
       },
       {
-        "nazev": "Co doplnit v dalsi redakci",
-        "text": "Dalsi krok je pridat lokalni zdroje, fotografie s jasnou licenci, presne navstevnicke informace a jazykove lokalizovane texty podle regionu."
+        "nazev": "Chata z kamenů hrobu",
+        "text": "Stavitelé použili kameny pravěké mohyly - podle pověsti hned první bouře strhla střechu."
       }
     ]
   },
@@ -8229,10 +8229,10 @@
       "fr": "lascaux-cave"
     },
     "detailPath": "/mista/lascaux-cave/",
-    "nazev": "Lascaux Cave",
+    "nazev": "Jeskyně Lascaux",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Jeskyne paleolitickych maleb v Dordogne, obraz zvireciho sveta zachovany ve tme.",
+    "lead": "„Sixtinská kaple pravěku“ v údolí Vézère - malby býků, koní a jelenů staré asi 17 000 let, které objevili čtyři chlapci v roce 1940.",
     "gps": {
       "lat": 45.053,
       "lon": 1.17
@@ -8245,21 +8245,21 @@
       "skalni-umeni"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen replika Lascaux IV",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Lascaux Cave rozsiruje ctyriadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Jeskyne paleolitickych maleb v Dordogne, obraz zvireciho sveta zachovany ve tme.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, podzemi, prirodni anomalni tvar, posvatnou krajinu, ostrov, pevnost, opustene misto nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Jeskyně skrývá stovky maleb a přes tisíc rytin. Největší záhadou je „scéna ze šachty“: muž s ptačí hlavou leží před zraněným bizonem a vedle něj je pták na tyči. Dodnes se neví, zda jde o lov, rituál, nebo šamanský příběh.",
+      "historie": "Jeskyni objevili v září 1940 čtyři dospívající chlapci v čele s Marcelem Ravidatem. Po válce byla otevřena veřejnosti a ročně přišly tisíce návštěvníků. Dech a světlo poškodily malby, objevily se plísně a řasy, a proto byla v roce 1963 uzavřena. Údolí Vézère je na seznamu UNESCO od roku 1979.",
+      "legenda": "Podle vyprávění chlapce na jeskyni přivedl pes Robot, který spadl do díry po vyvráceném stromu. Tato verze se ale v různých podáních liší.",
+      "paranormalni": "S Lascaux se nepojí strašidelné příběhy. Tajemná je spíše otázka, proč lidé malovali v hlubokých tmavých prostorách, kam denní světlo nikdy nedosáhne.",
+      "skepticke": "Teorie o „hvězdných mapách“ v malbách jsou sporné a vědci je obecně nepřijímají. Malby jsou datované do magdalénienu metodami radiokarbonového datování nalezených předmětů."
     },
-    "praktickeInfo": "Pred navstevou Lascaux Cave over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Originální jeskyně je pro veřejnost trvale uzavřená. Navštívit lze věrnou repliku Lascaux IV (Mezinárodní centrum jeskynního umění) v Montignacu, otevřenou v roce 2016. Montignac je asi 2 hodiny autem z Bordeaux. Lístky v létě rezervuj předem. V údolí Vézère jsou i další jeskyně s originálními malbami, např. Font-de-Gaume (omezený počet návštěvníků).",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -8281,12 +8281,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Lascaux Cave posiluje geograficke pokryti mapy motivy podzemi, skalni-umeni a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Pes Robot",
+        "text": "Podle známé verze objevu chlapce k jeskyni přivedl pes, který zapadl do díry pod vyvráceným stromem."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Muž s ptačí hlavou",
+        "text": "Nejzáhadnější malbou je postava muže s ptačí hlavou před raněným bizonem - její význam nikdo s jistotou nezná."
       }
     ]
   },
@@ -49355,10 +49355,10 @@
       "fr": "cuenca-hanging-houses"
     },
     "detailPath": "/mista/cuenca-hanging-houses/",
-    "nazev": "Cuenca Hanging Houses",
+    "nazev": "Visuté domy v Cuence",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Domy na hrane rokli, mestska krajina, kde architektura vypada jako vzdor gravitaci.",
+    "lead": "Domy přilepené na hraně skály nad roklí Huécar - symbol středověkého města Cuenca, kde se vypráví pověst o ďáblovi v podobě krásné ženy.",
     "gps": {
       "lat": 40.078,
       "lon": -2.131
@@ -49371,21 +49371,21 @@
       "ztracena-mesta"
     ],
     "indexTajemna": 72,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, muzeum placené",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cuenca Hanging Houses rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Domy na hrane rokli, mestska krajina, kde architektura vypada jako vzdor gravitaci.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Casas Colgadas visí nad roklí s dřevěnými balkony nad prázdnem. Patří ke zbytku řady domů, které kdysi lemovaly celý okraj skály. Odpoledne se jejich silueta odráží proti útesům.",
+      "historie": "Domy pocházejí z 15. století. Ve 20. století byly restaurovány a od roku 1966 v nich sídlí Muzeum španělského abstraktního umění. Historické město Cuenca je na seznamu UNESCO od roku 1996.",
+      "legenda": "Pověst o Ďáblově kříži vypráví o mladém šlechtici, který svedl dívku a po hostině s ní šel ke kostelu. Když na ni posvítil světlem, uviděl, že místo nohou má kopyta. Na místě setkání prý dnes stojí kamenný kříž.",
+      "paranormalni": "Ve starém městě se pořádají noční prohlídky s legendami. Některé uličky prý vyhledávají duchové - ale většinou jde o folklor.",
+      "skepticke": "Domy nejsou „zavěšené“ - stojí na pevných základech ve skále. Pověsti jsou součástí místního folkloru, bez historického podkladu."
     },
-    "praktickeInfo": "Pred navstevou Cuenca Hanging Houses over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Cuenca je asi hodinu rychlovlakem AVE z Madridu (stanice Cuenca Fernando Zóbel, odtud autobusem do starého města). Nejlepší výhled na domy je z mostu San Pablo přes rokli. Ulice starého města jsou strmé. Muzeum abstraktního umění je zavřené v pondělí.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49407,12 +49407,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Cuenca Hanging Houses pridava motivy prirodni-anomalie, ztracena-mesta a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Ďábel na hostině",
+        "text": "Mladý šlechtic si všiml kopyt své společnice teprve u kostela - pak zmizela v plamenech."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Muzeum na skále",
+        "text": "V jednom z visutých domů je dnes muzeum abstraktního umění - galerie nad propastí."
       }
     ]
   },
@@ -49427,10 +49427,10 @@
       "fr": "belchite-ruins"
     },
     "detailPath": "/mista/belchite-ruins/",
-    "nazev": "Belchite Ruins",
+    "nazev": "Zříceniny Belchite",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Ruiny mesta zniceneho behem spanelske obcanske valky, silna a ticha valecna pamet.",
+    "lead": "Vesnice v Aragonii zničená v bitvě roku 1937 během španělské občanské války - ruiny ponechané jako pomník a místo, kde se podle lovců duchů nahrávají hlasy.",
     "gps": {
       "lat": 41.305,
       "lon": -0.755
@@ -49443,21 +49443,21 @@
       "duchove"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "střední",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Belchite Ruins rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Ruiny mesta zniceneho behem spanelske obcanske valky, silna a ticha valecna pamet.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Ve starém Belchite stojí rozbité kostely, prázdné ulice a zdi s otvory po střelách. Vesnice zůstala přesně tak, jak ji zanechala válka. Mnoho lidí sem jezdí kvůli nahrávkám, na kterých prý slyšet hlasy a výstřely.",
+      "historie": "V srpnu a září 1937 se o Belchite tvrdě bojovalo mezi republikány a frankisty. Vesnice byla téměř zcela zničena. Franco rozhodl, že ruiny zůstanou jako pomník. Nová vesnice Belchite byla postavena vedle, částečně za pomoci politických vězňů, a obyvatelé se do ní přestěhovali v 50. letech.",
+      "legenda": "Vypráví se o vojácích, kteří stále bojují v ulicích, a o zvonech, které zvoní v prázdném kostele. Někteří říkají, že na ruinách je slyšet v noci pláč.",
+      "paranormalni": "Belchite proslavily španělské pořady o záhadách. Nadšenci tu nahrávají „psychofonie“ - zvuky, které připomínají hlasy, výstřely a letadla. Pořádají se i noční prohlídky.",
+      "skepticke": "Psychofonie lze vysvětlit rušením, větrem v ruinách a sklonem mozku slyšet řeč v šumu. Skutečná tragédie Belchite je doložená historie války, ne duchové."
     },
-    "praktickeInfo": "Pred navstevou Belchite Ruins over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Belchite je asi 45 km jihovýchodně od Zaragozy. Staré město je oplocené a lze ho navštívit jen s průvodcem (prohlídky organizuje obec, i noční). Rezervace je doporučena. Kvůli rozpadajícím se zdem dodržuj pokyny průvodce. V létě je zde velké horko.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49479,12 +49479,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Belchite Ruins pridava motivy valka, duchove a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Město jako pomník",
+        "text": "Ruiny byly záměrně ponechány - nová vesnice vyrostla hned vedle."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Hlasy v nahrávkách",
+        "text": "Návštěvníci tvrdí, že na nahrávkách z ruin zachytili hlasy, výstřely i hukot letadel."
       }
     ]
   },
@@ -73086,7 +73086,7 @@
     "nazev": "Mystras",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Byzantske mesto ve svahu Tajgetu, opustene palacove, klasterni a ulicni vrstvy nad Spartou.",
+    "lead": "Byzantské město na svahu nad Spartou - poslední centrum byzantské kultury, kde byl podle tradice korunován poslední císař Konstantin XI.",
     "gps": {
       "lat": 37.074,
       "lon": 22.369
@@ -73099,21 +73099,21 @@
       "stredovek"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mystras rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Byzantske mesto ve svahu Tajgetu, opustene palacove, klasterni a ulicni vrstvy nad Spartou.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na strmém svahu Taygetu leží opuštěné město s kostely, paláci a klášterem. Nástěnné malby uvnitř kostelů patří k vrcholům pozdně byzantského umění. Nahoře je hrad, odkud je vidět celé údolí Sparty.",
+      "historie": "Hrad postavil v roce 1249 francouzský kníže Vilém II. z Villehardouin. Později se Mystras stal hlavním městem byzantského despotátu Morea. Působil tu filozof Georgios Gemistos Plethon. Konstantin XI. Palaiologos tu byl v roce 1449 podle tradice korunován. V roce 1460 město dobyli Osmané. Opuštěno bylo v 19. století po založení nové Sparty. Na seznamu UNESCO je od roku 1989.",
+      "legenda": "Řecká pověst vypráví o „mramorovém císaři“ - Konstantin XI. prý nezemřel, ale anděl ho proměnil v mramor a jednou se probudí a znovu dobude Konstantinopol.",
+      "paranormalni": "V klášteře Pantanassa dodnes žijí jeptišky. Návštěvníci mluví o hlubokém klidu, který místo vyzařuje - spíše duchovní než strašidelný zážitek.",
+      "skepticke": "Korunovace Konstantina XI. v Mystrasu je doložena jen v pozdějších pramenech. Pověst o mramorovém císaři je lidová tradice z doby osmanské nadvlády."
     },
-    "praktickeInfo": "Pred navstevou Mystras over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Mystras je asi 5 km od moderní Sparty. Má dva vstupy (dolní a horní) - nejpohodlnější je začít nahoře a jít dolů. Prohlídka trvá 3-4 hodiny. V létě je horko, přijď brzy ráno. Vezmi vodu a pevnou obuv. V klášteře Pantanassa je nutné zakryté oblečení.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -73135,12 +73135,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Mystras pridava na mapu motivy ztracena-mesta, stredovek a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Mramorový císař",
+        "text": "Poslední byzantský císař prý nezemřel, ale spí proměněný v mramor a jednou se vrátí."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Jeptišky v mrtvém městě",
+        "text": "V klášteře Pantanassa uprostřed opuštěného města dodnes žijí jeptišky."
       }
     ]
   },
@@ -73158,7 +73158,7 @@
     "nazev": "Spinalonga",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Ostrovni pevnost a leprosarium u Krety, citlive misto izolace, nemoci a pameti.",
+    "lead": "Ostrůvek s benátskou pevností u Kréty, který byl v letech 1903-1957 kolonií malomocných - dnes jedno z nejsilnějších míst ostrova.",
     "gps": {
       "lat": 35.297,
       "lon": 25.738
@@ -73171,21 +73171,21 @@
       "umrti"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, loď",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Spinalonga rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Ostrovni pevnost a leprosarium u Krety, citlive misto izolace, nemoci a pameti.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na ostrůvku v zálivu Elounda stojí opuštěné domy, kostelík a mohutné benátské hradby. Nemocní sem přicházeli tunelem, kterému se říkalo „Dantova brána“ - pro mnohé to byla cesta, ze které se už nevrátili.",
+      "historie": "Benátčané tu postavili pevnost v roce 1579. Osmané ji ovládli až v roce 1715, déle než zbytek Kréty. Od roku 1903 sem byli posíláni lidé nemocní leprou a fungovala zde kolonie až do roku 1957. Nemocní tu měli obchody, kavárnu i školu. Kolonie byla uzavřena poté, co byl objeven lék na lepru.",
+      "legenda": "Místní vyprávějí o duších nemocných, které v noci chodí po ulicích. Román Ostrov (The Island) britské spisovatelky Victorie Hislop z roku 2005 udělal ze Spinalongy turistický symbol.",
+      "paranormalni": "Turisté popisují tíživou atmosféru u hřbitova a v opuštěných domech. Ostrov se uzavírá večer, a tak přímé noční zážitky jsou vzácné.",
+      "skepticke": "Atmosféra je dána skutečnou historií izolace a utrpení, ne nadpřirozenými jevy. Pověsti o duchách se rozšířily hlavně po úspěchu románu."
     },
-    "praktickeInfo": "Pred navstevou Spinalonga over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Loďky na Spinalongu jezdí z vesnice Plaka (cca 10 minut), z Eloundy a z Agios Nikolaos. Na ostrově je placený vstup. Nejsou tu stíny ani obchody, vezmi si vodu a pokrývku hlavy. Na prohlídku počítej s 1,5-2 hodinami.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -73207,12 +73207,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Spinalonga pridava na mapu motivy karantena, umrti a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Dantova brána",
+        "text": "Tunelem do kolonie procházeli nemocní, kteří věděli, že se už nevrátí domů."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Ostrov z románu",
+        "text": "Román Victorie Hislop proměnil zapomenutý ostrov v jedno z nejnavštěvovanějších míst Kréty."
       }
     ]
   },
@@ -79419,10 +79419,10 @@
       "fr": "broceliande-forest"
     },
     "detailPath": "/mista/broceliande-forest/",
-    "nazev": "Broceliande Forest",
+    "nazev": "Les Brocéliande (Paimpont)",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Les spojovany s artusovskymi pribehy, Merlinem a bretonskou vrstvou stredoveke imaginace.",
+    "lead": "Bretaňský les spojený s artušovskými legendami - Merlinův hrob, pramen Barenton a Údolí bez návratu, kde podle pověsti víla Morgana věznila nevěrné milence.",
     "gps": {
       "lat": 48.018,
       "lon": -2.172
@@ -79435,21 +79435,21 @@
       "les"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "střední",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Broceliande Forest rozsiruje jednadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Les spojovany s artusovskymi pribehy, Merlinem a bretonskou vrstvou stredoveke imaginace.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o svatyni, jeskyni, skalni krajinu, zanikle mesto, prirodni anomalni tvar nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Les Paimpont západně od Rennes je ztotožňován s legendární Brocéliandou. Najdeš tu Merlinův hrob, pramen Barenton, kde se podle legendy dalo vyvolat bouři, a Údolí bez návratu se Zlatým stromem.",
+      "historie": "Brocéliandu poprvé zmiňuje ve 12. století normanský básník Wace, který psal o zázračném prameni Barenton. Spojení lesa s Paimpontem se ustálilo ve středověku a znovu v 19. století, kdy romantici hledali místa artušovských příběhů. Zlatý strom vytvořil umělec François Davin v roce 1991 po ničivém požáru lesa v roce 1990.",
+      "legenda": "Víla Viviana tu podle legendy uvěznila čaroděje Merlina do neviditelné věže ze vzduchu. Víla Morgana prý v Údolí bez návratu uvěznila nevěrné rytíře, dokud je neosvobodil Lancelot. Kdo nalije vodu z pramene Barenton na kámen, vyvolá prý bouři.",
+      "paranormalni": "Návštěvníci zanechávají u Merlinova hrobu vzkazy a přání. V suchých letech místní dodnes chodí k prameni Barenton „přivolat déšť“.",
+      "skepticke": "Merlinův hrob tvoří zbytky neolitického hrobu, který byl v 19. století zčásti zničen. Ztotožnění Brocéliandy s Paimpontem je pozdější tradice, nikoli historický doklad."
     },
-    "praktickeInfo": "Pred navstevou Broceliande Forest over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Paimpont je asi 40 km západně od Rennes, autem cca 40 minut. Informační centrum je ve vesnici Paimpont, odkud vedou značené trasy. Na zámku Comper je Centrum artušovské imaginace. Údolí bez návratu je u vesnice Tréhorenteuc. Kostel v Tréhorenteuc má artušovské vitráže.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -79471,12 +79471,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Broceliande Forest posiluje geograficke pokryti mapy motivy mytologie, les a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Pramen bouří",
+        "text": "Kdo nalije vodu z pramene Barenton na kamennou desku, vyvolá prý bouři - místní to zkoušeli při suchu."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Zlatý strom",
+        "text": "Po velkém požáru v roce 1990 se uprostřed spáleniště objevil zlatem pokrytý strom jako symbol obnovy."
       }
     ]
   },
@@ -88275,10 +88275,10 @@
       "fr": "gouffre-de-padirac"
     },
     "detailPath": "/mista/gouffre-de-padirac/",
-    "nazev": "Gouffre de Padirac",
+    "nazev": "Propast Padirac",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Propast a podzemni reka v Lotu, sestup do krasoveho sveta lodi a skaly.",
+    "lead": "Obrovská propast v Lotu, kde se 100 metrů pod zemí plavíš lodí po podzemní řece - podle pověsti ji vykopl sám ďábel.",
     "gps": {
       "lat": 44.858,
       "lon": 1.75
@@ -88291,21 +88291,21 @@
       "voda"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Gouffre de Padirac rozsiruje ctyriadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Propast a podzemni reka v Lotu, sestup do krasoveho sveta lodi a skaly.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, podzemi, prirodni anomalni tvar, posvatnou krajinu, ostrov, pevnost, opustene misto nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Ústí propasti má průměr asi 35 metrů a padá do hloubky kolem 75 metrů. Pod ním začíná systém chodeb s podzemní řekou, jezery a obrovskými krápníky. Sál velkého dómu je vysoký kolem 90 metrů.",
+      "historie": "Propast systematicky prozkoumal speleolog Édouard-Alfred Martel v roce 1889. Pro veřejnost byla otevřena v roce 1899. Dodnes se zde objevují nové chodby a podzemní řeka je známa na desítky kilometrů.",
+      "legenda": "Podle pověsti se svatý Martin setkal s ďáblem, který nesl duše do pekla. Ďábel ho vyzval, ať jeho mula přeskočí díru, kterou kopnutím vytvoří. Mula přeskočila a ďábel se vrátil do pekla - propast zůstala.",
+      "paranormalni": "S propastí se pojí příběh o pokladu ukrytém v dutinách. Paranormální hlášení prakticky neexistují - tajemná je spíše atmosféra podzemí.",
+      "skepticke": "Propast vznikla zřícením stropu krasové jeskyně, kterou vyhloubila voda ve vápenci. Ďábel je jen lidové vysvětlení obřího otvoru."
     },
-    "praktickeInfo": "Pred navstevou Gouffre de Padirac over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Padirac je asi 15 km od poutního místa Rocamadour v departementu Lot. Prohlídka trvá asi 1,5 hodiny včetně plavby lodí. Uvnitř je kolem 13 °C - vezmi si mikinu. V létě rezervuj lístky online, fronty bývají dlouhé. Kombinuj s Rocamadourem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -88327,12 +88327,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Gouffre de Padirac posiluje geograficke pokryti mapy motivy podzemi, voda a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Kopanec ďábla",
+        "text": "Ďábel prý vykopl propast, aby svatý Martin nemohl projet - mula ale díru přeskočila."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Martel v podzemí",
+        "text": "Zakladatel moderní speleologie Martel sjel do propasti v roce 1889 a otevřel cestu k podzemní řece."
       }
     ]
   },
