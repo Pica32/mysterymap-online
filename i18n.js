@@ -481,6 +481,9 @@ Object.assign(I18N.de, {
 });
 
 function getInitialLanguage() {
+  // Předgenerované stránky mají pevný jazyk obsahu; rozhraní se mu přizpůsobí.
+  const pageLanguage = document.querySelector("meta[name='mysterymap-page-language']")?.content;
+  if (SUPPORTED_LANGUAGES.includes(pageLanguage)) return pageLanguage;
   const urlLanguage = new URLSearchParams(location.search).get("lang");
   if (SUPPORTED_LANGUAGES.includes(urlLanguage)) return urlLanguage;
   const pathLanguage = location.pathname.split("/").filter(Boolean)[0];
@@ -519,7 +522,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const select = document.querySelector("#languageSelect");
   if (select) {
     select.value = window.MysteryMapI18n.language;
-    select.addEventListener("change", (event) => setLanguage(event.target.value));
+    select.addEventListener("change", (event) => {
+      const alternate = document.querySelector(`link[rel='alternate'][hreflang='${event.target.value}']`);
+      if (alternate) {
+        localStorage.setItem("mysterymap-language", event.target.value);
+        location.href = alternate.href;
+        return;
+      }
+      setLanguage(event.target.value);
+    });
   }
   setLanguage(window.MysteryMapI18n.language);
 });

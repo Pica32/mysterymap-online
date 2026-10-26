@@ -59,10 +59,41 @@ function articlePath(article, language = "cs") {
   return `/${language}/${locale.articlePrefix}/${localizedSlug(article, language)}/`;
 }
 
+// Šablonové texty z hromadného importu se opakují u mnoha míst (liší se jen názvem).
+// Takové profily zůstávají na mapě, ale neindexují se, dokud nedostanou vlastní text.
+const templateTextCounts = new Map();
+places.forEach((place) => {
+  ["historie", "legenda", "paranormalni", "skepticke"].forEach((field) => {
+    const key = `${field}:${String(place.popisy?.[field] || "").replaceAll(place.nazev, "")}`;
+    templateTextCounts.set(key, (templateTextCounts.get(key) || 0) + 1);
+  });
+});
+
+function isTemplatePlace(place) {
+  const repeated = ["historie", "legenda", "paranormalni", "skepticke"].filter((field) => {
+    const key = `${field}:${String(place.popisy?.[field] || "").replaceAll(place.nazev, "")}`;
+    return templateTextCounts.get(key) >= 3;
+  });
+  return repeated.length >= 2;
+}
+
+// Jazykové verze bez skutečného překladu jsou jen šablona kolem českého textu.
+function hasRealLanguage(item, language) {
+  return language === "cs" || Boolean(item.i18n?.[language]);
+}
+
+function isIndexable(item, kind, language) {
+  if (!hasRealLanguage(item, language)) return false;
+  return kind === "article" || !isTemplatePlace(item);
+}
+
 function hreflangLinks(item, kind) {
   const pathFn = kind === "article" ? articlePath : placePath;
-  return `${Object.keys(locales).map((language) => `<link rel="alternate" hreflang="${language}" href="${escapeHtml(absoluteUrl(pathFn(item, language)))}">`).join("\n    ")}
-    <link rel="alternate" hreflang="x-default" href="${escapeHtml(absoluteUrl(pathFn(item, "en")))}">`;
+  const languages = Object.keys(locales).filter((language) => isIndexable(item, kind, language));
+  if (!languages.length) return "";
+  const defaultLanguage = languages.includes("en") ? "en" : "cs";
+  return `${languages.map((language) => `<link rel="alternate" hreflang="${language}" href="${escapeHtml(absoluteUrl(pathFn(item, language)))}">`).join("\n    ")}
+    <link rel="alternate" hreflang="x-default" href="${escapeHtml(absoluteUrl(pathFn(item, defaultLanguage)))}">`;
 }
 
 const uiText = {
@@ -550,7 +581,7 @@ function articleJsonLd(article, language = "cs") {
   })}</script>`;
 }
 
-function pageShell({ title, description, body, script = "", canonical = "/", structuredData = "", ogType = "website", alternates = "", bodyClass = "", language = "cs" }) {
+function pageShell({ title, description, body, script = "", canonical = "/", structuredData = "", ogType = "website", alternates = "", bodyClass = "", language = "cs", indexable = true }) {
   return `<!doctype html>
 <html lang="${escapeHtml(language)}">
   <head>
@@ -558,7 +589,8 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(description)}">
-    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="robots" content="${indexable ? "index,follow,max-image-preview:large" : "noindex,follow"}">
+    <meta name="mysterymap-page-language" content="${escapeHtml(language)}">
     <link rel="canonical" href="${escapeHtml(absoluteUrl(canonical))}">
     ${alternates}
     <meta property="og:type" content="${escapeHtml(ogType)}">
@@ -597,7 +629,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20260722-map6" defer></script>
+    <script src="/i18n.js?v=20261026-lang1" defer></script>
     ${script}
   </body>
 </html>
@@ -689,7 +721,7 @@ function placePage(place, language = "cs") {
     ogType: "article",
     bodyClass: themeClass,
     language,
-    script: `<script>document.body.dataset.placeId=${JSON.stringify(place.id)};</script><script src="/detail.js?v=20260722-map6" defer></script>`
+    indexable: isIndexable(place, "place", language)
   });
 }
 
@@ -697,7 +729,7 @@ function landingPage(title, description, items, canonical) {
   const cards = items
     .sort((a, b) => b.indexTajemna - a.indexTajemna)
     .map((place) => `
-      <a class="place-card" href="${place.detailPath}">
+      <a class="place-card" href="${placePath(place, "cs")}">
         <span class="score">${place.indexTajemna}</span>
         <h3>${escapeHtml(place.nazev)}</h3>
         <p>${escapeHtml(place.zeme)} · ${escapeHtml(place.lead)}</p>
@@ -805,7 +837,9 @@ function articlePage(article, language = "cs") {
     structuredData: articleJsonLd(article, language),
     alternates: hreflangLinks(article, "article"),
     ogType: "article",
-    bodyClass: themeClass
+    bodyClass: themeClass,
+    language,
+    indexable: isIndexable(article, "article", language)
   });
 }
 
@@ -835,7 +869,9 @@ function articleIndexPage(language = "cs") {
     title: "Články o tajemných místech | MysteryMap.online",
     description: "Redakční články a průvodce k tajemným místům, katastrofám, legendám, zdrojům a skeptickému ověřování.",
     body,
-    canonical: `/${language}/${locales[language].articlePrefix}/`
+    canonical: `/${language}/${locales[language].articlePrefix}/`,
+    language,
+    indexable: language === "cs"
   });
 }
 
@@ -963,16 +999,14 @@ for (const [theme, items] of themeMap) {
   );
 }
 
+// Sitemap obsahuje jen kanonické a indexovatelné URL.
 const sitemapUrls = [
   "/",
-  "/clanky/",
+  "/cs/clanky/",
   ...Object.keys(locales).flatMap((language) => [
-    `/${language}/${locales[language].articlePrefix}/`,
-    ...articles.map((article) => articlePath(article, language)),
-    ...places.map((place) => placePath(place, language))
+    ...articles.filter((article) => isIndexable(article, "article", language)).map((article) => articlePath(article, language)),
+    ...places.filter((place) => isIndexable(place, "place", language)).map((place) => placePath(place, language))
   ]),
-  ...articles.map((article) => `/clanky/${article.slug}/`),
-  ...places.map((place) => place.detailPath),
   ...Array.from(groupBy(places, "kontinent").keys()).map((name) => `/landing/kontinent-${slugify(name)}.html`),
   ...Array.from(groupBy(places, "zeme").keys()).map((name) => `/landing/zeme-${slugify(name)}.html`),
   ...Array.from(categoryMap.keys()).map((name) => `/landing/kategorie-${slugify(name)}.html`),

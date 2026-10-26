@@ -5,3 +5,8 @@
 /articles/:slug/ /en/articles/:slug/ 301
 /artikel/:slug/ /de/artikel/:slug/ 301
 /articulos/:slug/ /es/articulos/:slug/ 301
+/landing/zeme-usa.html /landing/zeme-spojene-staty.html 301
+/landing/zeme-jizni-afrika.html /landing/zeme-jihoafricka-republika.html 301
+/landing/zeme-salomounovy-ostrovy.html /landing/zeme-salamounovy-ostrovy.html 301
+/landing/zeme-svaty-tomas-a-principuv-ostrov.html /landing/zeme-svaty-tomas-a-princuv-ostrov.html 301
+/landing/zeme-svaty-vincenc.html /landing/zeme-svaty-vincenc-a-grenadiny.html 301

@@ -17,7 +17,7 @@ places.forEach((place) => {
     ["title", /<title>[^<]{20,}<\/title>/],
     ["description", /<meta name="description" content="[^"]{50,}"/],
     ["canonical", /<link rel="canonical" href="https:\/\/mysterymap\.online\/(cs\/mista|en\/places|de\/orte|es\/lugares|fr\/lieux)\//],
-    ["hreflang", /rel="alternate" hreflang="en"/],
+    ["hreflang or noindex", /rel="alternate" hreflang="cs"|content="noindex,follow"/],
     ["jsonld", /application\/ld\+json/],
     ["breadcrumb", /BreadcrumbList|Drobečková navigace/],
     ["tourist-attraction", /TouristAttraction/],
@@ -47,7 +47,20 @@ articles.forEach((article) => {
 });
 
 if (!fs.existsSync(path.join(root, "llms.txt"))) errors.push("missing llms.txt");
-if (!fs.existsSync(path.join(root, "sitemap.xml"))) errors.push("missing sitemap.xml");
+if (!fs.existsSync(path.join(root, "sitemap.xml"))) {
+  errors.push("missing sitemap.xml");
+} else {
+  // Sitemap nesmí obsahovat stránky s noindex.
+  const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
+  for (const [, url] of sitemap.matchAll(/<loc>https:\/\/mysterymap\.online([^<]*)<\/loc>/g)) {
+    const filePath = url.endsWith("/") ? path.join(root, url, "index.html") : path.join(root, url);
+    if (!fs.existsSync(filePath)) {
+      errors.push(`sitemap: missing file for ${url}`);
+    } else if (/content="noindex/.test(fs.readFileSync(filePath, "utf8"))) {
+      errors.push(`sitemap: noindex page listed ${url}`);
+    }
+  }
+}
 
 if (errors.length) {
   console.error(errors.join("\n"));
