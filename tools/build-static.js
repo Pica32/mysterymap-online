@@ -753,7 +753,8 @@ function landingPage(title, description, items, canonical) {
             <a class="button secondary" href="/index.html#zebricky">Další žebříčky</a>
           </div>
         </section>
-        <section class="places-section">
+        <section class="places-section" aria-labelledby="landing-list-title">
+          <h2 id="landing-list-title">${escapeHtml(title)} (${items.length})</h2>
           <div class="places-grid">${cards}</div>
         </section>
       </main>`
@@ -851,7 +852,8 @@ function articleIndexPage(language = "cs") {
         <h1>Články o tajemných místech, katastrofách a legendách</h1>
         <p class="hero-copy">Redakční průvodce propojují místa, motivy, zdroje a skeptická vysvětlení do větších tematických celků.</p>
       </section>
-      <section class="places-section">
+      <section class="places-section" aria-labelledby="article-list-title">
+        <h2 id="article-list-title">Všechny články (${articles.length})</h2>
         <div class="places-grid">
           ${articles.map((article) => `
             <a class="place-card" href="${articlePath(article, language)}">
