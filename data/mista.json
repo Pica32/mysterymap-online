@@ -7797,10 +7797,10 @@
       "fr": "trolltunga"
     },
     "detailPath": "/mista/trolltunga/",
-    "nazev": "Trolltunga",
+    "nazev": "Trolltunga (Trollí jazyk)",
     "zeme": "Norsko",
     "kontinent": "Evropa",
-    "lead": "Skalni jazyk nad jezerem Ringedalsvatnet, turisticky magnet s realnym horskym rizikem.",
+    "lead": "Skalní jazyk trčící 700 metrů nad jezerem Ringedalsvatnet - podle pověsti zkamenělý jazyk trolla, který vystrčil hlavu na slunce.",
     "gps": {
       "lat": 60.124,
       "lon": 6.74
@@ -7813,21 +7813,21 @@
       "nebezpeci"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě, místy zvýšené riziko",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "norská lidová pověst",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "střední (náročná túra, počasí)",
+    "pristupnost": "volně přístupné, náročný výstup",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": false,
     "popisy": {
-      "zahada": "Trolltunga rozsiruje petadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Skalni jazyk nad jezerem Ringedalsvatnet, turisticky magnet s realnym horskym rizikem.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, poutni trasu, prirodni anomalni tvar, podzemi, opustenou infrastrukturu nebo ritualni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Trolltunga je vodorovný skalní výběžek nad propastí v jižním Norsku. Fotka na jeho konci patří k nejikoničtějším obrázkům norské přírody.",
+      "historie": "Skála vznikla při době ledové, kdy ledovec odlamoval bloky podél puklin. Velkou popularitu získala až v 2010. letech díky sociálním sítím. Túra má kolem 20-28 km tam a zpět podle zvoleného startu.",
+      "legenda": "Podle norských pověstí trollové zkamení, když na ně dopadne sluneční světlo. Troll, který ze zvědavosti vystrčil jazyk, tak zůstal navždy kamenný.",
+      "paranormalni": "Norský folklór je plný trollů ve skalách a horách. Mlha nad jezerem dodává místu pohádkovou atmosféru.",
+      "skepticke": "Výběžek je výsledek mrazového zvětrávání žuly. Skutečné nebezpečí představuje počasí a délka túry - záchranáři každoročně pomáhají nepřipraveným turistům."
     },
-    "praktickeInfo": "Pred navstevou Trolltunga over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Výchozím místem je Odda v regionu Hardanger, asi 3 hodiny autem z Bergenu. Túra trvá 7-12 hodin; od června do září je nejbezpečnější, mimo sezónu jen s průvodcem. Vezmi si teplé a nepromokavé oblečení, jídlo, čelovku a pevné boty. Parkování je placené, horní parkoviště se rezervuje.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7849,12 +7849,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Trolltunga posiluje geograficke pokryti mapy motivy hory, nebezpeci a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Troll na slunci",
+        "text": "Zvědavý troll vystrčil jazyk ze skály ve chvíli, kdy vyšlo slunce - a zkameněl navždy."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Fronta na fotku",
+        "text": "V létě čekají turisté u skály na fotku i hodinu. Klidnější je brzy ráno nebo po západu slunce."
       }
     ]
   },
@@ -8593,7 +8593,7 @@
     "nazev": "Newgrange",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Praveka chodbova hrobka v Boyne Valley s presnym vztahem k zimnimu slunovratu.",
+    "lead": "Mohyla starší než egyptské pyramidy, do jejíž chodby vnikne sluneční paprsek jen několik rán v roce - o zimním slunovratu.",
     "gps": {
       "lat": 53.6947,
       "lon": -6.4755
@@ -8606,21 +8606,21 @@
       "mytologie"
     ],
     "indexTajemna": 83,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "mytologie a astronomie",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s prohlídkou z návštěvnického centra",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Newgrange rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Praveka chodbova hrobka v Boyne Valley s presnym vztahem k zimnimu slunovratu. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Newgrange v irském údolí Boyne je obrovská kruhová mohyla s kamennou chodbou a komorou. Nad vchodem je „střešní okénko“, kterým o zimním slunovratu proniká sluneční paprsek až na podlahu komory asi na 17 minut.",
+      "historie": "Mohyla vznikla kolem roku 3200 př. n. l., je tedy starší než Stonehenge i Velká pyramida v Gíze. Vstupní kámen zdobí spirály. Archeolog Michael O'Kelly roku 1967 jako první v moderní době pozoroval paprsek slunovratu. Údolí Boyne je od roku 1993 na seznamu UNESCO.",
+      "legenda": "V irské mytologii je Newgrange sídlem bohů Tuatha Dé Danann a domovem boha Aenguse. Hrdina Cú Chulainn byl podle některých příběhů počat právě zde.",
+      "paranormalni": "Lidé, kteří v komoře zažili úsvit slunovratu, popisují silný duchovní zážitek. Mýty o „vílích kopcích“ (sídhe) spojují mohylu s jiným světem.",
+      "skepticke": "Orientace na slunovrat je doložená a záměrná. Bílá křemenná fasáda je ale sporná moderní rekonstrukce z 70. let - archeologové se přou, jak mohyla původně vypadala."
     },
-    "praktickeInfo": "Pred navstevou Newgrange over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Newgrange je asi 50 minut autem severně od Dublinu. Vstup je jen přes návštěvnické centrum Brú na Bóinne, odkud vozí autobus. Vstupenky jsou omezené, v létě je lepší přijet brzy. Na místa uvnitř o slunovratu se losuje - při běžné prohlídce průvodce paprsek simuluje světlem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -8642,12 +8642,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Newgrange je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu ritual, mytologie a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Paprsek slunovratu",
+        "text": "Jen několik rán kolem 21. prosince projde slunce střešním okénkem a osvětlí komoru, jak to stavitelé plánovali před 5 000 lety."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Losování o úsvit",
+        "text": "Každý rok se o místo v komoře uchází desetitisíce lidí, vylosováno je jen několik desítek."
       }
     ]
   },
@@ -9238,10 +9238,10 @@
       "fr": "knossos"
     },
     "detailPath": "/mista/knossos/",
-    "nazev": "Knossos",
+    "nazev": "Knóssos",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Minojsky palac spojovany s labyrintem, Minotaurem a pocatky evropske mytologicke imaginace.",
+    "lead": "Palác krále Mínóa na Krétě, kde podle mýtu stál labyrint s Mínótaurem - a jehož zbarvené sloupy jsou dílem sporné rekonstrukce archeologa Evanse.",
     "gps": {
       "lat": 35.2989,
       "lon": 25.1631
@@ -9254,21 +9254,21 @@
       "ztracena-mesta"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "mytologická tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká (horko)",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Knossos rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Minojsky palac spojovany s labyrintem, Minotaurem a pocatky evropske mytologicke imaginace. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Knóssos je největší archeologické naleziště minojské civilizace, nejstarší vyspělé kultury v Evropě. Spleť místností, chodeb a schodišť paláce mohla dát vzniknout mýtu o labyrintu.",
+      "historie": "Palác vzkvétal zhruba v letech 1900-1350 př. n. l. Na začátku 20. století ho vykopal britský archeolog Arthur Evans, který části paláce zrekonstruoval z betonu a nechal je natřít. Minojské písmo Lineární A dodnes nikdo nerozluštil.",
+      "legenda": "Podle mýtu nechal král Mínós vystavět labyrint pro Mínótaura, napůl býka a napůl člověka. Hrdina Théseus ho zabil a z labyrintu ho vyvedla nit Ariadny.",
+      "paranormalni": "Fresky s býky, přes které skáčou akrobaté, spojují mýtus s rituály minojské kultury. Návštěvníci hledají, kde by mohl být „skutečný labyrint“.",
+      "skepticke": "Evansovy rekonstrukce jsou dnes kritizovány jako příliš fantazijní - některé barvy a tvary jsou jeho představou. Labyrint je mýtus, ale býčí kult minojské kultury je doložený."
     },
-    "praktickeInfo": "Pred navstevou Knossos over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Knóssos je asi 20 minut autobusem z Heraklionu. Přijď hned ráno kvůli horku a davům. Prohlídka trvá 1,5-2 hodiny, průvodci jsou u vstupu. Originály fresek jsou v Archeologickém muzeu v Heraklionu - kombinovaná vstupenka se vyplatí.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -9290,12 +9290,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Knossos je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu mytologie, ztracena-mesta a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Ariadnina nit",
+        "text": "Princezna Ariadna dala Théseovi klubko nitě, aby trefil z labyrintu ven - jeden z nejslavnějších příběhů o lásce a lsti."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Nepřečtené písmo",
+        "text": "Minojské tabulky v Lineárním A čekají na rozluštění už přes sto let."
       }
     ]
   },
@@ -21287,10 +21287,10 @@
       "fr": "orava-castle"
     },
     "detailPath": "/mista/orava-castle/",
-    "nazev": "Orava Castle",
+    "nazev": "Oravský hrad",
     "zeme": "Slovensko",
     "kontinent": "Evropa",
-    "lead": "Dramaticky hrad nad Oravou, ktery se zapsal i do filmove historie Nosferatu a stredoevropskych legend.",
+    "lead": "Hrad na skále 112 metrů nad řekou Oravou, kde se natáčel film Nosferatu z roku 1922 - a kde se upír poprvé objevil na filmovém plátně.",
     "gps": {
       "lat": 49.261,
       "lon": 19.358
@@ -21304,21 +21304,21 @@
       "duchove"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "filmová a místní legenda",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Orava Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Dramaticky hrad nad Oravou, ktery se zapsal i do filmove historie Nosferatu a stredoevropskych legend. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Oravský hrad se tyčí na úzkém vápencovém útesu v obci Oravský Podzámok na severu Slovenska. Vypadá, jako by vyrůstal přímo ze skály, a tvoří ho dolní, střední a horní hrad.",
+      "historie": "Hrad se připomíná od 13. století a sloužil jako ochrana obchodní cesty do Polska. Rozšiřovali ho Thurzové v 16.-17. století. Roku 1800 vyhořel a později byl obnoven. Dnes je v něm Oravské muzeum.",
+      "legenda": "Ve filmu F. W. Murnaua Nosferatu (1922), prvním velkém upírském filmu, hrál hrad sídlo hraběte Orloka. Tak se stal filmovým „Drákulovým hradem“ dřív než Bran.",
+      "paranormalni": "Mezi místními pověstmi je Bílá paní a duch Thurzovy rodiny. Během letních nocí se konají noční prohlídky s „duchy“.",
+      "skepticke": "Natáčení Nosferatu je doložené, ale hrad nemá spojení se skutečným Vladem III. Duchové jsou součástí turistických programů."
     },
-    "praktickeInfo": "Pred navstevou Orava Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Oravský Podzámok je asi 3 hodiny autem z Bratislavy a 2,5 hodiny z Krakova. Prohlídky jsou jen s průvodcem (ve více jazycích v sezóně), trvají kolem 2 hodin a vedou po mnoha schodech. Nejlepší fotka hradu je z mostu přes Oravu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21340,12 +21340,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Orava Castle rozsiruje mapu o motivy hrad, film, duchove a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "První filmový upír",
+        "text": "Hrabě Orlok z Nosferatu kráčel po hradbách Oravského hradu už v roce 1922 - o deset let dřív než Drákula Bély Lugosiho."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Hrad ze skály",
+        "text": "Stavitelé využili tvar útesu tak, že hrad vypadá jako jeho přirozené pokračování."
       }
     ]
   },
@@ -23378,10 +23378,10 @@
       "fr": "eisriesenwelt"
     },
     "detailPath": "/mista/eisriesenwelt/",
-    "nazev": "Eisriesenwelt",
+    "nazev": "Eisriesenwelt (Svět ledových obrů)",
     "zeme": "Rakousko",
     "kontinent": "Evropa",
-    "lead": "Ledova jeskynni soustava u Werfenu, kde podzemi a led vytvareji monumentalni prirodni chram.",
+    "lead": "Největší ledová jeskyně na světě vysoko v Alpách, kde se prochází jen se svítilnou nebo karbidovou lampou mezi ledovými vodopády a sály.",
     "gps": {
       "lat": 47.502,
       "lon": 13.189
@@ -23394,21 +23394,21 @@
       "prirodni-anomalie"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "lidové pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká (chlad, schody)",
+    "pristupnost": "placený vstup s průvodcem, sezónně",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Eisriesenwelt je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Ledova jeskynni soustava u Werfenu, kde podzemi a led vytvareji monumentalni prirodni chram. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Eisriesenwelt v pohoří Tennengebirge u Werfenu má přes 40 km chodeb, z nichž první kilometr je pokrytý ledem. Prohlídka vede mezi ledovými útvary osvětlenými jen lampami v rukou průvodců a návštěvníků.",
+      "historie": "Jeskyni objevil roku 1879 přírodovědec Anton von Posselt-Czorich. Systematicky ji prozkoumal Alexander von Mörk od roku 1912. Led vzniká, protože do jeskyně proudí v zimě studený vzduch a jarní tající voda v ní zamrzá.",
+      "legenda": "Místní kdysi věřili, že jeskyně je vstupem do pekla, a báli se do ní vstoupit. Jména útvarů jako Hymirův hrad odkazují na severskou mytologii o ledových obrech.",
+      "paranormalni": "V úplné tmě a mrazu, kde jediné světlo dává plamen lampy, popisují návštěvníci pocit vstupu do jiného světa.",
+      "skepticke": "Led je výsledkem „komínového efektu“ cirkulace vzduchu. Strach z pekla měl přirozený původ ve studeném proudu vzduchu, který z jeskyně vane."
     },
-    "praktickeInfo": "Pred navstevou Eisriesenwelt over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Werfen je asi 40 minut vlakem ze Salcburku, dál autobus k parkovišti. Následuje 20 minut chůze, lanovka a dalších 20 minut ke vchodu. Prohlídka trvá kolem 75 minut a vede přes 700 schodů. Uvnitř je pod nulou - teplé oblečení i v létě. Otevřeno je přibližně od května do října, fotografování je zakázané.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -23430,12 +23430,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Eisriesenwelt rozsiruje mapu o motivy podzemi, prirodni-anomalie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Brána do pekla",
+        "text": "Místní se jeskyně báli a říkali jí brána do pekla. Ledový vzduch, který z ní fouká, ten dojem posiloval."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Světlo lampy",
+        "text": "Uvnitř není elektrické osvětlení - ledové sály vidíš jen ve světle lamp, což dodává prohlídce dobrodružný charakter."
       }
     ]
   },
@@ -25250,10 +25250,10 @@
       "fr": "mostar-bridge"
     },
     "detailPath": "/mista/mostar-bridge/",
-    "nazev": "Mostar Bridge",
+    "nazev": "Starý most v Mostaru",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Most obnoveni a valecne pameti, kde zniceni i rekonstrukce tvori silny pribeh mista.",
+    "lead": "Osmanský kamenný most z 16. století, zničený ve válce roku 1993 a znovu postavený z kamenů vylovených z řeky - skáčou z něj potápěči 24 metrů do Neretvy.",
     "gps": {
       "lat": 43.337,
       "lon": 17.815
@@ -25266,21 +25266,21 @@
       "mytologie"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní legenda",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká (kluzký most)",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mostar Bridge je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Most obnoveni a valecne pameti, kde zniceni i rekonstrukce tvori silny pribeh mista. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Stari most klene jediný kamenný oblouk přes řeku Neretvu v Mostaru. Na svou dobu byl technickým zázrakem: oblouk dlouhý asi 29 metrů bez středních podpěr.",
+      "historie": "Most postavil osmanský architekt Mimar Hajrudin roku 1566 na objednávku sultána Sulejmana Nádherného. Přežil 427 let, než ho 9. listopadu 1993 zničila dělostřelba během války. Byl obnoven za pomoci UNESCO a otevřen roku 2004, s použitím kamenů vylovených z řeky. Od roku 2005 je na seznamu UNESCO.",
+      "legenda": "Podle pověsti se Hajrudin tak bál, že most při odstranění lešení spadne, že si předem vykopal hrob. Most ale vydržel.",
+      "paranormalni": "Skoky z mostu mají staletou tradici - místní skokani předvádějí skok výměnou za příspěvky od turistů. Každé léto se koná soutěž.",
+      "skepticke": "Pověst o hrobě je typický příběh o strachu stavitele. Skutečně působivá je moderní historie mostu jako symbolu zničení i smíření."
     },
-    "praktickeInfo": "Pred navstevou Mostar Bridge over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Mostar je asi 2,5 hodiny z Sarajeva a 3 hodiny z Dubrovníku, často jako jednodenní výlet. Most je zdarma, ale kamenný povrch je kluzký - choď opatrně. Skokani skáčou, když se vybere dost peněz. Nejlepší výhled je z břehu pod mostem nebo z minaretu mešity Koski Mehmed-paši.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25302,12 +25302,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Mostar Bridge rozsiruje mapu o motivy valka, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Stavitel a jeho hrob",
+        "text": "Mimar Hajrudin si prý vykopal hrob pro případ, že most spadne. Most stál přes 400 let."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Kameny z řeky",
+        "text": "Po válce potápěči vylovili z Neretvy původní kameny a most byl postaven znovu - jako symbol smíření."
       }
     ]
   },
@@ -59763,10 +59763,10 @@
       "fr": "hypogeum-of-hal-saflieni"
     },
     "detailPath": "/mista/hypogeum-of-hal-saflieni/",
-    "nazev": "Hypogeum of Hal Saflieni",
+    "nazev": "Hypogeum Ħal Saflieni",
     "zeme": "Malta",
     "kontinent": "Evropa",
-    "lead": "Podzemni nekropole na Malte, mnohovrstevny prostor smrti, akustiky a praveke architektury.",
+    "lead": "Jediný známý podzemní chrám z doby kamenné na světě, vytesaný do skály před 5 000 lety - s komorou, kde hluboký mužský hlas rezonuje celým prostorem.",
     "gps": {
       "lat": 35.869,
       "lon": 14.507
@@ -59779,21 +59779,21 @@
       "umrti"
     ],
     "indexTajemna": 86,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "záhadná akustika",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen 80 návštěvníků denně, rezervace týdny předem",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Hypogeum of Hal Saflieni rozsiruje trinactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Podzemni nekropole na Malte, mnohovrstevny prostor smrti, akustiky a praveke architektury.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: ostrovni izolace, poustni archeologie, horsky ritual, podzemni system, pevnost nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hypogeum v Paoli na Maltě je trojpatrový podzemní komplex sálů a chodeb vytesaných do vápence. Komora „Věštírna“ má zvláštní akustiku: hluboký hlas o frekvenci kolem 110 Hz se v ní rozléhá celým hypogeem.",
+      "historie": "Hypogeum bylo objeveno roku 1902 při stavbě domů. Používalo se zhruba v letech 4000-2500 př. n. l. jako svatyně a pohřebiště - našly se ostatky asi 7 000 lidí. Proslulou soškou je „Spící paní“. Od roku 1980 je na seznamu UNESCO.",
+      "legenda": "Spící paní, soška ležící ženy, se vykládá jako bohyně plodnosti nebo symbol věčného spánku zemřelých. Kolem hypogea kolovaly pověsti o dětech, které se v tunelech ztratily.",
+      "paranormalni": "Mnoho návštěvníků i výzkumníků popisuje, že rezonance hlasu v komoře vyvolává fyzické pocity. Někteří spekulují o „změněném stavu vědomí“.",
+      "skepticke": "Rezonance je skutečná a měřitelná, není ale jisté, že ji stavitelé navrhli záměrně. Příběh o ztracených dětech se opírá o novinové historky bez důkazů."
     },
-    "praktickeInfo": "Pred navstevou Hypogeum of Hal Saflieni over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Hypogeum je v Paoli, asi 20 minut autobusem z Valletty. Kvůli ochraně mikroklimatu je denně jen 80 míst (po 10 lidech za hodinu) a vstupenky se vyprodávají týdny i měsíce dopředu - rezervuj co nejdřív na webu Heritage Malta. Fotografování je zakázané. Kombinuj s chrámy Tarxien kousek odtud.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -59815,12 +59815,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Hypogeum of Hal Saflieni pridava motivy podzemi, umrti a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Objev při stavbě",
+        "text": "Dělníci prorazili strop hypogea při kopání cisterny pro nové domy. Zprvu se objev snažili utajit."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Hlas, který chvěje kamenem",
+        "text": "Mluvíš-li v komoře Věštírny hlubokým hlasem, zvuk se rozezní celým podzemím."
       }
     ]
   },
@@ -72363,10 +72363,10 @@
       "fr": "bock-casemates"
     },
     "detailPath": "/mista/bock-casemates/",
-    "nazev": "Bock Casemates",
+    "nazev": "Kasematy Bock v Lucemburku",
     "zeme": "Lucembursko",
     "kontinent": "Evropa",
-    "lead": "Lucemburske kasematy, rozsahly podzemni obranny system vytesany do skaly nad mestem.",
+    "lead": "Labyrint 17 km tunelů vytesaných do skály pod městem, které kdysi přezdívali „Gibraltar severu“ - a kde se za války ukrývaly desítky tisíc lidí.",
     "gps": {
       "lat": 49.6114,
       "lon": 6.1364
@@ -72379,21 +72379,21 @@
       "valka"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bock Casemates rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Lucemburske kasematy, rozsahly podzemni obranny system vytesany do skaly nad mestem.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Kasematy Bock jsou podzemní chodby a dělostřelecká postavení vytesaná do skály Bock, kde stál původní hrad Lucemburků. Z oken ve skále je výhled na údolí řeky Alzette.",
+      "historie": "Na skále Bock postavil hrabě Siegfried roku 963 hrad, z něhož vyrostlo město Lucemburk. Kasematy začali budovat Španělé roku 1644, rozšiřovali je Francouzi a Rakušané. Po roce 1867 byla pevnost většinou zbořena, ale část tunelů zůstala. Za světových válek sloužily jako kryt pro až 35 000 lidí. Od roku 1994 jsou součástí UNESCO.",
+      "legenda": "Podle pověsti si hrabě Siegfried vzal vílu Melusinu, která ho požádala, aby ji v sobotu nikdy nespatřil. Když ji tajně uviděl v lázni s rybím ocasem, zmizela do skály Bock - a pokaždé po sedmi letech se vynoří.",
+      "paranormalni": "Místní tvrdí, že Melusina šije pod skálou nekonečnou košili. Pokud ji dokončí, Lucemburk zmizí ve skále.",
+      "skepticke": "Příběh o Melusině je evropská pověst známá z Francie i dalších zemí, kterou si lucemburská tradice přisvojila. Kasematy jsou vojenská stavba, žádná víla tu nebydlí."
     },
-    "praktickeInfo": "Pred navstevou Bock Casemates over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Kasematy jsou v centru Lucemburku, kousek od mostu Pont du Château. Otevřeny jsou zhruba od března do listopadu, prohlídka trvá asi 45 minut. Uvnitř je chladno a schody jsou strmé. Kombinuj s procházkou po promenádě Chemin de la Corniche, „nejkrásnějším balkonem Evropy“.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72415,12 +72415,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Bock Casemates pridava na mapu motivy podzemi, valka a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Víla Melusina",
+        "text": "Zakladatel Lucemburku si podle legendy vzal vílu, kterou ztratil, když porušil zákaz a podíval se na ni v sobotu."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Kryt pro celé město",
+        "text": "Za světových válek se do tunelů ukrývaly desítky tisíc obyvatel před bombardováním."
       }
     ]
   },
@@ -80427,10 +80427,10 @@
       "fr": "kotor-fortress"
     },
     "detailPath": "/mista/kotor-fortress/",
-    "nazev": "Kotor Fortress",
+    "nazev": "Pevnost sv. Jana nad Kotorem",
     "zeme": "Černá Hora",
     "kontinent": "Evropa",
-    "lead": "Pevnostni cesta nad Kotorem, kamenne zdi stoupajici po skalach nad zalivem a mestskou pameti.",
+    "lead": "Hradby šplhající 1 350 schody po strmé hoře nad Kotorskou zátokou - a výhled, který stojí za každý krok.",
     "gps": {
       "lat": 42.425,
       "lon": 18.773
@@ -80443,21 +80443,21 @@
       "hory"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká až střední (horko, kluzké schody)",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kotor Fortress rozsiruje dvaadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Pevnostni cesta nad Kotorem, kamenne zdi stoupajici po skalach nad zalivem a mestskou pameti.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o klaster, pevnost, jeskyne, ritualni krajinu, horskou oblast nebo prirodni anomalni tvar.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Hradby Kotoru vedou ze starého města po strmém svahu hory sv. Jana až do výšky asi 260 metrů k pevnosti. Pod nimi leží Kotorská zátoka, často přirovnávaná k fjordu.",
+      "historie": "Opevnění se budovalo od 9. století, rozhodující podobu mu dali Benátčané v 15.-18. století. Kotor je od roku 1979 na seznamu UNESCO. V roce 1979 ho poškodilo zemětřesení.",
+      "legenda": "Kostelík Panny Marie Zdraví v polovině výstupu postavili podle tradice obyvatelé, kteří přežili morovou epidemii. Kotor má také tradici koček, které jsou symbolem města a podle místních přinášejí štěstí.",
+      "paranormalni": "Za soumraku, kdy se hradby rozsvítí, vypadají jako zlatý had. Kostelík Panny Marie Zdraví v polovině cesty je oblíbeným místem modliteb.",
+      "skepticke": "Hradby nejsou dílem žádného zázraku, ale staletí práce a benátského vojenského inženýrství. Kočky se ve městě rozšířily díky přístavu, kde chránily zásoby před krysami."
     },
-    "praktickeInfo": "Pred navstevou Kotor Fortress over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Výstup začíná ve starém městě, trvá asi 1-1,5 hodiny tam. Jdi brzy ráno nebo před západem slunce kvůli horku a vezmi vodu. Schody jsou kluzké a nerovné. Kotor je asi 1,5 hodiny z letiště Podgorica nebo 2 hodiny z Dubrovníku. Když kotví výletní lodě, je staré město přeplněné.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -80479,12 +80479,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kotor Fortress posiluje geograficke pokryti mapy motivy pevnost, hory a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Město koček",
+        "text": "Kotor je proslulý kočkami, které jsou všude. Má dokonce Muzeum koček."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Zlatý had",
+        "text": "Večer nasvícené hradby vypadají jako zlatý had plazící se horou nad městem."
       }
     ]
   },
@@ -80571,10 +80571,10 @@
       "fr": "rila-monastery"
     },
     "detailPath": "/mista/rila-monastery/",
-    "nazev": "Rila Monastery",
+    "nazev": "Rilský klášter",
     "zeme": "Bulharsko",
     "kontinent": "Evropa",
-    "lead": "Horsky klaster v Rile, symbol duchovni odolnosti, izolace a barevne sakralni architektury.",
+    "lead": "Největší pravoslavný klášter Bulharska v horách Rila, se zdobenými arkádami a freskami Posledního soudu - založený poustevníkem, který žil v jeskyni.",
     "gps": {
       "lat": 42.134,
       "lon": 23.34
@@ -80587,21 +80587,21 @@
       "hory"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "duchovní tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "klášter zdarma, muzeum placené",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Rila Monastery rozsiruje dvaadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Horsky klaster v Rile, symbol duchovni odolnosti, izolace a barevne sakralni architektury.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o klaster, pevnost, jeskyne, ritualni krajinu, horskou oblast nebo prirodni anomalni tvar.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Rilský klášter leží v údolí v pohoří Rila v nadmořské výšce asi 1 150 metrů. Jeho černobílo-červené pruhované arkády a pestré fresky z něj dělají jeden z nejkrásnějších klášterů na Balkáně.",
+      "historie": "Klášter založili žáci poustevníka sv. Jana Rilského v 10. století. Během osmanské nadvlády byl ostrovem bulharské kultury a jazyka. Většina dnešních budov vznikla po požáru roku 1833. Od roku 1983 je na seznamu UNESCO.",
+      "legenda": "Svatý Jan Rilský žil jako poustevník v jeskyni nedaleko kláštera. Podle tradice kdo projde úzkou skulinou v jeho jeskyni, má čisté svědomí - hříšník se prý zasekne.",
+      "paranormalni": "Fresky Posledního soudu zobrazují démony a hříšníky v pekle. Poutníci popisují hluboký klid v horském prostředí.",
+      "skepticke": "Skulina v jeskyni je těsná pro každého, kdo je robustnější - nejde o zkoušku hříchu, ale o tradici. Fresky jsou ze 19. století, ne středověké."
     },
-    "praktickeInfo": "Pred navstevou Rila Monastery over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Klášter je asi 2 hodiny autem jižně od Sofie, jednodenní zájezdy jezdí denně. Vstup na nádvoří a do kostela je zdarma, muzeum a věž jsou placené. Oblékni se slušně (zakrytá ramena a kolena). Jeskyně sv. Jana je asi 4 km od kláštera, vede k ní stezka.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -80623,12 +80623,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Rila Monastery posiluje geograficke pokryti mapy motivy ritual, hory a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Zkouška v jeskyni",
+        "text": "Poutníci se protahují skulinou v jeskyni sv. Jana. Podle tradice projde jen ten, kdo nemá těžké hříchy."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Ostrov kultury",
+        "text": "Za osmanské vlády tu mniši uchovávali bulharské knihy a jazyk - proto je klášter národním symbolem."
       }
     ]
   },
