@@ -1720,10 +1720,10 @@
       "fr": "dubrovnik-old-town"
     },
     "detailPath": "/mista/dubrovnik-old-town/",
-    "nazev": "Dubrovnik Old Town",
+    "nazev": "Dubrovník: Staré Město",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Historicke hradby a ulice, ktere se pro mnoho divaku spojily s Kralovym pristavistem.",
+    "lead": "Hradbami obehnané město na Jadranu, které ve Hře o trůny hrálo Královo přístaviště - a jehož skutečná historie je stejně dramatická jako seriál.",
     "gps": {
       "lat": 42.6403,
       "lon": 18.1105
@@ -1738,21 +1738,21 @@
       "popkultura"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní aura",
+    "paranormalniAktivita": "filmová a místní legenda",
     "historickaDolozenost": "velmi dobrá",
-    "nebezpecnost": "nízká",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.2,
+    "nebezpecnost": "nízká (horko, davy)",
+    "pristupnost": "Staré Město volně, hradby placené",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Dubrovnik Old Town je misto, kde se realna krajina premenila v obraz, ktery lide poznavaji z filmu Game of Thrones. Tajemstvi tady nestoji na dukazu nadprirozena, ale na silnem posunu mezi skutecnym prostorem a filmovou pameti.",
-      "historie": "Lokalita existovala davno pred natacenim a ma vlastni kulturni nebo prirodni kontext. Filmova vrstva je proto popsana oddelene od dolozene historie mista, aby bylo jasne, co patri k realnemu mistu a co k produkcni interpretaci.",
-      "legenda": "Fanousci si misto spojuji se scenami, rekvizitami, uhly kamery a atmosferou filmu Game of Thrones. V popularni kulture se tak z obycejne navstevy stava hledani konkretniho zaberu a pocitu, ktery si divak pamatuje.",
-      "paranormalni": "Paranormalni vrstva je zde chapana jako kulturni a emocni ozvena: pocit vstupu do fikcniho sveta, silna deja-vu zkusenost, fanouskovske ritualy a opakovane vypraveni o tom, ze misto pusobi jinak nez bezna turisticka lokace.",
-      "skepticke": "Skepticke vysvetleni je prime: dojem vytvari filmova hudba, strih, kompozice obrazu, opakovane sledovani a ocekavani navstevnika. Stranka proto netvrdi nadprirozeno, ale mapuje, proc je misto kulturne magneticke."
+      "zahada": "Dubrovník obklopují téměř 2 km dlouhé hradby, které nikdy nepadly nepříteli. Vznikl tu malý stát - Dubrovnická republika - který po staletí přežíval mezi Benátkami a Osmanskou říší díky diplomacii, obchodu a placení tributu.",
+      "historie": "Dubrovnická (Ragusská) republika existovala od 14. století do roku 1808, kdy ji zrušil Napoleon. Roku 1667 město zničilo zemětřesení, při němž zahynuly tisíce lidí, a velkou část baroka dnes vidíme z obnovy po něm. Roku 1416 tu jako v jednom z prvních států Evropy zakázali obchod s otroky. Během války v letech 1991-1992 bylo Staré Město ostřelováno; na mapě u brány jsou vyznačeny zásahy. Od roku 1979 je na seznamu UNESCO.",
+      "legenda": "Seriál Hra o trůny proměnil Dubrovník v Královo přístaviště. Schodiště u jezuitského kostela se stalo „Schodištěm hanby“, po kterém kráčela Cersei. Fanoušci dodnes opakují její pochod za zvuku imaginárního „Shame!“.",
+      "paranormalni": "Noční prohlídky vyprávějí o duších obětí zemětřesení z roku 1667 a o stínech na hradbách. Silnější než duchařské příběhy je ale pocit z města, které přežilo staletí obležení, katastrof i válku.",
+      "skepticke": "Filmová sláva přinesla Dubrovníku nadměrný turismus - město omezuje výletní lodě a prosí turisty, aby nesedali na památky. Duchařské příběhy jsou součástí nočních prohlídek, ne historických záznamů."
     },
-    "praktickeInfo": "Pred navstevou Dubrovnik Old Town over aktualni pristup, vstupne, mistni pravidla a sezonni omezeni. GPS souradnice slouzi k orientaci, ne jako povoleni vstupu do soukromych nebo chranenych casti.",
+    "praktickeInfo": "Do Starého Města se vchází branou Pile, kde staví městské autobusy. Okruh po hradbách je placený a trvá 1,5-2 hodiny - jdi ráno nebo pozdě odpoledne, v poledne je velké horko. Stejná vstupenka platí do pevnosti Lovrijenac. Lanovka na horu Srđ nabízí výhled na celé město. V sezóně a když kotví výletní lodě je město přeplněné.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -1774,12 +1774,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Zaber, ktery zmenil misto",
-        "text": "Hlavni pribeh lokace stoji na tom, ze divak pozna krajinu podle filmove pameti. Dubrovnik Old Town tak funguje jako brana mezi realnou mapou a vypravenim filmu Game of Thrones."
+        "nazev": "Schodiště hanby",
+        "text": "Barokní schody k jezuitskému kostelu proslavila scéna s Cersei. Průvodci tu nabízejí „Game of Thrones“ prohlídky a fanoušci se fotí na místě natáčení."
       },
       {
-        "nazev": "Jak misto overovat",
-        "text": "U filmovych mist je dulezite oddelit skutecne dolozene nataceni od fanouskovskych domnenek. Proto stranka drzi zdroje, GPS a prakticke informace vedle interpretace."
+        "nazev": "Svoboda za všechno zlato",
+        "text": "Nápis „Non bene pro toto libertas venditur auro“ nad branou pevnosti Lovrijenac shrnuje filozofii republiky, která přežila díky diplomacii."
       }
     ]
   },
@@ -6498,10 +6498,10 @@
       "fr": "chateau-de-chillon"
     },
     "detailPath": "/mista/chateau-de-chillon/",
-    "nazev": "Chateau de Chillon",
+    "nazev": "Hrad Chillon",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Jezerni hrad u Montreux, kde romanticka literatura a stredoveka architektura vytvorily silny genius loci.",
+    "lead": "Vodní hrad na skále v Ženevském jezeře, jehož vězně proslavil lord Byron básní - a jehož jméno si do sloupu ve sklepení sám vyryl.",
     "gps": {
       "lat": 46.4142,
       "lon": 6.9275
@@ -6514,21 +6514,21 @@
       "legenda"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chateau de Chillon rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Jezerni hrad u Montreux, kde romanticka literatura a stredoveka architektura vytvorily silny genius loci. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Hrad Chillon stojí na malém skalním ostrůvku u břehu Ženevského jezera u Montreux. Patří k nejnavštěvovanějším památkám Švýcarska. Jeho klenuté sklepení sloužilo jako vězení.",
+      "historie": "Hrad vznikal od 11.-12. století a od 13. století ho rozšiřovali savojští hrabata. Roku 1536 ho dobyli Bernští a osvobodili vězně, mezi nimi ženevského kněze Françoise Bonivarda, který tu byl čtyři roky připoutaný ke sloupu. Lord Byron navštívil hrad roku 1816 a napsal báseň Vězeň chillonský.",
+      "legenda": "Podle tradice Bonivard vyšlapal do kamenné podlahy kolem sloupu stopu, jak chodil v kruhu na řetězu. Sloupy ve sklepení nesou vyrytá jména mnoha návštěvníků - mezi nimi i „Byron“.",
+      "paranormalni": "Návštěvníci tvrdí, že ve sklepení cítí chlad a tíseň. Místní příběhy mluví o vězních, jejichž hlasy se nesou po vodě.",
+      "skepticke": "Není jisté, že podpis „Byron“ vyryl skutečně sám básník - mohl ho vytvořit i někdo jiný. Báseň romanticky zveličila Bonivardovo utrpení. Chlad ve sklepení je dán polohou pod hladinou jezera."
     },
-    "praktickeInfo": "Pred navstevou Chateau de Chillon over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Hrad je asi 3 km od Montreux - vede tam krásná procházka po nábřeží (45 minut), jezdí sem trolejbus i lodě po jezeře. Prohlídka je samostatná s audioprůvodcem a trvá 1,5-2 hodiny. Výhodné je spojit návštěvu s Lausanne nebo Montreux. Vstupenky lze koupit online.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -6550,12 +6550,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Chateau de Chillon je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu hrad, legenda a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Vězeň u sloupu",
+        "text": "François Bonivard strávil čtyři roky připoutaný v podzemí hradu. Jeho příběh dal vzniknout jedné z nejslavnějších romantických básní."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Byronův podpis",
+        "text": "Jméno „Byron“ vyryté do sloupu láká návštěvníky už dvě stě let, i když jeho pravost zůstává sporná."
       }
     ]
   },
@@ -7365,10 +7365,10 @@
       "fr": "wieliczka-salt-mine"
     },
     "detailPath": "/mista/wieliczka-salt-mine/",
-    "nazev": "Wieliczka Salt Mine",
+    "nazev": "Solný důl Wieliczka",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Solny dul s podzemnimi kaplemi, kde prace, vira a hloubka vytvorily samostatny svet.",
+    "lead": "Podzemní město vytesané do soli, s kaplí 100 metrů pod zemí, kde jsou z kamenné soli vyřezané i lustry - a s legendou o prstenu uherské princezny.",
     "gps": {
       "lat": 49.9833,
       "lon": 20.0547
@@ -7381,21 +7381,21 @@
       "ritual"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "hornické legendy",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká na trase",
+    "pristupnost": "jen s průvodcem, placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Wieliczka Salt Mine rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Solny dul s podzemnimi kaplemi, kde prace, vira a hloubka vytvorily samostatny svet. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Důl ve Wieliczce u Krakova má přes 280 km chodeb ve 9 patrech. Turistická trasa vede jen jejich malou částí. Největším divem je kaple sv. Kingy, kde jsou ze soli vytesané podlahy, oltáře, reliéfy a dokonce lustry.",
+      "historie": "Sůl se tu těžila nepřetržitě od 13. století až do roku 1996. Důl přinášel polským králům velkou část příjmů. Horníci po staletí tesali do soli kaple a sochy. Kaple sv. Kingy vznikala od roku 1896 po několik desetiletí. Roku 1978 byl důl zapsán mezi první památky UNESCO na světě.",
+      "legenda": "Podle legendy uherská princezna Kinga, nevěsta krakovského knížete, hodila svůj zásnubní prsten do solného dolu v Uhrách. Po příjezdu do Polska nechala kopat ve Wieliczce - a v první vytěžené hroudě soli se našel její prsten. Kinga je dnes patronkou horníků.",
+      "paranormalni": "Horníci věřili v Skarbníka, ducha dolu, který chrání poctivé horníky a trestá ty, kdo se mu posmívají. Prý se ozývá klepáním před závaly.",
+      "skepticke": "Legenda o Kinze vysvětluje počátky těžby, ale sůl se v okolí získávala už v neolitu z pramenů. „Klepání“ v dolech mohlo souviset s pohyby hornin a dřevěných výztuží, které horníky skutečně varovaly před nebezpečím."
     },
-    "praktickeInfo": "Pred navstevou Wieliczka Salt Mine over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Z Krakova jede vlak nebo autobus do Wieliczky asi 20-30 minut. Prohlídka je jen s průvodcem (k dispozici v řadě jazyků) a trvá asi 2-3 hodiny, sestupuje se po zhruba 800 schodech, nahoru jezdí výtah. Pod zemí je kolem 14-16 °C. Vstupenky je lepší rezervovat online na konkrétní čas.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7417,12 +7417,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Wieliczka Salt Mine je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu podzemi, ritual a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Prsten v hroudě soli",
+        "text": "Princezna Kinga hodila prsten do dolu v Uhrách a našla ho v první hroudě soli vykopané v Polsku - podle legendy tak začala těžba ve Wieliczce."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Lustry ze soli",
+        "text": "V kapli sv. Kingy visí lustry z krystalů kamenné soli a celá výzdoba je vytesaná rukama horníků."
       }
     ]
   },
@@ -7509,10 +7509,10 @@
       "fr": "hill-of-crosses"
     },
     "detailPath": "/mista/hill-of-crosses/",
-    "nazev": "Hill of Crosses",
+    "nazev": "Hora křížů",
     "zeme": "Litva",
     "kontinent": "Evropa",
-    "lead": "Poutni vrch tisicu krizu, kde odpor, vira a opakovany ritual vytvareji silne misto.",
+    "lead": "Kopec u litevských Šiauliai, na který lidé po staletí nosí kříže - sovětské úřady ho třikrát srovnaly se zemí, a kříže se vždy znovu objevily.",
     "gps": {
       "lat": 56.0153,
       "lon": 23.4161
@@ -7525,21 +7525,21 @@
       "prokleti"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "duchovní tradice",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Hill of Crosses rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Poutni vrch tisicu krizu, kde odpor, vira a opakovany ritual vytvareji silne misto. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Na nevelkém pahorku stojí odhadem přes 100 000 křížů, krucifixů, růženců a soch. Neustále přibývají, protože je sem přinášejí poutníci z Litvy i ze světa.",
+      "historie": "Tradice nošení křížů se často spojuje s povstáními proti carskému Rusku v letech 1831 a 1863, kdy rodiny neměly těla padlých a stavěly kříže na jejich památku. Za sovětské okupace byl kopec několikrát buldozery zničen, kříže spáleny nebo odvezeny. Lidé je přesto v noci znovu přinášeli. Roku 1993 navštívil horu papež Jan Pavel II.",
+      "legenda": "Podle jedné legendy se nemocnému otci ve snu zjevila žena, která mu řekla, aby na kopec postavil kříž - a jeho dcera se uzdravila. Jiné pověsti mluví o hradu, který se do kopce propadl.",
+      "paranormalni": "Poutníci popisují zvuky křížků cinkajících ve větru a silný pocit posvátna. Mnozí věří, že kříž přinesený s prosbou přinese pomoc.",
+      "skepticke": "Kopec je pravděpodobně hradiště z doby železné. Jeho síla nespočívá v nadpřirozenu, ale v tom, že se stal symbolem pokojného odporu litevského národa a víry."
     },
-    "praktickeInfo": "Pred navstevou Hill of Crosses over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Hora křížů je asi 12 km severně od města Šiauliai, kam jezdí vlaky a autobusy z Vilniusu (asi 2-2,5 hodiny). Z Šiauliai se dostaneš taxíkem nebo autobusem směr Joniškis s vystoupením u odbočky. Vstup je zdarma, u parkoviště jsou stánky s kříži. Návštěva trvá kolem hodiny.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -7561,12 +7561,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Hill of Crosses je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu ritual, prokleti a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Kříže proti buldozerům",
+        "text": "Sovětské úřady kopec opakovaně srovnaly se zemí. Pokaždé se během několika týdnů objevily nové kříže - přinášeli je lidé tajně v noci."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Papežova návštěva",
+        "text": "Jan Pavel II. sloužil u hory v roce 1993 mši. Na památku jeho návštěvy tu dnes stojí velký krucifix od něj."
       }
     ]
   },
@@ -8953,7 +8953,7 @@
     "nazev": "Herculaneum",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Mesto znicene Vesuvem, komornejsi a casto jeste intenzivnejsi protiklad k Pompejim.",
+    "lead": "Sousední město Pompejí, pohřbené pod 20 metry sopečného materiálu - se zachovalým dřevem, jídlem a stovkami koster lidí, kteří čekali na záchranu v přístavu.",
     "gps": {
       "lat": 40.806,
       "lon": 14.3482
@@ -8967,20 +8967,20 @@
     ],
     "indexTajemna": 81,
     "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Herculaneum rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Mesto znicene Vesuvem, komornejsi a casto jeste intenzivnejsi protiklad k Pompejim. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Herculaneum (italsky Ercolano) bylo menší a bohatší než Pompeje. Zasypaly ho pyroklastické proudy do hloubky asi 20 metrů, které uchovaly i organické materiály: dřevěné trámy, dveře, nábytek, potraviny a papyry.",
+      "historie": "Město zničila erupce Vesuvu roku 79 n. l. Vykopávky začaly v 18. století tunely. Moderní město Ercolano stojí přímo nad částí antického města, která zůstává nevykopaná. V 80. letech 20. století archeologové objevili v lodních kůlnách u bývalého pobřeží přes 300 koster lidí, kteří marně čekali na záchranu.",
+      "legenda": "Ve Vile papyrů se našla jediná dochovaná antická knihovna - přes 1 800 zuhelnatělých svitků. Dlouho se zdálo, že je nelze přečíst.",
+      "paranormalni": "Návštěvníci popisují silný dojem z lodních kůlen s kostrami. Místní příběhy mluví o hlasech z tunelů pod moderním městem.",
+      "skepticke": "Kostry v lodních kůlnách nejsou záhadou, ale dokladem rychlé smrti teplem pyroklastického proudu. Papyry se dnes daří číst díky rentgenové tomografii a umělé inteligenci - v roce 2023 byla poprvé přečtena slova ze svitku, který se nikdy nerozvinul."
     },
-    "praktickeInfo": "Pred navstevou Herculaneum over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Herculaneum je u stanice Ercolano Scavi na trati Circumvesuviana, asi 20 minut z Neapole. Je menší než Pompeje, prohlídka trvá 2-3 hodiny. Vstupenky lze koupit online. Dobře se kombinuje s výstupem na Vesuv nebo s návštěvou Pompejí. Vila papyrů je přístupná jen výjimečně.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -9002,12 +9002,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Herculaneum je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu sopky, umrti a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Lidé v lodních kůlnách",
+        "text": "Stovky obyvatel se schovaly v kamenných kůlnách u moře a čekaly na lodě. Pyroklastický proud je zastihl dřív."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Čtení nerozvinutých svitků",
+        "text": "Zuhelnatělé svitky nelze rozvinout. Vědci je „prosvítili“ rentgenem a umělá inteligence v nich rozpoznala písmena - první slovo bylo řecké „purpurový“."
       }
     ]
   },
@@ -21864,10 +21864,10 @@
       "fr": "bled-castle"
     },
     "detailPath": "/mista/bled-castle/",
-    "nazev": "Bled Castle",
+    "nazev": "Hrad Bled",
     "zeme": "Slovinsko",
     "kontinent": "Evropa",
-    "lead": "Hrad nad jezerem Bled, kde pohled na ostrov a skalu vytvari prirozeny pohadkovo-myticky obraz.",
+    "lead": "Hrad na útesu nad alpským jezerem s ostrůvkem a kostelem, kde podle pověsti zvonek splní přání - a kam se ženich nese nevěstu po 99 schodech.",
     "gps": {
       "lat": 46.3692,
       "lon": 14.1
@@ -21880,21 +21880,21 @@
       "mytologie"
     ],
     "indexTajemna": 73,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, ostrov jen loďkou pletna",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bled Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Hrad nad jezerem Bled, kde pohled na ostrov a skalu vytvari prirozeny pohadkovo-myticky obraz. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Hrad Bled stojí na 130 metrů vysokém skalním útesu nad jezerem Bled v Julských Alpách. Pod ním leží jediný přírodní ostrov ve Slovinsku s kostelem Nanebevzetí Panny Marie. Zvonek „přání“ v kostele zvoní téměř nepřetržitě.",
+      "historie": "Hrad se poprvé připomíná roku 1011, kdy oblast daroval císař Jindřich II. biskupům z Brixenu. Patří k nejstarším hradům ve Slovinsku. Na ostrově stávala už předkřesťanská svatyně, dnešní barokní kostel pochází ze 17. století. Lodě pletna, které na ostrov vozí lidi, provozují rodiny s dědičnými licencemi od dob Marie Terezie.",
+      "legenda": "Podle pověsti vdova z hradu nechala ulít zvon pro kapli na památku manžela, kterého zabili lupiči. Loď se zvonem se v bouři potopila a zvon dodnes zvoní z hlubin jezera. Papež pak kostelu daroval nový zvon a kdo na něj zazvoní, tomu se splní přání.",
+      "paranormalni": "Místní tvrdí, že za tichých nocí lze z jezera slyšet potopený zvon. Ve slovanské mytologii bylo jezero sídlem bohyně Živy.",
+      "skepticke": "Potopený zvon nebyl nikdy nalezen. Jezero má ledovcový původ a v zimě občas zamrzá. Zvuky nad vodou se v klidné noci nesou daleko - zvony z okolních kostelů se snadno zamění s „hlasem z hlubin“."
     },
-    "praktickeInfo": "Pred navstevou Bled Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Bled je asi 50 minut autem nebo autobusem z Lublaně. Na hrad vede stezka z městečka (asi 15-20 minut). Na ostrov se dostaneš loďkou pletna (platí se na místě) nebo půjčenou veslicí. Na ostrově vede ke kostelu 99 schodů. Okruh kolem jezera je asi 6 km. Ochutnej místní krémové řezy kremšnita.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -21916,12 +21916,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Bled Castle rozsiruje mapu o motivy hrad, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "99 schodů pro nevěstu",
+        "text": "Podle tradice nese ženich nevěstu po 99 schodech ke kostelu na ostrově. Pokud to zvládne bez zastavení, manželství bude šťastné."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Zvon z hlubin",
+        "text": "Zvon, který měla vdova věnovat kapli, se potopil v bouři. Místní říkají, že ho za tichých nocí slyší zvonit z jezera."
       }
     ]
   },
@@ -22946,10 +22946,10 @@
       "fr": "hohenzollern-castle"
     },
     "detailPath": "/mista/hohenzollern-castle/",
-    "nazev": "Hohenzollern Castle",
+    "nazev": "Hrad Hohenzollern",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Hrad na vyraznem kopci, kde dynasticka pamet a pohadkova silueta vytvari silny vizualni profil.",
+    "lead": "Pohádkový hrad na vrcholu kopce nad mraky, kolébka pruských králů a německých císařů - nejlépe vypadá za podzimních ránů, kdy se vznáší nad mlhou.",
     "gps": {
       "lat": 48.3233,
       "lon": 8.9678
@@ -22962,21 +22962,21 @@
       "mytologie"
     ],
     "indexTajemna": 72,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Hohenzollern Castle je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Hrad na vyraznem kopci, kde dynasticka pamet a pohadkova silueta vytvari silny vizualni profil. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Hrad Hohenzollern stojí na kopci ve výšce 855 metrů nad Švábskou Albou. Za inverzního počasí ho obklopí mlha a hrad vypadá, jako by se vznášel nad mraky.",
+      "historie": "První hrad tu stál už v 11. století, kdy odsud pocházel rod Hohenzollernů. Ten se stal vládnoucí dynastií Braniborska, Pruska a později německých císařů. Dnešní novogotický hrad nechal postavit pruský král Fridrich Vilém IV. v letech 1850-1867. Uvnitř je pokladnice s pruskou královskou korunou.",
+      "legenda": "Rodové pověsti mluví o Bílé paní Hohenzollernů, jejíž zjevení mělo předcházet smrti člena rodu. Vyprávěly se i v Berlíně.",
+      "paranormalni": "Příběhy o Bílé paní se spojují hlavně s berlínským zámkem, k hradu Hohenzollern je přenesla turistická tradice. Návštěvníci zmiňují tajemnou atmosféru v kasematech.",
+      "skepticke": "Dnešní hrad je romantická rekonstrukce 19. století, ne středověká stavba. Pověst o Bílé paní je typický šlechtický příběh, který posiloval vážnost rodu."
     },
-    "praktickeInfo": "Pred navstevou Hohenzollern Castle over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Hrad je asi hodinu jízdy autem jižně od Stuttgartu, nejbližší nádraží je Hechingen. Od parkoviště vede kyvadlový autobus nebo stezka do kopce (asi 20 minut). Vnitřní prostory se prohlížejí s průvodcem nebo samostatně podle sezóny. Za podzimních ráno je nejlepší šance vidět hrad nad mlhou z vyhlídky Zeller Horn.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -22998,12 +22998,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Hohenzollern Castle rozsiruje mapu o motivy hrad, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Hrad nad mraky",
+        "text": "Za inverze leží mlha v údolí a jen vrchol kopce s hradem vyčnívá - fotografové sem jezdí za úsvitu z vyhlídky Zeller Horn."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Koruna, která nebyla nošena",
+        "text": "V pokladnici je pruská královská koruna z roku 1889, kterou žádný panovník nikdy oficiálně neměl na hlavě."
       }
     ]
   },
@@ -48779,10 +48779,10 @@
       "fr": "sintra-quinta-da-regaleira"
     },
     "detailPath": "/mista/sintra-quinta-da-regaleira/",
-    "nazev": "Sintra Quinta da Regaleira",
+    "nazev": "Sintra: Quinta da Regaleira a Iniciační studna",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Palacovy areal se zasvecovaci studnou, symboly a podzemnim systemem, idealni pro esoterickou mapu.",
+    "lead": "Zahrada plná tajných tunelů, jeskyní a „obrácené věže“ - studny se spirálovým schodištěm do hloubky 27 metrů, spojované se zednáři a templáři.",
     "gps": {
       "lat": 38.796,
       "lon": -9.397
@@ -48795,21 +48795,21 @@
       "podzemi"
     ],
     "indexTajemna": 85,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "esoterická symbolika",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká (kluzké schody)",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Sintra Quinta da Regaleira rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Palacovy areal se zasvecovaci studnou, symboly a podzemnim systemem, idealni pro esoterickou mapu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Quinta da Regaleira je zámeček s rozsáhlou zahradou v Sintře, plnou symbolů alchymie, zednářství a templářů. Největší atrakcí je Iniciační studna: spirálové schodiště s devíti podestami vede do hloubky asi 27 metrů, kde je na dně vykládaná růžice s křížem.",
+      "historie": "Panství koupil roku 1892 bohatý obchodník António Augusto Carvalho Monteiro, přezdívaný „Monteiro Milionář“. Jeho podobu navrhl italský architekt Luigi Manini a stavba probíhala zhruba v letech 1904-1910. Studny nikdy nesloužily na vodu. Sintra je od roku 1995 na seznamu UNESCO jako kulturní krajina.",
+      "legenda": "Devět podest studny se vykládá jako odkaz na devět kruhů Dantova pekla, očistce a ráje. Kříž na dně připomíná řád templářů a Kristův řád. Průchod tunely z temnoty ke světlu měl symbolizovat iniciaci - znovuzrození.",
+      "paranormalni": "Návštěvníci popisují pocit, že sestupují do jiného světa. Tunely ústí u jezírka, přes které se jde po kamenech. Esoterické skupiny považují Sintru za „posvátné místo“ s mlhou, která tu často leží.",
+      "skepticke": "Monteirovy zednářské vazby nejsou zcela doložené, symbolika ale odpovídá romantickému zájmu o tajné nauky v jeho době. Studna je architektonické divadlo vytvořené pro zážitek, ne starobylý chrám. Mlha v Sintře je běžný jev díky blízkosti oceánu a kopcům."
     },
-    "praktickeInfo": "Pred navstevou Sintra Quinta da Regaleira over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Sintra je 40 minut vlakem z lisabonského nádraží Rossio. Quinta da Regaleira je asi 10 minut pěšky z centra Sintry. Ke studni bývá fronta - přijď hned při otevření. Kombinuj s palácem Pena a Maurským hradem (shuttle bus 434). Schody ve studni a tunely jsou kluzké a tmavé, vezmi pevnou obuv.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48831,12 +48831,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Sintra Quinta da Regaleira pridava motivy tajne-spolecnosti, podzemi a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Obrácená věž",
+        "text": "Iniciační studna je jako věž postavená dolů do země. Kdo stojí na dně a dívá se vzhůru, vidí kruh oblohy na konci spirály."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Milionářův sen",
+        "text": "Carvalho Monteiro vytvořil celé panství jako cestu duchovní proměny - od podsvětí tunelů až k vyhlídkovým věžím."
       }
     ]
   },
@@ -49211,10 +49211,10 @@
       "fr": "montserrat-monastery-spain"
     },
     "detailPath": "/mista/montserrat-monastery-spain/",
-    "nazev": "Montserrat Monastery Spain",
+    "nazev": "Klášter Montserrat",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Klaster v neobvyklych skalach nad Katalanskem, posvatny bod s prirodni monumentalitou.",
+    "lead": "Benediktinský klášter v „pilovitých horách“ u Barcelony s Černou Madonou, kterou podle legendy našli pastýři v jeskyni za zpěvu a světla z nebe.",
     "gps": {
       "lat": 41.593,
       "lon": 1.837
@@ -49227,21 +49227,21 @@
       "mytologie"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "náboženská legenda",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "klášter volně, lanovky placené",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Montserrat Monastery Spain rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Klaster v neobvyklych skalach nad Katalanskem, posvatny bod s prirodni monumentalitou.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Montserrat znamená „pilovitá hora“. Skalní věže z konglomerátu se zvedají až do výšky 1 236 metrů a klášter je přilepený k jejich boku. Uvnitř baziliky je Černá Madona - La Moreneta, patronka Katalánska.",
+      "historie": "Benediktinský klášter byl založen v 11. století. Roku 1811 ho zničila napoleonská vojska a v 19. století byl obnoven. Za frankismu zůstal Montserrat symbolem katalánské kultury - mše se tu sloužily katalánsky, i když jazyk byl potlačován. Chlapecký sbor Escolania patří k nejstarším hudebním školám v Evropě.",
+      "legenda": "Podle legendy roku 880 pastýři viděli v horách záhadné světlo a slyšeli zpěv. Světlo je dovedlo do jeskyně, kde našli sošku Panny Marie. Když ji biskup chtěl odnést do města, socha byla náhle tak těžká, že ji nemohli pohnout - proto zde vznikla kaple a později klášter.",
+      "paranormalni": "Montserrat se spojuje s legendou o svatém grálu a údajně inspiroval Wagnerovu operu Parsifal. Esoterici tu hledají „energetické místo“, poutníci se dotýkají koule, kterou Madona drží v ruce.",
+      "skepticke": "Dřevěná socha Černé Madony pochází podle odborníků z 12. století, ne z doby legendy. Tmavá barva je zčásti způsobena stárnutím laku a kouřem svíček. Spojení s grálem je romantická interpretace 19. století."
     },
-    "praktickeInfo": "Pred navstevou Montserrat Monastery Spain over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Z Barcelony (stanice Plaça d'Espanya) jede vlak R5 asi hodinu, pak lanovka Aeri nebo ozubnicová dráha Cremallera. Kombinované jízdenky zahrnují vlak i lanovku. K Madoně se stojí fronta, která se v poledne prodlužuje. Sbor Escolania obvykle zpívá ve všední dny kolem 13:00 (ověř program). Z kláštera vedou turistické stezky a lanovky na vyhlídky.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49263,12 +49263,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Montserrat Monastery Spain pridava motivy ritual, mytologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Socha, kterou nešlo odnést",
+        "text": "Biskup chtěl sošku odnést do města, ale najednou byla tak těžká, že s ní nikdo nepohnul. Pochopil to jako znamení, že má zůstat v horách."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Hora grálu",
+        "text": "Romantici 19. století viděli v Montserratu Montsalvat - hrad svatého grálu z artušovských legend."
       }
     ]
   },
@@ -72651,10 +72651,10 @@
       "fr": "eilean-donan-castle"
     },
     "detailPath": "/mista/eilean-donan-castle/",
-    "nazev": "Eilean Donan Castle",
+    "nazev": "Hrad Eilean Donan",
     "zeme": "Skotsko",
     "kontinent": "Evropa",
-    "lead": "Hrad na ostrove pri soutoku jezer, ikonicka skotska silueta a filmova krajina mlhy a vody.",
+    "lead": "Nejfotografovanější hrad Skotska na ostrůvku v místě, kde se setkávají tři mořská jezera - zničený roku 1719 a znovu postavený teprve ve 20. století.",
     "gps": {
       "lat": 57.2739,
       "lon": -5.5163
@@ -72667,21 +72667,21 @@
       "film"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Eilean Donan Castle rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Hrad na ostrove pri soutoku jezer, ikonicka skotska silueta a filmova krajina mlhy a vody.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hrad stojí na malém ostrůvku, s pevninou je spojený kamenným mostem. Vypadá jako středověký, ale z velké části je to rekonstrukce z let 1912-1932. Přesto patří k ikonám Skotska a objevil se v mnoha filmech.",
+      "historie": "Opevnění tu stálo od 13. století a hrad byl spojen s klany Mackenzie a MacRae. Roku 1719, během jakobitského povstání, ho obsadili španělští vojáci podporující jakobity. Britské válečné lodě ho ostřelovaly a vojáci pak zbytek vyhodili do vzduchu. Téměř 200 let stál v troskách, než ho podle starých plánů obnovil podplukovník John MacRae-Gilstrap.",
+      "legenda": "Jméno ostrova se spojuje se sv. Donanem, irským mnichem ze 7. století. Hrad se objevil ve filmech jako Highlander (1986) nebo bondovka Jeden svět nestačí (1999).",
+      "paranormalni": "Říká se, že v hradě straší duch španělského vojáka z roku 1719, který nosí vlastní hlavu pod paží, a že v komnatách se zjevuje „Lady Mary“.",
+      "skepticke": "Duchové jsou typickou součástí skotských hradních příběhů a mají turistickou funkci. Skutečně dramatická je historie zničení roku 1719 - dělové koule a rozvaliny tehdejšího hradu jsou doložené."
     },
-    "praktickeInfo": "Pred navstevou Eilean Donan Castle over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Hrad leží u silnice A87 na cestě na ostrov Skye, asi 2 hodiny autem z Inverness nebo Fort William. Bývá součástí vícedenních zájezdů z Edinburghu. Uvnitř se nefotí. Nejlepší výhled je ze silnice nad parkovištěm nebo z vyhlídky přes záliv, zvlášť při západu slunce.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72703,12 +72703,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Eilean Donan Castle pridava na mapu motivy hrad, film a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Hrad vyhozený do vzduchu",
+        "text": "V roce 1719 našli britští vojáci v hradě 343 sudů střelného prachu a použili ho, aby hrad zničili."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Obnova podle snu",
+        "text": "Podle rodinné tradice se jednomu z obnovitelů zdálo, jak hrad kdysi vypadal - rekonstrukce ale ve skutečnosti vycházela hlavně z dochovaných plánů."
       }
     ]
   },
