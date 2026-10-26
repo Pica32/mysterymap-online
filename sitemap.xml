@@ -84,12 +84,9 @@
   <url><loc>https://mysterymap.online/cs/mista/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/edinburgh-vaults/</loc></url>
-  <url><loc>https://mysterymap.online/cs/mista/poveglia/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/aokigahara/</loc></url>
-  <url><loc>https://mysterymap.online/cs/mista/isla-de-las-munecas/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tunguska-event/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/san-francisco-1906-earthquake/</loc></url>
-  <url><loc>https://mysterymap.online/cs/mista/parizske-katakomby/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/stonehenge/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/nazca-lines/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kapucinska-hrobka-brno/</loc></url>
@@ -369,9 +366,7 @@
   <url><loc>https://mysterymap.online/landing/zeme-cesko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-spojene-kralovstvi.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-francie.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-italie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-japonsko.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-mexiko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-spojene-staty.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-australie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-rusko.html</loc></url>
@@ -387,18 +382,16 @@
   <url><loc>https://mysterymap.online/landing/zeme-jordansko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-egypt.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-turecko.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-italie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-nemecko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-pakistan.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-sri-lanka.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-laos.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-cina.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-chile.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-bolivie.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-kolumbie.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-mexiko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-belize.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-tanzanie.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-zimbabwe.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-etiopie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-mauritanie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-alzirsko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-kanada.html</loc></url>
@@ -419,7 +412,6 @@
   <url><loc>https://mysterymap.online/landing/zeme-palestina.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-libanon.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-syrie.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-saudska-arabie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-iran.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-irak.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-afghanistan.html</loc></url>
@@ -442,18 +434,19 @@
   <url><loc>https://mysterymap.online/landing/zeme-brazilie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-argentina.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-ekvador.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-kolumbie.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-bolivie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-jamajka.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-guatemala.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-honduras.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-mikronesie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-francouzska-polynesie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-indonesie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-kambodza.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-myanmar.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-etiopie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-tunisko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-libye.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-dr-kongo.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/zeme-uganda.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-zambie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-filipiny.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-vietnam.html</loc></url>
@@ -499,6 +492,7 @@
   <url><loc>https://mysterymap.online/landing/zeme-spojene-arabske-emiraty.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-cookovy-ostrovy.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-tonga.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-mikronesie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-palau.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-vanuatu.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-salamounovy-ostrovy.html</loc></url>
@@ -506,8 +500,11 @@
   <url><loc>https://mysterymap.online/landing/zeme-marshallovy-ostrovy.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-gabon.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-kamerun.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-uganda.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-portugalsko.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-spanelsko.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-zimbabwe.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/zeme-saudska-arabie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-tuvalu.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-kiribati.html</loc></url>
   <url><loc>https://mysterymap.online/landing/zeme-nauru.html</loc></url>
@@ -536,12 +533,12 @@
   <url><loc>https://mysterymap.online/landing/kategorie-legenda.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-veznice.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-podzemi.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/kategorie-ostrov.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-priroda.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-katastrofa.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-historie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-zakazane-zony.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-filmova-lokace.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/kategorie-ostrov.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-opustene.html</loc></url>
   <url><loc>https://mysterymap.online/landing/kategorie-ztracena-mesta.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-dabel.html</loc></url>
@@ -549,9 +546,7 @@
   <url><loc>https://mysterymap.online/landing/tema-duchove.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-vrazdy.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-podzemi.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-karantena.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-umrti.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-ritual.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-veznice.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-kosmicka-anomalie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-impakt.html</loc></url>
@@ -566,14 +561,16 @@
   <url><loc>https://mysterymap.online/landing/tema-ufo.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-zakazane-zony.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-zmizeni.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-carodejnictvi.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-ritual.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-karantena.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-film.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-nataceni.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-popkultura.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-more.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-nemocnice.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-ztracena-mesta.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-carodejnictvi.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-media.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-ztracena-mesta.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-archeologie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-opustene.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-ostrov.html</loc></url>
@@ -601,15 +598,14 @@
   <url><loc>https://mysterymap.online/landing/tema-okultismus.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-technologie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-prales.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-dolovani.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-zlato.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-karavany.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-fosilie.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-pout.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-led.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-ohen.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-dolovani.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-step.html</loc></url>
-  <url><loc>https://mysterymap.online/landing/tema-architektura.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-zeme.html</loc></url>
   <url><loc>https://mysterymap.online/landing/tema-skala.html</loc></url>
+  <url><loc>https://mysterymap.online/landing/tema-fosilie.html</loc></url>
 </urlset>

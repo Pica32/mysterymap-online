@@ -22,12 +22,12 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Category legenda: https://mysterymap.online/landing/kategorie-legenda.html
 - Category veznice: https://mysterymap.online/landing/kategorie-veznice.html
 - Category podzemi: https://mysterymap.online/landing/kategorie-podzemi.html
-- Category ostrov: https://mysterymap.online/landing/kategorie-ostrov.html
 - Category priroda: https://mysterymap.online/landing/kategorie-priroda.html
 - Category katastrofa: https://mysterymap.online/landing/kategorie-katastrofa.html
 - Category historie: https://mysterymap.online/landing/kategorie-historie.html
 - Category zakazane-zony: https://mysterymap.online/landing/kategorie-zakazane-zony.html
 - Category filmova-lokace: https://mysterymap.online/landing/kategorie-filmova-lokace.html
+- Category ostrov: https://mysterymap.online/landing/kategorie-ostrov.html
 - Category opustene: https://mysterymap.online/landing/kategorie-opustene.html
 - Category ztracena-mesta: https://mysterymap.online/landing/kategorie-ztracena-mesta.html
 - Theme dabel: https://mysterymap.online/landing/tema-dabel.html
@@ -35,9 +35,7 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Theme duchove: https://mysterymap.online/landing/tema-duchove.html
 - Theme vrazdy: https://mysterymap.online/landing/tema-vrazdy.html
 - Theme podzemi: https://mysterymap.online/landing/tema-podzemi.html
-- Theme karantena: https://mysterymap.online/landing/tema-karantena.html
 - Theme umrti: https://mysterymap.online/landing/tema-umrti.html
-- Theme ritual: https://mysterymap.online/landing/tema-ritual.html
 - Theme veznice: https://mysterymap.online/landing/tema-veznice.html
 - Theme kosmicka-anomalie: https://mysterymap.online/landing/tema-kosmicka-anomalie.html
 - Theme impakt: https://mysterymap.online/landing/tema-impakt.html
@@ -52,14 +50,16 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Theme ufo: https://mysterymap.online/landing/tema-ufo.html
 - Theme zakazane-zony: https://mysterymap.online/landing/tema-zakazane-zony.html
 - Theme zmizeni: https://mysterymap.online/landing/tema-zmizeni.html
-- Theme carodejnictvi: https://mysterymap.online/landing/tema-carodejnictvi.html
+- Theme ritual: https://mysterymap.online/landing/tema-ritual.html
+- Theme karantena: https://mysterymap.online/landing/tema-karantena.html
 - Theme film: https://mysterymap.online/landing/tema-film.html
 - Theme nataceni: https://mysterymap.online/landing/tema-nataceni.html
 - Theme popkultura: https://mysterymap.online/landing/tema-popkultura.html
 - Theme more: https://mysterymap.online/landing/tema-more.html
 - Theme nemocnice: https://mysterymap.online/landing/tema-nemocnice.html
-- Theme ztracena-mesta: https://mysterymap.online/landing/tema-ztracena-mesta.html
+- Theme carodejnictvi: https://mysterymap.online/landing/tema-carodejnictvi.html
 - Theme media: https://mysterymap.online/landing/tema-media.html
+- Theme ztracena-mesta: https://mysterymap.online/landing/tema-ztracena-mesta.html
 - Theme archeologie: https://mysterymap.online/landing/tema-archeologie.html
 - Theme opustene: https://mysterymap.online/landing/tema-opustene.html
 - Theme ostrov: https://mysterymap.online/landing/tema-ostrov.html
@@ -87,17 +87,16 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Theme okultismus: https://mysterymap.online/landing/tema-okultismus.html
 - Theme technologie: https://mysterymap.online/landing/tema-technologie.html
 - Theme prales: https://mysterymap.online/landing/tema-prales.html
-- Theme dolovani: https://mysterymap.online/landing/tema-dolovani.html
 - Theme zlato: https://mysterymap.online/landing/tema-zlato.html
 - Theme karavany: https://mysterymap.online/landing/tema-karavany.html
-- Theme fosilie: https://mysterymap.online/landing/tema-fosilie.html
 - Theme pout: https://mysterymap.online/landing/tema-pout.html
 - Theme led: https://mysterymap.online/landing/tema-led.html
 - Theme ohen: https://mysterymap.online/landing/tema-ohen.html
+- Theme dolovani: https://mysterymap.online/landing/tema-dolovani.html
 - Theme step: https://mysterymap.online/landing/tema-step.html
-- Theme architektura: https://mysterymap.online/landing/tema-architektura.html
 - Theme zeme: https://mysterymap.online/landing/tema-zeme.html
 - Theme skala: https://mysterymap.online/landing/tema-skala.html
+- Theme fosilie: https://mysterymap.online/landing/tema-fosilie.html
 
 ## Representative Place Pages
 
@@ -106,21 +105,21 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Cernobylska vyloucena zona: https://mysterymap.online/en/places/chernobyl-exclusion-zone/ (CS: https://mysterymap.online/cs/mista/cernobylska-vyloucena-zona/)
 - Tower of London: https://mysterymap.online/en/places/tower-of-london/ (CS: https://mysterymap.online/cs/mista/tower-of-london/)
 - Area 51: https://mysterymap.online/en/places/area-51/ (CS: https://mysterymap.online/cs/mista/area-51/)
-- Poveglia: https://mysterymap.online/en/places/poveglia/ (CS: https://mysterymap.online/cs/mista/poveglia/)
-- Parizske katakomby: https://mysterymap.online/en/places/paris-catacombs/ (CS: https://mysterymap.online/cs/mista/parizske-katakomby/)
 - Stonehenge: https://mysterymap.online/en/places/stonehenge/ (CS: https://mysterymap.online/cs/mista/stonehenge/)
 - Obrazce na planině Nazca: https://mysterymap.online/en/places/nazca-lines/ (CS: https://mysterymap.online/cs/mista/nazca-lines/)
 - Bhangarh Fort: https://mysterymap.online/en/places/bhangarh-fort/ (CS: https://mysterymap.online/cs/mista/pevnost-bhangarh/)
 - Gobekli Tepe: https://mysterymap.online/en/places/gobekli-tepe/ (CS: https://mysterymap.online/cs/mista/gobekli-tepe/)
 - Pripjať: https://mysterymap.online/en/places/pripyat/ (CS: https://mysterymap.online/cs/mista/pripyat/)
-- Nan Madol: https://mysterymap.online/en/places/nan-madol/ (CS: https://mysterymap.online/cs/mista/nan-madol/)
 - Trinity Site: https://mysterymap.online/en/places/trinity-site/ (CS: https://mysterymap.online/cs/mista/trinity-site/)
-- Teotihuacan Avenue of the Dead: https://mysterymap.online/en/places/teotihuacan-avenue-of-the-dead/ (CS: https://mysterymap.online/cs/mista/teotihuacan-avenue-of-the-dead/)
 - Flannan Isles (Eilean Mòr): https://mysterymap.online/en/places/flannan-isles-eilean-mor/ (CS: https://mysterymap.online/cs/mista/flannan-isles-eilean-mor/)
-- Isla de las Muñecas: https://mysterymap.online/en/places/isla-de-las-munecas/ (CS: https://mysterymap.online/cs/mista/isla-de-las-munecas/)
-- Door to Hell: https://mysterymap.online/en/places/door-to-hell/ (CS: https://mysterymap.online/cs/mista/door-to-hell/)
 - Velikonoční ostrov (Rapa Nui): https://mysterymap.online/en/places/easter-island/ (CS: https://mysterymap.online/cs/mista/easter-island/)
 - Krakatoa: https://mysterymap.online/en/places/krakatoa/ (CS: https://mysterymap.online/cs/mista/krakatoa/)
+- Blaník: https://mysterymap.online/en/places/blanik/ (CS: https://mysterymap.online/cs/mista/blanik/)
+- Hrad Montségur: https://mysterymap.online/en/places/chateau-de-montsegur/ (CS: https://mysterymap.online/cs/mista/hrad-montsegur/)
+- Winchester Mystery House: https://mysterymap.online/en/places/winchester-mystery-house/ (CS: https://mysterymap.online/cs/mista/winchester-mystery-house/)
+- Bermudský trojúhelník: https://mysterymap.online/en/places/bermuda-triangle/ (CS: https://mysterymap.online/cs/mista/bermuda-triangle/)
+- Hrad Bran: https://mysterymap.online/en/places/bran-castle/ (CS: https://mysterymap.online/cs/mista/hrad-bran/)
+- Derinkuyu Underground City: https://mysterymap.online/en/places/derinkuyu-underground-city/ (CS: https://mysterymap.online/cs/mista/derinkuyu-underground-city/)
 
 ## Editorial Articles
 

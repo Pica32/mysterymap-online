@@ -1402,6 +1402,34 @@ const sitemapUrls = [
   ...Array.from(themeMap.keys()).map((name) => `/landing/tema-${slugify(name)}.html`)
 ];
 
+// Přesměrování sloučených duplicit se generuje do _redirects pod ručně psanou částí.
+const placeRedirectsPath = path.join(root, "data", "place-redirects.json");
+if (fs.existsSync(placeRedirectsPath)) {
+  const marker = "# --- generováno: sloučená místa (tools/build-static.js) ---";
+  const placesById = new Map(places.map((place) => [place.id, place]));
+  const lines = [];
+  Object.entries(JSON.parse(fs.readFileSync(placeRedirectsPath, "utf8"))).forEach(([id, entry]) => {
+    const target = placesById.get(entry.to);
+    if (!target) throw new Error(`data/place-redirects.json: ${id} points to missing place ${entry.to}`);
+    lines.push(`${entry.detailPath} ${target.detailPath} 301`);
+    Object.keys(locales).filter((language) => !locales[language].onlyTranslated).forEach((language) => {
+      const slug = entry.slugs?.[language] || entry.slugs?.cs || id;
+      lines.push(`/${language}/${locales[language].placePrefix}/${slug}/ ${placePath(target, language)} 301`);
+    });
+  });
+  const redirectsFile = path.join(root, "_redirects");
+  const manual = fs.readFileSync(redirectsFile, "utf8").split(marker)[0].trimEnd();
+  fs.writeFileSync(redirectsFile, `${manual}\n\n${marker}\n${Array.from(new Set(lines)).join("\n")}\n`, "utf8");
+  // Staré vygenerované stránky odstraněných míst smazat, aby nezůstaly dostupné.
+  Object.entries(JSON.parse(fs.readFileSync(placeRedirectsPath, "utf8"))).forEach(([id, entry]) => {
+    fs.rmSync(path.join(root, entry.detailPath), { recursive: true, force: true });
+    Object.keys(locales).forEach((language) => {
+      const slug = entry.slugs?.[language] || entry.slugs?.cs || id;
+      fs.rmSync(path.join(root, language, locales[language].placePrefix, slug), { recursive: true, force: true });
+    });
+  });
+}
+
 const searchIndex = places.map((place) => ({
   id: place.id,
   slug: place.slug,

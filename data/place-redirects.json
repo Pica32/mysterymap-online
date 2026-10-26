@@ -1,0 +1,2711 @@
+{
+  "paris-catacombs": {
+    "to": "catacombes-de-paris",
+    "slugs": {
+      "cs": "parizske-katakomby",
+      "en": "paris-catacombs",
+      "de": "katakomben-von-paris",
+      "es": "catacumbas-de-paris",
+      "fr": "catacombes-de-paris"
+    },
+    "detailPath": "/mista/paris-catacombs/"
+  },
+  "isla-de-las-munecas": {
+    "to": "island-of-the-dolls",
+    "slugs": {
+      "cs": "isla-de-las-munecas"
+    },
+    "detailPath": "/mista/isla-de-las-munecas/"
+  },
+  "poveglia": {
+    "to": "poveglia-island",
+    "slugs": {
+      "cs": "poveglia"
+    },
+    "detailPath": "/mista/poveglia/"
+  },
+  "houska-castle-chapel": {
+    "to": "hrad-houska",
+    "slugs": {
+      "cs": "houska-castle-chapel",
+      "en": "houska-castle-chapel",
+      "de": "houska-castle-chapel",
+      "es": "houska-castle-chapel",
+      "fr": "houska-castle-chapel"
+    },
+    "detailPath": "/mista/houska-castle-chapel/"
+  },
+  "aokigahara-lava-caves": {
+    "to": "aokigahara",
+    "slugs": {
+      "cs": "aokigahara-lava-caves",
+      "en": "aokigahara-lava-caves",
+      "de": "aokigahara-lava-caves",
+      "es": "aokigahara-lava-caves",
+      "fr": "aokigahara-lava-caves"
+    },
+    "detailPath": "/mista/aokigahara-lava-caves/"
+  },
+  "aokigahara-forest": {
+    "to": "aokigahara",
+    "slugs": {
+      "cs": "aokigahara-forest",
+      "en": "aokigahara-forest",
+      "de": "aokigahara-forest",
+      "es": "aokigahara-forest",
+      "fr": "aokigahara-forest"
+    },
+    "detailPath": "/mista/aokigahara-forest/"
+  },
+  "port-arthur-penal-site": {
+    "to": "port-arthur",
+    "slugs": {
+      "cs": "port-arthur-penal-site",
+      "en": "port-arthur-penal-site",
+      "de": "port-arthur-penal-site",
+      "es": "port-arthur-penal-site",
+      "fr": "port-arthur-penal-site"
+    },
+    "detailPath": "/mista/port-arthur-penal-site/"
+  },
+  "ossuary-of-saint-james-church-brno": {
+    "to": "capuchin-crypt-brno",
+    "slugs": {
+      "cs": "ossuary-of-saint-james-church-brno",
+      "en": "ossuary-of-saint-james-church-brno",
+      "de": "ossuary-of-saint-james-church-brno",
+      "es": "ossuary-of-saint-james-church-brno",
+      "fr": "ossuary-of-saint-james-church-brno"
+    },
+    "detailPath": "/mista/ossuary-of-saint-james-church-brno/"
+  },
+  "door-to-hell": {
+    "to": "darvaza-gas-crater",
+    "slugs": {
+      "cs": "door-to-hell",
+      "en": "door-to-hell",
+      "de": "door-to-hell",
+      "es": "door-to-hell",
+      "fr": "door-to-hell"
+    },
+    "detailPath": "/mista/door-to-hell/"
+  },
+  "darvaza-gas-crater-camp": {
+    "to": "darvaza-gas-crater",
+    "slugs": {
+      "cs": "darvaza-gas-crater-camp",
+      "en": "darvaza-gas-crater-camp",
+      "de": "darvaza-gas-crater-camp",
+      "es": "darvaza-gas-crater-camp",
+      "fr": "darvaza-gas-crater-camp"
+    },
+    "detailPath": "/mista/darvaza-gas-crater-camp/"
+  },
+  "door-to-hell-darvaza": {
+    "to": "darvaza-gas-crater",
+    "slugs": {
+      "cs": "door-to-hell-darvaza",
+      "en": "door-to-hell-darvaza",
+      "de": "door-to-hell-darvaza",
+      "es": "door-to-hell-darvaza",
+      "fr": "door-to-hell-darvaza"
+    },
+    "detailPath": "/mista/door-to-hell-darvaza/"
+  },
+  "bhangarh-fort-extension": {
+    "to": "bhangarh-fort",
+    "slugs": {
+      "cs": "bhangarh-fort-extension",
+      "en": "bhangarh-fort-extension",
+      "de": "bhangarh-fort-extension",
+      "es": "bhangarh-fort-extension",
+      "fr": "bhangarh-fort-extension"
+    },
+    "detailPath": "/mista/bhangarh-fort-extension/"
+  },
+  "salem-witch-trials-memorial": {
+    "to": "salem-witch-house",
+    "slugs": {
+      "cs": "salem-witch-trials-memorial",
+      "en": "salem-witch-trials-memorial",
+      "de": "salem-witch-trials-memorial",
+      "es": "salem-witch-trials-memorial",
+      "fr": "salem-witch-trials-memorial"
+    },
+    "detailPath": "/mista/salem-witch-trials-memorial/"
+  },
+  "alcatraz-island-prison": {
+    "to": "alcatraz-island",
+    "slugs": {
+      "cs": "alcatraz-island-prison",
+      "en": "alcatraz-island-prison",
+      "de": "alcatraz-island-prison",
+      "es": "alcatraz-island-prison",
+      "fr": "alcatraz-island-prison"
+    },
+    "detailPath": "/mista/alcatraz-island-prison/"
+  },
+  "alcatraz-cellhouse": {
+    "to": "alcatraz-island",
+    "slugs": {
+      "cs": "alcatraz-cellhouse",
+      "en": "alcatraz-cellhouse",
+      "de": "alcatraz-cellhouse",
+      "es": "alcatraz-cellhouse",
+      "fr": "alcatraz-cellhouse"
+    },
+    "detailPath": "/mista/alcatraz-cellhouse/"
+  },
+  "queen-mary-long-beach": {
+    "to": "the-queen-mary",
+    "slugs": {
+      "cs": "queen-mary-long-beach",
+      "en": "queen-mary-long-beach",
+      "de": "queen-mary-long-beach",
+      "es": "queen-mary-long-beach",
+      "fr": "queen-mary-long-beach"
+    },
+    "detailPath": "/mista/queen-mary-long-beach/"
+  },
+  "bodie-state-historic-park": {
+    "to": "bodie-ghost-town",
+    "slugs": {
+      "cs": "bodie-state-historic-park",
+      "en": "bodie-state-historic-park",
+      "de": "bodie-state-historic-park",
+      "es": "bodie-state-historic-park",
+      "fr": "bodie-state-historic-park"
+    },
+    "detailPath": "/mista/bodie-state-historic-park/"
+  },
+  "mary-king-s-close": {
+    "to": "mary-kings-close",
+    "slugs": {
+      "cs": "mary-king-s-close",
+      "en": "mary-king-s-close",
+      "de": "mary-king-s-close",
+      "es": "mary-king-s-close",
+      "fr": "mary-king-s-close"
+    },
+    "detailPath": "/mista/mary-king-s-close/"
+  },
+  "hashima-film-island": {
+    "to": "hashima-island",
+    "slugs": {
+      "cs": "hashima-film-island",
+      "en": "hashima-film-island",
+      "de": "hashima-film-island",
+      "es": "hashima-film-island",
+      "fr": "hashima-film-island"
+    },
+    "detailPath": "/mista/hashima-film-island/"
+  },
+  "gunkanjima-sea-walls": {
+    "to": "hashima-island",
+    "slugs": {
+      "cs": "gunkanjima-sea-walls",
+      "en": "gunkanjima-sea-walls",
+      "de": "gunkanjima-sea-walls",
+      "es": "gunkanjima-sea-walls",
+      "fr": "gunkanjima-sea-walls"
+    },
+    "detailPath": "/mista/gunkanjima-sea-walls/"
+  },
+  "hashima-coal-mine-tunnels": {
+    "to": "hashima-island",
+    "slugs": {
+      "cs": "hashima-coal-mine-tunnels",
+      "en": "hashima-coal-mine-tunnels",
+      "de": "hashima-coal-mine-tunnels",
+      "es": "hashima-coal-mine-tunnels",
+      "fr": "hashima-coal-mine-tunnels"
+    },
+    "detailPath": "/mista/hashima-coal-mine-tunnels/"
+  },
+  "gunkanjima-coal-mine": {
+    "to": "hashima-island",
+    "slugs": {
+      "cs": "gunkanjima-coal-mine",
+      "en": "gunkanjima-coal-mine",
+      "de": "gunkanjima-coal-mine",
+      "es": "gunkanjima-coal-mine",
+      "fr": "gunkanjima-coal-mine"
+    },
+    "detailPath": "/mista/gunkanjima-coal-mine/"
+  },
+  "capuchin-catacombs-of-palermo": {
+    "to": "capuchin-crypt-palermo",
+    "slugs": {
+      "cs": "capuchin-catacombs-of-palermo",
+      "en": "capuchin-catacombs-of-palermo",
+      "de": "capuchin-catacombs-of-palermo",
+      "es": "capuchin-catacombs-of-palermo",
+      "fr": "capuchin-catacombs-of-palermo"
+    },
+    "detailPath": "/mista/capuchin-catacombs-of-palermo/"
+  },
+  "capuchin-catacombs-palermo": {
+    "to": "capuchin-crypt-palermo",
+    "slugs": {
+      "cs": "capuchin-catacombs-palermo",
+      "en": "capuchin-catacombs-palermo",
+      "de": "capuchin-catacombs-palermo",
+      "es": "capuchin-catacombs-palermo",
+      "fr": "capuchin-catacombs-palermo"
+    },
+    "detailPath": "/mista/capuchin-catacombs-palermo/"
+  },
+  "eltz-castle": {
+    "to": "burg-eltz",
+    "slugs": {
+      "cs": "eltz-castle",
+      "en": "eltz-castle",
+      "de": "eltz-castle",
+      "es": "eltz-castle",
+      "fr": "eltz-castle"
+    },
+    "detailPath": "/mista/eltz-castle/"
+  },
+  "poenari-citadel": {
+    "to": "poenari-castle",
+    "slugs": {
+      "cs": "poenari-citadel",
+      "en": "poenari-citadel",
+      "de": "poenari-citadel",
+      "es": "poenari-citadel",
+      "fr": "poenari-citadel"
+    },
+    "detailPath": "/mista/poenari-citadel/"
+  },
+  "poenari-fortress": {
+    "to": "poenari-castle",
+    "slugs": {
+      "cs": "poenari-fortress",
+      "en": "poenari-fortress",
+      "de": "poenari-fortress",
+      "es": "poenari-fortress",
+      "fr": "poenari-fortress"
+    },
+    "detailPath": "/mista/poenari-fortress/"
+  },
+  "mohenjo-daro-citadel": {
+    "to": "mohenjo-daro",
+    "slugs": {
+      "cs": "mohenjo-daro-citadel",
+      "en": "mohenjo-daro-citadel",
+      "de": "mohenjo-daro-citadel",
+      "es": "mohenjo-daro-citadel",
+      "fr": "mohenjo-daro-citadel"
+    },
+    "detailPath": "/mista/mohenjo-daro-citadel/"
+  },
+  "mohenjo-daro-granary": {
+    "to": "mohenjo-daro",
+    "slugs": {
+      "cs": "mohenjo-daro-granary",
+      "en": "mohenjo-daro-granary",
+      "de": "mohenjo-daro-granary",
+      "es": "mohenjo-daro-granary",
+      "fr": "mohenjo-daro-granary"
+    },
+    "detailPath": "/mista/mohenjo-daro-granary/"
+  },
+  "roopkund-lake": {
+    "to": "roopkund",
+    "slugs": {
+      "cs": "roopkund-lake",
+      "en": "roopkund-lake",
+      "de": "roopkund-lake",
+      "es": "roopkund-lake",
+      "fr": "roopkund-lake"
+    },
+    "detailPath": "/mista/roopkund-lake/"
+  },
+  "sigiriya-mirror-wall": {
+    "to": "sigiriya",
+    "slugs": {
+      "cs": "sigiriya-mirror-wall",
+      "en": "sigiriya-mirror-wall",
+      "de": "sigiriya-mirror-wall",
+      "es": "sigiriya-mirror-wall",
+      "fr": "sigiriya-mirror-wall"
+    },
+    "detailPath": "/mista/sigiriya-mirror-wall/"
+  },
+  "plain-of-jars-site-1": {
+    "to": "plain-of-jars",
+    "slugs": {
+      "cs": "plain-of-jars-site-1",
+      "en": "plain-of-jars-site-1",
+      "de": "plain-of-jars-site-1",
+      "es": "plain-of-jars-site-1",
+      "fr": "plain-of-jars-site-1"
+    },
+    "detailPath": "/mista/plain-of-jars-site-1/"
+  },
+  "sacsayhuaman-rodadero": {
+    "to": "sacsayhuaman",
+    "slugs": {
+      "cs": "sacsayhuaman-rodadero",
+      "en": "sacsayhuaman-rodadero",
+      "de": "sacsayhuaman-rodadero",
+      "es": "sacsayhuaman-rodadero",
+      "fr": "sacsayhuaman-rodadero"
+    },
+    "detailPath": "/mista/sacsayhuaman-rodadero/"
+  },
+  "sacsayhuaman-walls": {
+    "to": "sacsayhuaman",
+    "slugs": {
+      "cs": "sacsayhuaman-walls",
+      "en": "sacsayhuaman-walls",
+      "de": "sacsayhuaman-walls",
+      "es": "sacsayhuaman-walls",
+      "fr": "sacsayhuaman-walls"
+    },
+    "detailPath": "/mista/sacsayhuaman-walls/"
+  },
+  "tiwanaku": {
+    "to": "tiahuanaco-akapana",
+    "slugs": {
+      "cs": "tiwanaku",
+      "en": "tiwanaku",
+      "de": "tiwanaku",
+      "es": "tiwanaku",
+      "fr": "tiwanaku"
+    },
+    "detailPath": "/mista/tiwanaku/"
+  },
+  "tiwanaku-kalasasaya": {
+    "to": "tiahuanaco-akapana",
+    "slugs": {
+      "cs": "tiwanaku-kalasasaya",
+      "en": "tiwanaku-kalasasaya",
+      "de": "tiwanaku-kalasasaya",
+      "es": "tiwanaku-kalasasaya",
+      "fr": "tiwanaku-kalasasaya"
+    },
+    "detailPath": "/mista/tiwanaku-kalasasaya/"
+  },
+  "ciudad-perdida": {
+    "to": "teyuna",
+    "slugs": {
+      "cs": "ciudad-perdida",
+      "en": "ciudad-perdida",
+      "de": "ciudad-perdida",
+      "es": "ciudad-perdida",
+      "fr": "ciudad-perdida"
+    },
+    "detailPath": "/mista/ciudad-perdida/"
+  },
+  "ciudad-perdida-colombia": {
+    "to": "teyuna",
+    "slugs": {
+      "cs": "ciudad-perdida-colombia",
+      "en": "ciudad-perdida-colombia",
+      "de": "ciudad-perdida-colombia",
+      "es": "ciudad-perdida-colombia",
+      "fr": "ciudad-perdida-colombia"
+    },
+    "detailPath": "/mista/ciudad-perdida-colombia/"
+  },
+  "lost-city-of-z-colombia": {
+    "to": "teyuna",
+    "slugs": {
+      "cs": "lost-city-of-z-colombia",
+      "en": "lost-city-of-z-colombia",
+      "de": "lost-city-of-z-colombia",
+      "es": "lost-city-of-z-colombia",
+      "fr": "lost-city-of-z-colombia"
+    },
+    "detailPath": "/mista/lost-city-of-z-colombia/"
+  },
+  "teotihuacan-avenue-of-the-dead": {
+    "to": "teotihuacan",
+    "slugs": {
+      "cs": "teotihuacan-avenue-of-the-dead",
+      "en": "teotihuacan-avenue-of-the-dead",
+      "de": "teotihuacan-avenue-of-the-dead",
+      "es": "teotihuacan-avenue-of-the-dead",
+      "fr": "teotihuacan-avenue-of-the-dead"
+    },
+    "detailPath": "/mista/teotihuacan-avenue-of-the-dead/"
+  },
+  "cenote-sagrado-chichen-itza": {
+    "to": "chichen-itza",
+    "slugs": {
+      "cs": "cenote-sagrado-chichen-itza",
+      "en": "cenote-sagrado-chichen-itza",
+      "de": "cenote-sagrado-chichen-itza",
+      "es": "cenote-sagrado-chichen-itza",
+      "fr": "cenote-sagrado-chichen-itza"
+    },
+    "detailPath": "/mista/cenote-sagrado-chichen-itza/"
+  },
+  "cenote-sagrado": {
+    "to": "chichen-itza",
+    "slugs": {
+      "cs": "cenote-sagrado",
+      "en": "cenote-sagrado",
+      "de": "cenote-sagrado",
+      "es": "cenote-sagrado",
+      "fr": "cenote-sagrado"
+    },
+    "detailPath": "/mista/cenote-sagrado/"
+  },
+  "great-zimbabwe": {
+    "to": "great-zimbabwe-ruins",
+    "slugs": {
+      "cs": "great-zimbabwe",
+      "en": "great-zimbabwe",
+      "de": "great-zimbabwe",
+      "es": "great-zimbabwe",
+      "fr": "great-zimbabwe"
+    },
+    "detailPath": "/mista/great-zimbabwe/"
+  },
+  "lalibela": {
+    "to": "lalibela-rock-churches",
+    "slugs": {
+      "cs": "lalibela",
+      "en": "lalibela",
+      "de": "lalibela",
+      "es": "lalibela",
+      "fr": "lalibela"
+    },
+    "detailPath": "/mista/lalibela/"
+  },
+  "rock-hewn-churches-of-lalibela": {
+    "to": "lalibela-rock-churches",
+    "slugs": {
+      "cs": "rock-hewn-churches-of-lalibela",
+      "en": "rock-hewn-churches-of-lalibela",
+      "de": "rock-hewn-churches-of-lalibela",
+      "es": "rock-hewn-churches-of-lalibela",
+      "fr": "rock-hewn-churches-of-lalibela"
+    },
+    "detailPath": "/mista/rock-hewn-churches-of-lalibela/"
+  },
+  "bete-giyorgis-lalibela": {
+    "to": "lalibela-rock-churches",
+    "slugs": {
+      "cs": "bete-giyorgis-lalibela",
+      "en": "bete-giyorgis-lalibela",
+      "de": "bete-giyorgis-lalibela",
+      "es": "bete-giyorgis-lalibela",
+      "fr": "bete-giyorgis-lalibela"
+    },
+    "detailPath": "/mista/bete-giyorgis-lalibela/"
+  },
+  "karlu-karlu-devils-marbles": {
+    "to": "devils-marbles",
+    "slugs": {
+      "cs": "karlu-karlu-devils-marbles",
+      "en": "karlu-karlu-devils-marbles",
+      "de": "karlu-karlu-devils-marbles",
+      "es": "karlu-karlu-devils-marbles",
+      "fr": "karlu-karlu-devils-marbles"
+    },
+    "detailPath": "/mista/karlu-karlu-devils-marbles/"
+  },
+  "devils-marbles-karlu-karlu": {
+    "to": "devils-marbles",
+    "slugs": {
+      "cs": "devils-marbles-karlu-karlu",
+      "en": "devils-marbles-karlu-karlu",
+      "de": "devils-marbles-karlu-karlu",
+      "es": "devils-marbles-karlu-karlu",
+      "fr": "devils-marbles-karlu-karlu"
+    },
+    "detailPath": "/mista/devils-marbles-karlu-karlu/"
+  },
+  "waitomo-glowworm-caves": {
+    "to": "waitomo-ruakuri-cave",
+    "slugs": {
+      "cs": "waitomo-glowworm-caves",
+      "en": "waitomo-glowworm-caves",
+      "de": "waitomo-glowworm-caves",
+      "es": "waitomo-glowworm-caves",
+      "fr": "waitomo-glowworm-caves"
+    },
+    "detailPath": "/mista/waitomo-glowworm-caves/"
+  },
+  "buzludzha-interior": {
+    "to": "buzludzha-monument",
+    "slugs": {
+      "cs": "buzludzha-interior",
+      "en": "buzludzha-interior",
+      "de": "buzludzha-interior",
+      "es": "buzludzha-interior",
+      "fr": "buzludzha-interior"
+    },
+    "detailPath": "/mista/buzludzha-interior/"
+  },
+  "wieliczka-salt-mine-chapel": {
+    "to": "wieliczka-salt-mine",
+    "slugs": {
+      "cs": "wieliczka-salt-mine-chapel",
+      "en": "wieliczka-salt-mine-chapel",
+      "de": "wieliczka-salt-mine-chapel",
+      "es": "wieliczka-salt-mine-chapel",
+      "fr": "wieliczka-salt-mine-chapel"
+    },
+    "detailPath": "/mista/wieliczka-salt-mine-chapel/"
+  },
+  "wolfsschanze": {
+    "to": "wolf-s-lair",
+    "slugs": {
+      "cs": "wolfsschanze",
+      "en": "wolfsschanze",
+      "de": "wolfsschanze",
+      "es": "wolfsschanze",
+      "fr": "wolfsschanze"
+    },
+    "detailPath": "/mista/wolfsschanze/"
+  },
+  "hill-of-crosses-siauliai": {
+    "to": "hill-of-crosses",
+    "slugs": {
+      "cs": "hill-of-crosses-siauliai",
+      "en": "hill-of-crosses-siauliai",
+      "de": "hill-of-crosses-siauliai",
+      "es": "hill-of-crosses-siauliai",
+      "fr": "hill-of-crosses-siauliai"
+    },
+    "detailPath": "/mista/hill-of-crosses-siauliai/"
+  },
+  "kaali-meteorite-crater": {
+    "to": "kaali-crater",
+    "slugs": {
+      "cs": "kaali-meteorite-crater",
+      "en": "kaali-meteorite-crater",
+      "de": "kaali-meteorite-crater",
+      "es": "kaali-meteorite-crater",
+      "fr": "kaali-meteorite-crater"
+    },
+    "detailPath": "/mista/kaali-meteorite-crater/"
+  },
+  "suomenlinna-tunnels": {
+    "to": "suomenlinna",
+    "slugs": {
+      "cs": "suomenlinna-tunnels",
+      "en": "suomenlinna-tunnels",
+      "de": "suomenlinna-tunnels",
+      "es": "suomenlinna-tunnels",
+      "fr": "suomenlinna-tunnels"
+    },
+    "detailPath": "/mista/suomenlinna-tunnels/"
+  },
+  "houska-like-ale-s-stones": {
+    "to": "ale-stones",
+    "slugs": {
+      "cs": "houska-like-ale-s-stones",
+      "en": "houska-like-ale-s-stones",
+      "de": "houska-like-ale-s-stones",
+      "es": "houska-like-ale-s-stones",
+      "fr": "houska-like-ale-s-stones"
+    },
+    "detailPath": "/mista/houska-like-ale-s-stones/"
+  },
+  "maeshowe-chambered-cairn": {
+    "to": "maeshowe",
+    "slugs": {
+      "cs": "maeshowe-chambered-cairn",
+      "en": "maeshowe-chambered-cairn",
+      "de": "maeshowe-chambered-cairn",
+      "es": "maeshowe-chambered-cairn",
+      "fr": "maeshowe-chambered-cairn"
+    },
+    "detailPath": "/mista/maeshowe-chambered-cairn/"
+  },
+  "avebury-henge": {
+    "to": "avebury",
+    "slugs": {
+      "cs": "avebury-henge",
+      "en": "avebury-henge",
+      "de": "avebury-henge",
+      "es": "avebury-henge",
+      "fr": "avebury-henge"
+    },
+    "detailPath": "/mista/avebury-henge/"
+  },
+  "newgrange-passage-tomb": {
+    "to": "newgrange",
+    "slugs": {
+      "cs": "newgrange-passage-tomb",
+      "en": "newgrange-passage-tomb",
+      "de": "newgrange-passage-tomb",
+      "es": "newgrange-passage-tomb",
+      "fr": "newgrange-passage-tomb"
+    },
+    "detailPath": "/mista/newgrange-passage-tomb/"
+  },
+  "matera-film-caves": {
+    "to": "sassi-di-matera",
+    "slugs": {
+      "cs": "matera-film-caves",
+      "en": "matera-film-caves",
+      "de": "matera-film-caves",
+      "es": "matera-film-caves",
+      "fr": "matera-film-caves"
+    },
+    "detailPath": "/mista/matera-film-caves/"
+  },
+  "matera-sassi-caves": {
+    "to": "sassi-di-matera",
+    "slugs": {
+      "cs": "matera-sassi-caves",
+      "en": "matera-sassi-caves",
+      "de": "matera-sassi-caves",
+      "es": "matera-sassi-caves",
+      "fr": "matera-sassi-caves"
+    },
+    "detailPath": "/mista/matera-sassi-caves/"
+  },
+  "su-nuraxi-barumini": {
+    "to": "nuraghe-su-nuraxi",
+    "slugs": {
+      "cs": "su-nuraxi-barumini",
+      "en": "su-nuraxi-barumini",
+      "de": "su-nuraxi-barumini",
+      "es": "su-nuraxi-barumini",
+      "fr": "su-nuraxi-barumini"
+    },
+    "detailPath": "/mista/su-nuraxi-barumini/"
+  },
+  "delphi-oracle": {
+    "to": "delphi",
+    "slugs": {
+      "cs": "delphi-oracle",
+      "en": "delphi-oracle",
+      "de": "delphi-oracle",
+      "es": "delphi-oracle",
+      "fr": "delphi-oracle"
+    },
+    "detailPath": "/mista/delphi-oracle/"
+  },
+  "knossos-palace": {
+    "to": "knossos",
+    "slugs": {
+      "cs": "knossos-palace",
+      "en": "knossos-palace",
+      "de": "knossos-palace",
+      "es": "knossos-palace",
+      "fr": "knossos-palace"
+    },
+    "detailPath": "/mista/knossos-palace/"
+  },
+  "mycenae-grave-circle": {
+    "to": "mycenae",
+    "slugs": {
+      "cs": "mycenae-grave-circle",
+      "en": "mycenae-grave-circle",
+      "de": "mycenae-grave-circle",
+      "es": "mycenae-grave-circle",
+      "fr": "mycenae-grave-circle"
+    },
+    "detailPath": "/mista/mycenae-grave-circle/"
+  },
+  "ani": {
+    "to": "ani-ruins",
+    "slugs": {
+      "cs": "ani",
+      "en": "ani",
+      "de": "ani",
+      "es": "ani",
+      "fr": "ani"
+    },
+    "detailPath": "/mista/ani/"
+  },
+  "masada-snake-path": {
+    "to": "masada",
+    "slugs": {
+      "cs": "masada-snake-path",
+      "en": "masada-snake-path",
+      "de": "masada-snake-path",
+      "es": "masada-snake-path",
+      "fr": "masada-snake-path"
+    },
+    "detailPath": "/mista/masada-snake-path/"
+  },
+  "baalbek-trilithon": {
+    "to": "baalbek",
+    "slugs": {
+      "cs": "baalbek-trilithon",
+      "en": "baalbek-trilithon",
+      "de": "baalbek-trilithon",
+      "es": "baalbek-trilithon",
+      "fr": "baalbek-trilithon"
+    },
+    "detailPath": "/mista/baalbek-trilithon/"
+  },
+  "byblos": {
+    "to": "byblos-old-city",
+    "slugs": {
+      "cs": "byblos",
+      "en": "byblos",
+      "de": "byblos",
+      "es": "byblos",
+      "fr": "byblos"
+    },
+    "detailPath": "/mista/byblos/"
+  },
+  "palmyra-funerary-towers": {
+    "to": "palmyra",
+    "slugs": {
+      "cs": "palmyra-funerary-towers",
+      "en": "palmyra-funerary-towers",
+      "de": "palmyra-funerary-towers",
+      "es": "palmyra-funerary-towers",
+      "fr": "palmyra-funerary-towers"
+    },
+    "detailPath": "/mista/palmyra-funerary-towers/"
+  },
+  "hegra": {
+    "to": "al-ula-hegra-tombs",
+    "slugs": {
+      "cs": "hegra",
+      "en": "hegra",
+      "de": "hegra",
+      "es": "hegra",
+      "fr": "hegra"
+    },
+    "detailPath": "/mista/hegra/"
+  },
+  "mada-in-saleh": {
+    "to": "al-ula-hegra-tombs",
+    "slugs": {
+      "cs": "mada-in-saleh",
+      "en": "mada-in-saleh",
+      "de": "mada-in-saleh",
+      "es": "mada-in-saleh",
+      "fr": "mada-in-saleh"
+    },
+    "detailPath": "/mista/mada-in-saleh/"
+  },
+  "madain-saleh": {
+    "to": "al-ula-hegra-tombs",
+    "slugs": {
+      "cs": "madain-saleh",
+      "en": "madain-saleh",
+      "de": "madain-saleh",
+      "es": "madain-saleh",
+      "fr": "madain-saleh"
+    },
+    "detailPath": "/mista/madain-saleh/"
+  },
+  "qasr-al-farid": {
+    "to": "al-ula-hegra-tombs",
+    "slugs": {
+      "cs": "qasr-al-farid",
+      "en": "qasr-al-farid",
+      "de": "qasr-al-farid",
+      "es": "qasr-al-farid",
+      "fr": "qasr-al-farid"
+    },
+    "detailPath": "/mista/qasr-al-farid/"
+  },
+  "bamiyan-buddhas": {
+    "to": "bamiyan-cliffs",
+    "slugs": {
+      "cs": "bamiyan-buddhas",
+      "en": "bamiyan-buddhas",
+      "de": "bamiyan-buddhas",
+      "es": "bamiyan-buddhas",
+      "fr": "bamiyan-buddhas"
+    },
+    "detailPath": "/mista/bamiyan-buddhas/"
+  },
+  "merv": {
+    "to": "merv-ruins",
+    "slugs": {
+      "cs": "merv",
+      "en": "merv",
+      "de": "merv",
+      "es": "merv",
+      "fr": "merv"
+    },
+    "detailPath": "/mista/merv/"
+  },
+  "uplistsikhe-cave-town": {
+    "to": "uplistsikhe",
+    "slugs": {
+      "cs": "uplistsikhe-cave-town",
+      "en": "uplistsikhe-cave-town",
+      "de": "uplistsikhe-cave-town",
+      "es": "uplistsikhe-cave-town",
+      "fr": "uplistsikhe-cave-town"
+    },
+    "detailPath": "/mista/uplistsikhe-cave-town/"
+  },
+  "vardzia-cave-monastery": {
+    "to": "vardzia",
+    "slugs": {
+      "cs": "vardzia-cave-monastery",
+      "en": "vardzia-cave-monastery",
+      "de": "vardzia-cave-monastery",
+      "es": "vardzia-cave-monastery",
+      "fr": "vardzia-cave-monastery"
+    },
+    "detailPath": "/mista/vardzia-cave-monastery/"
+  },
+  "khor-virap-monastery": {
+    "to": "khor-virap",
+    "slugs": {
+      "cs": "khor-virap-monastery",
+      "en": "khor-virap-monastery",
+      "de": "khor-virap-monastery",
+      "es": "khor-virap-monastery",
+      "fr": "khor-virap-monastery"
+    },
+    "detailPath": "/mista/khor-virap-monastery/"
+  },
+  "volubilis": {
+    "to": "volubilis-ruins",
+    "slugs": {
+      "cs": "volubilis",
+      "en": "volubilis",
+      "de": "volubilis",
+      "es": "volubilis",
+      "fr": "volubilis"
+    },
+    "detailPath": "/mista/volubilis/"
+  },
+  "siwa-oasis": {
+    "to": "siwa-oracle-temple",
+    "slugs": {
+      "cs": "siwa-oasis",
+      "en": "siwa-oasis",
+      "de": "siwa-oasis",
+      "es": "siwa-oasis",
+      "fr": "siwa-oasis"
+    },
+    "detailPath": "/mista/siwa-oasis/"
+  },
+  "shali-fortress-siwa": {
+    "to": "siwa-oracle-temple",
+    "slugs": {
+      "cs": "shali-fortress-siwa",
+      "en": "shali-fortress-siwa",
+      "de": "shali-fortress-siwa",
+      "es": "shali-fortress-siwa",
+      "fr": "shali-fortress-siwa"
+    },
+    "detailPath": "/mista/shali-fortress-siwa/"
+  },
+  "siwa-shali-fortress": {
+    "to": "siwa-oracle-temple",
+    "slugs": {
+      "cs": "siwa-shali-fortress",
+      "en": "siwa-shali-fortress",
+      "de": "siwa-shali-fortress",
+      "es": "siwa-shali-fortress",
+      "fr": "siwa-shali-fortress"
+    },
+    "detailPath": "/mista/siwa-shali-fortress/"
+  },
+  "gedi-ruins": {
+    "to": "gede-ruins",
+    "slugs": {
+      "cs": "gedi-ruins",
+      "en": "gedi-ruins",
+      "de": "gedi-ruins",
+      "es": "gedi-ruins",
+      "fr": "gedi-ruins"
+    },
+    "detailPath": "/mista/gedi-ruins/"
+  },
+  "kolmanskop-ghost-town": {
+    "to": "kolmanskop",
+    "slugs": {
+      "cs": "kolmanskop-ghost-town",
+      "en": "kolmanskop-ghost-town",
+      "de": "kolmanskop-ghost-town",
+      "es": "kolmanskop-ghost-town",
+      "fr": "kolmanskop-ghost-town"
+    },
+    "detailPath": "/mista/kolmanskop-ghost-town/"
+  },
+  "twyfelfontein-engravings": {
+    "to": "twyfelfontein",
+    "slugs": {
+      "cs": "twyfelfontein-engravings",
+      "en": "twyfelfontein-engravings",
+      "de": "twyfelfontein-engravings",
+      "es": "twyfelfontein-engravings",
+      "fr": "twyfelfontein-engravings"
+    },
+    "detailPath": "/mista/twyfelfontein-engravings/"
+  },
+  "goree-island-door-of-no-return": {
+    "to": "goree-island",
+    "slugs": {
+      "cs": "goree-island-door-of-no-return",
+      "en": "goree-island-door-of-no-return",
+      "de": "goree-island-door-of-no-return",
+      "es": "goree-island-door-of-no-return",
+      "fr": "goree-island-door-of-no-return"
+    },
+    "detailPath": "/mista/goree-island-door-of-no-return/"
+  },
+  "robben-island-prison": {
+    "to": "robben-island",
+    "slugs": {
+      "cs": "robben-island-prison",
+      "en": "robben-island-prison",
+      "de": "robben-island-prison",
+      "es": "robben-island-prison",
+      "fr": "robben-island-prison"
+    },
+    "detailPath": "/mista/robben-island-prison/"
+  },
+  "lamu-old-town": {
+    "to": "lamu-fort",
+    "slugs": {
+      "cs": "lamu-old-town",
+      "en": "lamu-old-town",
+      "de": "lamu-old-town",
+      "es": "lamu-old-town",
+      "fr": "lamu-old-town"
+    },
+    "detailPath": "/mista/lamu-old-town/"
+  },
+  "ischigualasto-moon-valley": {
+    "to": "ischigualasto",
+    "slugs": {
+      "cs": "ischigualasto-moon-valley",
+      "en": "ischigualasto-moon-valley",
+      "de": "ischigualasto-moon-valley",
+      "es": "ischigualasto-moon-valley",
+      "fr": "ischigualasto-moon-valley"
+    },
+    "detailPath": "/mista/ischigualasto-moon-valley/"
+  },
+  "la-cueva-de-los-tayos": {
+    "to": "cueva-de-los-tayos",
+    "slugs": {
+      "cs": "la-cueva-de-los-tayos",
+      "en": "la-cueva-de-los-tayos",
+      "de": "la-cueva-de-los-tayos",
+      "es": "la-cueva-de-los-tayos",
+      "fr": "la-cueva-de-los-tayos"
+    },
+    "detailPath": "/mista/la-cueva-de-los-tayos/"
+  },
+  "ingapirca-ruins": {
+    "to": "ingapirca",
+    "slugs": {
+      "cs": "ingapirca-ruins",
+      "en": "ingapirca-ruins",
+      "de": "ingapirca-ruins",
+      "es": "ingapirca-ruins",
+      "fr": "ingapirca-ruins"
+    },
+    "detailPath": "/mista/ingapirca-ruins/"
+  },
+  "humberstone-and-santa-laura": {
+    "to": "humberstone-ghost-town",
+    "slugs": {
+      "cs": "humberstone-and-santa-laura",
+      "en": "humberstone-and-santa-laura",
+      "de": "humberstone-and-santa-laura",
+      "es": "humberstone-and-santa-laura",
+      "fr": "humberstone-and-santa-laura"
+    },
+    "detailPath": "/mista/humberstone-and-santa-laura/"
+  },
+  "humberstone-saltpeter-works": {
+    "to": "humberstone-ghost-town",
+    "slugs": {
+      "cs": "humberstone-saltpeter-works",
+      "en": "humberstone-saltpeter-works",
+      "de": "humberstone-saltpeter-works",
+      "es": "humberstone-saltpeter-works",
+      "fr": "humberstone-saltpeter-works"
+    },
+    "detailPath": "/mista/humberstone-saltpeter-works/"
+  },
+  "santa-laura-saltpeter-works": {
+    "to": "humberstone-ghost-town",
+    "slugs": {
+      "cs": "santa-laura-saltpeter-works",
+      "en": "santa-laura-saltpeter-works",
+      "de": "santa-laura-saltpeter-works",
+      "es": "santa-laura-saltpeter-works",
+      "fr": "santa-laura-saltpeter-works"
+    },
+    "detailPath": "/mista/santa-laura-saltpeter-works/"
+  },
+  "tikal-temple-iv": {
+    "to": "tikal",
+    "slugs": {
+      "cs": "tikal-temple-iv",
+      "en": "tikal-temple-iv",
+      "de": "tikal-temple-iv",
+      "es": "tikal-temple-iv",
+      "fr": "tikal-temple-iv"
+    },
+    "detailPath": "/mista/tikal-temple-iv/"
+  },
+  "el-mirador-basin": {
+    "to": "el-mirador",
+    "slugs": {
+      "cs": "el-mirador-basin",
+      "en": "el-mirador-basin",
+      "de": "el-mirador-basin",
+      "es": "el-mirador-basin",
+      "fr": "el-mirador-basin"
+    },
+    "detailPath": "/mista/el-mirador-basin/"
+  },
+  "copan-hieroglyphic-stairway": {
+    "to": "copan",
+    "slugs": {
+      "cs": "copan-hieroglyphic-stairway",
+      "en": "copan-hieroglyphic-stairway",
+      "de": "copan-hieroglyphic-stairway",
+      "es": "copan-hieroglyphic-stairway",
+      "fr": "copan-hieroglyphic-stairway"
+    },
+    "detailPath": "/mista/copan-hieroglyphic-stairway/"
+  },
+  "caracol-belize": {
+    "to": "caracol",
+    "slugs": {
+      "cs": "caracol-belize",
+      "en": "caracol-belize",
+      "de": "caracol-belize",
+      "es": "caracol-belize",
+      "fr": "caracol-belize"
+    },
+    "detailPath": "/mista/caracol-belize/"
+  },
+  "palenque-temple-inscriptions": {
+    "to": "palenque",
+    "slugs": {
+      "cs": "palenque-temple-inscriptions",
+      "en": "palenque-temple-inscriptions",
+      "de": "palenque-temple-inscriptions",
+      "es": "palenque-temple-inscriptions",
+      "fr": "palenque-temple-inscriptions"
+    },
+    "detailPath": "/mista/palenque-temple-inscriptions/"
+  },
+  "calakmul-biosphere-ruins": {
+    "to": "calakmul",
+    "slugs": {
+      "cs": "calakmul-biosphere-ruins",
+      "en": "calakmul-biosphere-ruins",
+      "de": "calakmul-biosphere-ruins",
+      "es": "calakmul-biosphere-ruins",
+      "fr": "calakmul-biosphere-ruins"
+    },
+    "detailPath": "/mista/calakmul-biosphere-ruins/"
+  },
+  "coba-ruins": {
+    "to": "coba",
+    "slugs": {
+      "cs": "coba-ruins",
+      "en": "coba-ruins",
+      "de": "coba-ruins",
+      "es": "coba-ruins",
+      "fr": "coba-ruins"
+    },
+    "detailPath": "/mista/coba-ruins/"
+  },
+  "oak-island-money-pit": {
+    "to": "oak-island",
+    "slugs": {
+      "cs": "oak-island-money-pit",
+      "en": "oak-island-money-pit",
+      "de": "oak-island-money-pit",
+      "es": "oak-island-money-pit",
+      "fr": "oak-island-money-pit"
+    },
+    "detailPath": "/mista/oak-island-money-pit/"
+  },
+  "lanse-aux-meadows-norse-site": {
+    "to": "l-anse-aux-meadows",
+    "slugs": {
+      "cs": "lanse-aux-meadows-norse-site",
+      "en": "lanse-aux-meadows-norse-site",
+      "de": "lanse-aux-meadows-norse-site",
+      "es": "lanse-aux-meadows-norse-site",
+      "fr": "lanse-aux-meadows-norse-site"
+    },
+    "detailPath": "/mista/lanse-aux-meadows-norse-site/"
+  },
+  "nan-madol": {
+    "to": "nan-madol-pohnpei-reef",
+    "slugs": {
+      "cs": "nan-madol",
+      "en": "nan-madol",
+      "de": "nan-madol",
+      "es": "nan-madol",
+      "fr": "nan-madol"
+    },
+    "detailPath": "/mista/nan-madol/"
+  },
+  "nan-madol-pahnwi": {
+    "to": "nan-madol-pohnpei-reef",
+    "slugs": {
+      "cs": "nan-madol-pahnwi",
+      "en": "nan-madol-pahnwi",
+      "de": "nan-madol-pahnwi",
+      "es": "nan-madol-pahnwi",
+      "fr": "nan-madol-pahnwi"
+    },
+    "detailPath": "/mista/nan-madol-pahnwi/"
+  },
+  "rai-stones-of-yap": {
+    "to": "rai-stones-yap",
+    "slugs": {
+      "cs": "rai-stones-of-yap",
+      "en": "rai-stones-of-yap",
+      "de": "rai-stones-of-yap",
+      "es": "rai-stones-of-yap",
+      "fr": "rai-stones-of-yap"
+    },
+    "detailPath": "/mista/rai-stones-of-yap/"
+  },
+  "kata-tjuta-valley-of-the-winds": {
+    "to": "kata-tjuta",
+    "slugs": {
+      "cs": "kata-tjuta-valley-of-the-winds",
+      "en": "kata-tjuta-valley-of-the-winds",
+      "de": "kata-tjuta-valley-of-the-winds",
+      "es": "kata-tjuta-valley-of-the-winds",
+      "fr": "kata-tjuta-valley-of-the-winds"
+    },
+    "detailPath": "/mista/kata-tjuta-valley-of-the-winds/"
+  },
+  "borobudur-hidden-foot": {
+    "to": "borobudur",
+    "slugs": {
+      "cs": "borobudur-hidden-foot",
+      "en": "borobudur-hidden-foot",
+      "de": "borobudur-hidden-foot",
+      "es": "borobudur-hidden-foot",
+      "fr": "borobudur-hidden-foot"
+    },
+    "detailPath": "/mista/borobudur-hidden-foot/"
+  },
+  "phnom-kulen-river-lingas": {
+    "to": "phnom-kulen",
+    "slugs": {
+      "cs": "phnom-kulen-river-lingas",
+      "en": "phnom-kulen-river-lingas",
+      "de": "phnom-kulen-river-lingas",
+      "es": "phnom-kulen-river-lingas",
+      "fr": "phnom-kulen-river-lingas"
+    },
+    "detailPath": "/mista/phnom-kulen-river-lingas/"
+  },
+  "ta-prohm-angkor": {
+    "to": "ta-prohm",
+    "slugs": {
+      "cs": "ta-prohm-angkor",
+      "en": "ta-prohm-angkor",
+      "de": "ta-prohm-angkor",
+      "es": "ta-prohm-angkor",
+      "fr": "ta-prohm-angkor"
+    },
+    "detailPath": "/mista/ta-prohm-angkor/"
+  },
+  "bagan-temple-plain": {
+    "to": "bagan",
+    "slugs": {
+      "cs": "bagan-temple-plain",
+      "en": "bagan-temple-plain",
+      "de": "bagan-temple-plain",
+      "es": "bagan-temple-plain",
+      "fr": "bagan-temple-plain"
+    },
+    "detailPath": "/mista/bagan-temple-plain/"
+  },
+  "axum": {
+    "to": "obelisk-of-axum",
+    "slugs": {
+      "cs": "axum",
+      "en": "axum",
+      "de": "axum",
+      "es": "axum",
+      "fr": "axum"
+    },
+    "detailPath": "/mista/axum/"
+  },
+  "axum-stelae-field": {
+    "to": "obelisk-of-axum",
+    "slugs": {
+      "cs": "axum-stelae-field",
+      "en": "axum-stelae-field",
+      "de": "axum-stelae-field",
+      "es": "axum-stelae-field",
+      "fr": "axum-stelae-field"
+    },
+    "detailPath": "/mista/axum-stelae-field/"
+  },
+  "aksum-obelisks": {
+    "to": "obelisk-of-axum",
+    "slugs": {
+      "cs": "aksum-obelisks",
+      "en": "aksum-obelisks",
+      "de": "aksum-obelisks",
+      "es": "aksum-obelisks",
+      "fr": "aksum-obelisks"
+    },
+    "detailPath": "/mista/aksum-obelisks/"
+  },
+  "dougga-ruins": {
+    "to": "dougga",
+    "slugs": {
+      "cs": "dougga-ruins",
+      "en": "dougga-ruins",
+      "de": "dougga-ruins",
+      "es": "dougga-ruins",
+      "fr": "dougga-ruins"
+    },
+    "detailPath": "/mista/dougga-ruins/"
+  },
+  "matmata-underground-houses": {
+    "to": "matmata",
+    "slugs": {
+      "cs": "matmata-underground-houses",
+      "en": "matmata-underground-houses",
+      "de": "matmata-underground-houses",
+      "es": "matmata-underground-houses",
+      "fr": "matmata-underground-houses"
+    },
+    "detailPath": "/mista/matmata-underground-houses/"
+  },
+  "sabratha": {
+    "to": "sabratha-ruins",
+    "slugs": {
+      "cs": "sabratha",
+      "en": "sabratha",
+      "de": "sabratha",
+      "es": "sabratha",
+      "fr": "sabratha"
+    },
+    "detailPath": "/mista/sabratha/"
+  },
+  "nyiragongo-lava-lake": {
+    "to": "mount-nyiragongo",
+    "slugs": {
+      "cs": "nyiragongo-lava-lake",
+      "en": "nyiragongo-lava-lake",
+      "de": "nyiragongo-lava-lake",
+      "es": "nyiragongo-lava-lake",
+      "fr": "nyiragongo-lava-lake"
+    },
+    "detailPath": "/mista/nyiragongo-lava-lake/"
+  },
+  "nyiragongo-volcano-rim": {
+    "to": "mount-nyiragongo",
+    "slugs": {
+      "cs": "nyiragongo-volcano-rim",
+      "en": "nyiragongo-volcano-rim",
+      "de": "nyiragongo-volcano-rim",
+      "es": "nyiragongo-volcano-rim",
+      "fr": "nyiragongo-volcano-rim"
+    },
+    "detailPath": "/mista/nyiragongo-volcano-rim/"
+  },
+  "rwenzori-mountains": {
+    "to": "ruwenzori-glaciers",
+    "slugs": {
+      "cs": "rwenzori-mountains",
+      "en": "rwenzori-mountains",
+      "de": "rwenzori-mountains",
+      "es": "rwenzori-mountains",
+      "fr": "rwenzori-mountains"
+    },
+    "detailPath": "/mista/rwenzori-mountains/"
+  },
+  "devil-s-pool-victoria-falls": {
+    "to": "victoria-falls",
+    "slugs": {
+      "cs": "devil-s-pool-victoria-falls",
+      "en": "devil-s-pool-victoria-falls",
+      "de": "devil-s-pool-victoria-falls",
+      "es": "devil-s-pool-victoria-falls",
+      "fr": "devil-s-pool-victoria-falls"
+    },
+    "detailPath": "/mista/devil-s-pool-victoria-falls/"
+  },
+  "chaco-canyon-great-houses": {
+    "to": "chaco-canyon",
+    "slugs": {
+      "cs": "chaco-canyon-great-houses",
+      "en": "chaco-canyon-great-houses",
+      "de": "chaco-canyon-great-houses",
+      "es": "chaco-canyon-great-houses",
+      "fr": "chaco-canyon-great-houses"
+    },
+    "detailPath": "/mista/chaco-canyon-great-houses/"
+  },
+  "chaco-wijiji-ruin": {
+    "to": "chaco-canyon",
+    "slugs": {
+      "cs": "chaco-wijiji-ruin",
+      "en": "chaco-wijiji-ruin",
+      "de": "chaco-wijiji-ruin",
+      "es": "chaco-wijiji-ruin",
+      "fr": "chaco-wijiji-ruin"
+    },
+    "detailPath": "/mista/chaco-wijiji-ruin/"
+  },
+  "cahokia-woodhenge": {
+    "to": "cahokia-mounds",
+    "slugs": {
+      "cs": "cahokia-woodhenge",
+      "en": "cahokia-woodhenge",
+      "de": "cahokia-woodhenge",
+      "es": "cahokia-woodhenge",
+      "fr": "cahokia-woodhenge"
+    },
+    "detailPath": "/mista/cahokia-woodhenge/"
+  },
+  "serpent-mound-ohio": {
+    "to": "serpent-mound",
+    "slugs": {
+      "cs": "serpent-mound-ohio",
+      "en": "serpent-mound-ohio",
+      "de": "serpent-mound-ohio",
+      "es": "serpent-mound-ohio",
+      "fr": "serpent-mound-ohio"
+    },
+    "detailPath": "/mista/serpent-mound-ohio/"
+  },
+  "amityville-horror-house": {
+    "to": "amityville-house",
+    "slugs": {
+      "cs": "amityville-horror-house",
+      "en": "amityville-horror-house",
+      "de": "amityville-horror-house",
+      "es": "amityville-horror-house",
+      "fr": "amityville-horror-house"
+    },
+    "detailPath": "/mista/amityville-horror-house/"
+  },
+  "mystery-spot-santa-cruz": {
+    "to": "mystery-spot",
+    "slugs": {
+      "cs": "mystery-spot-santa-cruz",
+      "en": "mystery-spot-santa-cruz",
+      "de": "mystery-spot-santa-cruz",
+      "es": "mystery-spot-santa-cruz",
+      "fr": "mystery-spot-santa-cruz"
+    },
+    "detailPath": "/mista/mystery-spot-santa-cruz/"
+  },
+  "centralia-mine-fire": {
+    "to": "centralia",
+    "slugs": {
+      "cs": "centralia-mine-fire",
+      "en": "centralia-mine-fire",
+      "de": "centralia-mine-fire",
+      "es": "centralia-mine-fire",
+      "fr": "centralia-mine-fire"
+    },
+    "detailPath": "/mista/centralia-mine-fire/"
+  },
+  "centralia-pennsylvania": {
+    "to": "centralia",
+    "slugs": {
+      "cs": "centralia-pennsylvania",
+      "en": "centralia-pennsylvania",
+      "de": "centralia-pennsylvania",
+      "es": "centralia-pennsylvania",
+      "fr": "centralia-pennsylvania"
+    },
+    "detailPath": "/mista/centralia-pennsylvania/"
+  },
+  "medicine-wheel-wyoming": {
+    "to": "medicine-wheel-bighorn",
+    "slugs": {
+      "cs": "medicine-wheel-wyoming",
+      "en": "medicine-wheel-wyoming",
+      "de": "medicine-wheel-wyoming",
+      "es": "medicine-wheel-wyoming",
+      "fr": "medicine-wheel-wyoming"
+    },
+    "detailPath": "/mista/medicine-wheel-wyoming/"
+  },
+  "hovenweep-towers": {
+    "to": "hovenweep",
+    "slugs": {
+      "cs": "hovenweep-towers",
+      "en": "hovenweep-towers",
+      "de": "hovenweep-towers",
+      "es": "hovenweep-towers",
+      "fr": "hovenweep-towers"
+    },
+    "detailPath": "/mista/hovenweep-towers/"
+  },
+  "hovenweep-castle": {
+    "to": "hovenweep",
+    "slugs": {
+      "cs": "hovenweep-castle",
+      "en": "hovenweep-castle",
+      "de": "hovenweep-castle",
+      "es": "hovenweep-castle",
+      "fr": "hovenweep-castle"
+    },
+    "detailPath": "/mista/hovenweep-castle/"
+  },
+  "poverty-point-earthworks": {
+    "to": "poverty-point",
+    "slugs": {
+      "cs": "poverty-point-earthworks",
+      "en": "poverty-point-earthworks",
+      "de": "poverty-point-earthworks",
+      "es": "poverty-point-earthworks",
+      "fr": "poverty-point-earthworks"
+    },
+    "detailPath": "/mista/poverty-point-earthworks/"
+  },
+  "mammoth-cave-historic-entrance": {
+    "to": "mammoth-cave",
+    "slugs": {
+      "cs": "mammoth-cave-historic-entrance",
+      "en": "mammoth-cave-historic-entrance",
+      "de": "mammoth-cave-historic-entrance",
+      "es": "mammoth-cave-historic-entrance",
+      "fr": "mammoth-cave-historic-entrance"
+    },
+    "detailPath": "/mista/mammoth-cave-historic-entrance/"
+  },
+  "crater-lake-wizard-island": {
+    "to": "crater-lake",
+    "slugs": {
+      "cs": "crater-lake-wizard-island",
+      "en": "crater-lake-wizard-island",
+      "de": "crater-lake-wizard-island",
+      "es": "crater-lake-wizard-island",
+      "fr": "crater-lake-wizard-island"
+    },
+    "detailPath": "/mista/crater-lake-wizard-island/"
+  },
+  "lava-beds-national-monument": {
+    "to": "lava-beds-caves",
+    "slugs": {
+      "cs": "lava-beds-national-monument",
+      "en": "lava-beds-national-monument",
+      "de": "lava-beds-national-monument",
+      "es": "lava-beds-national-monument",
+      "fr": "lava-beds-national-monument"
+    },
+    "detailPath": "/mista/lava-beds-national-monument/"
+  },
+  "white-island-whakaari": {
+    "to": "white-island",
+    "slugs": {
+      "cs": "white-island-whakaari",
+      "en": "white-island-whakaari",
+      "de": "white-island-whakaari",
+      "es": "white-island-whakaari",
+      "fr": "white-island-whakaari"
+    },
+    "detailPath": "/mista/white-island-whakaari/"
+  },
+  "lake-mungo": {
+    "to": "mungo-man-site",
+    "slugs": {
+      "cs": "lake-mungo",
+      "en": "lake-mungo",
+      "de": "lake-mungo",
+      "es": "lake-mungo",
+      "fr": "lake-mungo"
+    },
+    "detailPath": "/mista/lake-mungo/"
+  },
+  "ban-chiang-archaeological-site": {
+    "to": "ban-chiang",
+    "slugs": {
+      "cs": "ban-chiang-archaeological-site",
+      "en": "ban-chiang-archaeological-site",
+      "de": "ban-chiang-archaeological-site",
+      "es": "ban-chiang-archaeological-site",
+      "fr": "ban-chiang-archaeological-site"
+    },
+    "detailPath": "/mista/ban-chiang-archaeological-site/"
+  },
+  "ayutthaya-wat-mahathat": {
+    "to": "ayutthaya",
+    "slugs": {
+      "cs": "ayutthaya-wat-mahathat",
+      "en": "ayutthaya-wat-mahathat",
+      "de": "ayutthaya-wat-mahathat",
+      "es": "ayutthaya-wat-mahathat",
+      "fr": "ayutthaya-wat-mahathat"
+    },
+    "detailPath": "/mista/ayutthaya-wat-mahathat/"
+  },
+  "sukhothai-wat-si-chum": {
+    "to": "sukhothai",
+    "slugs": {
+      "cs": "sukhothai-wat-si-chum",
+      "en": "sukhothai-wat-si-chum",
+      "de": "sukhothai-wat-si-chum",
+      "es": "sukhothai-wat-si-chum",
+      "fr": "sukhothai-wat-si-chum"
+    },
+    "detailPath": "/mista/sukhothai-wat-si-chum/"
+  },
+  "mount-popa-taung-kalat": {
+    "to": "mount-popa",
+    "slugs": {
+      "cs": "mount-popa-taung-kalat",
+      "en": "mount-popa-taung-kalat",
+      "de": "mount-popa-taung-kalat",
+      "es": "mount-popa-taung-kalat",
+      "fr": "mount-popa-taung-kalat"
+    },
+    "detailPath": "/mista/mount-popa-taung-kalat/"
+  },
+  "mrauk-u-temples": {
+    "to": "mrauk-u",
+    "slugs": {
+      "cs": "mrauk-u-temples",
+      "en": "mrauk-u-temples",
+      "de": "mrauk-u-temples",
+      "es": "mrauk-u-temples",
+      "fr": "mrauk-u-temples"
+    },
+    "detailPath": "/mista/mrauk-u-temples/"
+  },
+  "bora-bora-wwii-cannons": {
+    "to": "bora-bora-marae",
+    "slugs": {
+      "cs": "bora-bora-wwii-cannons",
+      "en": "bora-bora-wwii-cannons",
+      "de": "bora-bora-wwii-cannons",
+      "es": "bora-bora-wwii-cannons",
+      "fr": "bora-bora-wwii-cannons"
+    },
+    "detailPath": "/mista/bora-bora-wwii-cannons/"
+  },
+  "marae-taputapuatea-bora-bora": {
+    "to": "bora-bora-marae",
+    "slugs": {
+      "cs": "marae-taputapuatea-bora-bora",
+      "en": "marae-taputapuatea-bora-bora",
+      "de": "marae-taputapuatea-bora-bora",
+      "es": "marae-taputapuatea-bora-bora",
+      "fr": "marae-taputapuatea-bora-bora"
+    },
+    "detailPath": "/mista/marae-taputapuatea-bora-bora/"
+  },
+  "cachtice-castle-ruins": {
+    "to": "cachtice-castle",
+    "slugs": {
+      "cs": "cachtice-castle-ruins",
+      "en": "cachtice-castle-ruins",
+      "de": "cachtice-castle-ruins",
+      "es": "cachtice-castle-ruins",
+      "fr": "cachtice-castle-ruins"
+    },
+    "detailPath": "/mista/cachtice-castle-ruins/"
+  },
+  "ksiaz-castle-tunnels": {
+    "to": "ksiaz-castle",
+    "slugs": {
+      "cs": "ksiaz-castle-tunnels",
+      "en": "ksiaz-castle-tunnels",
+      "de": "ksiaz-castle-tunnels",
+      "es": "ksiaz-castle-tunnels",
+      "fr": "ksiaz-castle-tunnels"
+    },
+    "detailPath": "/mista/ksiaz-castle-tunnels/"
+  },
+  "wewelsburg-north-tower": {
+    "to": "wewelsburg-castle",
+    "slugs": {
+      "cs": "wewelsburg-north-tower",
+      "en": "wewelsburg-north-tower",
+      "de": "wewelsburg-north-tower",
+      "es": "wewelsburg-north-tower",
+      "fr": "wewelsburg-north-tower"
+    },
+    "detailPath": "/mista/wewelsburg-north-tower/"
+  },
+  "teufelsberg-listening-station": {
+    "to": "teufelsberg",
+    "slugs": {
+      "cs": "teufelsberg-listening-station",
+      "en": "teufelsberg-listening-station",
+      "de": "teufelsberg-listening-station",
+      "es": "teufelsberg-listening-station",
+      "fr": "teufelsberg-listening-station"
+    },
+    "detailPath": "/mista/teufelsberg-listening-station/"
+  },
+  "hr-giger-museum": {
+    "to": "chateau-de-gruyeres",
+    "slugs": {
+      "cs": "hr-giger-museum",
+      "en": "hr-giger-museum",
+      "de": "hr-giger-museum",
+      "es": "hr-giger-museum",
+      "fr": "hr-giger-museum"
+    },
+    "detailPath": "/mista/hr-giger-museum/"
+  },
+  "cerveteri-banditaccia": {
+    "to": "cerveteri-necropolis",
+    "slugs": {
+      "cs": "cerveteri-banditaccia",
+      "en": "cerveteri-banditaccia",
+      "de": "cerveteri-banditaccia",
+      "es": "cerveteri-banditaccia",
+      "fr": "cerveteri-banditaccia"
+    },
+    "detailPath": "/mista/cerveteri-banditaccia/"
+  },
+  "cumae-sibyl-cave": {
+    "to": "cumae-sybil-cave",
+    "slugs": {
+      "cs": "cumae-sibyl-cave",
+      "en": "cumae-sibyl-cave",
+      "de": "cumae-sibyl-cave",
+      "es": "cumae-sibyl-cave",
+      "fr": "cumae-sibyl-cave"
+    },
+    "detailPath": "/mista/cumae-sibyl-cave/"
+  },
+  "meteora-monasteries": {
+    "to": "meteora",
+    "slugs": {
+      "cs": "meteora-monasteries",
+      "en": "meteora-monasteries",
+      "de": "meteora-monasteries",
+      "es": "meteora-monasteries",
+      "fr": "meteora-monasteries"
+    },
+    "detailPath": "/mista/meteora-monasteries/"
+  },
+  "epidaurus-sanctuary": {
+    "to": "epidaurus-theatre",
+    "slugs": {
+      "cs": "epidaurus-sanctuary",
+      "en": "epidaurus-sanctuary",
+      "de": "epidaurus-sanctuary",
+      "es": "epidaurus-sanctuary",
+      "fr": "epidaurus-sanctuary"
+    },
+    "detailPath": "/mista/epidaurus-sanctuary/"
+  },
+  "butrint-ancient-city": {
+    "to": "butrint",
+    "slugs": {
+      "cs": "butrint-ancient-city",
+      "en": "butrint-ancient-city",
+      "de": "butrint-ancient-city",
+      "es": "butrint-ancient-city",
+      "fr": "butrint-ancient-city"
+    },
+    "detailPath": "/mista/butrint-ancient-city/"
+  },
+  "gjirokaster-fortress": {
+    "to": "gjirokaster-castle",
+    "slugs": {
+      "cs": "gjirokaster-fortress",
+      "en": "gjirokaster-fortress",
+      "de": "gjirokaster-fortress",
+      "es": "gjirokaster-fortress",
+      "fr": "gjirokaster-fortress"
+    },
+    "detailPath": "/mista/gjirokaster-fortress/"
+  },
+  "mostar-old-bridge": {
+    "to": "mostar-bridge",
+    "slugs": {
+      "cs": "mostar-old-bridge",
+      "en": "mostar-old-bridge",
+      "de": "mostar-old-bridge",
+      "es": "mostar-old-bridge",
+      "fr": "mostar-old-bridge"
+    },
+    "detailPath": "/mista/mostar-old-bridge/"
+  },
+  "puzzlewood-fantasy-forest": {
+    "to": "puzzlewood",
+    "slugs": {
+      "cs": "puzzlewood-fantasy-forest",
+      "en": "puzzlewood-fantasy-forest",
+      "de": "puzzlewood-fantasy-forest",
+      "es": "puzzlewood-fantasy-forest",
+      "fr": "puzzlewood-fantasy-forest"
+    },
+    "detailPath": "/mista/puzzlewood-fantasy-forest/"
+  },
+  "silfra-fissure": {
+    "to": "thingvellir",
+    "slugs": {
+      "cs": "silfra-fissure",
+      "en": "silfra-fissure",
+      "de": "silfra-fissure",
+      "es": "silfra-fissure",
+      "fr": "silfra-fissure"
+    },
+    "detailPath": "/mista/silfra-fissure/"
+  },
+  "thingvellir-silfra": {
+    "to": "thingvellir",
+    "slugs": {
+      "cs": "thingvellir-silfra",
+      "en": "thingvellir-silfra",
+      "de": "thingvellir-silfra",
+      "es": "thingvellir-silfra",
+      "fr": "thingvellir-silfra"
+    },
+    "detailPath": "/mista/thingvellir-silfra/"
+  },
+  "hekla-volcano": {
+    "to": "hekla",
+    "slugs": {
+      "cs": "hekla-volcano",
+      "en": "hekla-volcano",
+      "de": "hekla-volcano",
+      "es": "hekla-volcano",
+      "fr": "hekla-volcano"
+    },
+    "detailPath": "/mista/hekla-volcano/"
+  },
+  "zhangjiajie-avatar-mountains": {
+    "to": "zhangjiajie",
+    "slugs": {
+      "cs": "zhangjiajie-avatar-mountains",
+      "en": "zhangjiajie-avatar-mountains",
+      "de": "zhangjiajie-avatar-mountains",
+      "es": "zhangjiajie-avatar-mountains",
+      "fr": "zhangjiajie-avatar-mountains"
+    },
+    "detailPath": "/mista/zhangjiajie-avatar-mountains/"
+  },
+  "yehliu-queen-head": {
+    "to": "yehliu-geopark",
+    "slugs": {
+      "cs": "yehliu-queen-head",
+      "en": "yehliu-queen-head",
+      "de": "yehliu-queen-head",
+      "es": "yehliu-queen-head",
+      "fr": "yehliu-queen-head"
+    },
+    "detailPath": "/mista/yehliu-queen-head/"
+  },
+  "manjanggul-lava-tube": {
+    "to": "jeju-lava-tubes",
+    "slugs": {
+      "cs": "manjanggul-lava-tube",
+      "en": "manjanggul-lava-tube",
+      "de": "manjanggul-lava-tube",
+      "es": "manjanggul-lava-tube",
+      "fr": "manjanggul-lava-tube"
+    },
+    "detailPath": "/mista/manjanggul-lava-tube/"
+  },
+  "lumbini-sacred-garden": {
+    "to": "lumbini",
+    "slugs": {
+      "cs": "lumbini-sacred-garden",
+      "en": "lumbini-sacred-garden",
+      "de": "lumbini-sacred-garden",
+      "es": "lumbini-sacred-garden",
+      "fr": "lumbini-sacred-garden"
+    },
+    "detailPath": "/mista/lumbini-sacred-garden/"
+  },
+  "rani-ki-vav-stepwell": {
+    "to": "rani-ki-vav",
+    "slugs": {
+      "cs": "rani-ki-vav-stepwell",
+      "en": "rani-ki-vav-stepwell",
+      "de": "rani-ki-vav-stepwell",
+      "es": "rani-ki-vav-stepwell",
+      "fr": "rani-ki-vav-stepwell"
+    },
+    "detailPath": "/mista/rani-ki-vav-stepwell/"
+  },
+  "somapura-mahavihara": {
+    "to": "paharpur",
+    "slugs": {
+      "cs": "somapura-mahavihara",
+      "en": "somapura-mahavihara",
+      "de": "somapura-mahavihara",
+      "es": "somapura-mahavihara",
+      "fr": "somapura-mahavihara"
+    },
+    "detailPath": "/mista/somapura-mahavihara/"
+  },
+  "bagerhat-sixty-dome-mosque": {
+    "to": "bagerhat-mosque-city",
+    "slugs": {
+      "cs": "bagerhat-sixty-dome-mosque",
+      "en": "bagerhat-sixty-dome-mosque",
+      "de": "bagerhat-sixty-dome-mosque",
+      "es": "bagerhat-sixty-dome-mosque",
+      "fr": "bagerhat-sixty-dome-mosque"
+    },
+    "detailPath": "/mista/bagerhat-sixty-dome-mosque/"
+  },
+  "sri-pada-adam-s-peak-shadow": {
+    "to": "adam-s-peak",
+    "slugs": {
+      "cs": "sri-pada-adam-s-peak-shadow",
+      "en": "sri-pada-adam-s-peak-shadow",
+      "de": "sri-pada-adam-s-peak-shadow",
+      "es": "sri-pada-adam-s-peak-shadow",
+      "fr": "sri-pada-adam-s-peak-shadow"
+    },
+    "detailPath": "/mista/sri-pada-adam-s-peak-shadow/"
+  },
+  "shahrisabz": {
+    "to": "shakhrisabz",
+    "slugs": {
+      "cs": "shahrisabz",
+      "en": "shahrisabz",
+      "de": "shahrisabz",
+      "es": "shahrisabz",
+      "fr": "shahrisabz"
+    },
+    "detailPath": "/mista/shahrisabz/"
+  },
+  "itchan-kala-khiva": {
+    "to": "khiva-itchan-kala",
+    "slugs": {
+      "cs": "itchan-kala-khiva",
+      "en": "itchan-kala-khiva",
+      "de": "itchan-kala-khiva",
+      "es": "itchan-kala-khiva",
+      "fr": "itchan-kala-khiva"
+    },
+    "detailPath": "/mista/itchan-kala-khiva/"
+  },
+  "otrar-ruins": {
+    "to": "otrar",
+    "slugs": {
+      "cs": "otrar-ruins",
+      "en": "otrar-ruins",
+      "de": "otrar-ruins",
+      "es": "otrar-ruins",
+      "fr": "otrar-ruins"
+    },
+    "detailPath": "/mista/otrar-ruins/"
+  },
+  "burana-tower-balasagun": {
+    "to": "burana-tower",
+    "slugs": {
+      "cs": "burana-tower-balasagun",
+      "en": "burana-tower-balasagun",
+      "de": "burana-tower-balasagun",
+      "es": "burana-tower-balasagun",
+      "fr": "burana-tower-balasagun"
+    },
+    "detailPath": "/mista/burana-tower-balasagun/"
+  },
+  "kandovan-rock-village": {
+    "to": "kandovan",
+    "slugs": {
+      "cs": "kandovan-rock-village",
+      "en": "kandovan-rock-village",
+      "de": "kandovan-rock-village",
+      "es": "kandovan-rock-village",
+      "fr": "kandovan-rock-village"
+    },
+    "detailPath": "/mista/kandovan-rock-village/"
+  },
+  "crac-des-chevaliers": {
+    "to": "krak-des-chevaliers",
+    "slugs": {
+      "cs": "crac-des-chevaliers",
+      "en": "crac-des-chevaliers",
+      "de": "crac-des-chevaliers",
+      "es": "crac-des-chevaliers",
+      "fr": "crac-des-chevaliers"
+    },
+    "detailPath": "/mista/crac-des-chevaliers/"
+  },
+  "umm-er-rasas": {
+    "to": "umm-ar-rasas",
+    "slugs": {
+      "cs": "umm-er-rasas",
+      "en": "umm-er-rasas",
+      "de": "umm-er-rasas",
+      "es": "umm-er-rasas",
+      "fr": "umm-er-rasas"
+    },
+    "detailPath": "/mista/umm-er-rasas/"
+  },
+  "wadi-rum-seven-pillars": {
+    "to": "wadi-rum",
+    "slugs": {
+      "cs": "wadi-rum-seven-pillars",
+      "en": "wadi-rum-seven-pillars",
+      "de": "wadi-rum-seven-pillars",
+      "es": "wadi-rum-seven-pillars",
+      "fr": "wadi-rum-seven-pillars"
+    },
+    "detailPath": "/mista/wadi-rum-seven-pillars/"
+  },
+  "wadi-rum-lawrence-spring": {
+    "to": "wadi-rum",
+    "slugs": {
+      "cs": "wadi-rum-lawrence-spring",
+      "en": "wadi-rum-lawrence-spring",
+      "de": "wadi-rum-lawrence-spring",
+      "es": "wadi-rum-lawrence-spring",
+      "fr": "wadi-rum-lawrence-spring"
+    },
+    "detailPath": "/mista/wadi-rum-lawrence-spring/"
+  },
+  "ateshgah-fire-temple": {
+    "to": "ateshgah-of-baku",
+    "slugs": {
+      "cs": "ateshgah-fire-temple",
+      "en": "ateshgah-fire-temple",
+      "de": "ateshgah-fire-temple",
+      "es": "ateshgah-fire-temple",
+      "fr": "ateshgah-fire-temple"
+    },
+    "detailPath": "/mista/ateshgah-fire-temple/"
+  },
+  "kuelap-fortress": {
+    "to": "kuelap",
+    "slugs": {
+      "cs": "kuelap-fortress",
+      "en": "kuelap-fortress",
+      "de": "kuelap-fortress",
+      "es": "kuelap-fortress",
+      "fr": "kuelap-fortress"
+    },
+    "detailPath": "/mista/kuelap-fortress/"
+  },
+  "caral-sacred-city": {
+    "to": "caral",
+    "slugs": {
+      "cs": "caral-sacred-city",
+      "en": "caral-sacred-city",
+      "de": "caral-sacred-city",
+      "es": "caral-sacred-city",
+      "fr": "caral-sacred-city"
+    },
+    "detailPath": "/mista/caral-sacred-city/"
+  },
+  "caral-supe": {
+    "to": "caral",
+    "slugs": {
+      "cs": "caral-supe",
+      "en": "caral-supe",
+      "de": "caral-supe",
+      "es": "caral-supe",
+      "fr": "caral-supe"
+    },
+    "detailPath": "/mista/caral-supe/"
+  },
+  "moray-terraces": {
+    "to": "moray",
+    "slugs": {
+      "cs": "moray-terraces",
+      "en": "moray-terraces",
+      "de": "moray-terraces",
+      "es": "moray-terraces",
+      "fr": "moray-terraces"
+    },
+    "detailPath": "/mista/moray-terraces/"
+  },
+  "ollantaytambo-fortress": {
+    "to": "ollantaytambo",
+    "slugs": {
+      "cs": "ollantaytambo-fortress",
+      "en": "ollantaytambo-fortress",
+      "de": "ollantaytambo-fortress",
+      "es": "ollantaytambo-fortress",
+      "fr": "ollantaytambo-fortress"
+    },
+    "detailPath": "/mista/ollantaytambo-fortress/"
+  },
+  "pisac-terraces": {
+    "to": "pisac",
+    "slugs": {
+      "cs": "pisac-terraces",
+      "en": "pisac-terraces",
+      "de": "pisac-terraces",
+      "es": "pisac-terraces",
+      "fr": "pisac-terraces"
+    },
+    "detailPath": "/mista/pisac-terraces/"
+  },
+  "qenko-ritual-rock": {
+    "to": "qenko",
+    "slugs": {
+      "cs": "qenko-ritual-rock",
+      "en": "qenko-ritual-rock",
+      "de": "qenko-ritual-rock",
+      "es": "qenko-ritual-rock",
+      "fr": "qenko-ritual-rock"
+    },
+    "detailPath": "/mista/qenko-ritual-rock/"
+  },
+  "quilmes-ruins": {
+    "to": "ciudad-sagrada-de-quilmes",
+    "slugs": {
+      "cs": "quilmes-ruins",
+      "en": "quilmes-ruins",
+      "de": "quilmes-ruins",
+      "es": "quilmes-ruins",
+      "fr": "quilmes-ruins"
+    },
+    "detailPath": "/mista/quilmes-ruins/"
+  },
+  "talampaya-canyon": {
+    "to": "talampaya",
+    "slugs": {
+      "cs": "talampaya-canyon",
+      "en": "talampaya-canyon",
+      "de": "talampaya-canyon",
+      "es": "talampaya-canyon",
+      "fr": "talampaya-canyon"
+    },
+    "detailPath": "/mista/talampaya-canyon/"
+  },
+  "rano-raraku-quarry": {
+    "to": "moai-quarry-rano-raraku",
+    "slugs": {
+      "cs": "rano-raraku-quarry",
+      "en": "rano-raraku-quarry",
+      "de": "rano-raraku-quarry",
+      "es": "rano-raraku-quarry",
+      "fr": "rano-raraku-quarry"
+    },
+    "detailPath": "/mista/rano-raraku-quarry/"
+  },
+  "orongo-easter-island": {
+    "to": "orongo",
+    "slugs": {
+      "cs": "orongo-easter-island",
+      "en": "orongo-easter-island",
+      "de": "orongo-easter-island",
+      "es": "orongo-easter-island",
+      "fr": "orongo-easter-island"
+    },
+    "detailPath": "/mista/orongo-easter-island/"
+  },
+  "samaipata-fort": {
+    "to": "fort-samaipata",
+    "slugs": {
+      "cs": "samaipata-fort",
+      "en": "samaipata-fort",
+      "de": "samaipata-fort",
+      "es": "samaipata-fort",
+      "fr": "samaipata-fort"
+    },
+    "detailPath": "/mista/samaipata-fort/"
+  },
+  "kaieteur-tepui-caves": {
+    "to": "kaieteur-falls",
+    "slugs": {
+      "cs": "kaieteur-tepui-caves",
+      "en": "kaieteur-tepui-caves",
+      "de": "kaieteur-tepui-caves",
+      "es": "kaieteur-tepui-caves",
+      "fr": "kaieteur-tepui-caves"
+    },
+    "detailPath": "/mista/kaieteur-tepui-caves/"
+  },
+  "mount-roraima-tepui": {
+    "to": "mount-roraima",
+    "slugs": {
+      "cs": "mount-roraima-tepui",
+      "en": "mount-roraima-tepui",
+      "de": "mount-roraima-tepui",
+      "es": "mount-roraima-tepui",
+      "fr": "mount-roraima-tepui"
+    },
+    "detailPath": "/mista/mount-roraima-tepui/"
+  },
+  "easter-island-ahu-tongariki": {
+    "to": "ahu-tongariki",
+    "slugs": {
+      "cs": "easter-island-ahu-tongariki",
+      "en": "easter-island-ahu-tongariki",
+      "de": "easter-island-ahu-tongariki",
+      "es": "easter-island-ahu-tongariki",
+      "fr": "easter-island-ahu-tongariki"
+    },
+    "detailPath": "/mista/easter-island-ahu-tongariki/"
+  },
+  "shibam": {
+    "to": "shibam-wadi-hadhramaut",
+    "slugs": {
+      "cs": "shibam",
+      "en": "shibam",
+      "de": "shibam",
+      "es": "shibam",
+      "fr": "shibam"
+    },
+    "detailPath": "/mista/shibam/"
+  },
+  "shibam-hadramawt": {
+    "to": "shibam-wadi-hadhramaut",
+    "slugs": {
+      "cs": "shibam-hadramawt",
+      "en": "shibam-hadramawt",
+      "de": "shibam-hadramawt",
+      "es": "shibam-hadramawt",
+      "fr": "shibam-hadramawt"
+    },
+    "detailPath": "/mista/shibam-hadramawt/"
+  },
+  "jebel-shams-balcony-walk": {
+    "to": "jebel-shams",
+    "slugs": {
+      "cs": "jebel-shams-balcony-walk",
+      "en": "jebel-shams-balcony-walk",
+      "de": "jebel-shams-balcony-walk",
+      "es": "jebel-shams-balcony-walk",
+      "fr": "jebel-shams-balcony-walk"
+    },
+    "detailPath": "/mista/jebel-shams-balcony-walk/"
+  },
+  "kakadu-ubirr-rock-art": {
+    "to": "ubirr",
+    "slugs": {
+      "cs": "kakadu-ubirr-rock-art",
+      "en": "kakadu-ubirr-rock-art",
+      "de": "kakadu-ubirr-rock-art",
+      "es": "kakadu-ubirr-rock-art",
+      "fr": "kakadu-ubirr-rock-art"
+    },
+    "detailPath": "/mista/kakadu-ubirr-rock-art/"
+  },
+  "balls-pyramid": {
+    "to": "ball-s-pyramid",
+    "slugs": {
+      "cs": "balls-pyramid",
+      "en": "balls-pyramid",
+      "de": "balls-pyramid",
+      "es": "balls-pyramid",
+      "fr": "balls-pyramid"
+    },
+    "detailPath": "/mista/balls-pyramid/"
+  },
+  "ball-pyramid": {
+    "to": "ball-s-pyramid",
+    "slugs": {
+      "cs": "ball-pyramid",
+      "en": "ball-pyramid",
+      "de": "ball-pyramid",
+      "es": "ball-pyramid",
+      "fr": "ball-pyramid"
+    },
+    "detailPath": "/mista/ball-pyramid/"
+  },
+  "tonga-haamonga-trilithon": {
+    "to": "ha-amonga-a-maui",
+    "slugs": {
+      "cs": "tonga-haamonga-trilithon",
+      "en": "tonga-haamonga-trilithon",
+      "de": "tonga-haamonga-trilithon",
+      "es": "tonga-haamonga-trilithon",
+      "fr": "tonga-haamonga-trilithon"
+    },
+    "detailPath": "/mista/tonga-haamonga-trilithon/"
+  },
+  "haamonga-a-maui": {
+    "to": "ha-amonga-a-maui",
+    "slugs": {
+      "cs": "haamonga-a-maui",
+      "en": "haamonga-a-maui",
+      "de": "haamonga-a-maui",
+      "es": "haamonga-a-maui",
+      "fr": "haamonga-a-maui"
+    },
+    "detailPath": "/mista/haamonga-a-maui/"
+  },
+  "mount-yasur-volcano": {
+    "to": "mount-yasur",
+    "slugs": {
+      "cs": "mount-yasur-volcano",
+      "en": "mount-yasur-volcano",
+      "de": "mount-yasur-volcano",
+      "es": "mount-yasur-volcano",
+      "fr": "mount-yasur-volcano"
+    },
+    "detailPath": "/mista/mount-yasur-volcano/"
+  },
+  "tanna-yasur-volcano": {
+    "to": "mount-yasur",
+    "slugs": {
+      "cs": "tanna-yasur-volcano",
+      "en": "tanna-yasur-volcano",
+      "de": "tanna-yasur-volcano",
+      "es": "tanna-yasur-volcano",
+      "fr": "tanna-yasur-volcano"
+    },
+    "detailPath": "/mista/tanna-yasur-volcano/"
+  },
+  "ambrym-volcano-caldera": {
+    "to": "ambrym-volcano",
+    "slugs": {
+      "cs": "ambrym-volcano-caldera",
+      "en": "ambrym-volcano-caldera",
+      "de": "ambrym-volcano-caldera",
+      "es": "ambrym-volcano-caldera",
+      "fr": "ambrym-volcano-caldera"
+    },
+    "detailPath": "/mista/ambrym-volcano-caldera/"
+  },
+  "sable-island-wreck-coast": {
+    "to": "sable-island",
+    "slugs": {
+      "cs": "sable-island-wreck-coast",
+      "en": "sable-island-wreck-coast",
+      "de": "sable-island-wreck-coast",
+      "es": "sable-island-wreck-coast",
+      "fr": "sable-island-wreck-coast"
+    },
+    "detailPath": "/mista/sable-island-wreck-coast/"
+  },
+  "erta-ale": {
+    "to": "erta-ale-lava-lake",
+    "slugs": {
+      "cs": "erta-ale",
+      "en": "erta-ale",
+      "de": "erta-ale",
+      "es": "erta-ale",
+      "fr": "erta-ale"
+    },
+    "detailPath": "/mista/erta-ale/"
+  },
+  "erta-ale-volcano": {
+    "to": "erta-ale-lava-lake",
+    "slugs": {
+      "cs": "erta-ale-volcano",
+      "en": "erta-ale-volcano",
+      "de": "erta-ale-volcano",
+      "es": "erta-ale-volcano",
+      "fr": "erta-ale-volcano"
+    },
+    "detailPath": "/mista/erta-ale-volcano/"
+  },
+  "dallol": {
+    "to": "danakil-depression",
+    "slugs": {
+      "cs": "dallol",
+      "en": "dallol",
+      "de": "dallol",
+      "es": "dallol",
+      "fr": "dallol"
+    },
+    "detailPath": "/mista/dallol/"
+  },
+  "dallol-hydrothermal-field": {
+    "to": "danakil-depression",
+    "slugs": {
+      "cs": "dallol-hydrothermal-field",
+      "en": "dallol-hydrothermal-field",
+      "de": "dallol-hydrothermal-field",
+      "es": "dallol-hydrothermal-field",
+      "fr": "dallol-hydrothermal-field"
+    },
+    "detailPath": "/mista/dallol-hydrothermal-field/"
+  },
+  "sossusvlei-deadvlei": {
+    "to": "deadvlei",
+    "slugs": {
+      "cs": "sossusvlei-deadvlei",
+      "en": "sossusvlei-deadvlei",
+      "de": "sossusvlei-deadvlei",
+      "es": "sossusvlei-deadvlei",
+      "fr": "sossusvlei-deadvlei"
+    },
+    "detailPath": "/mista/sossusvlei-deadvlei/"
+  },
+  "namib-skeleton-coast": {
+    "to": "skeleton-coast",
+    "slugs": {
+      "cs": "namib-skeleton-coast",
+      "en": "namib-skeleton-coast",
+      "de": "namib-skeleton-coast",
+      "es": "namib-skeleton-coast",
+      "fr": "namib-skeleton-coast"
+    },
+    "detailPath": "/mista/namib-skeleton-coast/"
+  },
+  "tam-coc-karst": {
+    "to": "tam-coc",
+    "slugs": {
+      "cs": "tam-coc-karst",
+      "en": "tam-coc-karst",
+      "de": "tam-coc-karst",
+      "es": "tam-coc-karst",
+      "fr": "tam-coc-karst"
+    },
+    "detailPath": "/mista/tam-coc-karst/"
+  },
+  "quinta-da-regaleira-initiation-well": {
+    "to": "sintra-quinta-da-regaleira",
+    "slugs": {
+      "cs": "quinta-da-regaleira-initiation-well",
+      "en": "quinta-da-regaleira-initiation-well",
+      "de": "quinta-da-regaleira-initiation-well",
+      "es": "quinta-da-regaleira-initiation-well",
+      "fr": "quinta-da-regaleira-initiation-well"
+    },
+    "detailPath": "/mista/quinta-da-regaleira-initiation-well/"
+  },
+  "dolmens-of-antequera": {
+    "to": "antequera-dolmens",
+    "slugs": {
+      "cs": "dolmens-of-antequera",
+      "en": "dolmens-of-antequera",
+      "de": "dolmens-of-antequera",
+      "es": "dolmens-of-antequera",
+      "fr": "dolmens-of-antequera"
+    },
+    "detailPath": "/mista/dolmens-of-antequera/"
+  },
+  "iwami-ginzan-silver-mine": {
+    "to": "iwami-ginzan-omori-town",
+    "slugs": {
+      "cs": "iwami-ginzan-silver-mine",
+      "en": "iwami-ginzan-silver-mine",
+      "de": "iwami-ginzan-silver-mine",
+      "es": "iwami-ginzan-silver-mine",
+      "fr": "iwami-ginzan-silver-mine"
+    },
+    "detailPath": "/mista/iwami-ginzan-silver-mine/"
+  },
+  "tiya-stelae-field": {
+    "to": "tiya-stelae",
+    "slugs": {
+      "cs": "tiya-stelae-field",
+      "en": "tiya-stelae-field",
+      "de": "tiya-stelae-field",
+      "es": "tiya-stelae-field",
+      "fr": "tiya-stelae-field"
+    },
+    "detailPath": "/mista/tiya-stelae-field/"
+  },
+  "wadi-el-hitan": {
+    "to": "wadi-al-hitan",
+    "slugs": {
+      "cs": "wadi-el-hitan",
+      "en": "wadi-el-hitan",
+      "de": "wadi-el-hitan",
+      "es": "wadi-el-hitan",
+      "fr": "wadi-el-hitan"
+    },
+    "detailPath": "/mista/wadi-el-hitan/"
+  },
+  "ubar-shisr": {
+    "to": "ubar-shisr-ruins",
+    "slugs": {
+      "cs": "ubar-shisr",
+      "en": "ubar-shisr",
+      "de": "ubar-shisr",
+      "es": "ubar-shisr",
+      "fr": "ubar-shisr"
+    },
+    "detailPath": "/mista/ubar-shisr/"
+  },
+  "sulaiman-too-osh": {
+    "to": "sulaiman-too-sacred-mountain",
+    "slugs": {
+      "cs": "sulaiman-too-osh",
+      "en": "sulaiman-too-osh",
+      "de": "sulaiman-too-osh",
+      "es": "sulaiman-too-osh",
+      "fr": "sulaiman-too-osh"
+    },
+    "detailPath": "/mista/sulaiman-too-osh/"
+  },
+  "kingston-norfolk-penal-settlement": {
+    "to": "norfolk-island-kingston-ruins",
+    "slugs": {
+      "cs": "kingston-norfolk-penal-settlement",
+      "en": "kingston-norfolk-penal-settlement",
+      "de": "kingston-norfolk-penal-settlement",
+      "es": "kingston-norfolk-penal-settlement",
+      "fr": "kingston-norfolk-penal-settlement"
+    },
+    "detailPath": "/mista/kingston-norfolk-penal-settlement/"
+  },
+  "punakaiki-pancake-rocks": {
+    "to": "pancake-rocks-punakaiki",
+    "slugs": {
+      "cs": "punakaiki-pancake-rocks",
+      "en": "punakaiki-pancake-rocks",
+      "de": "punakaiki-pancake-rocks",
+      "es": "punakaiki-pancake-rocks",
+      "fr": "punakaiki-pancake-rocks"
+    },
+    "detailPath": "/mista/punakaiki-pancake-rocks/"
+  },
+  "cahuachi-pyramids": {
+    "to": "cahuachi",
+    "slugs": {
+      "cs": "cahuachi-pyramids",
+      "en": "cahuachi-pyramids",
+      "de": "cahuachi-pyramids",
+      "es": "cahuachi-pyramids",
+      "fr": "cahuachi-pyramids"
+    },
+    "detailPath": "/mista/cahuachi-pyramids/"
+  },
+  "cemetery-of-chauchilla": {
+    "to": "chauchilla-cemetery",
+    "slugs": {
+      "cs": "cemetery-of-chauchilla",
+      "en": "cemetery-of-chauchilla",
+      "de": "cemetery-of-chauchilla",
+      "es": "cemetery-of-chauchilla",
+      "fr": "cemetery-of-chauchilla"
+    },
+    "detailPath": "/mista/cemetery-of-chauchilla/"
+  },
+  "qasr-amra-desert-castle": {
+    "to": "qasr-amra",
+    "slugs": {
+      "cs": "qasr-amra-desert-castle",
+      "en": "qasr-amra-desert-castle",
+      "de": "qasr-amra-desert-castle",
+      "es": "qasr-amra-desert-castle",
+      "fr": "qasr-amra-desert-castle"
+    },
+    "detailPath": "/mista/qasr-amra-desert-castle/"
+  },
+  "writing-on-stone-hoodoos": {
+    "to": "writing-on-stone",
+    "slugs": {
+      "cs": "writing-on-stone-hoodoos",
+      "en": "writing-on-stone-hoodoos",
+      "de": "writing-on-stone-hoodoos",
+      "es": "writing-on-stone-hoodoos",
+      "fr": "writing-on-stone-hoodoos"
+    },
+    "detailPath": "/mista/writing-on-stone-hoodoos/"
+  },
+  "mistaken-point-fossil-cliffs": {
+    "to": "mistaken-point-fossils",
+    "slugs": {
+      "cs": "mistaken-point-fossil-cliffs",
+      "en": "mistaken-point-fossil-cliffs",
+      "de": "mistaken-point-fossil-cliffs",
+      "es": "mistaken-point-fossil-cliffs",
+      "fr": "mistaken-point-fossil-cliffs"
+    },
+    "detailPath": "/mista/mistaken-point-fossil-cliffs/"
+  },
+  "carlsbad-bat-flight": {
+    "to": "carlsbad-caverns",
+    "slugs": {
+      "cs": "carlsbad-bat-flight",
+      "en": "carlsbad-bat-flight",
+      "de": "carlsbad-bat-flight",
+      "es": "carlsbad-bat-flight",
+      "fr": "carlsbad-bat-flight"
+    },
+    "detailPath": "/mista/carlsbad-bat-flight/"
+  },
+  "tula-atlantean-warriors": {
+    "to": "tula-atlanteans",
+    "slugs": {
+      "cs": "tula-atlantean-warriors",
+      "en": "tula-atlantean-warriors",
+      "de": "tula-atlantean-warriors",
+      "es": "tula-atlantean-warriors",
+      "fr": "tula-atlantean-warriors"
+    },
+    "detailPath": "/mista/tula-atlantean-warriors/"
+  },
+  "el-tajin-niches": {
+    "to": "el-tajin",
+    "slugs": {
+      "cs": "el-tajin-niches",
+      "en": "el-tajin-niches",
+      "de": "el-tajin-niches",
+      "es": "el-tajin-niches",
+      "fr": "el-tajin-niches"
+    },
+    "detailPath": "/mista/el-tajin-niches/"
+  },
+  "mitla-mosaics": {
+    "to": "mitla",
+    "slugs": {
+      "cs": "mitla-mosaics",
+      "en": "mitla-mosaics",
+      "de": "mitla-mosaics",
+      "es": "mitla-mosaics",
+      "fr": "mitla-mosaics"
+    },
+    "detailPath": "/mista/mitla-mosaics/"
+  },
+  "yaxchilan-ruins": {
+    "to": "yaxchilan",
+    "slugs": {
+      "cs": "yaxchilan-ruins",
+      "en": "yaxchilan-ruins",
+      "de": "yaxchilan-ruins",
+      "es": "yaxchilan-ruins",
+      "fr": "yaxchilan-ruins"
+    },
+    "detailPath": "/mista/yaxchilan-ruins/"
+  },
+  "bonampak-murals": {
+    "to": "bonampak",
+    "slugs": {
+      "cs": "bonampak-murals",
+      "en": "bonampak-murals",
+      "de": "bonampak-murals",
+      "es": "bonampak-murals",
+      "fr": "bonampak-murals"
+    },
+    "detailPath": "/mista/bonampak-murals/"
+  },
+  "coiba-penal-colony": {
+    "to": "coiba-island",
+    "slugs": {
+      "cs": "coiba-penal-colony",
+      "en": "coiba-penal-colony",
+      "de": "coiba-penal-colony",
+      "es": "coiba-penal-colony",
+      "fr": "coiba-penal-colony"
+    },
+    "detailPath": "/mista/coiba-penal-colony/"
+  },
+  "mima-mounds-washington": {
+    "to": "mima-mounds",
+    "slugs": {
+      "cs": "mima-mounds-washington",
+      "en": "mima-mounds-washington",
+      "de": "mima-mounds-washington",
+      "es": "mima-mounds-washington",
+      "fr": "mima-mounds-washington"
+    },
+    "detailPath": "/mista/mima-mounds-washington/"
+  },
+  "dendera-temple-complex": {
+    "to": "dendera-crypts",
+    "slugs": {
+      "cs": "dendera-temple-complex",
+      "en": "dendera-temple-complex",
+      "de": "dendera-temple-complex",
+      "es": "dendera-temple-complex",
+      "fr": "dendera-temple-complex"
+    },
+    "detailPath": "/mista/dendera-temple-complex/"
+  },
+  "knowth-passage-tombs": {
+    "to": "knowth-passage-tomb",
+    "slugs": {
+      "cs": "knowth-passage-tombs",
+      "en": "knowth-passage-tombs",
+      "de": "knowth-passage-tombs",
+      "es": "knowth-passage-tombs",
+      "fr": "knowth-passage-tombs"
+    },
+    "detailPath": "/mista/knowth-passage-tombs/"
+  },
+  "kotor-fortress-trail": {
+    "to": "kotor-fortress",
+    "slugs": {
+      "cs": "kotor-fortress-trail",
+      "en": "kotor-fortress-trail",
+      "de": "kotor-fortress-trail",
+      "es": "kotor-fortress-trail",
+      "fr": "kotor-fortress-trail"
+    },
+    "detailPath": "/mista/kotor-fortress-trail/"
+  },
+  "meymand-troglodyte-village": {
+    "to": "meymand-rock-village",
+    "slugs": {
+      "cs": "meymand-troglodyte-village",
+      "en": "meymand-troglodyte-village",
+      "de": "meymand-troglodyte-village",
+      "es": "meymand-troglodyte-village",
+      "fr": "meymand-troglodyte-village"
+    },
+    "detailPath": "/mista/meymand-troglodyte-village/"
+  },
+  "nisa-parthian-fortresses": {
+    "to": "nisa-parthian-fortress",
+    "slugs": {
+      "cs": "nisa-parthian-fortresses",
+      "en": "nisa-parthian-fortresses",
+      "de": "nisa-parthian-fortresses",
+      "es": "nisa-parthian-fortresses",
+      "fr": "nisa-parthian-fortresses"
+    },
+    "detailPath": "/mista/nisa-parthian-fortresses/"
+  },
+  "karakalpakstan-mizdakhan-necropolis": {
+    "to": "mizdakhan-necropolis",
+    "slugs": {
+      "cs": "karakalpakstan-mizdakhan-necropolis",
+      "en": "karakalpakstan-mizdakhan-necropolis",
+      "de": "karakalpakstan-mizdakhan-necropolis",
+      "es": "karakalpakstan-mizdakhan-necropolis",
+      "fr": "karakalpakstan-mizdakhan-necropolis"
+    },
+    "detailPath": "/mista/karakalpakstan-mizdakhan-necropolis/"
+  },
+  "hanging-temple-hengshan": {
+    "to": "hanging-temple-datong",
+    "slugs": {
+      "cs": "hanging-temple-hengshan",
+      "en": "hanging-temple-hengshan",
+      "de": "hanging-temple-hengshan",
+      "es": "hanging-temple-hengshan",
+      "fr": "hanging-temple-hengshan"
+    },
+    "detailPath": "/mista/hanging-temple-hengshan/"
+  },
+  "oya-stone-museum": {
+    "to": "oya-stone-quarry",
+    "slugs": {
+      "cs": "oya-stone-museum",
+      "en": "oya-stone-museum",
+      "de": "oya-stone-museum",
+      "es": "oya-stone-museum",
+      "fr": "oya-stone-museum"
+    },
+    "detailPath": "/mista/oya-stone-museum/"
+  },
+  "rani-kot-fort": {
+    "to": "ranikot-fort",
+    "slugs": {
+      "cs": "rani-kot-fort",
+      "en": "rani-kot-fort",
+      "de": "rani-kot-fort",
+      "es": "rani-kot-fort",
+      "fr": "rani-kot-fort"
+    },
+    "detailPath": "/mista/rani-kot-fort/"
+  },
+  "avdat-nabataean-city": {
+    "to": "avdat-nabatean-city",
+    "slugs": {
+      "cs": "avdat-nabataean-city",
+      "en": "avdat-nabataean-city",
+      "de": "avdat-nabataean-city",
+      "es": "avdat-nabataean-city",
+      "fr": "avdat-nabataean-city"
+    },
+    "detailPath": "/mista/avdat-nabataean-city/"
+  },
+  "kakum-forest-shrine-trails": {
+    "to": "kakum-forest-canopy",
+    "slugs": {
+      "cs": "kakum-forest-shrine-trails",
+      "en": "kakum-forest-shrine-trails",
+      "de": "kakum-forest-shrine-trails",
+      "es": "kakum-forest-shrine-trails",
+      "fr": "kakum-forest-shrine-trails"
+    },
+    "detailPath": "/mista/kakum-forest-shrine-trails/"
+  }
+}
