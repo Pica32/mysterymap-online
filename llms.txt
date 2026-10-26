@@ -109,7 +109,7 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Poveglia: https://mysterymap.online/en/places/poveglia/ (CS: https://mysterymap.online/cs/mista/poveglia/)
 - Parizske katakomby: https://mysterymap.online/en/places/paris-catacombs/ (CS: https://mysterymap.online/cs/mista/parizske-katakomby/)
 - Stonehenge: https://mysterymap.online/en/places/stonehenge/ (CS: https://mysterymap.online/cs/mista/stonehenge/)
-- Nazca Lines: https://mysterymap.online/en/places/nazca-lines/ (CS: https://mysterymap.online/cs/mista/nazca-lines/)
+- Obrazce na planině Nazca: https://mysterymap.online/en/places/nazca-lines/ (CS: https://mysterymap.online/cs/mista/nazca-lines/)
 - Bhangarh Fort: https://mysterymap.online/en/places/bhangarh-fort/ (CS: https://mysterymap.online/cs/mista/pevnost-bhangarh/)
 - Gobekli Tepe: https://mysterymap.online/en/places/gobekli-tepe/ (CS: https://mysterymap.online/cs/mista/gobekli-tepe/)
 - Pripyat: https://mysterymap.online/en/places/pripyat/ (CS: https://mysterymap.online/cs/mista/pripyat/)
@@ -119,7 +119,7 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Flannan Isles (Eilean Mòr): https://mysterymap.online/en/places/flannan-isles-eilean-mor/ (CS: https://mysterymap.online/cs/mista/flannan-isles-eilean-mor/)
 - Isla de las Muñecas: https://mysterymap.online/en/places/isla-de-las-munecas/ (CS: https://mysterymap.online/cs/mista/isla-de-las-munecas/)
 - Door to Hell: https://mysterymap.online/en/places/door-to-hell/ (CS: https://mysterymap.online/cs/mista/door-to-hell/)
-- Easter Island: https://mysterymap.online/en/places/easter-island/ (CS: https://mysterymap.online/cs/mista/easter-island/)
+- Velikonoční ostrov (Rapa Nui): https://mysterymap.online/en/places/easter-island/ (CS: https://mysterymap.online/cs/mista/easter-island/)
 - Krakatoa: https://mysterymap.online/en/places/krakatoa/ (CS: https://mysterymap.online/cs/mista/krakatoa/)
 
 ## Editorial Articles
