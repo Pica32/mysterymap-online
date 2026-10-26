@@ -112,7 +112,7 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 - Obrazce na planině Nazca: https://mysterymap.online/en/places/nazca-lines/ (CS: https://mysterymap.online/cs/mista/nazca-lines/)
 - Bhangarh Fort: https://mysterymap.online/en/places/bhangarh-fort/ (CS: https://mysterymap.online/cs/mista/pevnost-bhangarh/)
 - Gobekli Tepe: https://mysterymap.online/en/places/gobekli-tepe/ (CS: https://mysterymap.online/cs/mista/gobekli-tepe/)
-- Pripyat: https://mysterymap.online/en/places/pripyat/ (CS: https://mysterymap.online/cs/mista/pripyat/)
+- Pripjať: https://mysterymap.online/en/places/pripyat/ (CS: https://mysterymap.online/cs/mista/pripyat/)
 - Nan Madol: https://mysterymap.online/en/places/nan-madol/ (CS: https://mysterymap.online/cs/mista/nan-madol/)
 - Trinity Site: https://mysterymap.online/en/places/trinity-site/ (CS: https://mysterymap.online/cs/mista/trinity-site/)
 - Teotihuacan Avenue of the Dead: https://mysterymap.online/en/places/teotihuacan-avenue-of-the-dead/ (CS: https://mysterymap.online/cs/mista/teotihuacan-avenue-of-the-dead/)
