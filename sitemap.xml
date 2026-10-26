@@ -139,6 +139,7 @@
   <url><loc>https://mysterymap.online/cs/mista/newgrange/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hill-of-tara/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/loch-ness/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/oradour-sur-glane/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/pompeii/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/herculaneum/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/delphi/</loc></url>
@@ -160,9 +161,16 @@
   <url><loc>https://mysterymap.online/cs/mista/malbork-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/ksiaz-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/frankenstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/bomarzo-monster-park/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/castel-del-monte/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/orvieto-underground/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/meteora/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mostar-bridge/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/plitvice-lakes/</loc></url>
@@ -308,6 +316,7 @@
   <url><loc>https://mysterymap.online/cs/mista/tomar-convent-of-christ/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/zugarramurdi-caves/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kaymakli-underground-city/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cappadocia-fairy-chimneys/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/karahan-tepe/</loc></url>
@@ -350,6 +359,7 @@
   <url><loc>https://mysterymap.online/cs/mista/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/giant-s-causeway/</loc></url>
@@ -426,6 +436,7 @@
   <url><loc>https://mysterymap.online/zh/places/newgrange/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hill-of-tara/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/loch-ness/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/oradour-sur-glane/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/pompeii/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/herculaneum/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/delphi/</loc></url>
@@ -438,9 +449,16 @@
   <url><loc>https://mysterymap.online/zh/places/malbork-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/ksiaz-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/frankenstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/bomarzo-monster-park/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/castel-del-monte/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/orvieto-underground/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/meteora/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/mostar-bridge/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/plitvice-lakes/</loc></url>
@@ -453,6 +471,7 @@
   <url><loc>https://mysterymap.online/zh/places/tomar-convent-of-christ/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/zugarramurdi-caves/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/skara-brae/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/greyfriars-kirkyard/</loc></url>
@@ -461,6 +480,7 @@
   <url><loc>https://mysterymap.online/zh/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/giant-s-causeway/</loc></url>
@@ -506,6 +526,7 @@
   <url><loc>https://mysterymap.online/ja/places/newgrange/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hill-of-tara/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/loch-ness/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/oradour-sur-glane/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/pompeii/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/herculaneum/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/delphi/</loc></url>
@@ -518,9 +539,16 @@
   <url><loc>https://mysterymap.online/ja/places/malbork-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/ksiaz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/frankenstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/bomarzo-monster-park/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/castel-del-monte/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/orvieto-underground/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/meteora/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/mostar-bridge/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/plitvice-lakes/</loc></url>
@@ -533,6 +561,7 @@
   <url><loc>https://mysterymap.online/ja/places/tomar-convent-of-christ/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/zugarramurdi-caves/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/skara-brae/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/greyfriars-kirkyard/</loc></url>
@@ -541,6 +570,7 @@
   <url><loc>https://mysterymap.online/ja/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/giant-s-causeway/</loc></url>
@@ -586,6 +616,7 @@
   <url><loc>https://mysterymap.online/ko/places/newgrange/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hill-of-tara/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/loch-ness/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/oradour-sur-glane/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/pompeii/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/herculaneum/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/delphi/</loc></url>
@@ -598,9 +629,16 @@
   <url><loc>https://mysterymap.online/ko/places/malbork-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/ksiaz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/neuschwanstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/frankenstein-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/wewelsburg-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hohenzollern-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eisriesenwelt/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/bomarzo-monster-park/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/castel-del-monte/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/orvieto-underground/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/meteora/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/mostar-bridge/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/plitvice-lakes/</loc></url>
@@ -613,6 +651,7 @@
   <url><loc>https://mysterymap.online/ko/places/tomar-convent-of-christ/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/evora-chapel-of-bones/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/montserrat-monastery-spain/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/zugarramurdi-caves/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/skara-brae/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/greyfriars-kirkyard/</loc></url>
@@ -621,6 +660,7 @@
   <url><loc>https://mysterymap.online/ko/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eilean-donan-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/civita-di-bagnoregio/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/giant-s-causeway/</loc></url>
