@@ -187,8 +187,15 @@
   <url><loc>https://mysterymap.online/cs/mista/plitvice-lakes/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/diocletian-s-palace/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/st-michael-s-mount/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dunmore-cave/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/oweynagat-cave/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/poulnabrone-dolmen/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/svalbard-global-seed-vault/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/vardo-witch-trials-memorial/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/borgund-stave-church/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hekla/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dimmuborgir/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/thingvellir/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mount-kailash/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/potala-palace/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/jokhang-temple/</loc></url>
@@ -364,8 +371,11 @@
   <url><loc>https://mysterymap.online/cs/mista/lut-desert-yardangs/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/merv-ruins/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/sulaiman-too-sacred-mountain/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/greyfriars-kirkyard/</loc></url>
@@ -535,7 +545,14 @@
   <url><loc>https://mysterymap.online/zh/places/plitvice-lakes/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/diocletian-s-palace/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/st-michael-s-mount/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dunmore-cave/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/oweynagat-cave/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/poulnabrone-dolmen/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/vardo-witch-trials-memorial/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/borgund-stave-church/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hekla/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dimmuborgir/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/thingvellir/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/sintra-quinta-da-regaleira/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/pena-palace-sintra/</loc></url>
@@ -545,8 +562,11 @@
   <url><loc>https://mysterymap.online/zh/places/cuenca-hanging-houses/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/belchite-ruins/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/zugarramurdi-caves/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/greyfriars-kirkyard/</loc></url>
@@ -685,7 +705,14 @@
   <url><loc>https://mysterymap.online/ja/places/plitvice-lakes/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/diocletian-s-palace/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/st-michael-s-mount/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dunmore-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/oweynagat-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/poulnabrone-dolmen/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/vardo-witch-trials-memorial/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/borgund-stave-church/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hekla/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dimmuborgir/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/thingvellir/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/sintra-quinta-da-regaleira/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/pena-palace-sintra/</loc></url>
@@ -695,8 +722,11 @@
   <url><loc>https://mysterymap.online/ja/places/cuenca-hanging-houses/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/belchite-ruins/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/zugarramurdi-caves/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/greyfriars-kirkyard/</loc></url>
@@ -835,7 +865,14 @@
   <url><loc>https://mysterymap.online/ko/places/plitvice-lakes/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/diocletian-s-palace/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/st-michael-s-mount/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dunmore-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/oweynagat-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/poulnabrone-dolmen/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/vardo-witch-trials-memorial/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/borgund-stave-church/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hekla/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dimmuborgir/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/thingvellir/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/rosslyn-chapel/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/sintra-quinta-da-regaleira/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/pena-palace-sintra/</loc></url>
@@ -845,8 +882,11 @@
   <url><loc>https://mysterymap.online/ko/places/cuenca-hanging-houses/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/belchite-ruins/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/zugarramurdi-caves/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/greyfriars-kirkyard/</loc></url>
