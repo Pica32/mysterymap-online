@@ -24,7 +24,7 @@ const mapBounds = {
 const MAP_ZOOM_MIN = 2;
 const MAP_ZOOM_MAX = 10;
 const MAP_TILE_BUFFER = 340;
-const MAP_CLUSTER_CELL = 54;
+const MAP_CLUSTER_CELL = 64;
 
 const mapPointers = new Map();
 let mapPinchBaseline = null;
@@ -343,24 +343,23 @@ function buildMapMarkers(places, zoom, width, height, center) {
     visible.push({ place, x: point.x, y: point.y });
   });
 
-  const buckets = new Map();
-  visible.forEach((entry) => {
-    const key = `${Math.floor(entry.x / MAP_CLUSTER_CELL)}:${Math.floor(entry.y / MAP_CLUSTER_CELL)}`;
-    if (!buckets.has(key)) buckets.set(key, []);
-    buckets.get(key).push(entry);
-  });
+  // Vzdálenostní shlukování: bod se připojí k nejbližšímu shluku v dosahu,
+  // takže se kolečka na mapě nepřekrývají jako u pevné mřížky.
+  const groups = [];
+  visible
+    .sort((a, b) => b.place.indexTajemna - a.place.indexTajemna)
+    .forEach((entry) => {
+      const group = zoom < MAP_ZOOM_MAX && groups.find((item) => Math.hypot(item.x - entry.x, item.y - entry.y) < MAP_CLUSTER_CELL);
+      if (group) {
+        group.entries.push(entry);
+        return;
+      }
+      groups.push({ x: entry.x, y: entry.y, entries: [entry] });
+    });
 
-  const markers = [];
-  buckets.forEach((entries) => {
-    if (entries.length === 1 || zoom >= MAP_ZOOM_MAX) {
-      entries.forEach((entry) => markers.push({ type: "pin", place: entry.place, x: entry.x, y: entry.y }));
-      return;
-    }
-    const x = entries.reduce((sum, entry) => sum + entry.x, 0) / entries.length;
-    const y = entries.reduce((sum, entry) => sum + entry.y, 0) / entries.length;
-    markers.push({ type: "cluster", x, y, count: entries.length, places: entries.map((entry) => entry.place) });
-  });
-  return markers;
+  return groups.map(({ x, y, entries }) => (entries.length === 1
+    ? { type: "pin", place: entries[0].place, x: entries[0].x, y: entries[0].y }
+    : { type: "cluster", x, y, count: entries.length, places: entries.map((entry) => entry.place) }));
 }
 
 function renderMapTiles(world, zoom, width, height, center) {
@@ -652,7 +651,7 @@ function renderDetail() {
   }
 
   els.detail.innerHTML = `
-    <p class="eyebrow">MistoDetail</p>
+    <p class="eyebrow">${t("detail.eyebrow", "Vybrané místo")}</p>
     <h2>${localPlace(place, "nazev")}</h2>
     <p><strong>${localPlace(place, "zeme")} · ${localPlace(place, "kontinent")}</strong></p>
     <p><strong>${localPlace(place, "lead")}</strong></p>

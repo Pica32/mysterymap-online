@@ -239,10 +239,10 @@ input {
 }
 
 .detail-hero {
-  min-height: 64svh;
+  min-height: 52svh;
   display: grid;
   align-content: end;
-  padding: 16vh clamp(16px, 4vw, 56px) 8vh;
+  padding: 12vh clamp(16px, 4vw, 56px) 6vh;
   background-image:
     linear-gradient(90deg, rgba(17, 23, 19, 0.95) 0%, rgba(17, 23, 19, 0.68) 52%, rgba(17, 23, 19, 0.22) 100%),
     linear-gradient(0deg, var(--bg) 0%, rgba(17, 23, 19, 0) 35%),
@@ -463,10 +463,10 @@ p {
 }
 
 h1 {
-  max-width: 11ch;
+  max-width: 16ch;
   margin: 0;
-  font-size: clamp(3.2rem, 8vw, 7.6rem);
-  line-height: 0.94;
+  font-size: clamp(2.5rem, 5.4vw, 5.2rem);
+  line-height: 1;
   letter-spacing: 0;
 }
 
@@ -1663,4 +1663,32 @@ input[type="range"] {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     margin: 18px 0;
   }
+}
+
+.hero h1 {
+  max-width: 13ch;
+  font-size: clamp(2.8rem, 6.2vw, 6rem);
+}
+
+@media (max-width: 640px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .stat strong {
+    font-size: 1.35rem;
+  }
+
+  .paranormal-claims h2,
+  .detail-panel h2 {
+    font-size: 1.5rem;
+  }
+}
+
+.detail-panel .paranormal-claims h2 {
+  font-size: 1.4rem;
+}
+
+.detail-hero h1 {
+  max-width: 20ch;
 }

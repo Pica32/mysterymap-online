@@ -114,9 +114,20 @@ function hasRealLanguage(item, language) {
   return language === "cs" || Boolean(item.i18n?.[language]);
 }
 
+// Interní changelogy rozšiřování databáze („N-tá vlna“, SEO poznámky) nejsou pro čtenáře:
+// stránky zůstávají dostupné, ale nejsou v přehledu článků ani ve vyhledávačích.
+const META_ARTICLE_PATTERN = /vlna|seed|seo|komunitni-navrhy/;
+
+const LANDING_PAGE_SIZE = 30;
+
+function isMetaArticle(article) {
+  return META_ARTICLE_PATTERN.test(article.slug || article.id || "");
+}
+
 function isIndexable(item, kind, language) {
   if (!hasRealLanguage(item, language)) return false;
-  return kind === "article" || !isTemplatePlace(item);
+  if (kind === "article") return !isMetaArticle(item);
+  return !isTemplatePlace(item);
 }
 
 function hreflangLinks(item, kind) {
@@ -537,8 +548,11 @@ const uiText = {
   }
 };
 
+// České štítky pro kategorie a motivy (shodné s app.js), aby se na stránkách neobjevovaly slugy.
+const CS_TAG_LABELS = { ...{ archeologie: "Archeologie", carodejnictvi: "Čarodějnictví", dabel: "Ďábel", duchove: "Duchové", film: "Film", hrad: "Hrad", impakt: "Impakty", karantena: "Karanténa", katastrofa: "Katastrofa", konspirace: "Konspirace", "kosmicka-anomalie": "Kosmická anomálie", legenda: "Legenda", media: "Média", more: "Moře", mytologie: "Mytologie", nataceni: "Natáčení", nebezpeci: "Nebezpečí", oceany: "Oceány", okultismus: "Okultismus", ostrov: "Ostrov", pirati: "Piráti", podzemi: "Podzemí", poklad: "Poklad", politika: "Politika", popkultura: "Popkultura", poust: "Poušť", "prirodni-anomalie": "Přírodní anomálie", "prirodni-labyrint": "Přírodní labyrint", prokleti: "Prokletí", pseudoveda: "Pseudověda", ritual: "Rituály", skeptic: "Skeptik", sopky: "Sopky", stredovek: "Středověk", "tajne-spolecnosti": "Tajné společnosti", technologie: "Technologie", templari: "Templáři", ufo: "UFO", umrti: "Smrt a paměť", valka: "Válka", veznice: "Věznice", vrazdy: "Vraždy", "zakazane-zony": "Zakázané zóny", zemetreseni: "Zemětřesení", zmizeni: "Zmizení", "ztracena-mesta": "Ztracená města", "ztracena-mista": "Ztracená místa", zvirata: "Zvířata", voda: "Voda", hory: "Hory", pevnost: "Pevnosti", opustene: "Opuštěná místa", symboly: "Symboly", led: "Led", "skalni-umeni": "Skalní umění", prales: "Prales", dolovani: "Doly", les: "Les", zlato: "Zlato", nemocnice: "Nemocnice" }, ...{ hrad: "Hrady a zámky", podzemi: "Podzemí", priroda: "Přírodní místa", legenda: "Legendy", veznice: "Věznice", ostrov: "Ostrovy", katastrofa: "Katastrofy", historie: "Historie", "filmova-lokace": "Filmové lokace", "zakazane-zony": "Zakázané zóny", "ztracena-mesta": "Ztracená města", opustene: "Opuštěná místa" } };
+
 function categoryText(language, category) {
-  return uiText[language]?.categories?.[category] || category;
+  return uiText[language]?.categories?.[category] || (language === "cs" && CS_TAG_LABELS[category]) || category;
 }
 
 function tt(language, key) {
@@ -894,7 +908,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta property="og:image" content="${siteUrl}/assets/hero-mystery-map.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="/styles.css?v=20261027-design1">
+    <link rel="stylesheet" href="/styles.css?v=20261027-design2">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     ${structuredData}
   </head>
@@ -913,7 +927,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20261027-design1" defer></script>
+    <script src="/i18n.js?v=20261027-design2" defer></script>
     ${script}
   </body>
 </html>
@@ -1011,15 +1025,30 @@ function placePage(place, language = "cs") {
 function landingPage(title, description, items, canonical) {
   const cards = items
     .sort((a, b) => b.indexTajemna - a.indexTajemna)
-    .map((place) => `
-      <a class="place-card" href="${placePath(place, "cs")}">
-        <span class="score">${place.indexTajemna}</span>
+    .map((place, index) => `
+      <a class="place-card" href="${placePath(place, "cs")}"${index >= LANDING_PAGE_SIZE ? " hidden" : ""}>
+        <span class="card-top"><span class="card-country">${escapeHtml(place.zeme)}</span><span class="score">${place.indexTajemna}</span></span>
         <h3>${escapeHtml(place.nazev)}</h3>
-        <p>${escapeHtml(place.zeme)} · ${escapeHtml(place.lead)}</p>
-        <span class="tags">${place.kategorie.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</span>
+        <p>${escapeHtml(place.lead)}</p>
+        <span class="tags">${place.kategorie.map((tag) => `<span class="tag">${escapeHtml(categoryText("cs", tag))}</span>`).join("")}</span>
       </a>
     `)
     .join("");
+  const moreButton = items.length > LANDING_PAGE_SIZE
+    ? `<div class="cards-more"><button type="button" class="button secondary" id="landingMore">Zobrazit další (${items.length - LANDING_PAGE_SIZE})</button></div>`
+    : "";
+  const script = moreButton ? `<script>
+(() => {
+  const button = document.getElementById("landingMore");
+  button.addEventListener("click", () => {
+    const hidden = Array.from(document.querySelectorAll(".places-grid .place-card[hidden]"));
+    hidden.slice(0, ${LANDING_PAGE_SIZE}).forEach((card) => { card.hidden = false; });
+    const rest = hidden.length - ${LANDING_PAGE_SIZE};
+    if (rest > 0) button.textContent = "Zobrazit další (" + rest + ")";
+    else button.parentElement.remove();
+  });
+})();
+</script>` : "";
 
   return pageShell({
     title: `${title} | MysteryMap.online`,
@@ -1028,7 +1057,7 @@ function landingPage(title, description, items, canonical) {
     body: `
       <main>
         <section class="detail-hero">
-          <p class="eyebrow">MysteryMap landing page</p>
+          <p class="eyebrow">Průvodce MysteryMap</p>
           <h1>${escapeHtml(title)}</h1>
           <p class="hero-copy">${escapeHtml(description)}</p>
           <div class="hero-actions">
@@ -1038,9 +1067,10 @@ function landingPage(title, description, items, canonical) {
         </section>
         <section class="places-section" aria-labelledby="landing-list-title">
           <h2 id="landing-list-title">${escapeHtml(title)} (${items.length})</h2>
-          <div class="places-grid">${cards}</div>
+          <div class="places-grid">${cards}${moreButton}</div>
         </section>
-      </main>`
+      </main>`,
+    script
   });
 }
 
@@ -1136,14 +1166,13 @@ function articleIndexPage(language = "cs") {
         <p class="hero-copy">Redakční průvodce propojují místa, motivy, zdroje a skeptická vysvětlení do větších tematických celků.</p>
       </section>
       <section class="places-section" aria-labelledby="article-list-title">
-        <h2 id="article-list-title">Všechny články (${articles.length})</h2>
+        <h2 id="article-list-title">Všechny články (${articles.filter((article) => !isMetaArticle(article)).length})</h2>
         <div class="places-grid">
-          ${articles.map((article) => `
+          ${articles.filter((article) => !isMetaArticle(article)).map((article) => `
             <a class="place-card" href="${articlePath(article, language)}">
-              <span class="score">${article.sections.length}</span>
               <h3>${escapeHtml(article.title)}</h3>
               <p>${escapeHtml(article.description)}</p>
-              <span class="tags">${article.themes.map((theme) => `<span class="tag theme-tag">${escapeHtml(theme)}</span>`).join("")}</span>
+              <span class="tags">${article.themes.map((theme) => `<span class="tag">${escapeHtml(categoryText("cs", theme))}</span>`).join("")}</span>
             </a>
           `).join("")}
         </div>
