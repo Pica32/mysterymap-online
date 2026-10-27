@@ -217,10 +217,10 @@
       "fr": "chateau-de-brissac"
     },
     "detailPath": "/mista/chateau-de-brissac/",
-    "nazev": "Chateau de Brissac",
+    "nazev": "Zámek Brissac",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Francouzský zámek spojovaný s legendou o zelené dámě a tragickým příběhem zrady.",
+    "lead": "Nejvyšší zámek Francie, „obr Loiry“, kde podle pověsti bloudí Zelená paní - královská dcera zavražděná manželem i s milencem v roce 1477.",
     "gps": {
       "lat": 47.3552,
       "lon": -0.4497
@@ -233,21 +233,21 @@
       "vrazdy"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "střední",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chateau de Brissac patri do databaze MysteryMap jako globalni misto s opakovanou verejnou asociaci: Francouzsky zamek spojovany s legendou o zelene dame a tragickym pribehem zrady. Profil oddeluje realnou polohu, overitelne zdroje a pribehovou vrstvu.",
-      "historie": "Historicka cast vychazi ze stabilnich verejnych zdroju, geografickych dat a dohledatelnych popisu mista. U seedovych globalnich profilu je dulezite drzet jasnou stopu zdroju a pozdeji doplnovat mistni autority.",
-      "legenda": "Legendova vrstva shrnuje, proc se misto objevuje v cestovatelskych seznamech, folkloru, popkulture nebo lokalnich vypravenich. Tvrzeni jsou oznacena jako kulturni pribeh, ne jako prokazany fakt.",
-      "paranormalni": "Paranormalni vrstva zaznamenava to, co lide s mistem spojuji: zjeveni, zvuky, zvlastni atmosferu, zahadne zmizeni, posvatny respekt, anomalni krajinu nebo temnou historickou pamet podle typu lokace.",
-      "skepticke": "Skepticky ramec pocita s prirodnimi jevy, architekturou, turismem, medialnim opakovanim, nepresnou pameti a silou ocekavani. Cilem neni legendu mazat, ale jasne ukazat hranici mezi zdrojem a interpretaci."
+      "zahada": "Zámek má sedm pater a říká se mu obr Loiry. Uvnitř jsou bohaté sály, divadlo a vinné sklepy. V kapli ve věži se prý zjevuje žena v zeleném.",
+      "historie": "Zámek od roku 1502 patří rodu Cossé-Brissac. Na místě stál středověký hrad rodu Brézé. V roce 1477 zde Jacques de Brézé přistihl svou ženu Charlotte, nemanželskou dceru krále Karla VII. a Agnès Sorel, s milencem a oba zabil.",
+      "legenda": "Duch Charlotte, Zelená paní (La Dame Verte), se podle pověsti zjevuje v zelených šatech. Místo očí a nosu má prý jen prázdné otvory. Nejčastěji ji prý potkávají v pokoji v kapli ve věži.",
+      "paranormalni": "Zámek se s pověstí o Zelené paní netají a hosté i zaměstnanci vyprávějí o sténání a krocích. Brissac se objevuje v pořadech o nejstrašidelnějších zámcích Francie.",
+      "skepticke": "Vražda z roku 1477 je historicky doložená. Zjevení jsou součástí ústní tradice a turistické prezentace zámku."
     },
-    "praktickeInfo": "Pred navstevou Chateau de Brissac over aktualni pristup, vlastnictvi pozemku, oteviraci dobu, pravidla foceni a bezpecnostni omezeni. Souradnice slouzi k orientaci, ne jako povoleni vstupu.",
+    "praktickeInfo": "Brissac je asi 20 km jihovýchodně od Angers v údolí Loiry. Prohlídky s průvodcem trvají asi hodinu, součástí je i degustace ve vinných sklepích. Zámek je otevřen od dubna do října. Kombinujte s Angers a Saumurem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -269,12 +269,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je misto na mape",
-        "text": "Chateau de Brissac ma silnou kombinaci dohledatelne lokace, verejne znameho pribehu a tematu duchove, vrazdy. To z nej dela vhodny uzel pro globální mapu zahad."
+        "nazev": "Královská dcera",
+        "text": "Charlotte byla dcerou krále Karla VII. a jeho milenky Agnès Sorel - a přesto ji manžel zabil."
       },
       {
-        "nazev": "Co doplnit v dalsi redakci",
-        "text": "Dalsi krok je pridat lokalni zdroje, fotografie s jasnou licenci, presne navstevnicke informace a jazykove lokalizovane texty podle regionu."
+        "nazev": "Obr Loiry",
+        "text": "Se sedmi patry je Brissac nejvyšším zámkem Francie."
       }
     ]
   },
@@ -6933,10 +6933,10 @@
       "fr": "monastery-of-saint-naum"
     },
     "detailPath": "/mista/monastery-of-saint-naum/",
-    "nazev": "Monastery of Saint Naum",
+    "nazev": "Klášter svatého Nauma",
     "zeme": "Severní Makedonie",
     "kontinent": "Evropa",
-    "lead": "Klášter u Ohridského jezera, kde poutní tradice a legenda světce vytvářejí posvátný bod mapy.",
+    "lead": "Klášter na břehu Ohridského jezera založený žákem Cyrila a Metoděje - podle pověsti stačí přiložit ucho k hrobu světce a uslyšíte tlukot jeho srdce.",
     "gps": {
       "lat": 40.9138,
       "lon": 20.7417
@@ -6949,21 +6949,21 @@
       "mytologie"
     ],
     "indexTajemna": 73,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, kostel placený",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Monastery of Saint Naum rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Klaster u Ohridskeho jezera, kde poutni tradice a legenda svetce vytvareji posvatny bod mapy. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Klášter stojí na skalce nad jezerem, kousek od albánské hranice. Na nádvoří se procházejí pávi. Pod klášterem vyvěrají průzračné prameny, které napájejí Ohridské jezero.",
+      "historie": "Klášter založil v roce 905 svatý Naum, žák Cyrila a Metoděje, který šířil slovanské písmo a vzdělanost. Dnešní kostel pochází hlavně z 16. století, uvnitř jsou fresky a hrob světce.",
+      "legenda": "Podle pověsti stačí přiložit ucho k Naumovu hrobu a uslyšíte tlukot jeho srdce. Světec prý zapřáhl medvěda do pluhu, když mu medvěd sežral vola.",
+      "paranormalni": "Poutníci k hrobu přicházejí s prosbami o uzdravení a vyprávějí o zázracích. Klášter je důležité poutní místo.",
+      "skepticke": "Tlukot srdce je pověst, kterou si poutníci předávají. Zvuk může být vlastní tep poslouchajícího."
     },
-    "praktickeInfo": "Pred navstevou Monastery of Saint Naum over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Klášter je asi 30 km jižně od Ohridu, dojedete autobusem nebo lodí po jezeře (v létě). Z kláštera se můžete projet loďkou po pramenech Černého Drinu. Vstup do kostela je za malý poplatek, oblečení by mělo zakrývat ramena.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -6985,12 +6985,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Monastery of Saint Naum je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu ritual, mytologie a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Srdce v hrobě",
+        "text": "Kdo přiloží ucho k hrobu svatého Nauma, prý uslyší tlukot jeho srdce."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Medvěd u pluhu",
+        "text": "Podle legendy světec zapřáhl do pluhu medvěda, který mu předtím sežral vola."
       }
     ]
   },
@@ -22296,10 +22296,10 @@
       "fr": "srebrna-gora-fortress"
     },
     "detailPath": "/mista/srebrna-gora-fortress/",
-    "nazev": "Srebrna Gora Fortress",
+    "nazev": "Pevnost Srebrna Góra",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Mohutná horská pevnost v Dolním Slezsku, kde vojenská architektura vytváří labyrint a strategickou auru.",
+    "lead": "Největší horská pevnost Evropy, kterou nechal vybudovat Fridrich Veliký v Sovích horách - Napoleonovi vojáci ji obléhali, ale nikdy ji nedobyli.",
     "gps": {
       "lat": 50.574,
       "lon": 16.65
@@ -22312,21 +22312,21 @@
       "valka"
     ],
     "indexTajemna": 73,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Srebrna Gora Fortress je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Mohutna horska pevnost v Dolnim Slezsku, kde vojenska architektura vytvari labyrint a strategickou auru. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Pevnost tvoří soustava bastionů, příkopů a kasemat rozložených na hřebenech nad průsmykem. Ústřední donžon má mohutné zdi a labyrint chodeb.",
+      "historie": "Pevnost nechal pruský král Fridrich II. Veliký postavit v letech 1765-1777 jako ochranu Slezska. V roce 1807 ji obléhala vojska Napoleonových spojenců, ale nebyla dobyta - obléhání ukončilo příměří. Ve druhé světové válce zde byl zajatecký tábor pro polské důstojníky.",
+      "legenda": "Místní vyprávějí o Bílé paní, která se zjevuje na hradbách, a o pokladu ukrytém v podzemních chodbách. Pevnost se pojí i s pověstmi o nacistických pokladech v Sovích horách.",
+      "paranormalni": "Návštěvníci noční prohlídky popisují v kasematách kroky a zvuky. Pevnost je oblíbená na akce s historickou rekonstrukcí.",
+      "skepticke": "Pověsti o pokladech nejsou doloženy. Zvuky v kasematách způsobuje vítr a ozvěna."
     },
-    "praktickeInfo": "Pred navstevou Srebrna Gora Fortress over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Srebrna Góra je asi 1,5 hodiny autem z Vratislavi, nedaleko českých hranic u Broumova. Donžon je přístupný s průvodcem. Kombinujte s komplexy projektu Riese (Osówka, Włodarz) a hradem Książ.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -22348,12 +22348,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Srebrna Gora Fortress rozsiruje mapu o motivy hrad, valka a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Pevnost, která odolala",
+        "text": "Napoleonova spojenecká vojska ji v roce 1807 obléhala, ale nedobyla."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Král a hory",
+        "text": "Fridrich Veliký nechal postavit pevnost přímo na hřebenech, aby chránila průsmyk do Slezska."
       }
     ]
   },
@@ -24242,10 +24242,10 @@
       "fr": "damanhur-temples"
     },
     "detailPath": "/mista/damanhur-temples/",
-    "nazev": "Damanhur Temples",
+    "nazev": "Chrámy Damanhur",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Podzemní chrámy moderní komunity Damanhur, na hraně umění, spirituality a utajené výstavby.",
+    "lead": "Podzemní chrámy, které členové alternativní komunity u Turína tajně kopali do hory přes deset let - úřady se o nich dozvěděly až v roce 1992.",
     "gps": {
       "lat": 45.43,
       "lon": 7.85
@@ -24258,21 +24258,21 @@
       "ritual"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Damanhur Temples je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Podzemni chramy moderni komunity Damanhur, na hrane umeni, spirituality a utajene vystavby. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Pod horou je soustava sálů zdobených vitrážemi, mozaikami, malbami a zrcadly: Sál zrcadel, Sál vody, Sál Země a Labyrint. Chrámy působí jako podzemní katedrála.",
+      "historie": "Komunitu Damanhur založil v roce 1975 Oberto Airaudi. Od roku 1978 její členové tajně ručně kopali podzemní chrámy. V roce 1992 se o nich úřady dozvěděly od bývalého člena a hrozilo zbourání. Nakonec byly stavby dodatečně legalizovány.",
+      "legenda": "Komunita tvrdí, že chrámy stojí na průsečíku „synchronických linií“, energetických proudů Země. Členové přijímají zvířecí a rostlinná jména.",
+      "paranormalni": "Návštěvníci popisují silné pocity v sálech. Komunita pořádá meditace a duchovní programy.",
+      "skepticke": "Synchronické linie nemají vědecké potvrzení. Chrámy jsou ale skutečným, pozoruhodným uměleckým a technickým dílem."
     },
-    "praktickeInfo": "Pred navstevou Damanhur Temples over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Damanhur je ve Valchiusella u Baldissero Canavese, asi hodinu autem z Turína. Prohlídky chrámů jsou jen s průvodcem a nutno je rezervovat předem. Fotografování uvnitř bývá omezené.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -24294,12 +24294,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Damanhur Temples rozsiruje mapu o motivy tajne-spolecnosti, ritual a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Tajná katedrála",
+        "text": "Přes deset let kopali členové komunity chrámy tajně, aniž by o tom věděly úřady."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Sál zrcadel",
+        "text": "Strop ze skleněných mozaik a zrcadla vytvářejí iluzi nekonečného prostoru."
       }
     ]
   },
@@ -24605,7 +24605,7 @@
     "nazev": "Nemea",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Místo spojené s Héraklovým lvem a antickými hrami, vhodné pro mytologickou mapu Řecka.",
+    "lead": "Místo, kde podle mýtu Hérakles zabil nemejského lva - antický stadion s tunelem plným nápisů sportovců a obnovené hry, kde se běží naboso.",
     "gps": {
       "lat": 37.807,
       "lon": 22.711
@@ -24618,21 +24618,21 @@
       "ritual"
     ],
     "indexTajemna": 72,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Nemea je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Misto spojene s Heraklovym lvem a antickymi hrami, vhodne pro mytologickou mapu Recka. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Ve svatyni stojí Diův chrám s několika obnovenými sloupy. Nedaleko je stadion s klenutým tunelem, kterým vstupovali běžci. Na stěnách tunelu jsou dodnes vyryté nápisy sportovců.",
+      "historie": "Nemejské hry patřily ke čtyřem velkým panhelénským hrám. Tunel ke stadionu pochází z doby kolem roku 320 př. n. l. V roce 1996 byly hry obnoveny a koná se jich každé čtyři roky, závodníci běží naboso v tunice.",
+      "legenda": "Podle mýtu Hérakles v jeskyni u Nemey uškrtil lva s neprůstřelnou kůží. Byl to první z jeho dvanácti úkolů. Kůži lva pak nosil jako brnění.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Síla místa je v mýtu a v nápisech dávných sportovců.",
+      "skepticke": "Lev je mytická postava. Hry a stadion jsou skutečné a dobře prozkoumané."
     },
-    "praktickeInfo": "Pred navstevou Nemea over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Nemea je asi 30 km od Korintu, asi 1,5 hodiny autem z Athén. Areál svatyně a stadion jsou vzdálené asi 500 m. Kombinujte s vinařskou oblastí Nemea (odrůda Agiorgitiko) a Mykénami.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -24654,12 +24654,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Nemea rozsiruje mapu o motivy mytologie, ritual a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Lev s neprůstřelnou kůží",
+        "text": "Hérakles musel lva uškrtit holýma rukama, protože jeho kůži neprorazila žádná zbraň."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Nápisy v tunelu",
+        "text": "Antičtí běžci vyryli do stěn tunelu svá jména a vtipy - dodnes čitelné."
       }
     ]
   },
@@ -26546,10 +26546,10 @@
       "fr": "dun-aonghasa"
     },
     "detailPath": "/mista/dun-aonghasa/",
-    "nazev": "Dun Aonghasa",
+    "nazev": "Dún Aonghasa",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Prehistorická pevnost na útesu ostrova Inis Mór, kamenné valy nad prudkým pádem do Atlantiku.",
+    "lead": "Kamenná pevnost na okraji útesu ostrova Inis Mór, kde hradby končí nad téměř stometrovým srázem do Atlantiku - bez zábradlí.",
     "gps": {
       "lat": 53.126,
       "lon": -9.768
@@ -26562,21 +26562,21 @@
       "oceany"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "střední",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Dun Aonghasa rozsiruje ctyriadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Prehistoricka pevnost na utesu Inis Mor, kamenne valy nad prudkym padem do Atlantiku.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o ruinu, podzemi, prirodni anomalni tvar, posvatnou krajinu, ostrov, pevnost, opustene misto nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Pevnost tvoří tři půlkruhové kamenné valy, které končí přímo na okraji útesu. Před nimi je pás ostrých zapíchnutých kamenů - obranná překážka zvaná chevaux-de-frise.",
+      "historie": "Nejstarší části pevnosti pocházejí z doby bronzové, asi z let kolem 1100 př. n. l. Později byla rozšiřována. Je jednou z nejvýznamnějších prehistorických pevností Evropy.",
+      "legenda": "Podle tradice pevnost postavil král Aonghus z mytického národa Fir Bolg, který prchal před nepřáteli na okraj světa.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Návštěvníky ohromuje vítr, prázdný horizont a pocit konce světa.",
+      "skepticke": "Fir Bolg jsou mytický národ irských legend. Pevnost postavili prehistoričtí obyvatelé ostrova."
     },
-    "praktickeInfo": "Pred navstevou Dun Aonghasa over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Na Inis Mór jezdí trajekt z Rossaveal (asi 40 minut) nebo z Doolinu. Z přístavu Kilronan dojedete na kole nebo minibusem k návštěvnickému centru, odkud vede asi 1 km strmá cesta. Na okraji útesu nejsou zábradlí - buďte velmi opatrní, zvláště ve větru.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -26598,12 +26598,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Dun Aonghasa posiluje geograficke pokryti mapy motivy pevnost, oceany a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Hradby nad propastí",
+        "text": "Kamenné valy končí přímo na okraji útesu, kde pod vámi hučí Atlantik."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Útěk na kraj světa",
+        "text": "Mytický národ Fir Bolg prý na okraji útesu hledal poslední útočiště."
       }
     ]
   },
@@ -27056,10 +27056,10 @@
       "fr": "lagarfljot"
     },
     "detailPath": "/mista/lagarfljot/",
-    "nazev": "Lagarfljot",
+    "nazev": "Jezero Lagarfljót",
     "zeme": "Island",
     "kontinent": "Evropa",
-    "lead": "Jezero spojované s islandským hadím tvorem, místní obdoba jezerních nestvůr.",
+    "lead": "Dlouhé ledovcové jezero na východě Islandu, kde od středověku žije Lagarfljótský červ - a kde v roce 2012 natočené video obletělo svět.",
     "gps": {
       "lat": 65.25,
       "lon": -14.65
@@ -27072,21 +27072,21 @@
       "oceany"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Lagarfljot je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Jezero spojovane s islandskym hadim tvorem, lokalni obdoba jezernich nestvur. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Jezero je dlouhé asi 25 km, úzké a hluboké, s kalnou ledovcovou vodou. Nad ním se tyčí vodopád Hengifoss. V kalné vodě je těžké cokoli rozeznat.",
+      "historie": "Zmínky o tvorovi v jezeře se objevují v islandských letopisech už ze 14. století. V roce 2012 natočil místní farmář video, na kterém se ve vodě vlní dlouhý tvar. Video se rozšířilo po celém světě a místní komise ho v roce 2014 s humorem uznala za pravé.",
+      "legenda": "Podle pověsti dívka dostala zlatý prsten a položila na něj malého červa, aby zlato rostlo. Červ ale rostl s ním, až byl obrovský, a dívka ho vyhodila do jezera. Tam žije dodnes.",
+      "paranormalni": "Pozorování hadovitého tvora se opakují po staletí. Turisté se u jezera dívají po hladině.",
+      "skepticke": "Video může ukazovat zamrzlou rybářskou síť nebo plastovou fólii pohybovanou proudem. Kalná voda a vlny vytvářejí iluze."
     },
-    "praktickeInfo": "Pred navstevou Lagarfljot over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Lagarfljót je u města Egilsstaðir na východě Islandu, asi 9 hodin autem z Reykjavíku nebo hodina letadlem. Kombinujte s vodopádem Hengifoss (pěšky asi hodina) a lesem Hallormsstaður.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -27108,12 +27108,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Lagarfljot rozsiruje mapu o motivy mytologie, oceany a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Červ ze zlata",
+        "text": "Malý červ položený na zlatý prsten prý rostl spolu se zlatem, až musel být vhozen do jezera."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Video z roku 2012",
+        "text": "Farmář natočil vlnící se tvar v jezeře a video obletělo svět."
       }
     ]
   },
@@ -48923,10 +48923,10 @@
       "fr": "almourol-castle"
     },
     "detailPath": "/mista/almourol-castle/",
-    "nazev": "Almourol Castle",
+    "nazev": "Hrad Almourol",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Templářský hrad na ostrově v řece Tejo, spojení vody, řádu a středověké stráže.",
+    "lead": "Templářský hrad na ostrůvku uprostřed řeky Tejo - k jeho hradbám se dostanete jen loďkou a podle pověsti tu v noci bloudí maurská princezna.",
     "gps": {
       "lat": 39.462,
       "lon": -8.383
@@ -48939,21 +48939,21 @@
       "ostrov"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "loďka, placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Almourol Castle rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Templarsky hrad na ostrove v Teju, spojeni vody, radu a stredoveke straze.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hrad stojí na skalním ostrůvku uprostřed řeky. Jeho věže a hradby se odrážejí ve vodě a vypadají jako z rytířského románu.",
+      "historie": "Hrad v roce 1171 přestavěl templářský mistr Gualdim Pais jako součást obrany hranice proti Maurům. Templáři zde měli silnou přítomnost, než byl řád zrušen. V 19. století byl hrad romanticky obnoven.",
+      "legenda": "Podle pověsti se maurská princezna zamilovala do křesťanského rytíře, a když byl hrad dobyt, vrhla se z věže. Za úplňku prý chodí po hradbách. Jiná pověst vypráví o pokladu templářů ukrytém pod hradem.",
+      "paranormalni": "Místní a turisté vyprávějí o postavě na hradbách. Doložené jevy nejsou.",
+      "skepticke": "Pověsti o princeznách a pokladech templářů jsou častým romantickým motivem. Romantická obnova hradu v 19. století je podpořila."
     },
-    "praktickeInfo": "Pred navstevou Almourol Castle over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Almourol je u obce Vila Nova da Barquinha, asi 1,5 hodiny autem z Lisabonu. Na ostrov vozí loďky z břehu, plavba trvá pár minut. Kombinujte s městem Tomar a templářským klášterem Convento de Cristo.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48975,12 +48975,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Almourol Castle pridava motivy templari, ostrov a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Princezna na hradbách",
+        "text": "Maurská princezna se prý vrhla z věže a za úplňku se vrací na hradby."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Hrad na řece",
+        "text": "K hradu se dostanete jen loďkou, protože stojí na skalnatém ostrůvku uprostřed Teja."
       }
     ]
   },
@@ -49283,10 +49283,10 @@
       "fr": "san-juan-de-la-pena"
     },
     "detailPath": "/mista/san-juan-de-la-pena/",
-    "nazev": "San Juan de la Pena",
+    "nazev": "Klášter San Juan de la Peña",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Klášter pod skalním převisem, kde architektura doslova zaléhá pod horu.",
+    "lead": "Klášter ukrytý pod obrovským skalním převisem v Aragonii, kde odpočívají aragonští králové - a kde byl podle tradice uchováván svatý grál.",
     "gps": {
       "lat": 42.508,
       "lon": -0.667
@@ -49299,21 +49299,21 @@
       "mytologie"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "San Juan de la Pena rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Klaster pod skalnim previsem, kde architektura doslova zaleha pod horu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Starý klášter stojí pod gigantickým skalním převisem, který tvoří jeho střechu. Románský ambit má hlavice sloupů s biblickými výjevy. Je tu i panteon aragonských králů.",
+      "historie": "Klášter byl centrem rodícího se Aragonského království. Ambit pochází z 12. století. Po požáru v 17. století byl vedle postaven nový barokní klášter, ale starý klášter pod skálou zůstal zachován.",
+      "legenda": "Podle tradice zde mniši uchovávali kalich, ze kterého pil Kristus při poslední večeři. Dnes je kalich považovaný za tento grál v katedrále ve Valencii. Zakládající legenda vypráví o šlechtici Votovi, jehož kůň při honu na jelena spadl ze skály, ale Voto byl zázračně zachráněn a našel tu poustevnu.",
+      "paranormalni": "Návštěvníci mluví o silné, až mystické atmosféře pod skálou. Klášter je častým cílem hledačů grálu.",
+      "skepticke": "Pravost grálu nelze prokázat. Kalich ve Valencii je římská kamenná nádoba s pozdějšími úpravami."
     },
-    "praktickeInfo": "Pred navstevou San Juan de la Pena over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Klášter je asi 20 km od města Jaca v Aragonii, autem po horské silnici. Mezi starým a novým klášterem jezdí kyvadlový autobus. Prohlídka trvá 1-2 hodiny. Kombinujte s Jacou a Pyrenejemi.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49335,12 +49335,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "San Juan de la Pena pridava motivy ritual, mytologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Grál pod skálou",
+        "text": "Podle tradice zde mniši ukrývali kalich z poslední večeře, dnes uchovávaný ve Valencii."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Pád z útesu",
+        "text": "Šlechtic Voto prý při honu spadl i s koněm ze skály a zázračně přežil."
       }
     ]
   },
@@ -49499,10 +49499,10 @@
       "fr": "ochate-ghost-village"
     },
     "detailPath": "/mista/ochate-ghost-village/",
-    "nazev": "Ochate Ghost Village",
+    "nazev": "Opuštěná vesnice Ochate",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Opuštěná vesnice v Baskicku spojovaná s duchařskými příběhy i s UFO.",
+    "lead": "Vesnice v enklávě Treviño, kterou v 19. století vyhubily epidemie - v 80. letech se stala „prokletou vesnicí“ španělských časopisů o UFO a záhadách.",
     "gps": {
       "lat": 42.71,
       "lon": -2.83
@@ -49515,21 +49515,21 @@
       "ufo"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ochate Ghost Village rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Opustena vesnice v Baskicku spojovana s ducharskymi i UFO pribehem.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Z vesnice zbyla jen románská věž kostela a několik rozpadlých zdí v poli. Místo je tiché a opuštěné, obklopené lesem a kopci.",
+      "historie": "Ochate leží v enklávě Treviño, která patří provincii Burgos, ale je obklopena Baskickem. V 19. století vesnici postihly epidemie neštovic, tyfu a cholery a v 70. letech 19. století zůstala opuštěná.",
+      "legenda": "V 80. letech 20. století španělský časopis o záhadách popsal Ochate jako prokletou vesnici. Objevily se příběhy o UFO, světlech, zvířatech, která se tu chovají divně, a o lidech, kteří zmizeli.",
+      "paranormalni": "Fanoušci záhad sem jezdí natáčet a nahrávat. Hlášení o světlech a zvucích se opakují.",
+      "skepticke": "Skutečnou příčinou opuštění vesnice byly epidemie. Většina záhadných příběhů vznikla až v 80. letech díky médiím."
     },
-    "praktickeInfo": "Pred navstevou Ochate Ghost Village over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Ochate je asi 30 km jižně od Vitorie-Gasteiz. Z vesnice Imíruri vede ke zbytkům Ochate pěší cesta (asi 30 minut). Místo je volně přístupné, nejsou tu žádné služby. Vezměte pevnou obuv a vodu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -49551,12 +49551,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ochate Ghost Village pridava motivy duchove, ufo a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Tři epidemie",
+        "text": "Neštovice, tyfus a cholera vyhubily vesnici během několika let."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Časopis udělal z vesnice legendu",
+        "text": "Prokletou vesnicí se Ochate stalo až díky článkům v 80. letech 20. století."
       }
     ]
   },
