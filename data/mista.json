@@ -220,7 +220,7 @@
     "nazev": "Chateau de Brissac",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Francouzsky zamek spojovany s legendou o zelene dame a tragickym pribehem zrady.",
+    "lead": "Francouzský zámek spojovaný s legendou o zelené dámě a tragickým příběhem zrady.",
     "gps": {
       "lat": 47.3552,
       "lon": -0.4497
@@ -364,7 +364,7 @@
     "nazev": "Eastern State Penitentiary",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Opustena veznice ve Filadelfii, model izolace, reformy a dnes i silne ducharske turistiky.",
+    "lead": "Opuštěná věznice ve Filadelfii, model izolace, reformy a dnes i silné duchařské turistiky.",
     "gps": {
       "lat": 39.968,
       "lon": -75.172
@@ -436,7 +436,7 @@
     "nazev": "Winchester Mystery House",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Labyrintovy dum v San Jose spojovany s rodinnou vinou, zbranemi a nekonecnou stavbou.",
+    "lead": "Labyrintový dům v San José spojovaný s rodinnou vinou, zbraněmi a nekonečnou stavbou.",
     "gps": {
       "lat": 37.3184,
       "lon": -121.9509
@@ -509,7 +509,7 @@
     "nazev": "Port Arthur",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Byvala trestanecka kolonie v Tasmanii, kde historie trestu a izolace vytvari silnou temnou atmosferu.",
+    "lead": "Bývalá trestanecká kolonie v Tasmánii, kde historie trestu a izolace vytváří silnou temnou atmosféru.",
     "gps": {
       "lat": -43.147,
       "lon": 147.851
@@ -725,7 +725,7 @@
     "nazev": "Stonehenge",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Prehistoricky kamenny kruh, kde archeologie, slunovraty a moderni esoterika vytvareji jeden z nejvyhledavanejsich tajemnych symbolu sveta.",
+    "lead": "Prehistorický kamenný kruh, kde archeologie, slunovraty a moderní esoterika vytvářejí jeden z nejvyhledávanějších tajemných symbolů světa.",
     "gps": {
       "lat": 51.17884,
       "lon": -1.82632
@@ -878,7 +878,7 @@
     "nazev": "Kapucinska hrobka v Brne",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Barokni hrobka s prirozene mumifikovanymi ostatky, kde se spiritualita, smrt a fyzikalni podminky spojily do mimoradne silneho mista.",
+    "lead": "Barokní hrobka s přirozeně mumifikovanými ostatky, kde se spiritualita, smrt a fyzikální podmínky spojily do mimořádně silného místa.",
     "gps": {
       "lat": 49.1913,
       "lon": 16.6096
@@ -952,7 +952,7 @@
     "nazev": "Darvaza Gas Crater",
     "zeme": "Turkmenistán",
     "kontinent": "Asie",
-    "lead": "Horici krater v pousti Karakum, prezdivany Brana do pekla, kde prumyslova nehoda ziskala mytologicky obraz.",
+    "lead": "Hořící kráter v poušti Karakum, přezdívaný Brána do pekla, kde průmyslová nehoda získala mytologický obraz.",
     "gps": {
       "lat": 40.2525,
       "lon": 58.4396
@@ -1106,7 +1106,7 @@
     "nazev": "Area 51",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Vojensky testovaci prostor v Nevade, kde skutecne utajeni leteckych programu vytvorilo nejslavnejsi moderni mytus o UFO.",
+    "lead": "Vojenský testovací prostor v Nevadě, kde skutečné utajení leteckých programů vytvořilo nejslavnější moderní mýtus o UFO.",
     "gps": {
       "lat": 37.24804,
       "lon": -115.80016
@@ -1260,7 +1260,7 @@
     "nazev": "Hrad Bran",
     "zeme": "Rumunsko",
     "kontinent": "Evropa",
-    "lead": "Transylvansky hrad, ktery turisticka predstavivost spojila s Draculou, prestoze skutecna historie je slozitejsi nez upiri legenda.",
+    "lead": "Transylvánský hrad, který turistická představivost spojila s Draculou, přestože skutečná historie je složitější než upíří legenda.",
     "gps": {
       "lat": 45.5153,
       "lon": 25.367
@@ -1413,7 +1413,7 @@
     "nazev": "Bhangarh Fort",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Opevneny komplex v Radzastanu, casto oznacovany za jedno z nejstrasidelnejsich mist Indie, kde se legenda propojuje s ruinou a zakazem nocniho vstupu.",
+    "lead": "Opevněný komplex v Rádžasthánu, často označovaný za jedno z nejstrašidelnějších míst Indie, kde se legenda propojuje s ruinou a zákazem nočního vstupu.",
     "gps": {
       "lat": 27.0968,
       "lon": 76.2867
@@ -1495,7 +1495,7 @@
     "nazev": "Cernobylska vyloucena zona",
     "zeme": "Ukrajina",
     "kontinent": "Evropa",
-    "lead": "Zona kolem jaderne havarie z roku 1986, kde katastrofa, opustena mesta, radiace a moderni myty vytvorily globalni misto pameti.",
+    "lead": "Zóna kolem jaderné havárie z roku 1986, kde katastrofa, opuštěná města, radiace a moderní mýty vytvořily globální místo paměti.",
     "gps": {
       "lat": 51.389,
       "lon": 30.099
@@ -1575,7 +1575,7 @@
     "nazev": "Hobbiton Movie Set",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Zeleny filmovy Shire u Matamaty, kde se Tolkienuv svet zmenil v turisticky citelnou krajinu.",
+    "lead": "Zelený filmový Kraj u Matamaty, kde se Tolkienův svět změnil v turisticky čitelnou krajinu.",
     "gps": {
       "lat": -37.8721,
       "lon": 175.6829
@@ -1649,7 +1649,7 @@
     "nazev": "Skellig Michael",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Klaster na skalnim ostrove, ktery moderni publikum zna take jako filmovy obraz Ahch-To.",
+    "lead": "Klášter na skalním ostrově, který moderní publikum zná také jako filmový obraz Ahch-To.",
     "gps": {
       "lat": 51.7711,
       "lon": -10.54
@@ -1878,7 +1878,7 @@
     "nazev": "Kualoa Ranch",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Udoli na Oahu, kde se tropicka krajina opakovane menila ve filmovy svet dinosauru a dobrodruzstvi.",
+    "lead": "Údolí na Oahu, kde se tropická krajina opakovaně měnila ve filmový svět dinosaurů a dobrodružství.",
     "gps": {
       "lat": 21.52,
       "lon": -157.837
@@ -2026,7 +2026,7 @@
     "nazev": "Stanley Hotel",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Hotel v Coloradu proslaveny povestmi i literarni a filmovou ozvenou hororu.",
+    "lead": "Hotel v Coloradu proslavený pověstmi i literární a filmovou ozvěnou hororu.",
     "gps": {
       "lat": 40.3836,
       "lon": -105.5193
@@ -2171,7 +2171,7 @@
     "nazev": "Villisca Axe Murder House",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Dum v Iowe spojeny s brutalni nevyresenou vrazdou a modernimi vypravami za duchy.",
+    "lead": "Dům v Iowě spojený s brutální nevyřešenou vraždou a moderními výpravami za duchy.",
     "gps": {
       "lat": 40.929,
       "lon": -94.9766
@@ -2243,7 +2243,7 @@
     "nazev": "Bell Witch Cave",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jeskyne spojovana s legendou Bell Witch, lokalni ducharska tradice a turisticky pribeh.",
+    "lead": "Jeskyně spojovaná s legendou Bell Witch, místní duchařská tradice a turistický příběh.",
     "gps": {
       "lat": 36.53,
       "lon": -87.126
@@ -2315,7 +2315,7 @@
     "nazev": "St. Augustine Lighthouse",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Majak na Floride, kde se namorni historie prolina se svedectvimi o zvucich a stinech.",
+    "lead": "Maják na Floridě, kde se námořní historie prolíná se svědectvími o zvucích a stínech.",
     "gps": {
       "lat": 29.885,
       "lon": -81.2883
@@ -2387,7 +2387,7 @@
     "nazev": "The Queen Mary",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Historicka lod v Long Beach s povesti jednoho z nejstrasidelnejsich ubytovacich mist v USA.",
+    "lead": "Historická loď v Long Beach s pověstí jednoho z nejstrašidelnějších ubytovacích míst v USA.",
     "gps": {
       "lat": 33.7526,
       "lon": -118.1909
@@ -2459,7 +2459,7 @@
     "nazev": "Moundsville Penitentiary",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Byvala veznice v Zapadni Virginii, gotizujici architektura a silna ghost-tour povest.",
+    "lead": "Bývalá věznice v Západní Virginii, gotizující architektura a silná pověst nočních prohlídek s duchy.",
     "gps": {
       "lat": 39.918,
       "lon": -80.744
@@ -2531,7 +2531,7 @@
     "nazev": "Trans Allegheny Lunatic Asylum",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Monumentalni psychiatricky areal ve West Virginii, kde architektura lecby nese temnou instituci pamet.",
+    "lead": "Monumentální psychiatrický areál v Západní Virginii, kde architektura léčby nese temnou paměť instituce.",
     "gps": {
       "lat": 39.038,
       "lon": -80.469
@@ -2603,7 +2603,7 @@
     "nazev": "Lemp Mansion",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Dum pivovarnicke rodiny v St. Louis spojeny s tragediemi, sebevrazdami a povestmi o zjevenich.",
+    "lead": "Dům pivovarnické rodiny v St. Louis spojený s tragédiemi, sebevraždami a pověstmi o zjeveních.",
     "gps": {
       "lat": 38.593,
       "lon": -90.2165
@@ -3688,7 +3688,7 @@
     "nazev": "Okunoshima",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Ostrov znamy dnes turismem, ale historicky spojeny s utajenou vyrobou chemickych zbrani.",
+    "lead": "Ostrov známý dnes turismem, ale historicky spojený s utajenou výrobou chemických zbraní.",
     "gps": {
       "lat": 34.309,
       "lon": 132.993
@@ -4192,7 +4192,7 @@
     "nazev": "Dargavs",
     "zeme": "Rusko",
     "kontinent": "Asie",
-    "lead": "Kavkazske mesto mrtvych, kde nekropole v horach pusobi jako samostatna krajina pameti.",
+    "lead": "Kavkazské město mrtvých, kde nekropole v horách působí jako samostatná krajina paměti.",
     "gps": {
       "lat": 42.8333,
       "lon": 44.4333
@@ -4264,7 +4264,7 @@
     "nazev": "Mohenjo-daro",
     "zeme": "Pákistán",
     "kontinent": "Asie",
-    "lead": "Staroveke mesto civilizace Indu, ktere pritahuje archeologii i alternativni vyklady zanikle civilizace.",
+    "lead": "Starověké město civilizace Indu, které přitahuje archeologii i alternativní výklady zaniklé civilizace.",
     "gps": {
       "lat": 27.3294,
       "lon": 68.1386
@@ -4336,7 +4336,7 @@
     "nazev": "Roopkund",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Himalajske jezero s lidskymi kostrami, kde prirodni podminky uchovaly silnou zahadu.",
+    "lead": "Himálajské jezero s lidskými kostrami, kde přírodní podmínky uchovaly silnou záhadu.",
     "gps": {
       "lat": 30.262,
       "lon": 79.731
@@ -4408,7 +4408,7 @@
     "nazev": "Kuldhara",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Opustena vesnice v Radzasthanu spojovana s prokletim a nahlym odchodem obyvatel.",
+    "lead": "Opuštěná vesnice v Rádžasthánu spojovaná s prokletím a náhlým odchodem obyvatel.",
     "gps": {
       "lat": 26.8713,
       "lon": 70.802
@@ -4480,7 +4480,7 @@
     "nazev": "Jatinga",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Vesnice proslula podivnym chovanim ptaku, ktere vyzaduje prirodni a skepticke vysvetleni.",
+    "lead": "Vesnice proslulá podivným chováním ptáků, které vyžaduje přírodní a skeptické vysvětlení.",
     "gps": {
       "lat": 25.1627,
       "lon": 93.0319
@@ -4552,7 +4552,7 @@
     "nazev": "Sigiriya",
     "zeme": "Sri Lanka",
     "kontinent": "Asie",
-    "lead": "Skalni pevnost a palac, kde krajina, moc a legenda vytvareji jeden z nejsilnejsich obrazu Jizni Asie.",
+    "lead": "Skalní pevnost a palác, kde krajina, moc a legenda vytvářejí jeden z nejsilnějších obrazů jižní Asie.",
     "gps": {
       "lat": 7.957,
       "lon": 80.7603
@@ -4624,7 +4624,7 @@
     "nazev": "Plain of Jars",
     "zeme": "Laos",
     "kontinent": "Asie",
-    "lead": "Krajina kamennych nadob, jejichz ucel a megaliticka atmosfera dlouho vyvolavaly otazky.",
+    "lead": "Krajina kamenných nádob, jejichž účel a megalitická atmosféra dlouho vyvolávaly otázky.",
     "gps": {
       "lat": 19.4317,
       "lon": 103.1589
@@ -4696,7 +4696,7 @@
     "nazev": "Leshan Giant Buddha",
     "zeme": "Čína",
     "kontinent": "Asie",
-    "lead": "Obri Buddha vytesany nad soutokem rek, sakralni odpoved na nebezpecnou vodni krajinu.",
+    "lead": "Obří Buddha vytesaný nad soutokem řek, sakrální odpověď na nebezpečnou vodní krajinu.",
     "gps": {
       "lat": 29.544,
       "lon": 103.773
@@ -4768,7 +4768,7 @@
     "nazev": "Fengdu Ghost City",
     "zeme": "Čína",
     "kontinent": "Asie",
-    "lead": "Chramovy komplex na Jang-c, spojovany s cinskou predstavou podsveti a soudem mrtvych.",
+    "lead": "Chrámový komplex na Jang-c'-ťiangu, spojovaný s čínskou představou podsvětí a soudem mrtvých.",
     "gps": {
       "lat": 29.885,
       "lon": 107.726
@@ -4912,7 +4912,7 @@
     "nazev": "Sacsayhuaman",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Megaliticky komplex nad Cuskem, jehoz kamenne zdivo pritahuje jak archeology, tak alternativni vyklady.",
+    "lead": "Megalitický komplex nad Cuzkem, jehož kamenné zdivo přitahuje jak archeology, tak alternativní výklady.",
     "gps": {
       "lat": -13.5089,
       "lon": -71.9824
@@ -5272,7 +5272,7 @@
     "nazev": "Actun Tunichil Muknal",
     "zeme": "Belize",
     "kontinent": "Severní Amerika",
-    "lead": "Jeskynni mayske ritualni misto s lidskymi pozustatky, citliva kombinace archeologie a temneho podzemi.",
+    "lead": "Jeskynní mayské rituální místo s lidskými pozůstatky, citlivá kombinace archeologie a temného podzemí.",
     "gps": {
       "lat": 17.132,
       "lon": -88.955
@@ -5344,7 +5344,7 @@
     "nazev": "Yonaguni Monument",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Podmorska skalni formace u Yonaguni, kde se stretava geologie s predstavou zatopene civilizace.",
+    "lead": "Podmořská skalní formace u Jonaguni, kde se střetává geologie s představou zatopené civilizace.",
     "gps": {
       "lat": 24.449,
       "lon": 122.933
@@ -5637,7 +5637,7 @@
     "nazev": "Great Blue Hole",
     "zeme": "Belize",
     "kontinent": "Severní Amerika",
-    "lead": "Obri morska dira, kde geologie, hloubka a vizualni dokonaly kruh pusobi jako prirodni zahada.",
+    "lead": "Obří mořská díra, kde geologie, hloubka a vizuálně dokonalý kruh působí jako přírodní záhada.",
     "gps": {
       "lat": 17.3156,
       "lon": -87.5345
@@ -5709,7 +5709,7 @@
     "nazev": "Devils Tower",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Cedicova vez Wyomingu, posvatna krajina puvodnich narodu a ikona filmoveho udivu.",
+    "lead": "Čedičová věž ve Wyomingu, posvátná krajina původních národů a ikona filmového úžasu.",
     "gps": {
       "lat": 44.59,
       "lon": -104.715
@@ -5781,7 +5781,7 @@
     "nazev": "Marfa Lights",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Svetla v texaske krajine, kde se pozorovani, optika a legenda opakuji po generace.",
+    "lead": "Světla v texaské krajině, kde se pozorování, optika a legenda opakují po generace.",
     "gps": {
       "lat": 30.2752,
       "lon": -103.8568
@@ -5853,7 +5853,7 @@
     "nazev": "Racetrack Playa",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Sucha jezerni plosina s pohybujicimi se kameny, klasicky pripad zahady vysvetlene kombinaci ledu a vetru.",
+    "lead": "Suchá jezerní plošina s pohybujícími se kameny, klasický případ záhady vysvětlené kombinací ledu a větru.",
     "gps": {
       "lat": 36.681,
       "lon": -117.562
@@ -5925,7 +5925,7 @@
     "nazev": "Mount Shasta",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Hora v Kalifornii spojovana s domorodou spiritualitou, New Age myty, UFO a skrytymi civilizacemi.",
+    "lead": "Hora v Kalifornii spojovaná s domorodou spiritualitou, mýty New Age, UFO a skrytými civilizacemi.",
     "gps": {
       "lat": 41.4092,
       "lon": -122.1949
@@ -5997,7 +5997,7 @@
     "nazev": "Magnetic Hill Moncton",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Opticka iluze gravitacniho kopce, vhodna pro jasne oddeleni dojmu a fyzikalniho vysvetleni.",
+    "lead": "Optická iluze gravitačního kopce, vhodná pro jasné oddělení dojmu a fyzikálního vysvětlení.",
     "gps": {
       "lat": 46.134,
       "lon": -64.883
@@ -6069,7 +6069,7 @@
     "nazev": "Head Smashed In Buffalo Jump",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Utes lovu bizonu v Alberte, krajina spoluprace, smrti zvirat a puvodnich technologii.",
+    "lead": "Útes lovu bizonů v Albertě, krajina spolupráce, smrti zvířat a původních technologií.",
     "gps": {
       "lat": 49.705,
       "lon": -113.654
@@ -6141,7 +6141,7 @@
     "nazev": "Ninstints",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Opustena vesnice Haida na ostrovech Haida Gwaii, kde totemy a prazdne domy pusobi jako silna pametni krajina.",
+    "lead": "Opuštěná vesnice Haidů na ostrovech Haida Gwaii, kde totemy a prázdné domy působí jako silná pamětní krajina.",
     "gps": {
       "lat": 52.095,
       "lon": -131.218
@@ -6213,7 +6213,7 @@
     "nazev": "Uluru",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Posvatny monolit pro Anangu, ktery vyzaduje respekt k mistnim pravidlum a oddeleni turismu od kultury.",
+    "lead": "Posvátný monolit Anangů, který vyžaduje respekt k místním pravidlům a oddělení turismu od kultury.",
     "gps": {
       "lat": -25.3444,
       "lon": 131.0369
@@ -6285,7 +6285,7 @@
     "nazev": "Devils Marbles",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Balvany Karlu Karlu, kde geologie a domorode pribehy vytvareji silne krajinne misto.",
+    "lead": "Balvany Karlu Karlu, kde geologie a domorodé příběhy vytvářejí silné krajinné místo.",
     "gps": {
       "lat": -20.5695,
       "lon": 134.2639
@@ -6357,7 +6357,7 @@
     "nazev": "Monte Cristo Homestead",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Historicky dum v Novem Jiznim Walesu s reputaci jedne z nejstrasidelnejsich australskych usedlosti.",
+    "lead": "Historický dům v Novém Jižním Walesu s pověstí jedné z nejstrašidelnějších australských usedlostí.",
     "gps": {
       "lat": -34.871,
       "lon": 147.583
@@ -6429,7 +6429,7 @@
     "nazev": "Moeraki Boulders",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Kulovite konkrece na plazi Otago, geologicke koule, ktere vypadaji jako zamerne objekty.",
+    "lead": "Kulovité konkrece na pláži v Otagu, geologické koule, které vypadají jako záměrně vytvořené objekty.",
     "gps": {
       "lat": -45.346,
       "lon": 170.826
@@ -6936,7 +6936,7 @@
     "nazev": "Monastery of Saint Naum",
     "zeme": "Severní Makedonie",
     "kontinent": "Evropa",
-    "lead": "Klaster u Ohridskeho jezera, kde poutni tradice a legenda svetce vytvareji posvatny bod mapy.",
+    "lead": "Klášter u Ohridského jezera, kde poutní tradice a legenda světce vytvářejí posvátný bod mapy.",
     "gps": {
       "lat": 40.9138,
       "lon": 20.7417
@@ -9097,7 +9097,7 @@
     "nazev": "Nuraghe Su Nuraxi",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Nuragsky kamenny komplex na Sardinii, kde lokalni civilizace zanechala monumentalni a stale tajemnou architekturu.",
+    "lead": "Nuragický kamenný komplex na Sardinii, kde místní civilizace zanechala monumentální a stále tajemnou architekturu.",
     "gps": {
       "lat": 39.705,
       "lon": 8.991
@@ -9457,7 +9457,7 @@
     "nazev": "Kayakoy",
     "zeme": "Turecko",
     "kontinent": "Asie",
-    "lead": "Opustena vesnice v Lykii, kde historicky odchod obyvatel zanechal tiche kamenne mesto.",
+    "lead": "Opuštěná vesnice v Lýkii, kde historický odchod obyvatel zanechal tiché kamenné město.",
     "gps": {
       "lat": 36.574,
       "lon": 29.091
@@ -9601,7 +9601,7 @@
     "nazev": "Masada",
     "zeme": "Izrael",
     "kontinent": "Asie",
-    "lead": "Pevnost nad Mrtvym morem spojena s oblehanim, odporem a dramatickou narodni pameti.",
+    "lead": "Pevnost nad Mrtvým mořem spojená s obléháním, odporem a dramatickou národní pamětí.",
     "gps": {
       "lat": 31.3156,
       "lon": 35.3539
@@ -9745,7 +9745,7 @@
     "nazev": "Qumran Caves",
     "zeme": "Palestina",
     "kontinent": "Asie",
-    "lead": "Jeskynni oblast spojena s nalezy svitku, kde archeologie, nabozenstvi a tajemstvi textu tvori silne tema.",
+    "lead": "Jeskynní oblast spojená s nálezy svitků, kde archeologie, náboženství a tajemství textů tvoří silné téma.",
     "gps": {
       "lat": 31.7417,
       "lon": 35.4583
@@ -9817,7 +9817,7 @@
     "nazev": "Baalbek",
     "zeme": "Libanon",
     "kontinent": "Asie",
-    "lead": "Monumentalni anticky komplex s obrovskymi kamennymi bloky, magnet pro archeologii i alternativni vyklady.",
+    "lead": "Monumentální antický komplex s obrovskými kamennými bloky, magnet pro archeologii i alternativní výklady.",
     "gps": {
       "lat": 34.0067,
       "lon": 36.2039
@@ -9961,7 +9961,7 @@
     "nazev": "Alamut Castle",
     "zeme": "Írán",
     "kontinent": "Asie",
-    "lead": "Horska pevnost spojovana s asasiny, kde realna politika a pozdejsi legenda vytvorily silny mytus.",
+    "lead": "Horská pevnost spojovaná s asasíny, kde reálná politika a pozdější legenda vytvořily silný mýtus.",
     "gps": {
       "lat": 36.445,
       "lon": 50.586
@@ -10033,7 +10033,7 @@
     "nazev": "Persepolis",
     "zeme": "Írán",
     "kontinent": "Asie",
-    "lead": "Ceremonialni centrum Achajmenovcu, kde ruina imperia pusobi jako kamenny archiv moci.",
+    "lead": "Ceremoniální centrum Achaimenovců, kde ruina impéria působí jako kamenný archiv moci.",
     "gps": {
       "lat": 29.935,
       "lon": 52.8916
@@ -10105,7 +10105,7 @@
     "nazev": "Shahr e Sukhteh",
     "zeme": "Írán",
     "kontinent": "Asie",
-    "lead": "Spalene mesto v Sistan, rozsahle naleziste bronzove doby na okraji poustni krajiny.",
+    "lead": "Spálené město v Sístánu, rozsáhlé naleziště doby bronzové na okraji pouštní krajiny.",
     "gps": {
       "lat": 30.596,
       "lon": 61.328
@@ -10177,7 +10177,7 @@
     "nazev": "Tower of Silence Yazd",
     "zeme": "Írán",
     "kontinent": "Asie",
-    "lead": "Zoroastrijske pohrebni veze u Yazdu, kde ritual smrti a poustni krajina vytvareji silny obraz.",
+    "lead": "Zoroastrijské pohřební věže u Jazdu, kde rituál smrti a pouštní krajina vytvářejí silný obraz.",
     "gps": {
       "lat": 31.82,
       "lon": 54.343
@@ -10249,7 +10249,7 @@
     "nazev": "Babylon",
     "zeme": "Irák",
     "kontinent": "Asie",
-    "lead": "Mesto biblicke i historicke imaginace, kde realna archeologie souperi s obrovskou mytologickou projekci.",
+    "lead": "Město biblické i historické imaginace, kde reálná archeologie soupeří s obrovskou mytologickou projekcí.",
     "gps": {
       "lat": 32.5364,
       "lon": 44.4208
@@ -10321,7 +10321,7 @@
     "nazev": "Ur",
     "zeme": "Irák",
     "kontinent": "Asie",
-    "lead": "Sumerske mesto a zikkurat, kde se pocatky urbanismu propojuji s nabozenstvim a kralovskou pameti.",
+    "lead": "Sumerské město a zikkurat, kde se počátky urbanismu propojují s náboženstvím a královskou pamětí.",
     "gps": {
       "lat": 30.9631,
       "lon": 46.1031
@@ -10393,7 +10393,7 @@
     "nazev": "Lalish",
     "zeme": "Irák",
     "kontinent": "Asie",
-    "lead": "Posvatne centrum jezidu, ktere vyzaduje respekt k zive tradici a presne oddeleni faktu od exotizace.",
+    "lead": "Posvátné centrum jezídů, které vyžaduje respekt k živé tradici a přesné oddělení faktů od exotizace.",
     "gps": {
       "lat": 36.771,
       "lon": 43.305
@@ -10542,7 +10542,7 @@
     "nazev": "Samarkand Registan",
     "zeme": "Uzbekistán",
     "kontinent": "Asie",
-    "lead": "Monumentalni namesti madras, kde geometrie, uceni a obchodni historie tvori symbol Stredni Asie.",
+    "lead": "Monumentální náměstí medres, kde geometrie, učenost a obchodní historie tvoří symbol Střední Asie.",
     "gps": {
       "lat": 39.6542,
       "lon": 66.975
@@ -10614,7 +10614,7 @@
     "nazev": "Issyk Kul",
     "zeme": "Kyrgyzstán",
     "kontinent": "Asie",
-    "lead": "Velke horske jezero opredene pribehy o zatopenych sidlech, pokladech a neobvykle slane vode.",
+    "lead": "Velké horské jezero opředené příběhy o zatopených sídlech, pokladech a neobvykle slané vodě.",
     "gps": {
       "lat": 42.454,
       "lon": 77.278
@@ -10686,7 +10686,7 @@
     "nazev": "Uplistsikhe",
     "zeme": "Gruzie",
     "kontinent": "Asie",
-    "lead": "Skalni mesto v Gruzii, kde se cesty, chramy a obydli zarezavaji primo do kamene.",
+    "lead": "Skalní město v Gruzii, kde se cesty, chrámy a obydlí zařezávají přímo do kamene.",
     "gps": {
       "lat": 41.9675,
       "lon": 44.2075
@@ -10758,7 +10758,7 @@
     "nazev": "Vardzia",
     "zeme": "Gruzie",
     "kontinent": "Asie",
-    "lead": "Jeskynni klasterni mesto v utesu, kde obrana, vira a skryta architektura tvori dramaticky celek.",
+    "lead": "Jeskynní klášterní město v útesu, kde obrana, víra a skrytá architektura tvoří dramatický celek.",
     "gps": {
       "lat": 41.3817,
       "lon": 43.2844
@@ -10830,7 +10830,7 @@
     "nazev": "Khor Virap",
     "zeme": "Arménie",
     "kontinent": "Asie",
-    "lead": "Klaster s pohledem na Ararat, spojeny s pocatky armenske krestanske identity a vezenskou legendou.",
+    "lead": "Klášter s výhledem na Ararat, spojený s počátky arménské křesťanské identity a vězeňskou legendou.",
     "gps": {
       "lat": 39.8783,
       "lon": 44.5764
@@ -10902,7 +10902,7 @@
     "nazev": "Geghard Monastery",
     "zeme": "Arménie",
     "kontinent": "Asie",
-    "lead": "Klaster castecne vytesany do skaly, kde liturgie, akustika a horske udoli vytvareji uzavreny svet.",
+    "lead": "Klášter částečně vytesaný do skály, kde liturgie, akustika a horské údolí vytvářejí uzavřený svět.",
     "gps": {
       "lat": 40.14,
       "lon": 44.818
@@ -10974,7 +10974,7 @@
     "nazev": "Sana'a Old City",
     "zeme": "Jemen",
     "kontinent": "Asie",
-    "lead": "Historicke mesto s vezovymi domy, kde zive dedictvi stoji proti ohrozeni a izolaci.",
+    "lead": "Historické město s věžovými domy, kde živé dědictví stojí proti ohrožení a izolaci.",
     "gps": {
       "lat": 15.3556,
       "lon": 44.2081
@@ -11046,7 +11046,7 @@
     "nazev": "Socotra Dragon Blood Trees",
     "zeme": "Jemen",
     "kontinent": "Asie",
-    "lead": "Ostrovni krajina se stromy draci krve, ktera vypada jako prirodni svet mimo beznou mapu.",
+    "lead": "Ostrovní krajina se stromy dračí krve, která vypadá jako přírodní svět mimo běžnou mapu.",
     "gps": {
       "lat": 12.4634,
       "lon": 53.8237
@@ -11190,7 +11190,7 @@
     "nazev": "Timbuktu",
     "zeme": "Mali",
     "kontinent": "Afrika",
-    "lead": "Mesto rukopisu, obchodu a poustni ucene tradice, ktere nese auru vzdalenosti a ohrozene pameti.",
+    "lead": "Město rukopisů, obchodu a pouštní učenecké tradice, které nese auru vzdálenosti a ohrožené paměti.",
     "gps": {
       "lat": 16.7666,
       "lon": -3.0026
@@ -11262,7 +11262,7 @@
     "nazev": "Djenne",
     "zeme": "Mali",
     "kontinent": "Afrika",
-    "lead": "Hlinene mesto a velka mesita, kde architektura a komunitni obnova tvori zivou posvatnou krajinu.",
+    "lead": "Hliněné město a Velká mešita, kde architektura a komunitní obnova tvoří živou posvátnou krajinu.",
     "gps": {
       "lat": 13.9061,
       "lon": -4.5533
@@ -11406,7 +11406,7 @@
     "nazev": "Abu Simbel",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Chramy prestehovane kvuli prehrade, kde monumentalita a technicky zachranny pribeh tvori dvojitou zahadu.",
+    "lead": "Chrámy přestěhované kvůli přehradě, kde monumentalita a technický záchranný příběh tvoří dvojí záhadu.",
     "gps": {
       "lat": 22.3372,
       "lon": 31.6258
@@ -11478,7 +11478,7 @@
     "nazev": "Karnak Temple Complex",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Obrovsky chramovy komplex v Luxoru, kde se architektura stava mapou moci, bohu a casu.",
+    "lead": "Obrovský chrámový komplex v Luxoru, kde se architektura stává mapou moci, bohů a času.",
     "gps": {
       "lat": 25.7188,
       "lon": 32.6573
@@ -11550,7 +11550,7 @@
     "nazev": "Nabta Playa",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Praveky kamenny kruh v Nubijske pousti, casto vykladany pres kalendar a rany ritual.",
+    "lead": "Pravěký kamenný kruh v Núbijské poušti, často vykládaný jako kalendář a raný rituál.",
     "gps": {
       "lat": 22.507,
       "lon": 30.733
@@ -11699,7 +11699,7 @@
     "nazev": "Kilwa Kisiwani",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Ostrovni ruiny mocneho svahilskeho mesta, kde obchod, islam a more vytvorily vyznamny uzel.",
+    "lead": "Ostrovní ruiny mocného svahilského města, kde obchod, islám a moře vytvořily významný uzel.",
     "gps": {
       "lat": -8.958,
       "lon": 39.522
@@ -11843,7 +11843,7 @@
     "nazev": "Namib Desert Fairy Circles",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Pravidelne kruhy v pousti Namib, kde se prirodni vysvetleni a vizualni zahada dlouho pretahuji.",
+    "lead": "Pravidelné kruhy v poušti Namib, kde se přírodní vysvětlení a vizuální záhada dlouho přetahují.",
     "gps": {
       "lat": -24,
       "lon": 15
@@ -11915,7 +11915,7 @@
     "nazev": "Kolmanskop",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Opustene diamantove mesto pohlcovane piskem, idealni obraz pomijivosti bohatstvi.",
+    "lead": "Opuštěné diamantové město pohlcované pískem, ideální obraz pomíjivosti bohatství.",
     "gps": {
       "lat": -26.7047,
       "lon": 15.2325
@@ -11987,7 +11987,7 @@
     "nazev": "Twyfelfontein",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Skalni rytiny v Damaralandu, kde krajina nese dlouhou pamet stop a symbolu.",
+    "lead": "Skalní rytiny v Damaralandu, kde krajina nese dlouhou paměť stop a symbolů.",
     "gps": {
       "lat": -20.595,
       "lon": 14.372
@@ -12059,7 +12059,7 @@
     "nazev": "Brandberg Mountain",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Nejvyssi hora Namibie a skalni umeni, kde prirodni dominanta funguje jako kulturni archiv.",
+    "lead": "Nejvyšší hora Namibie a skalní umění, kde přírodní dominanta funguje jako kulturní archiv.",
     "gps": {
       "lat": -21.15,
       "lon": 14.5833
@@ -12131,7 +12131,7 @@
     "nazev": "Osun Osogbo Sacred Grove",
     "zeme": "Nigérie",
     "kontinent": "Afrika",
-    "lead": "Posvatny haj Osun, ziva jorubska tradice, sochy a ritualni vztah k rece.",
+    "lead": "Posvátný háj Osun, živá jorubská tradice, sochy a rituální vztah k řece.",
     "gps": {
       "lat": 7.755,
       "lon": 4.552
@@ -12203,7 +12203,7 @@
     "nazev": "Benin City Walls",
     "zeme": "Nigérie",
     "kontinent": "Afrika",
-    "lead": "Pozustatky rozsahleho systemu valu a prikopu, ktery ukazuje velikost predkolonialni mestske moci.",
+    "lead": "Pozůstatky rozsáhlého systému valů a příkopů, který ukazuje velikost předkoloniální městské moci.",
     "gps": {
       "lat": 6.3333,
       "lon": 5.6222
@@ -12275,7 +12275,7 @@
     "nazev": "Goree Island",
     "zeme": "Senegal",
     "kontinent": "Afrika",
-    "lead": "Pametni ostrov spojeny s obchodem s lidmi, kde historie vyzaduje citlivost a presnost.",
+    "lead": "Pamětní ostrov spojený s obchodem s lidmi, kde historie vyžaduje citlivost a přesnost.",
     "gps": {
       "lat": 14.667,
       "lon": -17.398
@@ -12347,7 +12347,7 @@
     "nazev": "Elmina Castle",
     "zeme": "Ghana",
     "kontinent": "Afrika",
-    "lead": "Pevnost na pobrezi Ghany, kde kolonialni obchod a lidske utrpeni zustavaji fyzicky citelne.",
+    "lead": "Pevnost na pobřeží Ghany, kde koloniální obchod a lidské utrpení zůstávají fyzicky citelné.",
     "gps": {
       "lat": 5.0833,
       "lon": -1.35
@@ -12491,7 +12491,7 @@
     "nazev": "Robben Island",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Ostrovni veznice u Kapskeho Mesta, kde izolace a odpor vytvareji moderni pametni krajinu.",
+    "lead": "Ostrovní věznice u Kapského Města, kde izolace a odpor vytvářejí moderní pamětní krajinu.",
     "gps": {
       "lat": -33.8067,
       "lon": 18.3662
@@ -12563,7 +12563,7 @@
     "nazev": "Sterkfontein Caves",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Jeskynni naleziste homininu v kolibce lidstva, kde podzemi slouzi jako archiv velmi stare pritomnosti.",
+    "lead": "Jeskynní naleziště homininů v Kolébce lidstva, kde podzemí slouží jako archiv velmi staré přítomnosti.",
     "gps": {
       "lat": -26.016,
       "lon": 27.734
@@ -12712,7 +12712,7 @@
     "nazev": "Serra da Capivara",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Narodni park se skalnim umenim a debatami o nejstarsim osidleni Ameriky.",
+    "lead": "Národní park se skalním uměním a debatami o nejstarším osídlení Ameriky.",
     "gps": {
       "lat": -8.8333,
       "lon": -42.55
@@ -12784,7 +12784,7 @@
     "nazev": "Valongo Wharf",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Pametni misto v Riu spojene s otroctvim a atlantickou historii, kde mesto odkrylo potlacenou vrstvu.",
+    "lead": "Pamětní místo v Riu spojené s otroctvím a atlantickou historií, kde město odkrylo potlačenou vrstvu.",
     "gps": {
       "lat": -22.8975,
       "lon": -43.1875
@@ -12856,7 +12856,7 @@
     "nazev": "Pedra da Gavea",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Skalni dominanta Ria, jejiz tvar dlouho zivi alternativni vyklady o obrich tvarich a napisech.",
+    "lead": "Skalní dominanta Ria, jejíž tvar dlouho živí alternativní výklady o obřích tvářích a nápisech.",
     "gps": {
       "lat": -23,
       "lon": -43.284
@@ -12928,7 +12928,7 @@
     "nazev": "Chapada Diamantina",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Krajina stolovych hor, jeskyni a vodopadu, kde geologie pusobi jako labyrint prirodnich zahad.",
+    "lead": "Krajina stolových hor, jeskyní a vodopádů, kde geologie působí jako labyrint přírodních záhad.",
     "gps": {
       "lat": -12.8,
       "lon": -41.4
@@ -13000,7 +13000,7 @@
     "nazev": "Lencois Maranhenses",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Bile duny a sezonni laguny, krajina vypadajici jako poust, ktera se na cast roku naplni vodou.",
+    "lead": "Bílé duny a sezónní laguny, krajina vypadající jako poušť, která se na část roku naplní vodou.",
     "gps": {
       "lat": -2.5333,
       "lon": -43.1167
@@ -13072,7 +13072,7 @@
     "nazev": "Serra do Roncador",
     "zeme": "Brazílie",
     "kontinent": "Jižní Amerika",
-    "lead": "Brazilsky horsky region spojovany s expedicemi, zmizenimi a legendami o skrytych mestech.",
+    "lead": "Brazilský horský region spojovaný s expedicemi, zmizeními a legendami o skrytých městech.",
     "gps": {
       "lat": -13,
       "lon": -52
@@ -13144,7 +13144,7 @@
     "nazev": "Cueva de las Manos",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Jeskynni steny s otisky rukou, pravy lidsky podpis na okraji patagonske krajiny.",
+    "lead": "Jeskynní stěny s otisky rukou, pravý lidský podpis na okraji patagonské krajiny.",
     "gps": {
       "lat": -47.156,
       "lon": -70.657
@@ -13216,7 +13216,7 @@
     "nazev": "Ischigualasto",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Mesicni krajina v Argentine, kde eroze a fosilni historie vytvareji dojem jine planety.",
+    "lead": "Měsíční krajina v Argentině, kde eroze a fosilní historie vytvářejí dojem jiné planety.",
     "gps": {
       "lat": -30.159,
       "lon": -67.842
@@ -13288,7 +13288,7 @@
     "nazev": "Pucara de Tilcara",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Predhispanska pevnost v quebrade Humahuaca, kamenne zdi nad krajinou barevnych svahu.",
+    "lead": "Předhispánská pevnost v Quebrada de Humahuaca, kamenné zdi nad krajinou barevných svahů.",
     "gps": {
       "lat": -23.578,
       "lon": -65.397
@@ -13360,7 +13360,7 @@
     "nazev": "Cueva de los Tayos",
     "zeme": "Ekvádor",
     "kontinent": "Jižní Amerika",
-    "lead": "Jeskynni system proslaveny expedicemi a spornymi teoriemi o kovove knihovne a ztracenych stopach.",
+    "lead": "Jeskynní systém proslavený expedicemi a spornými teoriemi o kovové knihovně a ztracených stopách.",
     "gps": {
       "lat": -3.051,
       "lon": -78.206
@@ -13432,7 +13432,7 @@
     "nazev": "Ingapirca",
     "zeme": "Ekvádor",
     "kontinent": "Jižní Amerika",
-    "lead": "Incke a canarske archeologicke misto, kde se slunecni architektura propojuje s lokalni pameti.",
+    "lead": "Incké a kaňarské archeologické místo, kde se sluneční architektura propojuje s místní pamětí.",
     "gps": {
       "lat": -2.5442,
       "lon": -78.8711
@@ -13576,7 +13576,7 @@
     "nazev": "San Agustin Archaeological Park",
     "zeme": "Kolumbie",
     "kontinent": "Jižní Amerika",
-    "lead": "Socharska a pohrebni krajina s vyraznymi kamennymi postavami a tajemnym ikonografickym jazykem.",
+    "lead": "Sochařská a pohřební krajina s výraznými kamennými postavami a tajemným ikonografickým jazykem.",
     "gps": {
       "lat": 1.8833,
       "lon": -76.2833
@@ -13648,7 +13648,7 @@
     "nazev": "Tierradentro",
     "zeme": "Kolumbie",
     "kontinent": "Jižní Amerika",
-    "lead": "Podzemni hrobky s malbami, kde sestup do zeme primo materializuje pohrebni predstavy.",
+    "lead": "Podzemní hrobky s malbami, kde sestup do země přímo zhmotňuje pohřební představy.",
     "gps": {
       "lat": 2.5667,
       "lon": -76.0333
@@ -13720,7 +13720,7 @@
     "nazev": "Lake Guatavita",
     "zeme": "Kolumbie",
     "kontinent": "Jižní Amerika",
-    "lead": "Jezero spojene s legendou El Dorada, kde ritual a touha po zlate vytvorily globalni mytus.",
+    "lead": "Jezero spojené s legendou o El Doradu, kde rituál a touha po zlatě vytvořily globální mýtus.",
     "gps": {
       "lat": 5.246,
       "lon": -73.774
@@ -13792,7 +13792,7 @@
     "nazev": "Llanganates",
     "zeme": "Ekvádor",
     "kontinent": "Jižní Amerika",
-    "lead": "Horsky region spojovany s legendou o ukrytem inckem pokladu a nebezpecnym terenem.",
+    "lead": "Horský region spojovaný s legendou o ukrytém inckém pokladu a nebezpečným terénem.",
     "gps": {
       "lat": -1,
       "lon": -78.3
@@ -13864,7 +13864,7 @@
     "nazev": "Puma Punku",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Kamenny komplex u Tiwanaku, jehoz presne bloky jsou magnetem pro alternativni teorie.",
+    "lead": "Kamenný komplex u Tiwanaku, jehož přesné bloky jsou magnetem pro alternativní teorie.",
     "gps": {
       "lat": -16.5619,
       "lon": -68.6792
@@ -13936,7 +13936,7 @@
     "nazev": "Salar de Uyuni",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Obri solna planina, kde zrcadleni a meritko vytvareji dojem nekonecne mimozemske krajiny.",
+    "lead": "Obří solná planina, kde zrcadlení a měřítko vytvářejí dojem nekonečné mimozemské krajiny.",
     "gps": {
       "lat": -20.1338,
       "lon": -67.4891
@@ -14008,7 +14008,7 @@
     "nazev": "Atacama Giant",
     "zeme": "Chile",
     "kontinent": "Jižní Amerika",
-    "lead": "Obri geoglyf v pousti Atacama, kde zobrazeni na svahu vyvolava archeologicke i popkulturni interpretace.",
+    "lead": "Obří geoglyf v poušti Atacama, kde zobrazení na svahu vyvolává archeologické i popkulturní interpretace.",
     "gps": {
       "lat": -19.95,
       "lon": -69.6333
@@ -14080,7 +14080,7 @@
     "nazev": "Port Royal",
     "zeme": "Jamajka",
     "kontinent": "Severní Amerika",
-    "lead": "Mesto piratu poskozene zemetresenim a morem, kde legenda hrichu splynula s katastrofou.",
+    "lead": "Město pirátů poškozené zemětřesením a mořem, kde legenda hříchu splynula s katastrofou.",
     "gps": {
       "lat": 17.937,
       "lon": -76.84
@@ -14152,7 +14152,7 @@
     "nazev": "Tikal",
     "zeme": "Guatemala",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske mesto v dzungli, kde pyramidy vystupuji z lesa jako obraz ztracene civilizace.",
+    "lead": "Mayské město v džungli, kde pyramidy vystupují z lesa jako obraz ztracené civilizace.",
     "gps": {
       "lat": 17.222,
       "lon": -89.6237
@@ -14224,7 +14224,7 @@
     "nazev": "El Mirador",
     "zeme": "Guatemala",
     "kontinent": "Severní Amerika",
-    "lead": "Rozsahle predklasicke mayske centrum hluboko v dzungli, kde meritko stale prekvapuje.",
+    "lead": "Rozsáhlé předklasické mayské centrum hluboko v džungli, kde měřítko stále překvapuje.",
     "gps": {
       "lat": 17.755,
       "lon": -89.92
@@ -14296,7 +14296,7 @@
     "nazev": "Copan",
     "zeme": "Honduras",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske mesto se stelami a hieroglyfickym schodistem, kde texty i sochy nesou kodovanou pamet.",
+    "lead": "Mayské město se stélami a hieroglyfickým schodištěm, kde texty i sochy nesou kódovanou paměť.",
     "gps": {
       "lat": 14.837,
       "lon": -89.142
@@ -14368,7 +14368,7 @@
     "nazev": "Caracol",
     "zeme": "Belize",
     "kontinent": "Severní Amerika",
-    "lead": "Velke mayske mesto v Belize, dlouho ukryte v lese a vhodne pro motiv ztracenych center.",
+    "lead": "Velké mayské město v Belize, dlouho ukryté v lese a vhodné pro motiv ztracených center.",
     "gps": {
       "lat": 16.7639,
       "lon": -89.1175
@@ -14512,7 +14512,7 @@
     "nazev": "Palenque",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske mesto v Chiapasu, kde kralovske hrobky a ikonografie zivi archeologii i alternativni cteni.",
+    "lead": "Mayské město v Chiapasu, kde královské hrobky a ikonografie živí archeologii i alternativní čtení.",
     "gps": {
       "lat": 17.4849,
       "lon": -92.046
@@ -14584,7 +14584,7 @@
     "nazev": "Uxmal",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske mesto Puuc, kde geometrie fasad a legenda kouzelnikovy pyramidy tvori silny motiv.",
+    "lead": "Mayské město ve stylu Puuc, kde geometrie fasád a legenda Kouzelníkovy pyramidy tvoří silný motiv.",
     "gps": {
       "lat": 20.3599,
       "lon": -89.7713
@@ -14656,7 +14656,7 @@
     "nazev": "Calakmul",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Velka mayska metropole v biosfericke rezervaci, kde dzungle skryva nekdejsi rivaly Tikalu.",
+    "lead": "Velká mayská metropole v biosférické rezervaci, kde džungle skrývá někdejšího rivala Tikalu.",
     "gps": {
       "lat": 18.105,
       "lon": -89.81
@@ -14728,7 +14728,7 @@
     "nazev": "Coba",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske mesto mezi jezery a cestami sacbe, kde krajina i sit komunikaci posiluji pocit skryteho systemu.",
+    "lead": "Mayské město mezi jezery a cestami sacbé, kde krajina i síť komunikací posilují pocit skrytého systému.",
     "gps": {
       "lat": 20.492,
       "lon": -87.733
@@ -14800,7 +14800,7 @@
     "nazev": "Cave of the Crystals",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Podzemni dutina s obrovskymi krystaly selenitu, jeden z nejvice mimozemsky pusobicich prirodnich prostoru.",
+    "lead": "Podzemní dutina s obrovskými krystaly selenitu, jeden z nejvíce mimozemsky působících přírodních prostorů.",
     "gps": {
       "lat": 27.85,
       "lon": -105.5
@@ -14872,7 +14872,7 @@
     "nazev": "Oak Island",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Ostrov v Nove Skotii proslaveny pokladovou legendou, vykopavkami a moderni televizni mytologii.",
+    "lead": "Ostrov v Novém Skotsku proslavený pokladovou legendou, vykopávkami a moderní televizní mytologií.",
     "gps": {
       "lat": 44.5136,
       "lon": -64.2947
@@ -14944,7 +14944,7 @@
     "nazev": "L Anse aux Meadows",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Severske sidliste na Newfoundlandu, hmatatelny dukaz vikingske pritomnosti na okraji Ameriky.",
+    "lead": "Severské sídliště na Newfoundlandu, hmatatelný důkaz vikingské přítomnosti na okraji Ameriky.",
     "gps": {
       "lat": 51.596,
       "lon": -55.533
@@ -15016,7 +15016,7 @@
     "nazev": "Nahanni Valley",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Divoke udoli v Severozapadnich teritoriich s kanony, prameny a povestmi o izolaci a ztracenych lidech.",
+    "lead": "Divoké údolí v Severozápadních teritoriích s kaňony, prameny a pověstmi o izolaci a ztracených lidech.",
     "gps": {
       "lat": 61.55,
       "lon": -125.59
@@ -15088,7 +15088,7 @@
     "nazev": "Spotted Lake",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Mineralni jezero s teckovanou letni strukturou a silnym kulturnim vyznamem pro puvodni obyvatele.",
+    "lead": "Minerální jezero s tečkovanou letní strukturou a silným kulturním významem pro původní obyvatele.",
     "gps": {
       "lat": 49.078,
       "lon": -119.566
@@ -15232,7 +15232,7 @@
     "nazev": "Taputapuatea Marae",
     "zeme": "Francouzská Polynésie",
     "kontinent": "Oceánie",
-    "lead": "Posvatny marae na Raiatea, navigacni a ritualni stred polyneskeho sveta.",
+    "lead": "Posvátné marae na Raiatea, navigační a rituální střed polynéského světa.",
     "gps": {
       "lat": -16.836,
       "lon": -151.368
@@ -15304,7 +15304,7 @@
     "nazev": "Te Pito Kura",
     "zeme": "Chile",
     "kontinent": "Oceánie",
-    "lead": "Misto na Rapa Nui spojovane s posvatnym kamenem a predstavou pupku sveta.",
+    "lead": "Místo na Rapa Nui spojované s posvátným kamenem a představou pupku světa.",
     "gps": {
       "lat": -27.1,
       "lon": -109.27
@@ -15376,7 +15376,7 @@
     "nazev": "Fremantle Prison",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Veznice v Zapadni Australii s podzemnimi tunely a dlouhou trestaneckou historii.",
+    "lead": "Věznice v Západní Austrálii s podzemními tunely a dlouhou trestaneckou historií.",
     "gps": {
       "lat": -32.055,
       "lon": 115.753
@@ -15448,7 +15448,7 @@
     "nazev": "Lake Hillier",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Ruzove jezero na Middle Islandu, prirodni barevny jev s jednoduchym obrazem a silnou viralni stopou.",
+    "lead": "Růžové jezero na Middle Islandu, přírodní barevný jev s jednoduchým obrazem a silnou virální stopou.",
     "gps": {
       "lat": -34.095,
       "lon": 123.202
@@ -15520,7 +15520,7 @@
     "nazev": "Pinnacles Desert",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Pousti krajina vapencovych jehel, ktera pri nizkem svetle pripomina pole zkameneleho ritu.",
+    "lead": "Pouštní krajina vápencových jehel, která při nízkém světle připomíná pole zkamenělého rituálu.",
     "gps": {
       "lat": -30.6,
       "lon": 115.16
@@ -15592,7 +15592,7 @@
     "nazev": "Wolfe Creek Crater",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Vyrazny impaktni krater v zapadni Australii, fyzicky dukaz padu telesa a kulturni misto krajiny.",
+    "lead": "Výrazný impaktní kráter v západní Austrálii, fyzický důkaz pádu tělesa a kulturní místo krajiny.",
     "gps": {
       "lat": -19.172,
       "lon": 127.796
@@ -15664,7 +15664,7 @@
     "nazev": "Min Min Lights",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Svetelne jevy v australskem vnitrozemi, kde se optika, samota a legenda prirozene nasobi.",
+    "lead": "Světelné jevy v australském vnitrozemí, kde se optika, samota a legenda přirozeně násobí.",
     "gps": {
       "lat": -22.7,
       "lon": 140.5
@@ -15736,7 +15736,7 @@
     "nazev": "Kata Tjuta",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Skalni kupole nedaleko Uluru, posvatna krajina s pravidly respektu a silnym prostorovym dojmem.",
+    "lead": "Skalní kupole nedaleko Uluru, posvátná krajina s pravidly respektu a silným prostorovým dojmem.",
     "gps": {
       "lat": -25.3,
       "lon": 130.7333
@@ -15808,7 +15808,7 @@
     "nazev": "Gunung Padang",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Megaliticke terasy na Jave, misto, kde archeologie casto narazi na velmi odvazna tvrzeni.",
+    "lead": "Megalitické terasy na Jávě, místo, kde archeologie často naráží na velmi odvážná tvrzení.",
     "gps": {
       "lat": -6.995,
       "lon": 107.056
@@ -15880,7 +15880,7 @@
     "nazev": "Borobudur",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Monumentalni buddhisticky mandalovy chram, kde cesta vzhuru funguje jako duchovni mapa.",
+    "lead": "Monumentální buddhistický mandalový chrám, kde cesta vzhůru funguje jako duchovní mapa.",
     "gps": {
       "lat": -7.6079,
       "lon": 110.2038
@@ -15952,7 +15952,7 @@
     "nazev": "Prambanan",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Hinduisticky chramovy komplex s legendou a dramatickou siluetou kamennych vezi.",
+    "lead": "Hinduistický chrámový komplex s legendou a dramatickou siluetou kamenných věží.",
     "gps": {
       "lat": -7.752,
       "lon": 110.491
@@ -16024,7 +16024,7 @@
     "nazev": "Tana Toraja",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Horsky region Sulawesi prosluly pohrebnimi ritualy, domy tongkonan a silnou kulturou predku.",
+    "lead": "Horský region Sulawesi proslulý pohřebními rituály, domy tongkonan a silnou kulturou předků.",
     "gps": {
       "lat": -2.968,
       "lon": 119.9
@@ -16096,7 +16096,7 @@
     "nazev": "Kelimutu",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Sopka se tremi barevne promennymi jezery, ktera mistni tradice spojuje s dusemi zemrelych.",
+    "lead": "Sopka se třemi barevně proměnlivými jezery, která místní tradice spojuje s dušemi zemřelých.",
     "gps": {
       "lat": -8.765,
       "lon": 121.812
@@ -16168,7 +16168,7 @@
     "nazev": "Phnom Kulen",
     "zeme": "Kambodža",
     "kontinent": "Asie",
-    "lead": "Posvatna hora Khmeru s vodopady, lingamy v recisti a vazbou na pocatky Angkoru.",
+    "lead": "Posvátná hora Khmerů s vodopády, lingamy v řečišti a vazbou na počátky Angkoru.",
     "gps": {
       "lat": 13.57,
       "lon": 104.1
@@ -16312,7 +16312,7 @@
     "nazev": "Ta Prohm",
     "zeme": "Kambodža",
     "kontinent": "Asie",
-    "lead": "Chram prorostly stromy, dnes znamy i jako ikonicka filmova lokace a obraz pralesa pohlcujiciho ruinu.",
+    "lead": "Chrám prorostlý stromy, dnes známý i jako ikonická filmová lokace a obraz pralesa pohlcujícího ruinu.",
     "gps": {
       "lat": 13.435,
       "lon": 103.889
@@ -16384,7 +16384,7 @@
     "nazev": "Bagan",
     "zeme": "Myanmar",
     "kontinent": "Asie",
-    "lead": "Plan tisicu pagod, kde meritko sakralni krajiny vytvari dojem nekonecneho ztraceneho mesta.",
+    "lead": "Pláň tisíců pagod, kde měřítko sakrální krajiny vytváří dojem nekonečného ztraceného města.",
     "gps": {
       "lat": 21.1717,
       "lon": 94.8585
@@ -16456,7 +16456,7 @@
     "nazev": "Fasil Ghebbi",
     "zeme": "Etiopie",
     "kontinent": "Afrika",
-    "lead": "Opevneny kralovsky komplex v Gondaru, africka hradni krajina s etiopskou imperialni pameti.",
+    "lead": "Opevněný královský komplex v Gondaru, africká hradní krajina s etiopskou imperiální pamětí.",
     "gps": {
       "lat": 12.608,
       "lon": 37.469
@@ -16528,7 +16528,7 @@
     "nazev": "Olduvai Gorge",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Rokle v oblasti Ngorongoro, kde nalezy lidskych predku davaji krajine hlubokou evolucni pamet.",
+    "lead": "Rokle v oblasti Ngorongoro, kde nálezy lidských předků dávají krajině hlubokou evoluční paměť.",
     "gps": {
       "lat": -2.995,
       "lon": 35.353
@@ -16600,7 +16600,7 @@
     "nazev": "Zanzibar Stone Town",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Historicke svahilske mesto, kde obchod, more, kolonialni pamet a uzke ulice tvori mnohovrstevny labyrint.",
+    "lead": "Historické svahilské město, kde obchod, moře, koloniální paměť a úzké ulice tvoří mnohovrstevný labyrint.",
     "gps": {
       "lat": -6.1622,
       "lon": 39.1921
@@ -16816,7 +16816,7 @@
     "nazev": "Dougga",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Rozsahle anticke mesto na kopci, kde punske, numidske a rimske vrstvy tvori otevrenou mapu dejin.",
+    "lead": "Rozsáhlé antické město na kopci, kde punské, numidské a římské vrstvy tvoří otevřenou mapu dějin.",
     "gps": {
       "lat": 36.423,
       "lon": 9.22
@@ -16888,7 +16888,7 @@
     "nazev": "Matmata",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Podzemni obydli a slavna filmova krajina, kde realna architektura splynula s obrazem vzdalenych planet.",
+    "lead": "Podzemní obydlí a slavná filmová krajina, kde reálná architektura splynula s obrazem vzdálených planet.",
     "gps": {
       "lat": 33.5444,
       "lon": 9.9669
@@ -17037,7 +17037,7 @@
     "nazev": "Tadrart Acacus",
     "zeme": "Libye",
     "kontinent": "Afrika",
-    "lead": "Saharska krajina skalniho umeni, kde obrazova pamet ukazuje davno odlisny svet pouste.",
+    "lead": "Saharská krajina skalního umění, kde obrazová paměť ukazuje dávno odlišný svět pouště.",
     "gps": {
       "lat": 24.8333,
       "lon": 10.3333
@@ -17186,7 +17186,7 @@
     "nazev": "Lake Retba",
     "zeme": "Senegal",
     "kontinent": "Afrika",
-    "lead": "Ruzove slane jezero u Dakaru, kde prirodni chemie vytvari vizualne nepravdepodobny obraz.",
+    "lead": "Růžové slané jezero u Dakaru, kde přírodní chemie vytváří vizuálně nepravděpodobný obraz.",
     "gps": {
       "lat": 14.8381,
       "lon": -17.2347
@@ -17258,7 +17258,7 @@
     "nazev": "Mount Nyiragongo",
     "zeme": "DR Kongo",
     "kontinent": "Afrika",
-    "lead": "Aktivni sopka s lavovym jezerem, kde krasa a riziko existuji v tesne blizkosti osidlenych oblasti.",
+    "lead": "Aktivní sopka s lávovým jezerem, kde krása a riziko existují v těsné blízkosti osídlených oblastí.",
     "gps": {
       "lat": -1.522,
       "lon": 29.249
@@ -17330,7 +17330,7 @@
     "nazev": "Mapungubwe",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Archeologicka krajina stareho kralovstvi, kde zlate artefakty a kopec moci tvori silny historicky motiv.",
+    "lead": "Archeologická krajina starého království, kde zlaté artefakty a kopec moci tvoří silný historický motiv.",
     "gps": {
       "lat": -22.213,
       "lon": 29.376
@@ -17402,7 +17402,7 @@
     "nazev": "Thulamela",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Kamenny komplex v Krugerove oblasti, cast zapomenute site jihoafrickych kralovskych mist.",
+    "lead": "Kamenný komplex v Krugerově oblasti, část zapomenuté sítě jihoafrických královských míst.",
     "gps": {
       "lat": -22.433,
       "lon": 31.2
@@ -17474,7 +17474,7 @@
     "nazev": "Makgadikgadi Pans",
     "zeme": "Botswana",
     "kontinent": "Afrika",
-    "lead": "Obrovske solne panve po davnem jezere, kde horizont a prazdnota vytvareji skoro mimozemsky prostor.",
+    "lead": "Obrovské solné pánve po dávném jezeře, kde horizont a prázdnota vytvářejí skoro mimozemský prostor.",
     "gps": {
       "lat": -20.5,
       "lon": 25.5
@@ -17546,7 +17546,7 @@
     "nazev": "Vredefort Dome",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Jedna z nejvetsich znamych impaktnich struktur na Zemi, kosmicka katastrofa zapsana do krajiny.",
+    "lead": "Jedna z největších známých impaktních struktur na Zemi, kosmická katastrofa zapsaná do krajiny.",
     "gps": {
       "lat": -27,
       "lon": 27.5
@@ -17618,7 +17618,7 @@
     "nazev": "Victoria Falls",
     "zeme": "Zambie",
     "kontinent": "Afrika",
-    "lead": "Vodopady na Zambezi s ohromujici mlhou a zvukem, prirodni hranice mezi krajinou a mytem.",
+    "lead": "Vodopády na Zambezi s ohromující mlhou a zvukem, přírodní hranice mezi krajinou a mýtem.",
     "gps": {
       "lat": -17.9243,
       "lon": 25.8572
@@ -17690,7 +17690,7 @@
     "nazev": "Mesa Verde",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Skalni obydli predku Pueblo, kde opustene stavby ve stene kanonu vytvareji velmi silny obraz zmizeni.",
+    "lead": "Skalní obydlí předků Puebla, kde opuštěné stavby ve stěně kaňonu vytvářejí velmi silný obraz zmizení.",
     "gps": {
       "lat": 37.2309,
       "lon": -108.4618
@@ -17762,7 +17762,7 @@
     "nazev": "Chaco Canyon",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Krajina velkych domu, cest a astronomickych vazeb, jeden z nejsilnejsich archeologickych uzlu jihozapadu USA.",
+    "lead": "Krajina velkých domů, cest a astronomických vazeb, jeden z nejsilnějších archeologických uzlů jihozápadu USA.",
     "gps": {
       "lat": 36.0606,
       "lon": -107.9617
@@ -17834,7 +17834,7 @@
     "nazev": "Cahokia Mounds",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Monumentalni mohyly nekdejsiho mesta u Mississippi, jeden z nejvetsich predkolumbovskych urbanich uzlu severu.",
+    "lead": "Monumentální mohyly někdejšího města u Mississippi, jeden z největších předkolumbovských městských uzlů severu.",
     "gps": {
       "lat": 38.655,
       "lon": -90.061
@@ -17906,7 +17906,7 @@
     "nazev": "Serpent Mound",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Hadovita zemni mohyla v Ohiu, kde tvar, krajina a mozne astronomicke vazby zivi interpretace.",
+    "lead": "Hadovitá zemní mohyla v Ohiu, kde tvar, krajina a možné astronomické vazby živí interpretace.",
     "gps": {
       "lat": 39.0267,
       "lon": -83.4306
@@ -17978,7 +17978,7 @@
     "nazev": "Point Pleasant Mothman",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Mesto spojene s Mothmanem, kde lokalni svedectvi, katastrofa mostu a popkultura vytvorily trvaly mytus.",
+    "lead": "Město spojené s Mothmanem, kde místní svědectví, katastrofa mostu a popkultura vytvořily trvalý mýtus.",
     "gps": {
       "lat": 38.844,
       "lon": -82.137
@@ -18194,7 +18194,7 @@
     "nazev": "Superstition Mountains",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Arizonske hory spojovane s legendou ztraceneho dolu Lost Dutchman a nebezpecnymi vypravami.",
+    "lead": "Arizonské hory spojované s legendou ztraceného dolu Lost Dutchman a nebezpečnými výpravami.",
     "gps": {
       "lat": 33.4283,
       "lon": -111.3389
@@ -18266,7 +18266,7 @@
     "nazev": "Blythe Intaglios",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Obri geoglyfy v kalifornske pousti, postavy citelne hlavne z vysky a z otevrene krajiny.",
+    "lead": "Obří geoglyfy v kalifornské poušti, postavy čitelné hlavně z výšky a z otevřené krajiny.",
     "gps": {
       "lat": 33.8,
       "lon": -114.533
@@ -18338,7 +18338,7 @@
     "nazev": "Mystery Spot",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Turisticka gravitacni atrakce u Santa Cruz, dobra pro vysvetleni optiky, naklonu a ocekavani.",
+    "lead": "Turistická gravitační atrakce u Santa Cruz, dobrá pro vysvětlení optiky, náklonu a očekávání.",
     "gps": {
       "lat": 37.0167,
       "lon": -122.0028
@@ -18410,7 +18410,7 @@
     "nazev": "Coral Castle",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Kamenny soubor na Floride spojovany s osamelym stavitelem, spekulacemi a romantizovanou mechanikou.",
+    "lead": "Kamenný soubor na Floridě spojovaný s osamělým stavitelem, spekulacemi a romantizovanou mechanikou.",
     "gps": {
       "lat": 25.5,
       "lon": -80.445
@@ -18482,7 +18482,7 @@
     "nazev": "Georgia Guidestones Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Misto po kontroverznim monumentu, ktery se stal magnetem konspiracnich teorii a byl znicen.",
+    "lead": "Místo po kontroverzním monumentu, který se stal magnetem konspiračních teorií a byl zničen.",
     "gps": {
       "lat": 34.2319,
       "lon": -82.8942
@@ -18554,7 +18554,7 @@
     "nazev": "Helltown Ohio",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Oblast kolem Boston Township opredena modernimi urban legends o opustenych cestach a zakazanych zonach.",
+    "lead": "Oblast kolem Boston Township opředená moderními městskými legendami o opuštěných cestách a zakázaných zónách.",
     "gps": {
       "lat": 41.242,
       "lon": -81.546
@@ -18626,7 +18626,7 @@
     "nazev": "Centralia",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Pensylvanske mesto nad horicim dulnim pozarem, kde realna katastrofa vytvorila pekelnou krajinu.",
+    "lead": "Pensylvánské město nad hořícím důlním požárem, kde reálná katastrofa vytvořila pekelnou krajinu.",
     "gps": {
       "lat": 40.8034,
       "lon": -76.3405
@@ -18770,7 +18770,7 @@
     "nazev": "Hovenweep",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Vezove ruiny predku Pueblo na hranici Utahu a Colorada, kde stavby hlidaji okraje kanonu.",
+    "lead": "Věžové ruiny předků Puebla na hranici Utahu a Colorada, kde stavby hlídají okraje kaňonů.",
     "gps": {
       "lat": 37.3833,
       "lon": -109.08
@@ -18842,7 +18842,7 @@
     "nazev": "Fajada Butte",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Butte v Chaco Canyon spojovana se slunecnim daggerem a presnym vztahem svetla ke kameni.",
+    "lead": "Butte v Chaco Canyonu spojovaná se Slunečním dýkou a přesným vztahem světla ke kameni.",
     "gps": {
       "lat": 36.063,
       "lon": -107.967
@@ -18914,7 +18914,7 @@
     "nazev": "Goblin Valley",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Krajina piskovcovych hoodoo utvaru v Utahu, kde eroze vytvari postavy jako z jineho sveta.",
+    "lead": "Krajina pískovcových útvarů hoodoo v Utahu, kde eroze vytváří postavy jako z jiného světa.",
     "gps": {
       "lat": 38.5666,
       "lon": -110.707
@@ -18986,7 +18986,7 @@
     "nazev": "Headless Valley",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Oblast v udoli Nahanni spojovana s drsnymi pribehy prospektoru, izolaci a tajemnymi smrtmi.",
+    "lead": "Oblast v údolí Nahanni spojovaná s drsnými příběhy prospektorů, izolací a tajemnými úmrtími.",
     "gps": {
       "lat": 61.25,
       "lon": -124.5
@@ -19058,7 +19058,7 @@
     "nazev": "Screaming Tunnel",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Tunel u Niagara Falls s moderni legendou o krici a ohni, typicky priklad lokalni urban legend.",
+    "lead": "Tunel u Niagarských vodopádů s moderní legendou o křiku a ohni, typický příklad místní městské legendy.",
     "gps": {
       "lat": 43.09,
       "lon": -79.095
@@ -19130,7 +19130,7 @@
     "nazev": "Peggy's Point Lighthouse",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Majak v Nove Skotii, kde namorni krajina a tragicke pribehy vytvareji tiche pobrezni tajemno.",
+    "lead": "Maják v Novém Skotsku, kde námořní krajina a tragické příběhy vytvářejí tiché pobřežní tajemno.",
     "gps": {
       "lat": 44.492,
       "lon": -63.9189
@@ -19202,7 +19202,7 @@
     "nazev": "Great Serpent Mound Ontario",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Kanadska mohyla ve tvaru hada, mene znama ritualni krajina u jezera Rice.",
+    "lead": "Kanadská mohyla ve tvaru hada, méně známá rituální krajina u jezera Rice.",
     "gps": {
       "lat": 44.19,
       "lon": -78.24
@@ -19274,7 +19274,7 @@
     "nazev": "Poverty Point",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Staroveke zemni dilo v Louisiane, kde geometrie valu a obchodni site ukazuji slozitou predhistorickou spolecnost.",
+    "lead": "Starověké zemní dílo v Louisianě, kde geometrie valů a obchodní sítě ukazují složitou prehistorickou společnost.",
     "gps": {
       "lat": 32.6367,
       "lon": -91.4075
@@ -19346,7 +19346,7 @@
     "nazev": "Watson Brake",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jeden z nejstarsich mohylovych komplexu v Severni Americe, silny bod pro hlubokou casovou mapu.",
+    "lead": "Jeden z nejstarších mohylových komplexů v Severní Americe, silný bod pro hlubokou časovou mapu.",
     "gps": {
       "lat": 32.32,
       "lon": -92.05
@@ -19418,7 +19418,7 @@
     "nazev": "Mammoth Cave",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Nejdelsi znamy jeskynni system sveta, podzemni labyrint, jehoz rozsah presahuje beznou predstavivost.",
+    "lead": "Nejdelší známý jeskynní systém světa, podzemní labyrint, jehož rozsah přesahuje běžnou představivost.",
     "gps": {
       "lat": 37.187,
       "lon": -86.101
@@ -19490,7 +19490,7 @@
     "nazev": "Ruby Falls",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Podzemni vodopad v Lookout Mountain, turisticky citelny priklad prirodniho divadla pod zemi.",
+    "lead": "Podzemní vodopád v Lookout Mountain, turisticky čitelný příklad přírodního divadla pod zemí.",
     "gps": {
       "lat": 35.0192,
       "lon": -85.3394
@@ -19562,7 +19562,7 @@
     "nazev": "Garden of the Gods",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Rude skalni veze v Coloradu, kde geologie a jmeno vytvari prirozeny mytologicky ram.",
+    "lead": "Rudé skalní věže v Coloradu, kde geologie a jméno vytvářejí přirozený mytologický rámec.",
     "gps": {
       "lat": 38.8738,
       "lon": -104.886
@@ -19634,7 +19634,7 @@
     "nazev": "Crater Lake",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jezero v kaldere sopky Mazama, kde obri erupce zanechala dokonaly modry kruh.",
+    "lead": "Jezero v kaldeře sopky Mazama, kde obří erupce zanechala dokonalý modrý kruh.",
     "gps": {
       "lat": 42.9446,
       "lon": -122.109
@@ -19706,7 +19706,7 @@
     "nazev": "Mauna Loa",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Obri havajska sopka, kde geologie, posvatna krajina a moderni monitoring tvori silny profil.",
+    "lead": "Obří havajská sopka, kde geologie, posvátná krajina a moderní monitoring tvoří silný profil.",
     "gps": {
       "lat": 19.475,
       "lon": -155.608
@@ -19778,7 +19778,7 @@
     "nazev": "Waipoua Forest",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Les obrich kauri stromu, kde Tane Mahuta a maorska tradice davaji krajine posvatny rozmer.",
+    "lead": "Les obřích stromů kauri, kde Tāne Mahuta a maorská tradice dávají krajině posvátný rozměr.",
     "gps": {
       "lat": -35.65,
       "lon": 173.55
@@ -19850,7 +19850,7 @@
     "nazev": "Rotorua Geothermal Fields",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Geotermalni krajina pary, siry a barevnych jezirek, kde Zeme pusobi zive a neklidne.",
+    "lead": "Geotermální krajina páry, síry a barevných jezírek, kde Země působí živě a neklidně.",
     "gps": {
       "lat": -38.1368,
       "lon": 176.2497
@@ -19922,7 +19922,7 @@
     "nazev": "White Island",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Aktivni vulkanicky ostrov Whakaari, kde krasa sopky stoji vedle tragickeho rizika.",
+    "lead": "Aktivní vulkanický ostrov Whakaari, kde krása sopky stojí vedle tragického rizika.",
     "gps": {
       "lat": -37.52,
       "lon": 177.18
@@ -19994,7 +19994,7 @@
     "nazev": "Lake Taupo",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Jezero v obri sopecne kaldere, pamet jedne z nejvetsich erupci poslednich tisicileti.",
+    "lead": "Jezero v obří sopečné kaldeře, paměť jedné z největších erupcí posledních tisíciletí.",
     "gps": {
       "lat": -38.8,
       "lon": 175.9
@@ -20066,7 +20066,7 @@
     "nazev": "Waimangu Volcanic Valley",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Sopecne udoli vznikle erupci Tarawery, krajina mladych geotermalnich jevu a pameti katastrofy.",
+    "lead": "Sopečné údolí vzniklé erupcí Tarawery, krajina mladých geotermálních jevů a paměti katastrofy.",
     "gps": {
       "lat": -38.284,
       "lon": 176.401
@@ -20138,7 +20138,7 @@
     "nazev": "Bungle Bungle Range",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Pruhovane piskovcove kuzele v Purnululu, izolovana krajina, ktera pusobi jako kamenne mesto.",
+    "lead": "Pruhované pískovcové kužele v Purnululu, izolovaná krajina, která působí jako kamenné město.",
     "gps": {
       "lat": -17.5,
       "lon": 128.5
@@ -20210,7 +20210,7 @@
     "nazev": "Chocolate Hills",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Pravidelne kupy na Boholu, krajina, ktera vypada umele, ale vznikla geologickymi procesy.",
+    "lead": "Pravidelné kupy na Boholu, krajina, která vypadá uměle, ale vznikla geologickými procesy.",
     "gps": {
       "lat": 9.917,
       "lon": 124.167
@@ -20282,7 +20282,7 @@
     "nazev": "Banaue Rice Terraces",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Horske terasy Ifugao, kde krajina funguje jako monument prace, predku a vodniho systemu.",
+    "lead": "Horské terasy Ifugaů, kde krajina funguje jako monument práce, předků a vodního systému.",
     "gps": {
       "lat": 16.919,
       "lon": 121.059
@@ -20354,7 +20354,7 @@
     "nazev": "Sagada Hanging Coffins",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Rakve upevnene na skalach u Sagady, pohrebni tradice, ktera meni utes v vertikalni pamet.",
+    "lead": "Rakve upevněné na skalách u Sagady, pohřební tradice, která mění útes ve vertikální paměť.",
     "gps": {
       "lat": 17.085,
       "lon": 120.902
@@ -20426,7 +20426,7 @@
     "nazev": "Mount Pinatubo",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Sopka spojena s obri erupci roku 1991 a krajinou, kde katastrofa vytvorila kraterove jezero.",
+    "lead": "Sopka spojená s obří erupcí roku 1991 a krajinou, kde katastrofa vytvořila kráterové jezero.",
     "gps": {
       "lat": 15.1429,
       "lon": 120.3496
@@ -20498,7 +20498,7 @@
     "nazev": "Phong Nha Cave",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Krasovy jeskynni system ve Vietnamu, kde reka a vapencove prostory tvori podzemni svet.",
+    "lead": "Krasový jeskynní systém ve Vietnamu, kde řeka a vápencové prostory tvoří podzemní svět.",
     "gps": {
       "lat": 17.5333,
       "lon": 106.15
@@ -20570,7 +20570,7 @@
     "nazev": "Son Doong Cave",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Obri vietnamska jeskyne s vlastnim mikroklimatem, lesem a meritkem, ktere presahuje bezne podzemi.",
+    "lead": "Obří vietnamská jeskyně s vlastním mikroklimatem, lesem a měřítkem, které přesahuje běžné podzemí.",
     "gps": {
       "lat": 17.457,
       "lon": 106.287
@@ -20642,7 +20642,7 @@
     "nazev": "My Son Sanctuary",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Camske chramove ruiny v zelenem udoli, kde hinduisticky ritual a valecne poskozeni sdileji jednu krajinu.",
+    "lead": "Čamské chrámové ruiny v zeleném údolí, kde hinduistický rituál a válečné poškození sdílejí jednu krajinu.",
     "gps": {
       "lat": 15.765,
       "lon": 108.124
@@ -20714,7 +20714,7 @@
     "nazev": "Ha Long Bay",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Zatoka vapencovych vezi, kde prirodni scenografie a draci legenda vytvareji silny obraz.",
+    "lead": "Záliv vápencových věží, kde přírodní scenérie a dračí legenda vytvářejí silný obraz.",
     "gps": {
       "lat": 20.9101,
       "lon": 107.1839
@@ -20786,7 +20786,7 @@
     "nazev": "Ban Chiang",
     "zeme": "Thajsko",
     "kontinent": "Asie",
-    "lead": "Archeologicke misto rane kultury v jihovychodni Asii, vyznamne pro praci s materialni pameti.",
+    "lead": "Archeologické místo rané kultury v jihovýchodní Asii, významné pro práci s materiální pamětí.",
     "gps": {
       "lat": 17.406,
       "lon": 103.238
@@ -20858,7 +20858,7 @@
     "nazev": "Ayutthaya",
     "zeme": "Thajsko",
     "kontinent": "Asie",
-    "lead": "Ruiny byvale siamske metropole, kde hlavy soch, chramy a valecna destrukce tvori silny vizualni mytus.",
+    "lead": "Ruiny bývalé siamské metropole, kde hlavy soch, chrámy a válečná zkáza tvoří silný vizuální mýtus.",
     "gps": {
       "lat": 14.3556,
       "lon": 100.565
@@ -20930,7 +20930,7 @@
     "nazev": "Sukhothai",
     "zeme": "Thajsko",
     "kontinent": "Asie",
-    "lead": "Historicky park stareho kralovstvi, kde vodni plochy a chramy udrzuji obraz zlateho veku.",
+    "lead": "Historický park starého království, kde vodní plochy a chrámy udržují obraz zlatého věku.",
     "gps": {
       "lat": 17.017,
       "lon": 99.704
@@ -21002,7 +21002,7 @@
     "nazev": "Mount Popa",
     "zeme": "Myanmar",
     "kontinent": "Asie",
-    "lead": "Sopecna hora a poutni misto nat duchu, kde prirodni kuzel slouzi jako posvatny piedestal.",
+    "lead": "Sopečná hora a poutní místo duchů nat, kde přírodní kužel slouží jako posvátný podstavec.",
     "gps": {
       "lat": 20.92,
       "lon": 95.25
@@ -21074,7 +21074,7 @@
     "nazev": "Mrauk U",
     "zeme": "Myanmar",
     "kontinent": "Asie",
-    "lead": "Chramova krajina byvale arakanske metropole, mlhave ruiny mene zname nez Bagan, ale podobne silne.",
+    "lead": "Chrámová krajina bývalé arakanské metropole, mlhavé ruiny méně známé než Bagan, ale podobně silné.",
     "gps": {
       "lat": 20.591,
       "lon": 93.195
@@ -21146,7 +21146,7 @@
     "nazev": "Sigatoka Sand Dunes",
     "zeme": "Fidži",
     "kontinent": "Oceánie",
-    "lead": "Pobrezni duny s archeologickymi stopami Lapita, kde vitr odkryva davne osidleni.",
+    "lead": "Pobřežní duny s archeologickými stopami kultury Lapita, kde vítr odkrývá dávné osídlení.",
     "gps": {
       "lat": -18.165,
       "lon": 177.485
@@ -21218,7 +21218,7 @@
     "nazev": "Bora Bora Marae",
     "zeme": "Francouzská Polynésie",
     "kontinent": "Oceánie",
-    "lead": "Polyneska ceremonialni mista v ikonicke lagunove krajine, kde turismus prekryva starsi posvatnou mapu.",
+    "lead": "Polynéská obřadní místa v ikonické lagunové krajině, kde turismus překrývá starší posvátnou mapu.",
     "gps": {
       "lat": -16.5,
       "lon": -151.74
@@ -22299,7 +22299,7 @@
     "nazev": "Srebrna Gora Fortress",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Mohutna horska pevnost v Dolnim Slezsku, kde vojenska architektura vytvari labyrint a strategickou auru.",
+    "lead": "Mohutná horská pevnost v Dolním Slezsku, kde vojenská architektura vytváří labyrint a strategickou auru.",
     "gps": {
       "lat": 50.574,
       "lon": 16.65
@@ -22805,7 +22805,7 @@
     "nazev": "Prora",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Obri nacisticky rekreacni komplex na Rujane, kde meritko propagandy zustalo zapsane do pobrezni architektury.",
+    "lead": "Obří nacistický rekreační komplex na Rujaně, kde měřítko propagandy zůstalo zapsané do pobřežní architektury.",
     "gps": {
       "lat": 54.437,
       "lon": 13.574
@@ -23021,7 +23021,7 @@
     "nazev": "Maus Castle",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Rynsky hrad s vyraznym jmenem a polohou v krajine povesti, vhodny pro hustsi hradni vrstvu mapy.",
+    "lead": "Rýnský hrad s výrazným jménem a polohou v krajině pověstí, vhodný pro hustší hradní vrstvu mapy.",
     "gps": {
       "lat": 50.153,
       "lon": 7.704
@@ -23093,7 +23093,7 @@
     "nazev": "Branitz Pyramids",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Parkove pyramidy v Branitz, neobvykle evropske sepulkralni misto s egyptizujici symbolikou.",
+    "lead": "Parkové pyramidy v Branitz, neobvyklé evropské pohřební místo s egyptizující symbolikou.",
     "gps": {
       "lat": 51.743,
       "lon": 14.367
@@ -23165,7 +23165,7 @@
     "nazev": "Carnuntum",
     "zeme": "Rakousko",
     "kontinent": "Evropa",
-    "lead": "Rimske mesto u Dunaje, kde vojenska hranice imperia zanechala rekonstruovatelnou archeologickou krajinu.",
+    "lead": "Římské město u Dunaje, kde vojenská hranice impéria zanechala rekonstruovatelnou archeologickou krajinu.",
     "gps": {
       "lat": 48.112,
       "lon": 16.865
@@ -23597,7 +23597,7 @@
     "nazev": "Sphinx Observatory",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Vysokohorska observator na Jungfraujoch, kde vedecky objekt pusobi jako stanice na hranici sveta.",
+    "lead": "Vysokohorská observatoř na Jungfraujochu, kde vědecký objekt působí jako stanice na hranici světa.",
     "gps": {
       "lat": 46.5475,
       "lon": 7.985
@@ -23669,7 +23669,7 @@
     "nazev": "Val Camonica Rock Drawings",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Jedna z nejvetsich evropskych koncentraci skalnich rytin, kamenny archiv dlouhe lidske imaginace.",
+    "lead": "Jedna z největších evropských koncentrací skalních rytin, kamenný archiv dlouhé lidské imaginace.",
     "gps": {
       "lat": 45.957,
       "lon": 10.3
@@ -24245,7 +24245,7 @@
     "nazev": "Damanhur Temples",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Podzemni chramy moderni komunity Damanhur, na hrane umeni, spirituality a utajene vystavby.",
+    "lead": "Podzemní chrámy moderní komunity Damanhur, na hraně umění, spirituality a utajené výstavby.",
     "gps": {
       "lat": 45.43,
       "lon": 7.85
@@ -24605,7 +24605,7 @@
     "nazev": "Nemea",
     "zeme": "Řecko",
     "kontinent": "Evropa",
-    "lead": "Misto spojene s Heraklovym lvem a antickymi hrami, vhodne pro mytologickou mapu Recka.",
+    "lead": "Místo spojené s Héraklovým lvem a antickými hrami, vhodné pro mytologickou mapu Řecka.",
     "gps": {
       "lat": 37.807,
       "lon": 22.711
@@ -25325,7 +25325,7 @@
     "nazev": "Pyramid of the Sun Bosnia",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Kopec Visocica spojovany se spornou pyramidovou teorii, vhodny pro jasny skepticky ramec.",
+    "lead": "Kopec Visočica spojovaný se spornou pyramidovou teorií, vhodný pro jasný skeptický rámec.",
     "gps": {
       "lat": 43.988,
       "lon": 18.178
@@ -25397,7 +25397,7 @@
     "nazev": "Jajce Catacombs",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Podzemni kralovska kaple v Jajce, vytesana do skaly a spojena s bosenskou stredovekou moci.",
+    "lead": "Podzemní královská kaple v Jajci, vytesaná do skály a spojená s bosenskou středověkou mocí.",
     "gps": {
       "lat": 44.341,
       "lon": 17.27
@@ -25613,7 +25613,7 @@
     "nazev": "Salona",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Ruiny hlavniho mesta rimske Dalmacie, kde amfiteatr a nekropole tvori rozsahlou mrtvou mapu.",
+    "lead": "Ruiny hlavního města římské Dalmácie, kde amfiteátr a nekropole tvoří rozsáhlou mrtvou mapu.",
     "gps": {
       "lat": 43.541,
       "lon": 16.487
@@ -25685,7 +25685,7 @@
     "nazev": "Fort Lovrijenac",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Dubrovnicka pevnost na skale, v popkulture znama jako filmove ztelesneni moci a oblehani.",
+    "lead": "Dubrovnická pevnost na skále, v popkultuře známá jako filmové ztělesnění moci a obléhání.",
     "gps": {
       "lat": 42.641,
       "lon": 18.105
@@ -25829,7 +25829,7 @@
     "nazev": "Puzzlewood",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Les ve Forest of Dean s koreny, skalami a cestami, casto pusobici jako fantasy krajina.",
+    "lead": "Les ve Forest of Dean s kořeny, skalami a cestami, často působící jako fantasy krajina.",
     "gps": {
       "lat": 51.789,
       "lon": -2.609
@@ -25901,7 +25901,7 @@
     "nazev": "Wistman's Wood",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Prastary dubovy les na Dartmooru, kde pokroucene stromy a mlha vytvareji silnou folklorni atmosferu.",
+    "lead": "Prastarý dubový les na Dartmooru, kde pokroucené stromy a mlha vytvářejí silnou folklorní atmosféru.",
     "gps": {
       "lat": 50.578,
       "lon": -3.961
@@ -25973,7 +25973,7 @@
     "nazev": "Dartmoor Prison",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Veznice v drsne krajine Dartmooru, kde izolace a mlha pridavaji mistu temny psychologicky profil.",
+    "lead": "Věznice v drsné krajině Dartmooru, kde izolace a mlha přidávají místu temný psychologický profil.",
     "gps": {
       "lat": 50.548,
       "lon": -3.995
@@ -26045,7 +26045,7 @@
     "nazev": "Bodmin Moor",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Cornwallske vresoviste spojovane s legendami, bestii z Bodminu a opustenymi kamennymi stopami.",
+    "lead": "Cornwallské vřesoviště spojované s legendami, bestií z Bodminu a opuštěnými kamennými stopami.",
     "gps": {
       "lat": 50.574,
       "lon": -4.603
@@ -26117,7 +26117,7 @@
     "nazev": "Men-an-Tol",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Kamen s kruhovym otvorem v Cornwallu, spojovany s lecivymi a pruchodovymi ritualy.",
+    "lead": "Kámen s kruhovým otvorem v Cornwallu, spojovaný s léčivými a průchodovými rituály.",
     "gps": {
       "lat": 50.158,
       "lon": -5.605
@@ -26333,7 +26333,7 @@
     "nazev": "Rathcroghan",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Krajina Connachtskych kralu a vstupu do podsveti Oweynagat, silne misto irske mytologie.",
+    "lead": "Krajina connachtských králů a vstupu do podsvětí Oweynagat, silné místo irské mytologie.",
     "gps": {
       "lat": 53.798,
       "lon": -8.316
@@ -26549,7 +26549,7 @@
     "nazev": "Dun Aonghasa",
     "zeme": "Irsko",
     "kontinent": "Evropa",
-    "lead": "Prehistoricka pevnost na utesu Inis Mor, kamenne valy nad prudkym padem do Atlantiku.",
+    "lead": "Prehistorická pevnost na útesu ostrova Inis Mór, kamenné valy nad prudkým pádem do Atlantiku.",
     "gps": {
       "lat": 53.126,
       "lon": -9.768
@@ -26843,7 +26843,7 @@
     "nazev": "Rjukan Sun Mirrors",
     "zeme": "Norsko",
     "kontinent": "Evropa",
-    "lead": "Mesto v udoli s obri zrcadly, ktera privadeji zimni slunce na namesti a pusobi jako moderni svetelna magie.",
+    "lead": "Město v údolí s obřími zrcadly, která přivádějí zimní slunce na náměstí a působí jako moderní světelná magie.",
     "gps": {
       "lat": 59.878,
       "lon": 8.594
@@ -26987,7 +26987,7 @@
     "nazev": "Dimmuborgir",
     "zeme": "Island",
     "kontinent": "Evropa",
-    "lead": "Lavove formace u Myvatnu, kde cerny hrad z kamene prirozene pritahuje pekelne a trolli legendy.",
+    "lead": "Lávové formace u Mývatnu, kde černý hrad z kamene přirozeně přitahuje pekelné a trolí legendy.",
     "gps": {
       "lat": 65.591,
       "lon": -16.913
@@ -27059,7 +27059,7 @@
     "nazev": "Lagarfljot",
     "zeme": "Island",
     "kontinent": "Evropa",
-    "lead": "Jezero spojovane s islandskym hadim tvorem, lokalni obdoba jezernich nestvur.",
+    "lead": "Jezero spojované s islandským hadím tvorem, místní obdoba jezerních nestvůr.",
     "gps": {
       "lat": 65.25,
       "lon": -14.65
@@ -27131,7 +27131,7 @@
     "nazev": "Thingvellir",
     "zeme": "Island",
     "kontinent": "Evropa",
-    "lead": "Krajina parlamentu a tektonicke trhliny, kde politika, priroda a mytologie sedi v jednom prostoru.",
+    "lead": "Krajina parlamentu a tektonické trhliny, kde politika, příroda a mytologie sedí v jednom prostoru.",
     "gps": {
       "lat": 64.2559,
       "lon": -21.1295
@@ -27491,7 +27491,7 @@
     "nazev": "Longmen Grottoes",
     "zeme": "Čína",
     "kontinent": "Asie",
-    "lead": "Skalni buddhisticke sochy u Luoyangu, monumentalni stena viry, moci a kamenne prace.",
+    "lead": "Skalní buddhistické sochy u Luo-jangu, monumentální stěna víry, moci a kamenické práce.",
     "gps": {
       "lat": 34.559,
       "lon": 112.469
@@ -27563,7 +27563,7 @@
     "nazev": "Mogao Caves",
     "zeme": "Čína",
     "kontinent": "Asie",
-    "lead": "Buddhisticke jeskyne u Dunhuangu, malby Hedvabne stezky a duchovni archiv pouste.",
+    "lead": "Buddhistické jeskyně u Tun-chuangu, malby Hedvábné stezky a duchovní archiv pouště.",
     "gps": {
       "lat": 40.039,
       "lon": 94.805
@@ -27635,7 +27635,7 @@
     "nazev": "Yungang Grottoes",
     "zeme": "Čína",
     "kontinent": "Asie",
-    "lead": "Jeskynni chramy u Datongu, obri Buddhove vytesani do piskovce a historie severnich dynastii.",
+    "lead": "Jeskynní chrámy u Ta-tchungu, obří Buddhové vytesaní do pískovce a historie severních dynastií.",
     "gps": {
       "lat": 40.109,
       "lon": 113.122
@@ -28298,7 +28298,7 @@
     "nazev": "Taroko Gorge",
     "zeme": "Tchaj-wan",
     "kontinent": "Asie",
-    "lead": "Mramorova soutezka, kde skala, voda a chramy tvori dramaticky krajiny profil.",
+    "lead": "Mramorová soutěska, kde skála, voda a chrámy tvoří dramatický krajinný profil.",
     "gps": {
       "lat": 24.158,
       "lon": 121.621
@@ -28663,7 +28663,7 @@
     "nazev": "Seongsan Ilchulbong",
     "zeme": "Jižní Korea",
     "kontinent": "Asie",
-    "lead": "Sopecny tufovy kuzel na Jeju, vychod slunce, krater a more v jednom snadno citelnem tvaru.",
+    "lead": "Sopečný tufový kužel na Čedžu, východ slunce, kráter a moře v jednom snadno čitelném tvaru.",
     "gps": {
       "lat": 33.459,
       "lon": 126.942
@@ -28879,7 +28879,7 @@
     "nazev": "Koyasan Okunoin",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Rozsahle pohrebiste a poutni cesta na Koya, kde cedry a kamenne lampy vytvareji silnou nocni atmosferu.",
+    "lead": "Rozsáhlé pohřebiště a poutní cesta na Kójasanu, kde cedry a kamenné lampy vytvářejí silnou noční atmosféru.",
     "gps": {
       "lat": 34.214,
       "lon": 135.596
@@ -29676,7 +29676,7 @@
     "nazev": "Rani ki Vav",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Stepwell v Patanu, sestupna architektura vody, soch a ritualniho prostoru.",
+    "lead": "Schodišťová studna v Patanu, sestupná architektura vody, soch a rituálního prostoru.",
     "gps": {
       "lat": 23.858,
       "lon": 72.101
@@ -29825,7 +29825,7 @@
     "nazev": "Ajanta Caves",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Buddhisticke jeskynni chramy s malbami, kamenny archiv viry a obchodnich cest.",
+    "lead": "Buddhistické jeskynní chrámy s malbami, kamenný archiv víry a obchodních cest.",
     "gps": {
       "lat": 20.552,
       "lon": 75.703
@@ -30190,7 +30190,7 @@
     "nazev": "Charminar",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Symbol Hyderabadu spojeny s urbanistickou pameti, epidemiemi a obchodnim mestem.",
+    "lead": "Symbol Hajdarábádu spojený s urbanistickou pamětí, epidemiemi a obchodním městem.",
     "gps": {
       "lat": 17.3616,
       "lon": 78.4747
@@ -30406,7 +30406,7 @@
     "nazev": "Chittorgarh Fort",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Rozsahla pevnost Radzastanu, spojovana s oblehanimi, obetmi a kralovskou pameti.",
+    "lead": "Rozsáhlá pevnost v Rádžasthánu, spojovaná s obléháními, oběťmi a královskou pamětí.",
     "gps": {
       "lat": 24.888,
       "lon": 74.646
@@ -30478,7 +30478,7 @@
     "nazev": "Jaisalmer Fort",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Ziva poustni pevnost v Tharu, zluty kamen, karavanni pamet a uzke ulice.",
+    "lead": "Živá pouštní pevnost v Tháru, žlutý kámen, karavanní paměť a úzké ulice.",
     "gps": {
       "lat": 26.912,
       "lon": 70.913
@@ -30550,7 +30550,7 @@
     "nazev": "Mawlynnong Living Root Bridge",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Zive korenove mosty Meghalaye, spojeni stromu, vody a lidske trpelivosti.",
+    "lead": "Živé kořenové mosty Méghálaje, spojení stromů, vody a lidské trpělivosti.",
     "gps": {
       "lat": 25.202,
       "lon": 91.916
@@ -30766,7 +30766,7 @@
     "nazev": "Bagerhat Mosque City",
     "zeme": "Bangladéš",
     "kontinent": "Asie",
-    "lead": "Historicke mesto mesit a vodnich systemu, kde architektura drzi pamet stredovekeho Bengalu.",
+    "lead": "Historické město mešit a vodních systémů, kde architektura drží paměť středověkého Bengálska.",
     "gps": {
       "lat": 22.674,
       "lon": 89.741
@@ -30910,7 +30910,7 @@
     "nazev": "Dambulla Cave Temple",
     "zeme": "Sri Lanka",
     "kontinent": "Asie",
-    "lead": "Jeskynni buddhisticky komplex se sochami a malbami v posvatne skale.",
+    "lead": "Jeskynní buddhistický komplex se sochami a malbami v posvátné skále.",
     "gps": {
       "lat": 7.856,
       "lon": 80.65
@@ -31126,7 +31126,7 @@
     "nazev": "Shalimar Gardens Lahore",
     "zeme": "Pákistán",
     "kontinent": "Asie",
-    "lead": "Mughalske zahrady v Lahore, kde voda, osa a terasa vytvareji idealizovanou rajskou krajinu.",
+    "lead": "Mughalské zahrady v Láhauru, kde voda, osa a terasy vytvářejí idealizovanou rajskou krajinu.",
     "gps": {
       "lat": 31.588,
       "lon": 74.382
@@ -31270,7 +31270,7 @@
     "nazev": "Baltit Fort",
     "zeme": "Pákistán",
     "kontinent": "Asie",
-    "lead": "Horska pevnost v Hunze, kde izolace, drevena architektura a pohled na Karakoram vytvareji silny dojem.",
+    "lead": "Horská pevnost v Hunze, kde izolace, dřevěná architektura a pohled na Karákóram vytvářejí silný dojem.",
     "gps": {
       "lat": 36.3265,
       "lon": 74.669
@@ -31414,7 +31414,7 @@
     "nazev": "Makli Necropolis",
     "zeme": "Pákistán",
     "kontinent": "Asie",
-    "lead": "Rozsahla nekropole u Thatty, kamenne hrobky a dlouha pamet dynastii Sindhu.",
+    "lead": "Rozsáhlá nekropole u Thatty, kamenné hrobky a dlouhá paměť dynastií Sindhu.",
     "gps": {
       "lat": 24.746,
       "lon": 67.9
@@ -31774,7 +31774,7 @@
     "nazev": "Gonur Tepe",
     "zeme": "Turkmenistán",
     "kontinent": "Asie",
-    "lead": "Archeologicke centrum Margiany v pousti Karakum, zanikly svet opevneni, ritualu a vodnich systemu.",
+    "lead": "Archeologické centrum Margiany v poušti Karakum, zaniklý svět opevnění, rituálů a vodních systémů.",
     "gps": {
       "lat": 38,
       "lon": 62
@@ -31990,7 +31990,7 @@
     "nazev": "Tamgaly Petroglyphs",
     "zeme": "Kazachstán",
     "kontinent": "Asie",
-    "lead": "Skalni obrazce v kazasske stepi, slunecni postavy a zvirata jako praveky symbolicky archiv.",
+    "lead": "Skalní obrazce v kazašské stepi, sluneční postavy a zvířata jako pravěký symbolický archiv.",
     "gps": {
       "lat": 43.803,
       "lon": 75.536
@@ -32062,7 +32062,7 @@
     "nazev": "Burana Tower",
     "zeme": "Kyrgyzstán",
     "kontinent": "Asie",
-    "lead": "Minaret zanikleho mesta Balasagun, zbytek moci Karachanu v stepni krajine.",
+    "lead": "Minaret zaniklého města Balasagun, zbytek moci Karachánovců ve stepní krajině.",
     "gps": {
       "lat": 42.746,
       "lon": 75.25
@@ -32273,7 +32273,7 @@
     "nazev": "Yamchun Fortress",
     "zeme": "Tádžikistán",
     "kontinent": "Asie",
-    "lead": "Pevnost nad Pamirem, kde horska izolace a Hedvabna stezka vytvareji pocit strazniho mista.",
+    "lead": "Pevnost nad Pamírem, kde horská izolace a Hedvábná stezka vytvářejí pocit strážního místa.",
     "gps": {
       "lat": 36.97,
       "lon": 72.28
@@ -32494,7 +32494,7 @@
     "nazev": "Shushtar Historical Hydraulic System",
     "zeme": "Írán",
     "kontinent": "Asie",
-    "lead": "Staroveky vodni system, kde kanaly, mlyny a prehrady meni mesto v technickou krajinu.",
+    "lead": "Starověký vodní systém, kde kanály, mlýny a přehrady mění město v technickou krajinu.",
     "gps": {
       "lat": 32.045,
       "lon": 48.856
@@ -33229,7 +33229,7 @@
     "nazev": "Ajloun Castle",
     "zeme": "Jordansko",
     "kontinent": "Asie",
-    "lead": "Stredoveka pevnost v jordanskych horach, vazana na krizacke konflikty a kontrolu cest.",
+    "lead": "Středověká pevnost v jordánských horách, vázaná na křižácké konflikty a kontrolu cest.",
     "gps": {
       "lat": 32.326,
       "lon": 35.727
@@ -33743,7 +33743,7 @@
     "nazev": "Yanar Dag",
     "zeme": "Ázerbájdžán",
     "kontinent": "Asie",
-    "lead": "Horici svah s uniky plynu, jednoducha, ale pusobiva ukazka zeme, ktera sama hori.",
+    "lead": "Hořící svah s únikem plynu, jednoduchá, ale působivá ukázka země, která sama hoří.",
     "gps": {
       "lat": 40.502,
       "lon": 49.891
@@ -33887,7 +33887,7 @@
     "nazev": "Choquequirao",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Odlehle incke mesto nad hlubokymi udolimi, namahavy protipol znamejsich andskych ikon.",
+    "lead": "Odlehlé incké město nad hlubokými údolími, namáhavý protějšek známějších andských ikon.",
     "gps": {
       "lat": -13.392,
       "lon": -72.872
@@ -34036,7 +34036,7 @@
     "nazev": "Chan Chan",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Rozsahle hlinene mesto kultury Chimu, monumentalni labyrint zdobi, sten a rozpadajiciho se klimatu.",
+    "lead": "Rozsáhlé hliněné město kultury Chimú, monumentální labyrint zdobených stěn rozpadajících se pod vlivem klimatu.",
     "gps": {
       "lat": -8.111,
       "lon": -79.075
@@ -34761,7 +34761,7 @@
     "nazev": "Paramonga Fortress",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Adobe pevnost na peruanskem pobrezi, kde zed a poust vytvareji opusteny strazni bod.",
+    "lead": "Pevnost z nepálených cihel na peruánském pobřeží, kde zeď a poušť vytvářejí opuštěný strážní bod.",
     "gps": {
       "lat": -10.675,
       "lon": -77.82
@@ -34833,7 +34833,7 @@
     "nazev": "Puruchuco",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Incke spravni misto u Limy s pohrebni vrstvou, kde mesto prerostlo davnou krajinu.",
+    "lead": "Incké správní místo u Limy s pohřební vrstvou, kde město přerostlo dávnou krajinu.",
     "gps": {
       "lat": -12.04,
       "lon": -76.935
@@ -35193,7 +35193,7 @@
     "nazev": "Los Glaciares Perito Moreno",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Ledovec Perito Moreno, kde praskani ledu a zive pohyby krajiny vytvareji dramatickou prirodni scenu.",
+    "lead": "Ledovec Perito Moreno, kde praskání ledu a živé pohyby krajiny vytvářejí dramatickou přírodní scénu.",
     "gps": {
       "lat": -50.496,
       "lon": -73.137
@@ -35265,7 +35265,7 @@
     "nazev": "Esteros del Ibera",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Mokrady plne vody a zvirat, kde plovouci krajina a mistni vypraveni tvori pomaly labyrint.",
+    "lead": "Mokřady plné vody a zvířat, kde plovoucí krajina a místní vyprávění tvoří pomalý labyrint.",
     "gps": {
       "lat": -28.5,
       "lon": -57
@@ -35553,7 +35553,7 @@
     "nazev": "Sewell Mining Town",
     "zeme": "Chile",
     "kontinent": "Jižní Amerika",
-    "lead": "Horske dulni mesto schodu a barev, prumyslova utopie vysoko nad udolim.",
+    "lead": "Horské důlní město schodů a barev, průmyslová utopie vysoko nad údolím.",
     "gps": {
       "lat": -34.083,
       "lon": -70.383
@@ -35625,7 +35625,7 @@
     "nazev": "Valparaiso Funiculars",
     "zeme": "Chile",
     "kontinent": "Jižní Amerika",
-    "lead": "Stare vytahy a kopce Valparaisa, mestska topografie s atmosferou labyrintu nad pristavem.",
+    "lead": "Staré lanovky a kopce Valparaísa, městská topografie s atmosférou labyrintu nad přístavem.",
     "gps": {
       "lat": -33.047,
       "lon": -71.612
@@ -35774,7 +35774,7 @@
     "nazev": "Valley of the Moon Bolivia",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Erozni krajina u La Pazu, jejiz hlinene tvary pripominaji povrch jineho sveta.",
+    "lead": "Erozní krajina u La Pazu, jejíž hliněné tvary připomínají povrch jiného světa.",
     "gps": {
       "lat": -16.567,
       "lon": -68.093
@@ -35918,7 +35918,7 @@
     "nazev": "Madidi",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Biodiverzitni amazonska krajina, kde odlehlost a prales podporuji pribehy o ztracenych trasach.",
+    "lead": "Amazonská krajina plná biodiverzity, kde odlehlost a prales podporují příběhy o ztracených trasách.",
     "gps": {
       "lat": -14,
       "lon": -68.5
@@ -35990,7 +35990,7 @@
     "nazev": "Noel Kempff Mercado National Park",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Stolove hory, vodopady a prales na hranici Bolivie, krajina s motivem skryteho sveta.",
+    "lead": "Stolové hory, vodopády a prales na hranici Bolívie, krajina s motivem skrytého světa.",
     "gps": {
       "lat": -14.267,
       "lon": -60.867
@@ -36062,7 +36062,7 @@
     "nazev": "Kaieteur Falls",
     "zeme": "Guyana",
     "kontinent": "Jižní Amerika",
-    "lead": "Mohutny vodopad v pralesnim vnitrozemi, izolace, mlha a syrova sila vody.",
+    "lead": "Mohutný vodopád v pralesním vnitrozemí, izolace, mlha a syrová síla vody.",
     "gps": {
       "lat": 5.176,
       "lon": -59.48
@@ -36278,7 +36278,7 @@
     "nazev": "Canaima Lagoon",
     "zeme": "Venezuela",
     "kontinent": "Jižní Amerika",
-    "lead": "Laguna, vodopady a stolove hory v Canaime, prirodni amfiteatr s mytickym horizontem.",
+    "lead": "Laguna, vodopády a stolové hory v Canaimě, přírodní amfiteátr s mýtickým horizontem.",
     "gps": {
       "lat": 6.24,
       "lon": -62.85
@@ -36422,7 +36422,7 @@
     "nazev": "La Venta Cave",
     "zeme": "Ekvádor",
     "kontinent": "Jižní Amerika",
-    "lead": "Jeskynni oblast v amazonskem predhuri, dalsi podzemni uzel pro mapu jihoamerickych zahad.",
+    "lead": "Jeskynní oblast v amazonském předhůří, další podzemní uzel pro mapu jihoamerických záhad.",
     "gps": {
       "lat": -1.9,
       "lon": -77.9
@@ -36710,7 +36710,7 @@
     "nazev": "Diquis Stone Spheres",
     "zeme": "Kostarika",
     "kontinent": "Severní Amerika",
-    "lead": "Dokonale pusobici kamenne koule, archeologicky jev casto obalovany prehnanymi spekulacemi.",
+    "lead": "Dokonale působící kamenné koule, archeologický jev často obalovaný přehnanými spekulacemi.",
     "gps": {
       "lat": 8.91,
       "lon": -83.47
@@ -36931,7 +36931,7 @@
     "nazev": "Joya de Ceren",
     "zeme": "Salvador",
     "kontinent": "Severní Amerika",
-    "lead": "Vesnice zakonzervovana sopecnym popelem, kazdodenni stredni Amerika zachycena jako archeologicky okamzik.",
+    "lead": "Vesnice zakonzervovaná sopečným popelem, každodenní Střední Amerika zachycená jako archeologický okamžik.",
     "gps": {
       "lat": 13.828,
       "lon": -89.369
@@ -37003,7 +37003,7 @@
     "nazev": "Tazumal",
     "zeme": "Salvador",
     "kontinent": "Severní Amerika",
-    "lead": "Archeologicky komplex v Chalchuape, vrstvy pyramid, hrobek a regionalni moci na zapade Salvadoru.",
+    "lead": "Archeologický komplex v Chalchuapě, vrstvy pyramid, hrobek a regionální moci na západě Salvadoru.",
     "gps": {
       "lat": 13.979,
       "lon": -89.674
@@ -37369,7 +37369,7 @@
     "nazev": "Blue Mountains Jamaica",
     "zeme": "Jamajka",
     "kontinent": "Severní Amerika",
-    "lead": "Horska krajina Jamajky s mlhou, maroonskou historii a prirozenou atmosferou ukrytych tras.",
+    "lead": "Horská krajina Jamajky s mlhou, maroonskou historií a přirozenou atmosférou ukrytých tras.",
     "gps": {
       "lat": 18.1,
       "lon": -76.65
@@ -37657,7 +37657,7 @@
     "nazev": "El Yunque",
     "zeme": "Portoriko",
     "kontinent": "Severní Amerika",
-    "lead": "Horsky destny les Portorika s domorodou mytologii a mlznou tropickou atmosferou.",
+    "lead": "Horský deštný les Portorika s domorodou mytologií a mlžnou tropickou atmosférou.",
     "gps": {
       "lat": 18.3,
       "lon": -65.79
@@ -37806,7 +37806,7 @@
     "nazev": "Puka Pukara",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Incka cervena pevnost u Cuska, mensi, ale dulezity bod obrany a cestovni kontroly.",
+    "lead": "Incká červená pevnost u Cuzka, menší, ale důležitý bod obrany a kontroly cest.",
     "gps": {
       "lat": -13.482,
       "lon": -71.96
@@ -38094,7 +38094,7 @@
     "nazev": "Vilcabamba Espiritu Pampa",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Misto spojovane s poslednim inckym odporem, pralesni vrstva dejin mezi utokem, ustupem a padem.",
+    "lead": "Místo spojované s posledním inckým odporem, pralesní vrstva dějin mezi útokem, ústupem a pádem.",
     "gps": {
       "lat": -12.91,
       "lon": -73.22
@@ -38454,7 +38454,7 @@
     "nazev": "Ahu Tongariki",
     "zeme": "Chile",
     "kontinent": "Oceánie",
-    "lead": "Nejvetsi rad moai na Rapa Nui, monumentalni pobrezi pred vulkanickou krajinou a Pacifikem.",
+    "lead": "Největší řada moai na Rapa Nui, monumentální pobřeží před vulkanickou krajinou a Pacifikem.",
     "gps": {
       "lat": -27.125,
       "lon": -109.276
@@ -38526,7 +38526,7 @@
     "nazev": "Anakena Beach",
     "zeme": "Chile",
     "kontinent": "Jižní Amerika",
-    "lead": "Plaz na Rapa Nui spojovana s prichodem zakladatele, kde rajsky obraz nese mytickou vrstvu.",
+    "lead": "Pláž na Rapa Nui spojovaná s příchodem zakladatele, kde rajský obraz nese mýtickou vrstvu.",
     "gps": {
       "lat": -27.073,
       "lon": -109.323
@@ -38814,7 +38814,7 @@
     "nazev": "Quebrada de Humahuaca",
     "zeme": "Argentina",
     "kontinent": "Jižní Amerika",
-    "lead": "Barevna andska soutezka s dlouhou kulturni trasou, prirodni koridor pameti a obchodu.",
+    "lead": "Barevná andská soutěska s dlouhou kulturní trasou, přírodní koridor paměti a obchodu.",
     "gps": {
       "lat": -23.2,
       "lon": -65.35
@@ -39102,7 +39102,7 @@
     "nazev": "Teyu Cuare",
     "zeme": "Paraguay",
     "kontinent": "Jižní Amerika",
-    "lead": "Skalni oblast spojovana s legendami o ukrytech nacistech a izolovanych pevnostech u reky Parana.",
+    "lead": "Skalní oblast spojovaná s legendami o ukrývaných nacistech a izolovaných pevnostech u řeky Paraná.",
     "gps": {
       "lat": -27.28,
       "lon": -56.05
@@ -39174,7 +39174,7 @@
     "nazev": "Itaipu Dam",
     "zeme": "Paraguay",
     "kontinent": "Jižní Amerika",
-    "lead": "Obri prehrada na Parane, technicky monument, ktery zmenil krajinu i predstavu lidske kontroly vody.",
+    "lead": "Obří přehrada na Paraně, technický monument, který změnil krajinu i představu lidské kontroly vody.",
     "gps": {
       "lat": -25.408,
       "lon": -54.588
@@ -39246,7 +39246,7 @@
     "nazev": "Jesuit Missions of La Santisima Trinidad",
     "zeme": "Paraguay",
     "kontinent": "Jižní Amerika",
-    "lead": "Ruiny jezuitske misie, kde plan idealni komunity zustal jako kamenny a travnaty otisk.",
+    "lead": "Ruiny jezuitské misie, kde plán ideální komunity zůstal jako kamenný a travnatý otisk.",
     "gps": {
       "lat": -27.13,
       "lon": -55.7
@@ -39390,7 +39390,7 @@
     "nazev": "Kunta Kinteh Island",
     "zeme": "Gambie",
     "kontinent": "Afrika",
-    "lead": "Maly ostrov v rece Gambii, silne citlive misto obchodni, pevnostni a otrokarske pameti.",
+    "lead": "Malý ostrov v řece Gambii, velmi citlivé místo obchodní, pevnostní a otrokářské paměti.",
     "gps": {
       "lat": 13.317,
       "lon": -16.363
@@ -39606,7 +39606,7 @@
     "nazev": "Ksar Ouadane",
     "zeme": "Mauritánie",
     "kontinent": "Afrika",
-    "lead": "Stare karavanni mesto v pousti, kde ruiny a vitr pripominaji zanikly obchodni svet.",
+    "lead": "Staré karavanní město v poušti, kde ruiny a vítr připomínají zaniklý obchodní svět.",
     "gps": {
       "lat": 20.93,
       "lon": -11.62
@@ -39678,7 +39678,7 @@
     "nazev": "Tsingy de Bemaraha",
     "zeme": "Madagaskar",
     "kontinent": "Afrika",
-    "lead": "Ostra vapencova jehlova krajina na Madagaskaru, prirodni labyrint, kde se pohyb meni v vyzvu.",
+    "lead": "Ostrá vápencová jehlová krajina na Madagaskaru, přírodní labyrint, kde se pohyb mění ve výzvu.",
     "gps": {
       "lat": -18.667,
       "lon": 44.75
@@ -39750,7 +39750,7 @@
     "nazev": "Avenue of the Baobabs",
     "zeme": "Madagaskar",
     "kontinent": "Afrika",
-    "lead": "Alej baobabu u Morondavy, ikonicky stromovy koridor, ktery pusobi jako prirodni ceremonialni cesta.",
+    "lead": "Alej baobabů u Morondavy, ikonický stromový koridor, který působí jako přírodní obřadní cesta.",
     "gps": {
       "lat": -20.25,
       "lon": 44.419
@@ -40044,7 +40044,7 @@
     "nazev": "Lamu Fort",
     "zeme": "Keňa",
     "kontinent": "Afrika",
-    "lead": "Pevnost v historickem Lamu, doplnek svahilske ostrovni mapy obchodu a moci.",
+    "lead": "Pevnost v historickém Lamu, doplněk svahilské ostrovní mapy obchodu a moci.",
     "gps": {
       "lat": -2.269,
       "lon": 40.902
@@ -40116,7 +40116,7 @@
     "nazev": "Fort Jesus Mombasa",
     "zeme": "Keňa",
     "kontinent": "Afrika",
-    "lead": "Portugalska pevnost v Mombase, kamenny uzel Indickeho oceanu, obchodu a kolonialni kontroly.",
+    "lead": "Portugalská pevnost v Mombase, kamenný uzel Indického oceánu, obchodu a koloniální kontroly.",
     "gps": {
       "lat": -4.062,
       "lon": 39.679
@@ -40188,7 +40188,7 @@
     "nazev": "Kondoa Rock Art",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Skalni malby ve stredni Tanzanii, rozsahla galerie lidskych a zvirrecich motivu v suchych kopcich.",
+    "lead": "Skalní malby ve střední Tanzanii, rozsáhlá galerie lidských a zvířecích motivů v suchých kopcích.",
     "gps": {
       "lat": -4.724,
       "lon": 35.834
@@ -40260,7 +40260,7 @@
     "nazev": "Laas Geel",
     "zeme": "Somaliland",
     "kontinent": "Afrika",
-    "lead": "Skalni malby u Hargeisy, vyrazny praveky obraz dobytka a lidske pritomnosti v suchych kopcich.",
+    "lead": "Skalní malby u Hargeisy, výrazný pravěký obraz dobytka a lidské přítomnosti v suchých kopcích.",
     "gps": {
       "lat": 9.78,
       "lon": 44.44
@@ -40332,7 +40332,7 @@
     "nazev": "Marib Dam",
     "zeme": "Jemen",
     "kontinent": "Asie",
-    "lead": "Staroveka prehradni krajina Saby, kde technika vody a zanik kralovstvi vytvareji silny motiv.",
+    "lead": "Starověká přehradní krajina Sáby, kde technika vody a zánik království vytvářejí silný motiv.",
     "gps": {
       "lat": 15.45,
       "lon": 45.33
@@ -40476,7 +40476,7 @@
     "nazev": "Bahla Fort",
     "zeme": "Omán",
     "kontinent": "Asie",
-    "lead": "Hlinena pevnost a oaza v Omanu, v mistnich vypravenich casto spojovana s dziny a magii.",
+    "lead": "Hliněná pevnost a oáza v Ománu, v místních vyprávěních často spojovaná s džiny a magií.",
     "gps": {
       "lat": 22.965,
       "lon": 57.3
@@ -40548,7 +40548,7 @@
     "nazev": "Jebel Shams",
     "zeme": "Omán",
     "kontinent": "Asie",
-    "lead": "Horska krajina a omanovsky Grand Canyon, kde hloubka a sucho vytvareji dramaticky prirodni profil.",
+    "lead": "Horská krajina a ománský Grand Canyon, kde hloubka a sucho vytvářejí dramatický přírodní profil.",
     "gps": {
       "lat": 23.237,
       "lon": 57.264
@@ -40764,7 +40764,7 @@
     "nazev": "Fujairah Fort",
     "zeme": "Spojené arabské emiráty",
     "kontinent": "Asie",
-    "lead": "Stara pevnost ve Fudzajre, kamenny uzel mezi horami, pousti a pobrezim.",
+    "lead": "Stará pevnost ve Fudžajře, kamenný uzel mezi horami, pouští a pobřežím.",
     "gps": {
       "lat": 25.135,
       "lon": 56.339
@@ -40836,7 +40836,7 @@
     "nazev": "Hili Archaeological Park",
     "zeme": "Spojené arabské emiráty",
     "kontinent": "Asie",
-    "lead": "Archeologicky park s hrobkami Umm an-Nar, staroveka vrstva pod moderni mapou Emiratu.",
+    "lead": "Archeologický park s hrobkami kultury Umm an-Nar, starověká vrstva pod moderní mapou Emirátů.",
     "gps": {
       "lat": 24.288,
       "lon": 55.79
@@ -41196,7 +41196,7 @@
     "nazev": "Wave Rock",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Skalni vlna v Zapadni Australii, geologicky tvar pusobici jako zmrzly pohyb oceanu.",
+    "lead": "Skalní vlna v Západní Austrálii, geologický tvar působící jako zamrzlý pohyb oceánu.",
     "gps": {
       "lat": -32.443,
       "lon": 118.897
@@ -41268,7 +41268,7 @@
     "nazev": "Wilpena Pound",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Prirodni amfiteatr Flinders Ranges, geologie a adnyamathanha pribehy v obrovske kamenne misce.",
+    "lead": "Přírodní amfiteátr ve Flinders Ranges, geologie a příběhy Adnyamathanhů v obrovské kamenné míse.",
     "gps": {
       "lat": -31.527,
       "lon": 138.615
@@ -41417,7 +41417,7 @@
     "nazev": "Tasmanian Devil's Kitchen",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Pobrezni skalni utvar na Tasmanii, kde jmeno a eroze vytvareji pekelny morsky motiv.",
+    "lead": "Pobřežní skalní útvar na Tasmánii, kde jméno a eroze vytvářejí pekelný mořský motiv.",
     "gps": {
       "lat": -43.06,
       "lon": 147.95
@@ -41561,7 +41561,7 @@
     "nazev": "Nan Tien Temple",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Velky buddhisticky chram v Australii, moderni duchovni bod mimo tradicni asijskou mapu.",
+    "lead": "Velký buddhistický chrám v Austrálii, moderní duchovní bod mimo tradiční asijskou mapu.",
     "gps": {
       "lat": -34.472,
       "lon": 150.847
@@ -41633,7 +41633,7 @@
     "nazev": "Aitutaki Lagoon",
     "zeme": "Cookovy ostrovy",
     "kontinent": "Oceánie",
-    "lead": "Laguna ostrova Aitutaki, kde polyneska krajina a more vytvareji skoro mytickou izolaci.",
+    "lead": "Laguna ostrova Aitutaki, kde polynéská krajina a moře vytvářejí skoro mýtickou izolaci.",
     "gps": {
       "lat": -18.85,
       "lon": -159.785
@@ -41705,7 +41705,7 @@
     "nazev": "Rarotonga Needle",
     "zeme": "Cookovy ostrovy",
     "kontinent": "Oceánie",
-    "lead": "Skalni jehla Te Rua Manga nad Rarotongou, prirodni dominanta s ostrovni aurou.",
+    "lead": "Skalní jehla Te Rua Manga nad Rarotongou, přírodní dominanta s ostrovní aurou.",
     "gps": {
       "lat": -21.231,
       "lon": -159.776
@@ -41849,7 +41849,7 @@
     "nazev": "Lapaha Royal Tombs",
     "zeme": "Tonga",
     "kontinent": "Oceánie",
-    "lead": "Kralovske hrobky langi, kamenne stupne polyneske politicke a pohrebni pameti.",
+    "lead": "Královské hrobky langi, kamenné stupně polynéské politické a pohřební paměti.",
     "gps": {
       "lat": -21.18,
       "lon": -175.12
@@ -41998,7 +41998,7 @@
     "nazev": "Badrulchau Stone Monoliths",
     "zeme": "Palau",
     "kontinent": "Oceánie",
-    "lead": "Kamene monolity na Palau, jejich ucel a poloha zivi lokalni a archeologicke otazky.",
+    "lead": "Kamenné monolity na Palau, jejichž účel a poloha živí místní i archeologické otázky.",
     "gps": {
       "lat": 7.7,
       "lon": 134.62
@@ -42070,7 +42070,7 @@
     "nazev": "Rock Islands Palau",
     "zeme": "Palau",
     "kontinent": "Oceánie",
-    "lead": "Vapencove ostrovy a laguny Palau, prirodni labyrint vody a zelenych skal.",
+    "lead": "Vápencové ostrovy a laguny Palau, přírodní labyrint vody a zelených skal.",
     "gps": {
       "lat": 7.25,
       "lon": 134.37
@@ -42291,7 +42291,7 @@
     "nazev": "Ambrym Volcano",
     "zeme": "Vanuatu",
     "kontinent": "Oceánie",
-    "lead": "Sopecny ostrov Ambrym, kraterova krajina a silna tradice masek, duchu a ohnive zeme.",
+    "lead": "Sopečný ostrov Ambrym, kráterová krajina a silná tradice masek, duchů a ohnivé země.",
     "gps": {
       "lat": -16.25,
       "lon": 168.12
@@ -42363,7 +42363,7 @@
     "nazev": "Rennell East",
     "zeme": "Šalamounovy ostrovy",
     "kontinent": "Oceánie",
-    "lead": "Izolovany koralovy ostrov s velkym jezerem, prirodni svet na okraji mapy.",
+    "lead": "Izolovaný korálový ostrov s velkým jezerem, přírodní svět na okraji mapy.",
     "gps": {
       "lat": -11.65,
       "lon": 160.3
@@ -42435,7 +42435,7 @@
     "nazev": "Kuk Early Agricultural Site",
     "zeme": "Papua-Nová Guinea",
     "kontinent": "Oceánie",
-    "lead": "Mokriny s dukazy velmi stareho zemedelstvi, kde krajina uchovala technickou pamet pestovani.",
+    "lead": "Mokřiny s důkazy velmi starého zemědělství, kde krajina uchovala technickou paměť pěstování.",
     "gps": {
       "lat": -5.78,
       "lon": 144.33
@@ -42733,7 +42733,7 @@
     "nazev": "Rendlesham Forest",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Les u byvale vojenske zakladny, spojovany s jednim z nejslavnejsich britskych UFO incidentu.",
+    "lead": "Les u bývalé vojenské základny, spojovaný s jedním z nejslavnějších britských incidentů s UFO.",
     "gps": {
       "lat": 52.088,
       "lon": 1.43
@@ -42805,7 +42805,7 @@
     "nazev": "Warminster Thing",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Mesto spojene s vlnou zvuku a pozorovani UFO v 60. letech, silny pripad medialniho tajemna.",
+    "lead": "Město spojené s vlnou zvuků a pozorování UFO v 60. letech, silný případ mediálního tajemna.",
     "gps": {
       "lat": 51.204,
       "lon": -2.181
@@ -42877,7 +42877,7 @@
     "nazev": "Bonnybridge UFO Triangle",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Skotska oblast s castymi UFO hlasenimi, vhodna pro mapu modernich svedectvi a skeptickeho overovani.",
+    "lead": "Skotská oblast s častými hlášeními UFO, vhodná pro mapu moderních svědectví a skeptického ověřování.",
     "gps": {
       "lat": 56.001,
       "lon": -3.887
@@ -42949,7 +42949,7 @@
     "nazev": "Dulce Base",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Mesto spojovane s konspiracni legendou o podzemni zakladne, typicky priklad neovereneho UFO mytu.",
+    "lead": "Město spojované s konspirační legendou o podzemní základně, typický příklad neověřeného mýtu o UFO.",
     "gps": {
       "lat": 36.933,
       "lon": -106.998
@@ -43094,7 +43094,7 @@
     "nazev": "Cheyenne Mountain Complex",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Podzemni vojensky komplex v Coloradu, kde studena valka a horske podzemi tvori silny obraz bunkru.",
+    "lead": "Podzemní vojenský komplex v Coloradu, kde studená válka a horské podzemí tvoří silný obraz bunkru.",
     "gps": {
       "lat": 38.744,
       "lon": -104.848
@@ -43166,7 +43166,7 @@
     "nazev": "Dugway Proving Ground",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Testovaci oblast v Utahu, casto obalena spekulacemi o chemii, vojenstvi a utajenych experimentech.",
+    "lead": "Testovací oblast v Utahu, často obalená spekulacemi o chemii, armádě a utajených experimentech.",
     "gps": {
       "lat": 40.18,
       "lon": -112.92
@@ -43238,7 +43238,7 @@
     "nazev": "Nevada Test Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jaderna testovaci krajina Nevady, moderni poustni mapa explozi, radiace a politicke pameti.",
+    "lead": "Jaderná testovací krajina Nevady, moderní pouštní mapa explozí, radiace a politické paměti.",
     "gps": {
       "lat": 37.116,
       "lon": -116.05
@@ -43310,7 +43310,7 @@
     "nazev": "Trinity Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Misto prvniho jaderneho vybuchu, kde zacal atomovy vek a nova forma lidske katastroficke sily.",
+    "lead": "Místo prvního jaderného výbuchu, kde začal atomový věk a nová forma lidské katastrofické síly.",
     "gps": {
       "lat": 33.6773,
       "lon": -106.4754
@@ -43382,7 +43382,7 @@
     "nazev": "Hanford Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jaderny komplex na Columbia River, krajina vyroby plutonia, kontaminace a technicke pameti.",
+    "lead": "Jaderný komplex na řece Columbia, krajina výroby plutonia, kontaminace a technické paměti.",
     "gps": {
       "lat": 46.55,
       "lon": -119.5
@@ -43454,7 +43454,7 @@
     "nazev": "Yucca Mountain",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Kontroverzni uloziste jaderneho odpadu, moderni podzemni symbol dlouhodobeho rizika.",
+    "lead": "Kontroverzní úložiště jaderného odpadu, moderní podzemní symbol dlouhodobého rizika.",
     "gps": {
       "lat": 36.853,
       "lon": -116.426
@@ -43526,7 +43526,7 @@
     "nazev": "WIPP Carlsbad",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Hlubinne uloziste jaderneho odpadu v soli, technicky podzemni svet planovany na tisice let.",
+    "lead": "Hlubinné úložiště jaderného odpadu v soli, technický podzemní svět plánovaný na tisíce let.",
     "gps": {
       "lat": 32.371,
       "lon": -103.793
@@ -43598,7 +43598,7 @@
     "nazev": "SL-1 Reactor Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Misto smrtelne jaderne havarie v Idahu, temny bod pocatku reaktoroveho veku.",
+    "lead": "Místo smrtelné jaderné havárie v Idahu, temný bod počátků reaktorového věku.",
     "gps": {
       "lat": 43.52,
       "lon": -112.83
@@ -43742,7 +43742,7 @@
     "nazev": "Times Beach",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Mesto evakuovane kvuli dioxinu, moderni ztracene misto ekologicke katastrofy.",
+    "lead": "Město evakuované kvůli dioxinu, moderní ztracené místo ekologické katastrofy.",
     "gps": {
       "lat": 38.509,
       "lon": -90.657
@@ -43814,7 +43814,7 @@
     "nazev": "Waverly Hills Sanatorium",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Byvale tuberkulozni sanatorium v Louisville, silna ikona americke paranormalni turistiky.",
+    "lead": "Bývalé tuberkulózní sanatorium v Louisvillu, silná ikona americké paranormální turistiky.",
     "gps": {
       "lat": 38.13,
       "lon": -85.842
@@ -43886,7 +43886,7 @@
     "nazev": "Rolling Hills Asylum",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Byvaly ustav v New Yorku, kde socialni historie a opustene prostory tvori typicky strasidelny profil.",
+    "lead": "Bývalý ústav ve státě New York, kde sociální historie a opuštěné prostory tvoří typický strašidelný profil.",
     "gps": {
       "lat": 43.027,
       "lon": -78.18
@@ -43958,7 +43958,7 @@
     "nazev": "Lizzie Borden House",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Dum slavneho americkeho vrazedneho pripadu, kde kriminalni historie prerostla v turistickou legendu.",
+    "lead": "Dům slavného amerického vražedného případu, kde kriminální historie přerostla v turistickou legendu.",
     "gps": {
       "lat": 41.701,
       "lon": -71.155
@@ -44030,7 +44030,7 @@
     "nazev": "Bachelor's Grove Cemetery",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Hrbitov u Chicaga s reputaci zjeveni, svetel a silnym mestskym folklorem.",
+    "lead": "Hřbitov u Chicaga s pověstí zjevení, světel a silným městským folklorem.",
     "gps": {
       "lat": 41.64,
       "lon": -87.77
@@ -44102,7 +44102,7 @@
     "nazev": "Clinton Road",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Silnice v New Jersey spojovana s urban legends, podivnymi setkanimi a nocni atmosferou.",
+    "lead": "Silnice v New Jersey spojovaná s městskými legendami, podivnými setkáními a noční atmosférou.",
     "gps": {
       "lat": 41.1,
       "lon": -74.4
@@ -44174,7 +44174,7 @@
     "nazev": "Bridgewater Triangle",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Oblast v Massachusetts spojovana s UFO, kryptidy, svetly a mnoha vrstvami folkloru.",
+    "lead": "Oblast v Massachusetts spojovaná s UFO, kryptidy, světly a mnoha vrstvami folkloru.",
     "gps": {
       "lat": 41.93,
       "lon": -71.05
@@ -44246,7 +44246,7 @@
     "nazev": "Brown Mountain Lights",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Svetelna legenda Apalacu, kde pozorovani v horach vytvorila moderni i starsi vypraveni.",
+    "lead": "Světelná legenda Apalačských hor, kde pozorování v horách vytvořila moderní i starší vyprávění.",
     "gps": {
       "lat": 35.913,
       "lon": -81.755
@@ -44318,7 +44318,7 @@
     "nazev": "Minerva Monster Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Misto ohijske kryptidni legendy, drobne, ale vhodne pro rozsireni folklorni mapy.",
+    "lead": "Místo ohijské kryptozoologické legendy, drobné, ale vhodné pro rozšíření folklorní mapy.",
     "gps": {
       "lat": 40.729,
       "lon": -81.106
@@ -44462,7 +44462,7 @@
     "nazev": "Kelly-Hopkinsville Encounter Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Kentucky UFO incident z roku 1955, jeden z klasickych pripadu moderni mimozemske folklorni mapy.",
+    "lead": "Incident s UFO v Kentucky z roku 1955, jeden z klasických případů moderní mimozemské folklorní mapy.",
     "gps": {
       "lat": 36.88,
       "lon": -87.49
@@ -44534,7 +44534,7 @@
     "nazev": "Kecksburg UFO Site",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Pensylvanske misto spojovane s udajnym padem objektu, casto oznacovane jako americky Roswell.",
+    "lead": "Pensylvánské místo spojované s údajným pádem objektu, často označované jako americký Roswell.",
     "gps": {
       "lat": 40.184,
       "lon": -79.461
@@ -44678,7 +44678,7 @@
     "nazev": "Falcon Lake Incident Site",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Misto kanadskeho UFO incidentu Stefana Michalaka, silny pripad fyzickeho svedectvi a skeptickych otazek.",
+    "lead": "Místo kanadského incidentu s UFO Stefana Michalaka, silný případ fyzického svědectví a skeptických otázek.",
     "gps": {
       "lat": 49.7,
       "lon": -95.2
@@ -44750,7 +44750,7 @@
     "nazev": "Sable Island",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Odlehla piskova kosa v Atlantiku, ostrov vraku, koni a neustale se meniciho pobrezi.",
+    "lead": "Odlehlá písečná kosa v Atlantiku, ostrov vraků, koní a neustále se měnícího pobřeží.",
     "gps": {
       "lat": 43.93,
       "lon": -60.01
@@ -44894,7 +44894,7 @@
     "nazev": "Lituya Bay Megatsunami",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Aljasska zatoka s nejvyssim znamym run-up tsunami, priklad extremni prirodni sily.",
+    "lead": "Aljašská zátoka s nejvyšším známým výběhem tsunami, příklad extrémní přírodní síly.",
     "gps": {
       "lat": 58.64,
       "lon": -137.57
@@ -44966,7 +44966,7 @@
     "nazev": "Oklo Natural Reactor",
     "zeme": "Gabon",
     "kontinent": "Afrika",
-    "lead": "Prirodni jaderny reaktor v Gabonu, skutecna geologicka anomalie pusobici jako sci-fi fakt.",
+    "lead": "Přírodní jaderný reaktor v Gabonu, skutečná geologická anomálie působící jako sci-fi fakt.",
     "gps": {
       "lat": -1.883,
       "lon": 13.167
@@ -45038,7 +45038,7 @@
     "nazev": "Lake Nyos",
     "zeme": "Kamerun",
     "kontinent": "Afrika",
-    "lead": "Kraterove jezero katastrofy z roku 1986, kde unik plynu zabil tisice lidi i zvirat.",
+    "lead": "Kráterové jezero katastrofy z roku 1986, kde únik plynu zabil tisíce lidí i zvířat.",
     "gps": {
       "lat": 6.438,
       "lon": 10.3
@@ -45110,7 +45110,7 @@
     "nazev": "Lake Monoun",
     "zeme": "Kamerun",
     "kontinent": "Afrika",
-    "lead": "Jezero s limnickou erupci pred Nyosem, tichy predobraz neviditelne plynove katastrofy.",
+    "lead": "Jezero s limnickou erupcí před Nyosem, tichý předobraz neviditelné plynové katastrofy.",
     "gps": {
       "lat": 5.583,
       "lon": 10.59
@@ -45182,7 +45182,7 @@
     "nazev": "Ngorongoro Crater",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Obri sopecna kaldera plna zivota, prirodni amfiteatr na hrane geologie a ekologie.",
+    "lead": "Obří sopečná kaldera plná života, přírodní amfiteátr na hraně geologie a ekologie.",
     "gps": {
       "lat": -3.161,
       "lon": 35.587
@@ -45254,7 +45254,7 @@
     "nazev": "Mount Kilimanjaro",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Nejvyssi hora Afriky, sopecny masiv s ledem u rovniku a silnou kulturni symbolikou.",
+    "lead": "Nejvyšší hora Afriky, sopečný masiv s ledem u rovníku a silnou kulturní symbolikou.",
     "gps": {
       "lat": -3.067,
       "lon": 37.355
@@ -45470,7 +45470,7 @@
     "nazev": "Sossusvlei",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Duny a bile panve Namibu, kde stromove kostry a cerveny pisek vytvareji symbol prazdnoty.",
+    "lead": "Duny a bílé pánve Namibu, kde stromové kostry a červený písek vytvářejí symbol prázdnoty.",
     "gps": {
       "lat": -24.733,
       "lon": 15.367
@@ -45542,7 +45542,7 @@
     "nazev": "Deadvlei",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Bila hlinena panev s mrtvymi stromy, jedna z nejikonictejsich krajin zastaveneho casu.",
+    "lead": "Bílá hliněná pánev s mrtvými stromy, jedna z nejikoničtějších krajin zastaveného času.",
     "gps": {
       "lat": -24.757,
       "lon": 15.292
@@ -45686,7 +45686,7 @@
     "nazev": "Eye of the Sahara",
     "zeme": "Mauritánie",
     "kontinent": "Afrika",
-    "lead": "Richat Structure jako samostatny vstup pro konspiracni a geologickou vrstvu oka Sahary.",
+    "lead": "Struktura Richat jako samostatný vstup pro konspirační a geologickou vrstvu Oka Sahary.",
     "gps": {
       "lat": 21.1242,
       "lon": -11.3956
@@ -45758,7 +45758,7 @@
     "nazev": "Ruwenzori Glaciers",
     "zeme": "Uganda",
     "kontinent": "Afrika",
-    "lead": "Ledovce v rovnikove Africe, prirodni paradox a ohrozena horska pamet.",
+    "lead": "Ledovce v rovníkové Africe, přírodní paradox a ohrožená horská paměť.",
     "gps": {
       "lat": 0.386,
       "lon": 29.873
@@ -45830,7 +45830,7 @@
     "nazev": "Virunga Volcanoes",
     "zeme": "DR Kongo",
     "kontinent": "Afrika",
-    "lead": "Sopecny retezec v oblasti Velkych jezer, kde geologie, divocina a konflikt tvori napjatou krajinu.",
+    "lead": "Sopečný řetězec v oblasti Velkých jezer, kde geologie, divočina a konflikt tvoří napjatou krajinu.",
     "gps": {
       "lat": -1.5,
       "lon": 29.2
@@ -45902,7 +45902,7 @@
     "nazev": "Kawah Ijen",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Sopka s modrymi plameny a kyselym jezerem, jedna z nejdrsnejsich prirodnich scen Asie.",
+    "lead": "Sopka s modrými plameny a kyselým jezerem, jedna z nejdrsnějších přírodních scén Asie.",
     "gps": {
       "lat": -8.058,
       "lon": 114.242
@@ -45974,7 +45974,7 @@
     "nazev": "Mount Merapi",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Aktivni javanska sopka s kralovskymi a ritualnimi vazbami, kde riziko a mytus existuji soucasne.",
+    "lead": "Aktivní jávská sopka s královskými a rituálními vazbami, kde riziko a mýtus existují současně.",
     "gps": {
       "lat": -7.54,
       "lon": 110.446
@@ -46046,7 +46046,7 @@
     "nazev": "Krakatoa",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Sopka slavne erupce roku 1883, globalni katastrofa hluku, tsunami a atmosferickych efektu.",
+    "lead": "Sopka slavné erupce roku 1883, globální katastrofa hluku, tsunami a atmosférických efektů.",
     "gps": {
       "lat": -6.102,
       "lon": 105.423
@@ -46190,7 +46190,7 @@
     "nazev": "Mount Bromo",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Sopecna krajina vychodni Javy s morem pisku a ritualy Tenggeru.",
+    "lead": "Sopečná krajina východní Jávy s mořem písku a rituály Tenggerů.",
     "gps": {
       "lat": -7.942,
       "lon": 112.953
@@ -46334,7 +46334,7 @@
     "nazev": "Lake Toba Batak Villages",
     "zeme": "Indonésie",
     "kontinent": "Asie",
-    "lead": "Vesnice kolem jezera Toba, kde obri sopecna krajina nese kulturni i katastrofickou vrstvu.",
+    "lead": "Vesnice kolem jezera Toba, kde obří sopečná krajina nese kulturní i katastrofickou vrstvu.",
     "gps": {
       "lat": 2.68,
       "lon": 98.88
@@ -46406,7 +46406,7 @@
     "nazev": "Mayon Volcano",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Dokonale kuzelovita filipinska sopka, kde estetika a nebezpeci stoji v jednom obrazu.",
+    "lead": "Dokonale kuželovitá filipínská sopka, kde estetika a nebezpečí stojí v jednom obrazu.",
     "gps": {
       "lat": 13.257,
       "lon": 123.685
@@ -46478,7 +46478,7 @@
     "nazev": "Taal Volcano",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Sopka v jezere na ostrove, vrstvena geografie, ktera sama pusobi jako mapa v mape.",
+    "lead": "Sopka v jezeře na ostrově, vrstvená geografie, která sama působí jako mapa v mapě.",
     "gps": {
       "lat": 14.002,
       "lon": 120.993
@@ -46550,7 +46550,7 @@
     "nazev": "Batanes Stone Houses",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Kamene domy v Batanes, krajina vetru a izolace na hranici Filipin a Tichomori.",
+    "lead": "Kamenné domy na Batanes, krajina větru a izolace na hranici Filipín a Tichomoří.",
     "gps": {
       "lat": 20.45,
       "lon": 121.97
@@ -46622,7 +46622,7 @@
     "nazev": "Tubbataha Reefs",
     "zeme": "Filipíny",
     "kontinent": "Asie",
-    "lead": "Odlehle utesy v Suluskom mori, podmorsky svet mimo beznou pevninskou mapu.",
+    "lead": "Odlehlé útesy v Suluském moři, podmořský svět mimo běžnou pevninskou mapu.",
     "gps": {
       "lat": 8.95,
       "lon": 119.9
@@ -46694,7 +46694,7 @@
     "nazev": "Plain of Reeds",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Mokrina v delte Mekongu, krajina vody, valecne pameti a obtizne orientace.",
+    "lead": "Mokřina v deltě Mekongu, krajina vody, válečné paměti a obtížné orientace.",
     "gps": {
       "lat": 10.7,
       "lon": 105.7
@@ -46766,7 +46766,7 @@
     "nazev": "Cu Chi Tunnels",
     "zeme": "Vietnam",
     "kontinent": "Asie",
-    "lead": "Tunelovy system vietnamske valky, kde podzemi fungovalo jako taktika, ukryt i psychologicky prostor.",
+    "lead": "Tunelový systém vietnamské války, kde podzemí fungovalo jako taktika, úkryt i psychologický prostor.",
     "gps": {
       "lat": 11.142,
       "lon": 106.464
@@ -46982,7 +46982,7 @@
     "nazev": "Dow Hill Kurseong",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Les a skola v Kurseongu spojovane s indickymi ducharskymi pribehy.",
+    "lead": "Les a škola v Kurseongu spojované s indickými duchařskými příběhy.",
     "gps": {
       "lat": 26.88,
       "lon": 88.28
@@ -47054,7 +47054,7 @@
     "nazev": "Jatinga Bird Mystery",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Vesnice v Assamu spojovana s nocnim padanim ptaku, kde prirodni chovani vytvorilo zahadu.",
+    "lead": "Vesnice v Ásámu spojovaná s nočním padáním ptáků, kde přírodní chování vytvořilo záhadu.",
     "gps": {
       "lat": 25.117,
       "lon": 93.029
@@ -47126,7 +47126,7 @@
     "nazev": "Magnetic Hill Ladakh",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Silnicni opticka iluze v Ladakhu, kde sklon krajiny vytvari dojem gravitacni anomalii.",
+    "lead": "Silniční optická iluze v Ladaku, kde sklon krajiny vytváří dojem gravitační anomálie.",
     "gps": {
       "lat": 34.176,
       "lon": 77.585
@@ -47198,7 +47198,7 @@
     "nazev": "Lonar Crater Lake",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Impaktni krater v Dekanske plosine, slane jezero a geologicka stopa kosmicke srazky.",
+    "lead": "Impaktní kráter na Dekánské plošině, slané jezero a geologická stopa kosmické srážky.",
     "gps": {
       "lat": 19.976,
       "lon": 76.508
@@ -47270,7 +47270,7 @@
     "nazev": "Dzongri and Kanchenjunga Legends",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Himalajska oblast se silnou posvatnou krajinou kolem Kanchenjungy.",
+    "lead": "Himálajská oblast se silnou posvátnou krajinou kolem Kančendžengy.",
     "gps": {
       "lat": 27.5,
       "lon": 88.2
@@ -47342,7 +47342,7 @@
     "nazev": "Mawsmai Cave",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Krasova jeskyne u Cherrapunji, vlhke podzemi v jedne z nejdestivejsich krajin sveta.",
+    "lead": "Krasová jeskyně u Čerápuňdží, vlhké podzemí v jedné z nejdeštivějších krajin světa.",
     "gps": {
       "lat": 25.244,
       "lon": 91.727
@@ -47558,7 +47558,7 @@
     "nazev": "Cinecitta Studios",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Rimske filmove studio, kde vznikala cast evropske i svetove filmove mytologie.",
+    "lead": "Římské filmové studio, kde vznikala část evropské i světové filmové mytologie.",
     "gps": {
       "lat": 41.85,
       "lon": 12.574
@@ -47702,7 +47702,7 @@
     "nazev": "Wadi Musa Film Gateway",
     "zeme": "Jordansko",
     "kontinent": "Asie",
-    "lead": "Brana k Petre a filmovemu obrazu dobrodruzstvi, kde turisticka cesta navazuje na slavne sceny.",
+    "lead": "Brána k Petře a filmovému obrazu dobrodružství, kde turistická cesta navazuje na slavné scény.",
     "gps": {
       "lat": 30.321,
       "lon": 35.48
@@ -47774,7 +47774,7 @@
     "nazev": "Tatooine Star Wars Sets",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Tuniska poustni mista spojena s planetou Tatooine a jednou z nejsilnejsich sci-fi krajin.",
+    "lead": "Tuniská pouštní místa spojená s planetou Tatooine a jednou z nejsilnějších sci-fi krajin.",
     "gps": {
       "lat": 33.9,
       "lon": 10.1
@@ -47846,7 +47846,7 @@
     "nazev": "Mos Espa Set",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Dochovana filmova osada v tuniske pousti, kde se kulisa sama stala opustenym poutnim mistem fanousku.",
+    "lead": "Dochovaná filmová osada v tuniské poušti, kde se kulisa sama stala opuštěným poutním místem fanoušků.",
     "gps": {
       "lat": 33.994,
       "lon": 7.842
@@ -47918,7 +47918,7 @@
     "nazev": "Vasquez Rocks",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Skalni formace v Kalifornii slavna jako filmova a televizni krajina mimozemskych planet.",
+    "lead": "Skalní formace v Kalifornii slavná jako filmová a televizní krajina mimozemských planet.",
     "gps": {
       "lat": 34.488,
       "lon": -118.316
@@ -47990,7 +47990,7 @@
     "nazev": "Monument Valley Film View",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Krajina westernu a monumentalnich skal, kde film vytvoril globalni predstavu americkeho Zapadu.",
+    "lead": "Krajina westernů a monumentálních skal, kde film vytvořil globální představu amerického Západu.",
     "gps": {
       "lat": 36.998,
       "lon": -110.098
@@ -48062,7 +48062,7 @@
     "nazev": "Dead Horse Point",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Vyhlidka v Utahu znama i z filmu, kde propasti a poust vytvareji dramaticky konec sveta.",
+    "lead": "Vyhlídka v Utahu známá i z filmu, kde propasti a poušť vytvářejí dramatický konec světa.",
     "gps": {
       "lat": 38.47,
       "lon": -109.74
@@ -48134,7 +48134,7 @@
     "nazev": "Redwood National Park Film Forest",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Les obrich sekvoji, ktery ve filmu casto nahrazuje praveke, mimozemske nebo mytologicke prostredi.",
+    "lead": "Les obřích sekvojí, který ve filmu často nahrazuje pravěké, mimozemské nebo mytologické prostředí.",
     "gps": {
       "lat": 41.213,
       "lon": -124.004
@@ -48206,7 +48206,7 @@
     "nazev": "Mordor Tongariro",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Sopecna krajina Tongariro proslavena filmovym obrazem Mordoru a temne fantazie.",
+    "lead": "Sopečná krajina Tongariro proslavená filmovým obrazem Mordoru a temné fantasy.",
     "gps": {
       "lat": -39.157,
       "lon": 175.632
@@ -48278,7 +48278,7 @@
     "nazev": "Mount Sunday Edoras",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Vetrny kopec v Canterbury spojeny s filmovym Edorasem, kde prazdna krajina nese epicky pribeh.",
+    "lead": "Větrný kopec v Canterbury spojený s filmovým Edorasem, kde prázdná krajina nese epický příběh.",
     "gps": {
       "lat": -43.57,
       "lon": 170.9
@@ -48422,7 +48422,7 @@
     "nazev": "Hatfield House Film Rooms",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Historicky dum casto vyuzivany pro filmove interiery moci, aristokracie a temnych palacu.",
+    "lead": "Historický dům často využívaný pro filmové interiéry moci, aristokracie a temných paláců.",
     "gps": {
       "lat": 51.76,
       "lon": -0.21
@@ -48494,7 +48494,7 @@
     "nazev": "Alnwick Castle Film Grounds",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Hrad znamy z filmove magie i realne historie, kde popkultura posilila stredovekou identitu.",
+    "lead": "Hrad známý z filmové magie i skutečné historie, kde popkultura posílila středověkou identitu.",
     "gps": {
       "lat": 55.4156,
       "lon": -1.7064
@@ -48638,7 +48638,7 @@
     "nazev": "Oxford Christ Church Film Hall",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Univerzitni interiery a saly, ktere se staly soucasti globalni filmove predstavy kouzelnicke skoly.",
+    "lead": "Univerzitní interiéry a sály, které se staly součástí globální filmové představy kouzelnické školy.",
     "gps": {
       "lat": 51.75,
       "lon": -1.255
@@ -48926,7 +48926,7 @@
     "nazev": "Almourol Castle",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Templarsky hrad na ostrove v Teju, spojeni vody, radu a stredoveke straze.",
+    "lead": "Templářský hrad na ostrově v řece Tejo, spojení vody, řádu a středověké stráže.",
     "gps": {
       "lat": 39.462,
       "lon": -8.383
@@ -49142,7 +49142,7 @@
     "nazev": "Batalha Monastery",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Klaster a kralovske hrobky, kde nedokoncene kaple posiluji motiv otevrene pameti.",
+    "lead": "Klášter a královské hrobky, kde nedokončené kaple posilují motiv otevřené paměti.",
     "gps": {
       "lat": 39.659,
       "lon": -8.825
@@ -49286,7 +49286,7 @@
     "nazev": "San Juan de la Pena",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Klaster pod skalnim previsem, kde architektura doslova zaleha pod horu.",
+    "lead": "Klášter pod skalním převisem, kde architektura doslova zaléhá pod horu.",
     "gps": {
       "lat": 42.508,
       "lon": -0.667
@@ -49502,7 +49502,7 @@
     "nazev": "Ochate Ghost Village",
     "zeme": "Španělsko",
     "kontinent": "Evropa",
-    "lead": "Opustena vesnice v Baskicku spojovana s ducharskymi i UFO pribehem.",
+    "lead": "Opuštěná vesnice v Baskicku spojovaná s duchařskými příběhy i s UFO.",
     "gps": {
       "lat": 42.71,
       "lon": -2.83
@@ -49646,7 +49646,7 @@
     "nazev": "Mina de Sao Domingos",
     "zeme": "Portugalsko",
     "kontinent": "Evropa",
-    "lead": "Opustene dulni mesto a kysela krajina, kde tezba zanechala barevnou ekologickou jizvu.",
+    "lead": "Opuštěné důlní město a kyselá krajina, kde těžba zanechala barevnou ekologickou jizvu.",
     "gps": {
       "lat": 37.672,
       "lon": -7.5
@@ -49718,7 +49718,7 @@
     "nazev": "Horyu-ji",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Jeden z nejstarsich drevenych chramovych komplexu sveta, kde material a vira vzdoruji casu.",
+    "lead": "Jeden z nejstarších dřevěných chrámových komplexů světa, kde materiál a víra vzdorují času.",
     "gps": {
       "lat": 34.614,
       "lon": 135.735
@@ -49790,7 +49790,7 @@
     "nazev": "Nikko Toshogu",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Okazala svatyne Tokugawy Ieyasu, kde politika, pohrebni kult a symbolika vytvareji husty vizualni svet.",
+    "lead": "Okázalá svatyně Tokugawy Iejasua, kde politika, pohřební kult a symbolika vytvářejí hustý vizuální svět.",
     "gps": {
       "lat": 36.758,
       "lon": 139.599
@@ -49862,7 +49862,7 @@
     "nazev": "Sado Gold Mine",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Dulni krajina ostrova Sado, kde zlato, nucena prace a podzemi vytvareji slozitou pamet.",
+    "lead": "Důlní krajina ostrova Sado, kde zlato, nucená práce a podzemí vytvářejí složitou paměť.",
     "gps": {
       "lat": 38.04,
       "lon": 138.25
@@ -50006,7 +50006,7 @@
     "nazev": "Sakurajima",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Aktivni sopka u Kagoshimy, neustala pritomnost popela a rizika ve meste.",
+    "lead": "Aktivní sopka u Kagošimy, neustálá přítomnost popela a rizika ve městě.",
     "gps": {
       "lat": 31.585,
       "lon": 130.657
@@ -50078,7 +50078,7 @@
     "nazev": "Aogashima",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Ostrov uvnitr sopecne kaldery v Pacifiku, izolovana geologicka mapa v mape.",
+    "lead": "Ostrov uvnitř sopečné kaldery v Pacifiku, izolovaná geologická mapa v mapě.",
     "gps": {
       "lat": 32.458,
       "lon": 139.76
@@ -50150,7 +50150,7 @@
     "nazev": "Gates of Hell Beppu",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Geotermalni pekla v Beppu, turisticky citelny priklad barevne a varici zeme.",
+    "lead": "Geotermální „pekla“ v Beppu, turisticky čitelný příklad barevné a vařící země.",
     "gps": {
       "lat": 33.316,
       "lon": 131.474
@@ -50222,7 +50222,7 @@
     "nazev": "Seikan Tunnel",
     "zeme": "Japonsko",
     "kontinent": "Asie",
-    "lead": "Podmorsky tunel mezi Honshu a Hokkaidem, moderni inzenyrske podzemi pod morem.",
+    "lead": "Podmořský tunel mezi Honšú a Hokkaidem, moderní inženýrské podzemí pod mořem.",
     "gps": {
       "lat": 41.255,
       "lon": 140.35
@@ -50294,7 +50294,7 @@
     "nazev": "Kola Superdeep Borehole",
     "zeme": "Rusko",
     "kontinent": "Evropa",
-    "lead": "Nejhlubsi vrt sve doby, zdroj modernich legend o zvucich z pekla a skutecne vedecke hranice.",
+    "lead": "Nejhlubší vrt své doby, zdroj moderních legend o zvucích z pekla a skutečné vědecké hranice.",
     "gps": {
       "lat": 69.396,
       "lon": 30.608
@@ -50366,7 +50366,7 @@
     "nazev": "Chernobyl Duga Radar",
     "zeme": "Ukrajina",
     "kontinent": "Evropa",
-    "lead": "Obri radar v Cernobylske zone, studenovalecna konstrukce s mimozemskou siluetou.",
+    "lead": "Obří radar v černobylské zóně, studenoválečná konstrukce s mimozemskou siluetou.",
     "gps": {
       "lat": 51.305,
       "lon": 30.066
@@ -50438,7 +50438,7 @@
     "nazev": "Petrova Gora Monument",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Futuristicky pamatnik partyzanu, dnes poskozeny a opusteny jako kovova ruina pameti.",
+    "lead": "Futuristický památník partyzánů, dnes poškozený a opuštěný jako kovová ruina paměti.",
     "gps": {
       "lat": 45.27,
       "lon": 15.8
@@ -50510,7 +50510,7 @@
     "nazev": "Spomenik Tjentiste",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Monument v Tjentisti, betonova forma valecne pameti zasazena do horske krajiny.",
+    "lead": "Monument v Tjentišti, betonová forma válečné paměti zasazená do horské krajiny.",
     "gps": {
       "lat": 43.35,
       "lon": 18.69
@@ -50582,7 +50582,7 @@
     "nazev": "Kosmaj Monument",
     "zeme": "Srbsko",
     "kontinent": "Evropa",
-    "lead": "Abstraktni spomenik na Kosmaji, kde socialisticka pamet ziskala skoro sci-fi podobu.",
+    "lead": "Abstraktní spomenik na Kosmaji, kde socialistická paměť získala skoro sci-fi podobu.",
     "gps": {
       "lat": 44.455,
       "lon": 20.56
@@ -50654,7 +50654,7 @@
     "nazev": "Kadinjača Memorial",
     "zeme": "Srbsko",
     "kontinent": "Evropa",
-    "lead": "Jugoslavsky pamatnik s dramatickou betonovou krajinou odporu a obeti.",
+    "lead": "Jugoslávský památník s dramatickou betonovou krajinou odporu a obětí.",
     "gps": {
       "lat": 43.86,
       "lon": 19.76
@@ -52191,7 +52191,7 @@
     "nazev": "Sukur Cultural Landscape",
     "zeme": "Nigérie",
     "kontinent": "Afrika",
-    "lead": "Horska kulturni krajina Sukur, terasy, zelezarska pamet a ritualni moc.",
+    "lead": "Horská kulturní krajina Sukur, terasy, železářská paměť a rituální moc.",
     "gps": {
       "lat": 10.74,
       "lon": 13.57
@@ -52263,7 +52263,7 @@
     "nazev": "Lope Stone Circles",
     "zeme": "Gabon",
     "kontinent": "Afrika",
-    "lead": "Krajina Lope kombinuje prales, savanu a archeologicke stopy dlouheho osidleni.",
+    "lead": "Krajina Lopé kombinuje prales, savanu a archeologické stopy dlouhého osídlení.",
     "gps": {
       "lat": -0.5,
       "lon": 11.5
@@ -52854,7 +52854,7 @@
     "nazev": "Jubbah Rock Art",
     "zeme": "Saúdská Arábie",
     "kontinent": "Asie",
-    "lead": "Skalni umeni v poustni oblasti Hail, stopy lidi a zvirat v krajine davnych jezer.",
+    "lead": "Skalní umění v pouštní oblasti Háil, stopy lidí a zvířat v krajině dávných jezer.",
     "gps": {
       "lat": 28.01,
       "lon": 40.92
@@ -52993,7 +52993,7 @@
     "nazev": "Bimmah Sinkhole",
     "zeme": "Omán",
     "kontinent": "Asie",
-    "lead": "Krasovy zavrt s tyrkysovou vodou, kde mistni legenda i geologie nabizeji dve ruzna vysvetleni.",
+    "lead": "Krasový závrt s tyrkysovou vodou, kde místní legenda i geologie nabízejí dvě různá vysvětlení.",
     "gps": {
       "lat": 23.036,
       "lon": 59.071
@@ -53065,7 +53065,7 @@
     "nazev": "Jeita Grotto",
     "zeme": "Libanon",
     "kontinent": "Asie",
-    "lead": "Dvouurovnova krasova jeskyne u Bejrutu, podzemni reka a stalaktitove sale.",
+    "lead": "Dvouúrovňová krasová jeskyně u Bejrútu, podzemní řeka a krápníkové sály.",
     "gps": {
       "lat": 33.944,
       "lon": 35.641
@@ -53718,7 +53718,7 @@
     "nazev": "Leluh Ruins",
     "zeme": "Mikronésie",
     "kontinent": "Oceánie",
-    "lead": "Ruiny kralovskeho centra na Kosrae, mene slavna, ale silna ostrovni vrstva kamenne moci.",
+    "lead": "Ruiny královského centra na Kosrae, méně slavná, ale silná ostrovní vrstva kamenné moci.",
     "gps": {
       "lat": 5.326,
       "lon": 163.018
@@ -53790,7 +53790,7 @@
     "nazev": "Marae Arahurahu",
     "zeme": "Francouzská Polynésie",
     "kontinent": "Oceánie",
-    "lead": "Obnovene ceremonialni misto na Tahiti, kamenne plosiny, tanec a ritualni pamet ostrova.",
+    "lead": "Obnovené obřadní místo na Tahiti, kamenné plošiny, tanec a rituální paměť ostrova.",
     "gps": {
       "lat": -17.645,
       "lon": -149.581
@@ -53862,7 +53862,7 @@
     "nazev": "Orongo Ceremonial Village",
     "zeme": "Chile",
     "kontinent": "Oceánie",
-    "lead": "Rapa Nui vesnice spojena s kultem ptaciho muze, kraterem Rano Kau a dramatickou hranou oceanu.",
+    "lead": "Vesnice na Rapa Nui spojená s kultem ptačího muže, kráterem Rano Kau a dramatickou hranou oceánu.",
     "gps": {
       "lat": -27.187,
       "lon": -109.445
@@ -53934,7 +53934,7 @@
     "nazev": "Henbury Meteorites Craters",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Pole mensich impaktnich krateru v pousti, kde se astronomicka udalost cte primo v terenu.",
+    "lead": "Pole menších impaktních kráterů v poušti, kde se astronomická událost čte přímo v terénu.",
     "gps": {
       "lat": -24.575,
       "lon": 133.147
@@ -54006,7 +54006,7 @@
     "nazev": "Lake Mungo Ancient Burials",
     "zeme": "Austrálie",
     "kontinent": "Oceánie",
-    "lead": "Stare pohrebni a archeologicke stopy u vyschleho jezera, klicovy bod lidske pameti Australie.",
+    "lead": "Staré pohřební a archeologické stopy u vyschlého jezera, klíčový bod lidské paměti Austrálie.",
     "gps": {
       "lat": -33.71,
       "lon": 143
@@ -54078,7 +54078,7 @@
     "nazev": "Pancake Rocks Punakaiki",
     "zeme": "Nový Zéland",
     "kontinent": "Oceánie",
-    "lead": "Vrstvene vapencove utvary a morska dychadla, kde pobrezi zni a rozpada se v rytmu priboje.",
+    "lead": "Vrstevnaté vápencové útvary a mořské chrliče, kde pobřeží zní a rozpadá se v rytmu příboje.",
     "gps": {
       "lat": -42.114,
       "lon": 171.327
@@ -54150,7 +54150,7 @@
     "nazev": "Tierradentro Tombs",
     "zeme": "Kolumbie",
     "kontinent": "Jižní Amerika",
-    "lead": "Podzemni hrobky s malbami a sloupy, kde se smrt uklada do skryte architektury pod kopci.",
+    "lead": "Podzemní hrobky s malbami a sloupy, kde se smrt ukládá do skryté architektury pod kopci.",
     "gps": {
       "lat": 2.583,
       "lon": -76.033
@@ -54222,7 +54222,7 @@
     "nazev": "San Agustin Statues",
     "zeme": "Kolumbie",
     "kontinent": "Jižní Amerika",
-    "lead": "Socharska krajina tajemnych postav a hrobek, jeden z nejsilnejsich archeologickych obrazu And.",
+    "lead": "Sochařská krajina tajemných postav a hrobek, jeden z nejsilnějších archeologických obrazů And.",
     "gps": {
       "lat": 1.887,
       "lon": -76.296
@@ -54294,7 +54294,7 @@
     "nazev": "Chauchilla Cemetery",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Pousti pohrebiste s mumiemi a otevrenou smrti, citlive misto mezi archeologii a temnou turistikou.",
+    "lead": "Pouštní pohřebiště s mumiemi a otevřenou smrtí, citlivé místo mezi archeologií a temnou turistikou.",
     "gps": {
       "lat": -14.972,
       "lon": -74.94
@@ -54366,7 +54366,7 @@
     "nazev": "Marcahuasi Plateau",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Skalni plato s tvary, ktere lide ctu jako tvare a zvirata, prirodni pareidolie s ezoterickou povesti.",
+    "lead": "Skalní plató s tvary, které lidé čtou jako tváře a zvířata, přírodní pareidolie s ezoterickou pověstí.",
     "gps": {
       "lat": -11.772,
       "lon": -76.583
@@ -54438,7 +54438,7 @@
     "nazev": "Toro Muerto Petroglyphs",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Rozsahle pole petroglyfu v jiznim Peru, tisice znaku rozesetych v suche kamenne krajine.",
+    "lead": "Rozsáhlé pole petroglyfů v jižním Peru, tisíce znaků rozesetých v suché kamenné krajině.",
     "gps": {
       "lat": -16.238,
       "lon": -72.514
@@ -54510,7 +54510,7 @@
     "nazev": "Humberstone Ghost Town",
     "zeme": "Chile",
     "kontinent": "Jižní Amerika",
-    "lead": "Ledkove mesto v Atacame, opusteny prumyslovy svet sucha, prace a socialni pameti.",
+    "lead": "Ledkové město v Atacamě, opuštěný průmyslový svět sucha, práce a sociální paměti.",
     "gps": {
       "lat": -20.205,
       "lon": -69.795
@@ -54582,7 +54582,7 @@
     "nazev": "Wadi Mathendous Rock Art",
     "zeme": "Libye",
     "kontinent": "Afrika",
-    "lead": "Saharstke skalni rytiny se zviraty a lidskymi scenami, obraz sveta pred uplnou suchosti pouste.",
+    "lead": "Saharské skalní rytiny se zvířaty a lidskými scénami, obraz světa před úplným vysušením pouště.",
     "gps": {
       "lat": 25,
       "lon": 12
@@ -54654,7 +54654,7 @@
     "nazev": "Namib Fairy Circles",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Kruhove hole plochy v pousti Namib, prirodni vzor, ktery dlouho vyvolava vedecke i lidove vysvetleni.",
+    "lead": "Kruhové holé plochy v poušti Namib, přírodní vzor, který dlouho vyvolává vědecká i lidová vysvětlení.",
     "gps": {
       "lat": -24,
       "lon": 15.5
@@ -54726,7 +54726,7 @@
     "nazev": "Brandberg White Lady",
     "zeme": "Namibie",
     "kontinent": "Afrika",
-    "lead": "Skalni malba v Brandbergu, znamy obraz, jehoz vyklad ukazuje rizika romantickych interpretaci.",
+    "lead": "Skalní malba v Brandbergu, známý obraz, jehož výklad ukazuje rizika romantických interpretací.",
     "gps": {
       "lat": -21.083,
       "lon": 14.65
@@ -54798,7 +54798,7 @@
     "nazev": "Rujm el Hiri",
     "zeme": "Izrael",
     "kontinent": "Asie",
-    "lead": "Kruhove kamenne usporadani na Golanech, casto prirovnavane k levantinskemu megalitickemu kalendari.",
+    "lead": "Kruhové kamenné uspořádání na Golanech, často přirovnávané k levantskému megalitickému kalendáři.",
     "gps": {
       "lat": 32.908,
       "lon": 35.801
@@ -54870,7 +54870,7 @@
     "nazev": "Beit Shearim Necropolis",
     "zeme": "Izrael",
     "kontinent": "Asie",
-    "lead": "Podzemni nekropole s chodbami a sarkofagy, dulezite misto zidovske pohrebni pameti.",
+    "lead": "Podzemní nekropole s chodbami a sarkofágy, důležité místo židovské pohřební paměti.",
     "gps": {
       "lat": 32.702,
       "lon": 35.126
@@ -54942,7 +54942,7 @@
     "nazev": "Timna Valley",
     "zeme": "Izrael",
     "kontinent": "Asie",
-    "lead": "Pousti udoli medenych dolu a skalnich tvaru, kde prumysl, Egypt a priroda vytvari jeden soubor.",
+    "lead": "Pouštní údolí měděných dolů a skalních tvarů, kde průmysl, Egypt a příroda vytvářejí jeden soubor.",
     "gps": {
       "lat": 29.786,
       "lon": 34.973
@@ -55014,7 +55014,7 @@
     "nazev": "Petra High Place of Sacrifice",
     "zeme": "Jordansko",
     "kontinent": "Asie",
-    "lead": "Vyvysene ritualni misto nad Petrou, kam cesta stoupa mezi skalou, vyhledem a nabatejskou pameti.",
+    "lead": "Vyvýšené rituální místo nad Petrou, kam cesta stoupá mezi skalou, výhledem a nabatejskou pamětí.",
     "gps": {
       "lat": 30.324,
       "lon": 35.45
@@ -55086,7 +55086,7 @@
     "nazev": "Dholavira",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Harappske mesto v Kutch, urbanismus, voda a sucha krajina zanikle civilizace.",
+    "lead": "Harappské město v Kačchu, urbanismus, voda a suchá krajina zaniklé civilizace.",
     "gps": {
       "lat": 23.887,
       "lon": 70.214
@@ -55158,7 +55158,7 @@
     "nazev": "Bhimbetka Rock Shelters",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Skalni pristresky s pravekymi malbami, dlouha pamet lidske pritomnosti v Indii.",
+    "lead": "Skalní přístřešky s pravěkými malbami, dlouhá paměť lidské přítomnosti v Indii.",
     "gps": {
       "lat": 22.939,
       "lon": 77.612
@@ -55230,7 +55230,7 @@
     "nazev": "Living Root Bridges Meghalaya",
     "zeme": "Indie",
     "kontinent": "Asie",
-    "lead": "Mosty pestovane z korenu, ziva infrastruktura vlhke krajiny a priklad dlouhe spoluprace s rostlinami.",
+    "lead": "Mosty pěstované z kořenů, živá infrastruktura vlhké krajiny a příklad dlouhé spolupráce s rostlinami.",
     "gps": {
       "lat": 25.216,
       "lon": 91.681
@@ -55302,7 +55302,7 @@
     "nazev": "Plain of Jars Site One",
     "zeme": "Laos",
     "kontinent": "Asie",
-    "lead": "Pole obrich kamennych nadob v Laosu, archeologicka zahada spojovana s pohrebnim krajinotvornym systemem.",
+    "lead": "Pole obřích kamenných nádob v Laosu, archeologická záhada spojovaná s pohřebním systémem krajiny.",
     "gps": {
       "lat": 19.426,
       "lon": 103.151
@@ -55374,7 +55374,7 @@
     "nazev": "Vat Phou",
     "zeme": "Laos",
     "kontinent": "Asie",
-    "lead": "Khmersky chramovy komplex pod horou, kde voda, osa a posvatna krajina predchazeji Angkoru.",
+    "lead": "Khmerský chrámový komplex pod horou, kde voda, osa a posvátná krajina předcházejí Angkoru.",
     "gps": {
       "lat": 14.848,
       "lon": 105.822
@@ -55446,7 +55446,7 @@
     "nazev": "Kakku Pagoda Forest",
     "zeme": "Myanmar",
     "kontinent": "Asie",
-    "lead": "Huste pole stup a pagod, kde opakovani tvaru vytvari skoro kamenny les sakralni pameti.",
+    "lead": "Husté pole stúp a pagod, kde opakování tvarů vytváří skoro kamenný les sakrální paměti.",
     "gps": {
       "lat": 20.428,
       "lon": 97.036
@@ -55518,7 +55518,7 @@
     "nazev": "Chief Roi Mata Domain",
     "zeme": "Vanuatu",
     "kontinent": "Oceánie",
-    "lead": "Krajina spojena s ustni tradici, pohrebem a spolecenskou pameti vlivneho tichomorskeho vudce.",
+    "lead": "Krajina spojená s ústní tradicí, pohřbem a společenskou pamětí vlivného tichomořského vůdce.",
     "gps": {
       "lat": -17.63,
       "lon": 168.26
@@ -55590,7 +55590,7 @@
     "nazev": "Kokoda Track",
     "zeme": "Papua-Nová Guinea",
     "kontinent": "Oceánie",
-    "lead": "Horska a pralesni trasa valecne pameti, fyzicky narocny koridor mezi historii a terenem.",
+    "lead": "Horská a pralesní trasa válečné paměti, fyzicky náročný koridor mezi historií a terénem.",
     "gps": {
       "lat": -9,
       "lon": 147.73
@@ -55662,7 +55662,7 @@
     "nazev": "Bikini Atoll Nuclear Test Site",
     "zeme": "Marshallovy ostrovy",
     "kontinent": "Oceánie",
-    "lead": "Atol poznamenany jadernymi testy, rajska geografie a hluboce citliva pamet vysidleni.",
+    "lead": "Atol poznamenaný jadernými testy, rajská geografie a hluboce citlivá paměť vysídlení.",
     "gps": {
       "lat": 11.606,
       "lon": 165.376
@@ -55734,7 +55734,7 @@
     "nazev": "Rennell East Lake Tegano",
     "zeme": "Šalamounovy ostrovy",
     "kontinent": "Oceánie",
-    "lead": "Velke lagunove jezero na vyvysenem koralovem ostrove, izolovana vodni krajina na okraji Pacifiku.",
+    "lead": "Velké lagunové jezero na vyvýšeném korálovém ostrově, izolovaná vodní krajina na okraji Pacifiku.",
     "gps": {
       "lat": -11.666,
       "lon": 160.333
@@ -55806,7 +55806,7 @@
     "nazev": "Writing on Stone",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Piskovcove udoli s petroglyfy a posvatnou krajinou, kde obraz zustava vazany na mistni narody.",
+    "lead": "Pískovcové údolí s petroglyfy a posvátnou krajinou, kde obraz zůstává vázaný na místní národy.",
     "gps": {
       "lat": 49.083,
       "lon": -111.617
@@ -55878,7 +55878,7 @@
     "nazev": "Dinosaur Provincial Park",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Badlands s jednou z nejbohatsich fosilnich krajin, kde eroze otevira hluboky cas.",
+    "lead": "Badlands s jednou z nejbohatších fosilních krajin, kde eroze otevírá hluboký čas.",
     "gps": {
       "lat": 50.766,
       "lon": -111.492
@@ -55950,7 +55950,7 @@
     "nazev": "Pingualuit Crater",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Kruhovy krater s cistym jezerem v Nunaviku, impaktni oko v tundrove krajine.",
+    "lead": "Kruhový kráter s čistým jezerem v Nunaviku, impaktní oko v tundrové krajině.",
     "gps": {
       "lat": 61.279,
       "lon": -73.657
@@ -56022,7 +56022,7 @@
     "nazev": "Manicouagan Reservoir",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Prstencove jezero po davnem impaktu, obri kruh citelny hlavne z mapy a vesmirnych snimku.",
+    "lead": "Prstencové jezero po dávném impaktu, obří kruh čitelný hlavně z mapy a satelitních snímků.",
     "gps": {
       "lat": 51.38,
       "lon": -68.7
@@ -56094,7 +56094,7 @@
     "nazev": "Red Bay Basque Whaling Station",
     "zeme": "Kanada",
     "kontinent": "Severní Amerika",
-    "lead": "Pozustatky baskicke velrybarske stanice, zapomenuta industrialni vrstva severniho Atlantiku.",
+    "lead": "Pozůstatky baskické velrybářské stanice, zapomenutá průmyslová vrstva severního Atlantiku.",
     "gps": {
       "lat": 51.733,
       "lon": -56.43
@@ -56166,7 +56166,7 @@
     "nazev": "Mesa Verde Cliff Palace",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Skalni obydli pod previsem, ikonicky obraz zivota v kanonove krajine a nasledneho opusteni.",
+    "lead": "Skalní obydlí pod převisem, ikonický obraz života v kaňonové krajině a následného opuštění.",
     "gps": {
       "lat": 37.167,
       "lon": -108.473
@@ -56238,7 +56238,7 @@
     "nazev": "Bandelier Tsankawi",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Stezky, vytesane mistnosti a stopy po puebloanske krajine, kde se clenity tuf menil v obydli.",
+    "lead": "Stezky, vytesané místnosti a stopy puebloanské krajiny, kde se členitý tuf měnil v obydlí.",
     "gps": {
       "lat": 35.875,
       "lon": -106.226
@@ -56310,7 +56310,7 @@
     "nazev": "Gila Cliff Dwellings",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Obydli skryta v jeskynnich previsech Noveho Mexika, mala, ale pusobiva ukazka skalniho sidleni.",
+    "lead": "Obydlí skrytá v jeskynních převisech Nového Mexika, malá, ale působivá ukázka skalního sídlení.",
     "gps": {
       "lat": 33.227,
       "lon": -108.27
@@ -56382,7 +56382,7 @@
     "nazev": "Casa Grande Ruins",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Velka hlinena stavba Hohokam, poustni urbanismus a otazky po ucelu monumentu.",
+    "lead": "Velká hliněná stavba kultury Hohokam, pouštní urbanismus a otázky po účelu monumentu.",
     "gps": {
       "lat": 32.995,
       "lon": -111.536
@@ -56454,7 +56454,7 @@
     "nazev": "Spiro Mounds",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Mohylovy komplex s bohatymi nalezy, misto, kde obchod, smrt a ritual zanechaly silnou archeologickou stopu.",
+    "lead": "Mohylový komplex s bohatými nálezy, místo, kde obchod, smrt a rituál zanechaly silnou archeologickou stopu.",
     "gps": {
       "lat": 35.312,
       "lon": -94.568
@@ -56526,7 +56526,7 @@
     "nazev": "Effigy Mounds Iowa",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Krajina mohyl ve tvaru zvirat, kde se ritual a topografie spojuji do dlouhe linie nad rekou.",
+    "lead": "Krajina mohyl ve tvaru zvířat, kde se rituál a topografie spojují do dlouhé linie nad řekou.",
     "gps": {
       "lat": 43.08,
       "lon": -91.196
@@ -56598,7 +56598,7 @@
     "nazev": "Mono Lake Tufa Towers",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Slane jezero s tufovymi vezemi, kde chemie vody vytvari pobrezni architekturu bez lidi.",
+    "lead": "Slané jezero s tufovými věžemi, kde chemie vody vytváří pobřežní architekturu bez lidí.",
     "gps": {
       "lat": 38,
       "lon": -119
@@ -56670,7 +56670,7 @@
     "nazev": "Fly Geyser",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Barevny geotermalni kuzel vznikly po vrtu, prirodni proces rozbehnuty lidskym zasahem.",
+    "lead": "Barevný geotermální kužel vzniklý po vrtu, přírodní proces rozběhnutý lidským zásahem.",
     "gps": {
       "lat": 40.859,
       "lon": -119.331
@@ -56742,7 +56742,7 @@
     "nazev": "Carlsbad Caverns",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Rozsahle jeskynni saly a netopyri v Novem Mexiku, prirodni katedrala pod pousti.",
+    "lead": "Rozsáhlé jeskynní sály a netopýři v Novém Mexiku, přírodní katedrála pod pouští.",
     "gps": {
       "lat": 32.147,
       "lon": -104.556
@@ -56814,7 +56814,7 @@
     "nazev": "Wind Cave",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jeskynni system s neobvyklou krabicovou vyzdobou a kulturni vazbou na pribehy Lakotu.",
+    "lead": "Jeskynní systém s neobvyklou krabicovou výzdobou a kulturní vazbou na příběhy Lakotů.",
     "gps": {
       "lat": 43.557,
       "lon": -103.478
@@ -56886,7 +56886,7 @@
     "nazev": "Lava Beds Caves",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Sit lavovych tunelu v severni Kalifornii, kde sopecna krajina vytvorila pruchodne podzemi.",
+    "lead": "Síť lávových tunelů v severní Kalifornii, kde sopečná krajina vytvořila průchodné podzemí.",
     "gps": {
       "lat": 41.714,
       "lon": -121.509
@@ -56958,7 +56958,7 @@
     "nazev": "Craters of the Moon Lava Field",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Rozsahla lavova krajina v Idahu, temny povrch, ktery inspiroval predstavu mimozemske planety.",
+    "lead": "Rozsáhlá lávová krajina v Idahu, temný povrch, který inspiroval představu mimozemské planety.",
     "gps": {
       "lat": 43.416,
       "lon": -113.516
@@ -57030,7 +57030,7 @@
     "nazev": "Mount St Helens Blast Zone",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Krajina erupce z roku 1980, kde se les, popel a sesuv staly otevrenou ucebnici katastrofy.",
+    "lead": "Krajina erupce z roku 1980, kde se les, popel a sesuv staly otevřenou učebnicí katastrofy.",
     "gps": {
       "lat": 46.191,
       "lon": -122.194
@@ -57102,7 +57102,7 @@
     "nazev": "Bodie Ghost Town",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Zachovane hornicke mesto v Kalifornii, kde zlatokopecka euforie ztuhla v prachu a dreve.",
+    "lead": "Zachované hornické město v Kalifornii, kde zlatokopecká euforie ztuhla v prachu a dřevě.",
     "gps": {
       "lat": 38.212,
       "lon": -119.012
@@ -57174,7 +57174,7 @@
     "nazev": "Salton Sea Ruins",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Opustena rekreacni krajina u slaneho jezera, kde ekologicky problem prekryl americky sen o plazi.",
+    "lead": "Opuštěná rekreační krajina u slaného jezera, kde ekologický problém překryl americký sen o pláži.",
     "gps": {
       "lat": 33.313,
       "lon": -115.966
@@ -57246,7 +57246,7 @@
     "nazev": "Marfa Lights Viewing Area",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Pousterna oblast Texasu spojovana se svetelnymi jevy, folklorem a dlouhym skeptickym vysvetlovanim.",
+    "lead": "Pouštní oblast Texasu spojovaná se světelnými jevy, folklorem a dlouhým skeptickým vysvětlováním.",
     "gps": {
       "lat": 30.275,
       "lon": -103.879
@@ -57318,7 +57318,7 @@
     "nazev": "Monte Alban",
     "zeme": "Mexiko",
     "kontinent": "Severní Amerika",
-    "lead": "Zapotecke mesto na zarovnane hore nad Oaxacou, krajina moci, hrobek a astronomickych os.",
+    "lead": "Zapotécké město na zarovnané hoře nad Oaxacou, krajina moci, hrobek a astronomických os.",
     "gps": {
       "lat": 17.043,
       "lon": -96.767
@@ -57390,7 +57390,7 @@
     "nazev": "Xunantunich",
     "zeme": "Belize",
     "kontinent": "Severní Amerika",
-    "lead": "Maysky komplex u reky Mopan, spojovany i s legendou o kamenne zene a bilych zjevenich.",
+    "lead": "Mayský komplex u řeky Mopan, spojovaný i s legendou o kamenné ženě a bílých zjeveních.",
     "gps": {
       "lat": 17.089,
       "lon": -89.141
@@ -57462,7 +57462,7 @@
     "nazev": "Quirigua Stelae",
     "zeme": "Guatemala",
     "kontinent": "Severní Amerika",
-    "lead": "Mayske stely s dlouhymi texty, kde kamen slouzil jako politicka a kosmologicka pamet.",
+    "lead": "Mayské stély s dlouhými texty, kde kámen sloužil jako politická a kosmologická paměť.",
     "gps": {
       "lat": 15.271,
       "lon": -89.04
@@ -57534,7 +57534,7 @@
     "nazev": "Guayabo National Monument",
     "zeme": "Kostarika",
     "kontinent": "Severní Amerika",
-    "lead": "Predkolumbovske sidliste s cestami a vodnim systemem, tichy archeologicky ostrov v kostarickem lese.",
+    "lead": "Předkolumbovské sídliště s cestami a vodním systémem, tichý archeologický ostrov v kostarickém lese.",
     "gps": {
       "lat": 9.971,
       "lon": -83.69
@@ -57606,7 +57606,7 @@
     "nazev": "Providence Canyon Georgia",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Barevne rokle vznikle zrychlenou erozi po spatnem hospodareni, prirodni divadlo s lidskou pricinou.",
+    "lead": "Barevné rokle vzniklé zrychlenou erozí po špatném hospodaření, přírodní divadlo s lidskou příčinou.",
     "gps": {
       "lat": 32.065,
       "lon": -84.92
@@ -57678,7 +57678,7 @@
     "nazev": "Pictograph Cave Montana",
     "zeme": "Spojené státy",
     "kontinent": "Severní Amerika",
-    "lead": "Jeskynni ukryt s malbami u Billings, kde skalni stena nese stopy dlouhe lidske pritomnosti.",
+    "lead": "Jeskynní úkryt s malbami u Billingsu, kde skalní stěna nese stopy dlouhé lidské přítomnosti.",
     "gps": {
       "lat": 45.916,
       "lon": -108.382
@@ -57750,7 +57750,7 @@
     "nazev": "Rapa Iti Fortified Villages",
     "zeme": "Francouzská Polynésie",
     "kontinent": "Oceánie",
-    "lead": "Ostrovni opevnena sidla na odlehle Rape, kde izolace a obrana vytvorily neobvykly pacificky profil.",
+    "lead": "Ostrovní opevněná sídla na odlehlé Rapě, kde izolace a obrana vytvořily neobvyklý pacifický profil.",
     "gps": {
       "lat": -27.6,
       "lon": -144.333
@@ -57822,7 +57822,7 @@
     "nazev": "Taveuni Lavena Coastal Walk",
     "zeme": "Fidži",
     "kontinent": "Oceánie",
-    "lead": "Pobrezni krajina vodopadu, pralesa a oceanu, silny ostrovni bod pro tematiku izolace a pristupu.",
+    "lead": "Pobřežní krajina vodopádů, pralesa a oceánu, silný ostrovní bod pro téma izolace a přístupu.",
     "gps": {
       "lat": -16.85,
       "lon": -179.88
@@ -57894,7 +57894,7 @@
     "nazev": "Nanumea Atoll",
     "zeme": "Tuvalu",
     "kontinent": "Oceánie",
-    "lead": "Nizky atol v Pacifiku, kde geografie, more a klimaticke riziko tvori krehkou mapovou stopu.",
+    "lead": "Nízký atol v Pacifiku, kde geografie, moře a klimatické riziko tvoří křehkou mapovou stopu.",
     "gps": {
       "lat": -5.67,
       "lon": 176.12
@@ -57966,7 +57966,7 @@
     "nazev": "Funafuti Conservation Area",
     "zeme": "Tuvalu",
     "kontinent": "Oceánie",
-    "lead": "Laguna a chranena cast atolu Funafuti, misto, kde se prirodni krasa prekryva s obavou z hladiny more.",
+    "lead": "Laguna a chráněná část atolu Funafuti, místo, kde se přírodní krása překrývá s obavou ze stoupající hladiny moře.",
     "gps": {
       "lat": -8.533,
       "lon": 179.083
@@ -58038,7 +58038,7 @@
     "nazev": "Tarawa Battle Sites",
     "zeme": "Kiribati",
     "kontinent": "Oceánie",
-    "lead": "Atolova krajina druhe svetove valky, kde plaze a opevneni nesou pamet velmi kratke, ale tvrde bitvy.",
+    "lead": "Atolová krajina druhé světové války, kde pláže a opevnění nesou paměť velmi krátké, ale tvrdé bitvy.",
     "gps": {
       "lat": 1.43,
       "lon": 173
@@ -58110,7 +58110,7 @@
     "nazev": "Nauru Phosphate Pinnacles",
     "zeme": "Nauru",
     "kontinent": "Oceánie",
-    "lead": "Vytezene fosfatove vnitrozemi ostrova, varovny obraz bohatstvi, ekologicke ztraty a geopoliticke zavislosti.",
+    "lead": "Vytěžené fosfátové vnitrozemí ostrova, varovný obraz bohatství, ekologické ztráty a geopolitické závislosti.",
     "gps": {
       "lat": -0.533,
       "lon": 166.933
@@ -58182,7 +58182,7 @@
     "nazev": "Bougainville Panguna Mine",
     "zeme": "Papua-Nová Guinea",
     "kontinent": "Oceánie",
-    "lead": "Obri opusteny dul na Bougainville, misto ekologicke zateze, konfliktu a slozite ostrovni politiky.",
+    "lead": "Obří opuštěný důl na Bougainvillu, místo ekologické zátěže, konfliktu a složité ostrovní politiky.",
     "gps": {
       "lat": -6.32,
       "lon": 155.5
@@ -58254,7 +58254,7 @@
     "nazev": "Lake Kutubu",
     "zeme": "Papua-Nová Guinea",
     "kontinent": "Oceánie",
-    "lead": "Izolovane jezero s endemickymi druhy, prirodni bod, kde biologicka zvlastnost drzi vlastni tajemnou vrstvu.",
+    "lead": "Izolované jezero s endemickými druhy, přírodní bod, kde biologická zvláštnost drží vlastní tajemnou vrstvu.",
     "gps": {
       "lat": -6.4,
       "lon": 143.333
@@ -58326,7 +58326,7 @@
     "nazev": "Samoa Pulemelei Mound",
     "zeme": "Samoa",
     "kontinent": "Oceánie",
-    "lead": "Velka kamena pyramidalni mohyla na Savaii, jedna z nejpusobivejsich archeologickych forem Polynesie.",
+    "lead": "Velká kamenná pyramidální mohyla na Savai'i, jedna z nejpůsobivějších archeologických forem Polynésie.",
     "gps": {
       "lat": -13.705,
       "lon": -172.394
@@ -58398,7 +58398,7 @@
     "nazev": "Alofaaga Blowholes",
     "zeme": "Samoa",
     "kontinent": "Oceánie",
-    "lead": "Oceanske gejziru podobne prurvy v lave, kde vlna meni pobrezi v rytmicky vybuch.",
+    "lead": "Oceánské průrvy v lávě podobné gejzírům, kde vlna mění pobřeží v rytmický výbuch.",
     "gps": {
       "lat": -13.739,
       "lon": -172.461
@@ -58470,7 +58470,7 @@
     "nazev": "Sillustani Tomb Towers",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Pohrebni veze nad jezerem Umayo, kde smrt a vysoka andska krajina tvori silnou vertikalni siluetu.",
+    "lead": "Pohřební věže nad jezerem Umayo, kde smrt a vysoká andská krajina tvoří silnou vertikální siluetu.",
     "gps": {
       "lat": -15.723,
       "lon": -70.158
@@ -58542,7 +58542,7 @@
     "nazev": "Pumapunku",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Kamenne bloky Tiwanaku, ktere jsou kvuli presnosti opracovani oblibenym cilem pseudovedeckych tvrzeni.",
+    "lead": "Kamenné bloky Tiwanaku, které jsou kvůli přesnosti opracování oblíbeným cílem pseudovědeckých tvrzení.",
     "gps": {
       "lat": -16.561,
       "lon": -68.679
@@ -58614,7 +58614,7 @@
     "nazev": "Jesuit Missions of Chiquitos",
     "zeme": "Bolívie",
     "kontinent": "Jižní Amerika",
-    "lead": "Misie v bolivijske nizine, kde hudba, kolonialni sprava a mistni remeslo vytvorily neobvyklou kulturni krajinu.",
+    "lead": "Misie v bolivijské nížině, kde hudba, koloniální správa a místní řemeslo vytvořily neobvyklou kulturní krajinu.",
     "gps": {
       "lat": -16.38,
       "lon": -60.96
@@ -58686,7 +58686,7 @@
     "nazev": "Rupac Cloud Citadel",
     "zeme": "Peru",
     "kontinent": "Jižní Amerika",
-    "lead": "Kamene stavby vysoko v mlhach nad Limou, mensi, ale vizualne silne andske ztracene misto.",
+    "lead": "Kamenné stavby vysoko v mlhách nad Limou, menší, ale vizuálně silné andské ztracené místo.",
     "gps": {
       "lat": -11.31,
       "lon": -76.87
@@ -58758,7 +58758,7 @@
     "nazev": "Ciudad Mitad del Mundo",
     "zeme": "Ekvádor",
     "kontinent": "Jižní Amerika",
-    "lead": "Rovnikovy monument u Quita, popularni misto mezi geodezii, turistickym ritualem a opravami mereni.",
+    "lead": "Rovníkový monument u Quita, populární místo mezi geodézií, turistickým rituálem a opravami měření.",
     "gps": {
       "lat": -0.002,
       "lon": -78.455
@@ -58830,7 +58830,7 @@
     "nazev": "Gebel el Silsila",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Staroveke kamenolomy u Nilu, kde steny nesou stopy tezby, chramku a pracovni pameti Egypta.",
+    "lead": "Starověké kamenolomy u Nilu, kde stěny nesou stopy těžby, chrámků a pracovní paměti Egypta.",
     "gps": {
       "lat": 24.65,
       "lon": 32.93
@@ -58902,7 +58902,7 @@
     "nazev": "Abydos Osireion",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Podzemne pusobici stavba u Abydu, misto spojene s Osiridem, vodou a kralovskou smrti.",
+    "lead": "Podzemně působící stavba u Abydu, místo spojené s Usirem, vodou a královskou smrtí.",
     "gps": {
       "lat": 26.184,
       "lon": 31.919
@@ -58974,7 +58974,7 @@
     "nazev": "Saqqara Serapeum",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Podzemni galerie s masivnimi sarkofagy byku Apis, realny archeologicky prostor s temnou monumentalitou.",
+    "lead": "Podzemní galerie s masivními sarkofágy býků Apis, skutečný archeologický prostor s temnou monumentalitou.",
     "gps": {
       "lat": 29.871,
       "lon": 31.216
@@ -59046,7 +59046,7 @@
     "nazev": "Bent Pyramid Dahshur",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Lomena pyramida v Dahshuru, prechodovy experiment kralovske architektury s okamzite rozpoznatelnym profilem.",
+    "lead": "Lomená pyramida v Dahšúru, přechodový experiment královské architektury s okamžitě rozpoznatelným profilem.",
     "gps": {
       "lat": 29.79,
       "lon": 31.209
@@ -59118,7 +59118,7 @@
     "nazev": "Temple of Kalabsha",
     "zeme": "Egypt",
     "kontinent": "Afrika",
-    "lead": "Presunuty nubijsky chram u Asuanu, kde pamatkova zachrana sama vytvorila dalsi vrstvu pribehu.",
+    "lead": "Přesunutý núbijský chrám u Asuánu, kde památková záchrana sama vytvořila další vrstvu příběhu.",
     "gps": {
       "lat": 23.96,
       "lon": 32.867
@@ -59190,7 +59190,7 @@
     "nazev": "Ksar Ouled Soltane",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Opevneny berbersky ksar s vicepatrovymi sypkami, pozdeji znamy i diky filmove imaginaci.",
+    "lead": "Opevněný berberský ksar s vícepatrovými sýpkami, později známý i díky filmové imaginaci.",
     "gps": {
       "lat": 32.789,
       "lon": 10.515
@@ -59262,7 +59262,7 @@
     "nazev": "Bulla Regia Underground Villas",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Anticke domy s podzemnimi patry, prakticka odpoved na klima a necekane intimni archeologicky prostor.",
+    "lead": "Antické domy s podzemními patry, praktická odpověď na klima a nečekaně intimní archeologický prostor.",
     "gps": {
       "lat": 36.558,
       "lon": 8.757
@@ -59334,7 +59334,7 @@
     "nazev": "Chebika Mountain Oasis",
     "zeme": "Tunisko",
     "kontinent": "Afrika",
-    "lead": "Horska oaza na okraji pouste, kde voda, ruiny a filmova krajina vytvareji kontrastni zastavku.",
+    "lead": "Horská oáza na okraji pouště, kde voda, ruiny a filmová krajina vytvářejí kontrastní zastávku.",
     "gps": {
       "lat": 34.318,
       "lon": 7.943
@@ -59406,7 +59406,7 @@
     "nazev": "Thimlich Ohinga",
     "zeme": "Keňa",
     "kontinent": "Afrika",
-    "lead": "Kamenne opevnene sidlo u Viktoriina jezera, doklad obrany, organizace a mistni stavebni tradice.",
+    "lead": "Kamenné opevněné sídlo u Viktoriina jezera, doklad obrany, organizace a místní stavební tradice.",
     "gps": {
       "lat": -0.93,
       "lon": 34.326
@@ -59478,7 +59478,7 @@
     "nazev": "Gede Ruins",
     "zeme": "Keňa",
     "kontinent": "Afrika",
-    "lead": "Ruiny svahilskeho mesta v lese u pobrezi, kde obchodni sit Indickeho oceanu zmizela pod korunami stromu.",
+    "lead": "Ruiny svahilského města v lese u pobřeží, kde obchodní síť Indického oceánu zmizela pod korunami stromů.",
     "gps": {
       "lat": -3.31,
       "lon": 40.016
@@ -59550,7 +59550,7 @@
     "nazev": "Songo Mnara",
     "zeme": "Tanzanie",
     "kontinent": "Afrika",
-    "lead": "Kamene ruiny svahilskeho sidla, mene slavny soused Kilwy s citelnou ostrovni izolaci.",
+    "lead": "Kamenné ruiny svahilského sídla, méně slavný soused Kilwy s citelnou ostrovní izolací.",
     "gps": {
       "lat": -9.066,
       "lon": 39.6
@@ -59622,7 +59622,7 @@
     "nazev": "Mapungubwe Hill",
     "zeme": "Jihoafrická republika",
     "kontinent": "Afrika",
-    "lead": "Kralovsky kopec a krajina obchodu na jihu Afriky, dulezity uzel predkolonialni moci a symboliky.",
+    "lead": "Královský kopec a krajina obchodu na jihu Afriky, důležitý uzel předkoloniální moci a symboliky.",
     "gps": {
       "lat": -22.192,
       "lon": 29.238
@@ -59694,7 +59694,7 @@
     "nazev": "Tarxien Temples",
     "zeme": "Malta",
     "kontinent": "Evropa",
-    "lead": "Megaliticke chramy na Malte, kde spiralove motivy a bloky vytvareji praveky ritualni celek.",
+    "lead": "Megalitické chrámy na Maltě, kde spirálové motivy a bloky vytvářejí pravěký rituální celek.",
     "gps": {
       "lat": 35.869,
       "lon": 14.512
@@ -59910,7 +59910,7 @@
     "nazev": "Dover Western Heights",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Rozsahly system opevneni nad Doverem, kde tunely, prikopy a pobrezi vytvareji vojensky labyrint.",
+    "lead": "Rozsáhlý systém opevnění nad Doverem, kde tunely, příkopy a pobřeží vytvářejí vojenský labyrint.",
     "gps": {
       "lat": 51.126,
       "lon": 1.305
@@ -59982,7 +59982,7 @@
     "nazev": "Dover Fan Bay Deep Shelter",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Podzemni kryt ve skalach bilych utesu, valecna infrastruktura ukryta pod ikonickym pobrezi.",
+    "lead": "Podzemní kryt ve skalách bílých útesů, válečná infrastruktura ukrytá pod ikonickým pobřežím.",
     "gps": {
       "lat": 51.136,
       "lon": 1.363
@@ -60054,7 +60054,7 @@
     "nazev": "Drakelow Tunnels",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Podzemni tovarna a pozdejsi bunkr, kde se prumysl, studena valka a opustene chodby potkavaji v jednom miste.",
+    "lead": "Podzemní továrna a pozdější bunkr, kde se průmysl, studená válka a opuštěné chodby potkávají na jednom místě.",
     "gps": {
       "lat": 52.386,
       "lon": -2.236
@@ -60126,7 +60126,7 @@
     "nazev": "Kelvedon Hatch Nuclear Bunker",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Studenovalecny bunkr pod nenapadnym venkovem, pripraveny pro krizove rizeni po jadernem utoku.",
+    "lead": "Studenoválečný bunkr pod nenápadným venkovem, připravený pro krizové řízení po jaderném útoku.",
     "gps": {
       "lat": 51.67,
       "lon": 0.27
@@ -60198,7 +60198,7 @@
     "nazev": "Hack Green Secret Bunker",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Byvale radarove a jaderne velitelske misto, dnes muzeum skryte infrastruktury studene valky.",
+    "lead": "Bývalé radarové a jaderné velitelské místo, dnes muzeum skryté infrastruktury studené války.",
     "gps": {
       "lat": 53.055,
       "lon": -2.575
@@ -60270,7 +60270,7 @@
     "nazev": "Ramsgate Tunnels",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Civilni krytove tunely pod mestem, kde valecny strach vytvoril paralelni podzemni urbanismus.",
+    "lead": "Civilní krytové tunely pod městem, kde válečný strach vytvořil paralelní podzemní urbanismus.",
     "gps": {
       "lat": 51.335,
       "lon": 1.419
@@ -60342,7 +60342,7 @@
     "nazev": "Capel Battery",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Pobrezni baterie u Folkestone, mensi vojensky bod v siti obrany Lamanskeho prulivu.",
+    "lead": "Pobřežní baterie u Folkestone, menší vojenský bod v síti obrany Lamanšského průlivu.",
     "gps": {
       "lat": 51.095,
       "lon": 1.205
@@ -60414,7 +60414,7 @@
     "nazev": "Ouvrage Hackenberg",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Obri pevnost Maginotovy linie, podzemni vlak, kasarny a delostrelectvo jako mesto ukryte v kopci.",
+    "lead": "Obří pevnost Maginotovy linie, podzemní vlak, kasárny a dělostřelectvo jako město ukryté v kopci.",
     "gps": {
       "lat": 49.385,
       "lon": 6.347
@@ -60486,7 +60486,7 @@
     "nazev": "Ouvrage Schoenenbourg",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Zachovana pevnost Maginotovy linie, kde se betonova obrana meni v podzemni technicky svet.",
+    "lead": "Zachovaná pevnost Maginotovy linie, kde se betonová obrana mění v podzemní technický svět.",
     "gps": {
       "lat": 48.966,
       "lon": 7.913
@@ -60558,7 +60558,7 @@
     "nazev": "Fort de Mutzig",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Nemecka pevnost v Alsasku, prechod mezi klasickym opevnenim a moderni industrialni valkou.",
+    "lead": "Německá pevnost v Alsasku, přechod mezi klasickým opevněním a moderní průmyslovou válkou.",
     "gps": {
       "lat": 48.532,
       "lon": 7.452
@@ -60630,7 +60630,7 @@
     "nazev": "Fort Douaumont",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Pevnost u Verdunu, betonovy symbol opotrebovaci valky, hrdinstvi i masove smrti.",
+    "lead": "Pevnost u Verdunu, betonový symbol opotřebovací války, hrdinství i masové smrti.",
     "gps": {
       "lat": 49.216,
       "lon": 5.438
@@ -60702,7 +60702,7 @@
     "nazev": "Fort Vaux",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Mensi pevnost u Verdunu, kde tunely, zizen a oblehani vytvorily komorni obraz valecne krajnosti.",
+    "lead": "Menší pevnost u Verdunu, kde tunely, žízeň a obléhání vytvořily komorní obraz válečné krajnosti.",
     "gps": {
       "lat": 49.201,
       "lon": 5.466
@@ -60774,7 +60774,7 @@
     "nazev": "Vauquois Mine Craters",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Kopec roztrhany minovou valkou, kde podzemni exploze prepsaly vesnici i relief.",
+    "lead": "Kopec roztrhaný minovou válkou, kde podzemní exploze přepsaly vesnici i reliéf.",
     "gps": {
       "lat": 49.204,
       "lon": 5.069
@@ -60846,7 +60846,7 @@
     "nazev": "La Coupole Bunker",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Obri nacisticky bunkr pro rakety V2, temna technologicka krajina mezi okupaci a kosmickym vekem.",
+    "lead": "Obří nacistický bunkr pro rakety V2, temná technologická krajina mezi okupací a kosmickým věkem.",
     "gps": {
       "lat": 50.706,
       "lon": 2.243
@@ -60918,7 +60918,7 @@
     "nazev": "Blockhaus d Eperlecques",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Masivni betonovy blokhaus pro zbrane V, kde brutalni logistika zustala jako surova ruina.",
+    "lead": "Masivní betonový blokhaus pro zbraně V, kde brutální logistika zůstala jako surová ruina.",
     "gps": {
       "lat": 50.806,
       "lon": 2.147
@@ -60990,7 +60990,7 @@
     "nazev": "Wolfsschlucht II",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Hitleruv polni velitelsky areal u Margivalu, opustena infrastruktura moci ukryta v lesich.",
+    "lead": "Hitlerův polní velitelský areál u Margivalu, opuštěná infrastruktura moci ukrytá v lesích.",
     "gps": {
       "lat": 49.435,
       "lon": 3.556
@@ -61062,7 +61062,7 @@
     "nazev": "Bunker Valentin",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Nedokoncena ponorkova tovarna u Brem, masivni betonovy doklad nucene prace a pozdni valecne logistiky.",
+    "lead": "Nedokončená ponorková továrna u Brém, masivní betonový doklad nucené práce a pozdní válečné logistiky.",
     "gps": {
       "lat": 53.221,
       "lon": 8.505
@@ -61134,7 +61134,7 @@
     "nazev": "Mittelwerk Dora Tunnels",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Podzemni tovarna na rakety V2 spojena s koncentracnim taborem, jedno z nejtemnejsich technickych podzemi Evropy.",
+    "lead": "Podzemní továrna na rakety V2 spojená s koncentračním táborem, jedno z nejtemnějších technických podzemí Evropy.",
     "gps": {
       "lat": 51.535,
       "lon": 10.748
@@ -61206,7 +61206,7 @@
     "nazev": "Seelow Heights",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Bojiste pred Berlinem, otevrena krajina zaverecneho stretnuti, kde vojenska mapa prechazi v pamet ztrat.",
+    "lead": "Bojiště před Berlínem, otevřená krajina závěrečného střetnutí, kde vojenská mapa přechází v paměť ztrát.",
     "gps": {
       "lat": 52.533,
       "lon": 14.383
@@ -61278,7 +61278,7 @@
     "nazev": "Project Riese Wlodarz",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Cast podzemniho komplexu Riese v Sovich horach, kde nedokoncene tunely posiluji povalecne spekulace.",
+    "lead": "Část podzemního komplexu Riese v Sovích horách, kde nedokončené tunely posilují poválečné spekulace.",
     "gps": {
       "lat": 50.69,
       "lon": 16.415
@@ -61350,7 +61350,7 @@
     "nazev": "Mamerki Bunkers",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Zachovaly bunkrovy areal vrchniho veleni, mene znamy soused slavnejsi Wolfsschanze.",
+    "lead": "Zachovalý bunkrový areál vrchního velení, méně známý soused slavnějšího Vlčího doupěte.",
     "gps": {
       "lat": 54.147,
       "lon": 21.681
@@ -61422,7 +61422,7 @@
     "nazev": "Borne Sulinowo Ghost Base",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Byvale tajne sovetske mesto a vojensky prostor, dlouho vymazany z beznych map.",
+    "lead": "Bývalé tajné sovětské město a vojenský prostor, dlouho vymazaný z běžných map.",
     "gps": {
       "lat": 53.576,
       "lon": 16.533
@@ -61566,7 +61566,7 @@
     "nazev": "Rummu Quarry Prison",
     "zeme": "Estonsko",
     "kontinent": "Evropa",
-    "lead": "Zatopeny lom a byvala veznice, surrealni krajina potopenych budov a tyrkysove vody.",
+    "lead": "Zatopený lom a bývalá věznice, surreálná krajina potopených budov a tyrkysové vody.",
     "gps": {
       "lat": 59.226,
       "lon": 24.205
@@ -61638,7 +61638,7 @@
     "nazev": "Karosta Prison",
     "zeme": "Lotyšsko",
     "kontinent": "Evropa",
-    "lead": "Vojenska veznice v Liepaji, znama temnou historii, inscenovanymi prohlidkami a ducharskou povesti.",
+    "lead": "Vojenská věznice v Liepāji, známá temnou historií, inscenovanými prohlídkami a duchařskou pověstí.",
     "gps": {
       "lat": 56.552,
       "lon": 21.012
@@ -61710,7 +61710,7 @@
     "nazev": "Liepaja Northern Forts",
     "zeme": "Lotyšsko",
     "kontinent": "Evropa",
-    "lead": "Rozpadle pobrezni pevnosti u Baltskeho more, betonova obrana postupne pohlcovana vodou a piskem.",
+    "lead": "Rozpadlé pobřežní pevnosti u Baltského moře, betonová obrana postupně pohlcovaná vodou a pískem.",
     "gps": {
       "lat": 56.586,
       "lon": 21.01
