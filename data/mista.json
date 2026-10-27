@@ -72291,10 +72291,10 @@
       "fr": "baba-vida-fortress"
     },
     "detailPath": "/mista/baba-vida-fortress/",
-    "nazev": "Baba Vida Fortress",
+    "nazev": "Pevnost Baba Vida",
     "zeme": "Bulharsko",
     "kontinent": "Evropa",
-    "lead": "Středověká pevnost ve Vidinu na Dunaji, spojnice pohraniční architektury a balkánské historické paměti.",
+    "lead": "Jediný úplně zachovaný středověký hrad v Bulharsku, na břehu Dunaje ve Vidinu - podle pověsti ho postavila princezna, která se nikdy nevdala.",
     "gps": {
       "lat": 43.9944,
       "lon": 22.8866
@@ -72307,21 +72307,21 @@
       "stredovek"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Baba Vida Fortress rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Stredoveka pevnost ve Vidinu na Dunaji, spojnice hranicni architektury a balkanske historicke pameti.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hrad má dvě obvodové hradby, věže a příkop. Z věží je výhled na Dunaj a Rumunsko na druhém břehu.",
+      "historie": "Hrad stojí na místě římské pevnosti Bononia. Nejstarší části pocházejí z 10. století, dnešní podobu získal ve 14. století. Turci ho později přestavěli a používali jako vězení a sklad.",
+      "legenda": "Podle pověsti měl bojar tři dcery: Vidu, Kulu a Gamzu. Mladší se vdaly a odešly, ale Vida zůstala svobodná a postavila hrad. Proto se jmenuje Baba Vida - babička Vida.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Hrad se používá jako kulisa pro filmy a historické slavnosti.",
+      "skepticke": "Pověst o třech sestrách vysvětluje jména měst. Stavební vývoj hradu je dobře zmapovaný."
     },
-    "praktickeInfo": "Pred navstevou Baba Vida Fortress over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Vidin je na severozápadě Bulharska, u mostu přes Dunaj do Rumunska. Hrad je otevřený celoročně. V létě se konají slavnosti a koncerty. Kombinujte s skalním městem Belogradčik.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72343,12 +72343,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Baba Vida Fortress pridava na mapu motivy hrad, stredovek a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Tři sestry",
+        "text": "Vida, Kula a Gamza byly sestry. Kula a Gamza se vdaly a daly jména místům. Vida zůstala a postavila hrad."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Hrad na Dunaji",
+        "text": "Hrad stojí na místě římské pevnosti a hlídal řeku přes tisíc let."
       }
     ]
   },
@@ -72438,7 +72438,7 @@
     "nazev": "Fort Boyard",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Mořská pevnost mezi ostrovy Aix a Oléron, vojenský projekt proměněný v televizní a popkulturní ikonu.",
+    "lead": "Kamenná pevnost uprostřed moře, kterou stavěli přes padesát let - a když ji dokončili, už nebyla potřeba. Dnes je známá z televizní soutěže.",
     "gps": {
       "lat": 45.9997,
       "lon": -1.2133
@@ -72451,21 +72451,21 @@
       "media"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen z lodi",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Fort Boyard rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Morska pevnost mezi ostrovy Aix a Oleron, vojensky projekt premeneny v televizni a popkulturni ikonu.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Oválná pevnost stojí na mělčině mezi ostrovy Aix a Oléron. Je dlouhá asi 70 metrů a vysoká přes 20 metrů. Z dálky vypadá jako kamenná loď.",
+      "historie": "Stavbu rozhodl Napoleon v roce 1801, aby chránila přístav Rochefort. Práce trvaly do roku 1857. Mezitím se zvětšil dostřel děl a pevnost byla zbytečná. Krátce sloužila jako vězení.",
+      "legenda": "Od roku 1990 se v pevnosti natáčí televizní soutěž Pevnost Boyard s tygry, hady a klíči. Mnozí diváci si myslí, že pevnost slouží jen jí.",
+      "paranormalni": "Nadpřirozené jevy se nepopisují. Pevnost je známá spíše jako televizní kulisa.",
+      "skepticke": "Pevnost je technicky zajímavá a historicky dobře doložená. Televizní záhady jsou zábavou."
     },
-    "praktickeInfo": "Pred navstevou Fort Boyard over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Do pevnosti se nevstupuje. Lodě s vyhlídkovými plavbami jezdí z La Rochelle, Île d'Aix nebo z Oléronu. Pevnost je dobře vidět i z pobřeží Fouras.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72487,12 +72487,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Fort Boyard pridava na mapu motivy oceany, media a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Zbytečná pevnost",
+        "text": "Stavba trvala tak dlouho, že než ji dokončili, děla už střílela dál a pevnost nebyla potřeba."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Televizní hvězda",
+        "text": "Od roku 1990 se v pevnosti natáčí soutěž, kde hráči hledají klíče mezi tygry a hady."
       }
     ]
   },
@@ -72507,10 +72507,10 @@
       "fr": "isle-of-skye-fairy-pools"
     },
     "detailPath": "/mista/isle-of-skye-fairy-pools/",
-    "nazev": "Isle of Skye Fairy Pools",
+    "nazev": "Vílí tůně na Skye",
     "zeme": "Skotsko",
     "kontinent": "Evropa",
-    "lead": "Vodopády a modré tůňky na Skye, kde přírodní krása přirozeně nese motiv víl a keltské krajiny.",
+    "lead": "Průzračné modré tůně a vodopády pod horami Černého Cuillinu na ostrově Skye - podle skotských pověstí se v nich koupou víly.",
     "gps": {
       "lat": 57.2505,
       "lon": -6.2729
@@ -72523,21 +72523,21 @@
       "prirodni-anomalie"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "střední",
+    "pristupnost": "volně přístupné, parkování placené",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Isle of Skye Fairy Pools rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Vodopady a modre tunky na Skye, kde prirodni krasa prirozene nese motiv vil a keltske krajiny.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Řeka Brittle stéká z hor přes kaskády a tůně. Voda je tak čistá, že kameny na dně svítí modře a zeleně. Nad tůněmi se zvedají ostré vrcholy Cuillinu.",
+      "historie": "Tůně byly dlouho známé jen místním a horolezcům. V posledních letech se staly jedním z nejnavštěvovanějších míst na Skye díky fotografiím na internetu.",
+      "legenda": "Skye je plné pověstí o vílách - je tu Vílí údolí, Vílí most a na hradě Dunvegan se uchovává Vílí vlajka. Podle pověstí se víly koupou v tůních a lákají pocestné.",
+      "paranormalni": "Nadpřirozené jevy se nepopisují. Kouzlo místa tvoří barva vody a hory v mlze.",
+      "skepticke": "Název Vílí tůně je moderní a souvisí s cestovním ruchem. Barvu vody způsobují kameny na dně a čistota."
     },
-    "praktickeInfo": "Pred navstevou Isle of Skye Fairy Pools over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Tůně jsou v údolí Glen Brittle, cesta od parkoviště trvá asi 40 minut. Parkování je placené. Voda je velmi studená, koupání jen pro otužilé. Po dešti jsou brody přes řeku obtížné.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72559,12 +72559,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Isle of Skye Fairy Pools pridava na mapu motivy mytologie, prirodni-anomalie a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Koupel víl",
+        "text": "Podle pověsti se v tůních koupou víly a lákají pocestné do vody."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Vílí vlajka",
+        "text": "Na nedalekém hradě Dunvegan se uchovává Vílí vlajka, kterou prý rodu MacLeodů darovaly víly."
       }
     ]
   },
@@ -72582,7 +72582,7 @@
     "nazev": "Glen Coe",
     "zeme": "Skotsko",
     "kontinent": "Evropa",
-    "lead": "Dramatické skotské údolí spojené s masakrem, krajinou paměti a silnou horskou atmosférou.",
+    "lead": "Skotské horské údolí, kde v únoru 1692 vojáci pobili hostitele, kteří je pohostili - podle pověsti se tu o výročí ozývají výkřiky.",
     "gps": {
       "lat": 56.6825,
       "lon": -5.1023
@@ -72595,21 +72595,21 @@
       "prirodni-labyrint"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "střední",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Glen Coe rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Dramaticke skotske udoli spojene s masakrem, krajinou pameti a silnou horskou atmosferou.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Údolí je obklopené strmými horami, mezi nimi jsou Tři sestry. Za mlhy a deště působí krajina temně a ponuře.",
+      "historie": "13. února 1692 vojáci pod velením Roberta Campbella z Glenlyonu, kteří byli dva týdny hosty klanu MacDonaldů, ráno zaútočili na své hostitele. Zabili kolem 38 lidí, další zemřeli v mrazu na útěku. Masakr šokoval Skotsko, protože porušil zákon pohostinství.",
+      "legenda": "Podle pověsti se o výročí masakru v údolí ozývají výkřiky a zjevují postavy v plédech. Na skále Signal Rock prý dávali signál k útoku.",
+      "paranormalni": "Turisté a místní vyprávějí o pocitu smutku a zvucích v noci. Údolí se objevuje v knihách o skotských duších.",
+      "skepticke": "Masakr je historicky doložený, zjevení ne. Tradice o signálu ze Signal Rock je podle historiků nejistá."
     },
-    "praktickeInfo": "Pred navstevou Glen Coe over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Glen Coe leží u silnice A82 asi 25 km jižně od Fort William. Návštěvnické centrum National Trust for Scotland vysvětluje historii masakru. Pro túry potřebujete dobré boty a mapu, počasí se mění rychle.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72631,12 +72631,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Glen Coe pridava na mapu motivy umrti, prirodni-labyrint a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Zrada hostů",
+        "text": "Vojáci dva týdny jedli a pili s MacDonaldy - pak je jednoho únorového rána pobili."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Signal Rock",
+        "text": "Podle pověsti z této skály dali signál k útoku. Historici o tom pochybují."
       }
     ]
   },
@@ -72723,10 +72723,10 @@
       "fr": "san-galgano-abbey"
     },
     "detailPath": "/mista/san-galgano-abbey/",
-    "nazev": "San Galgano Abbey",
+    "nazev": "Opatství San Galgano",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Toskánské opatství bez střechy a nedaleký meč v kameni, kde středověká legenda připomíná artušovský motiv.",
+    "lead": "Toskánské opatství bez střechy a kousek nad ním skutečný meč zaražený do kamene - rytíř Galgano jím v roce 1180 prý zřekl válčení.",
     "gps": {
       "lat": 43.1494,
       "lon": 11.1547
@@ -72739,21 +72739,21 @@
       "legenda"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, kaple zdarma",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "San Galgano Abbey rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Toskanske opatstvi bez strechy a blizky mec v kameni, kde stredoveka legenda pripomina artusovsky motiv.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Gotický kostel opatství nemá střechu, místo ní je nebe a v trávě rostou květiny. Na kopci nad ním stojí kruhová kaple Montesiepi a v jejím středu trčí z kamene rezavý jílec meče.",
+      "historie": "Galgano Guidotti byl rytíř, který se podle životopisu na Vánoce 1180 obrátil k víře a zarazil meč do skály na znamení, že odkládá zbraně. Žil zde jako poustevník a zemřel v roce 1181. Cisterciáci pak postavili opatství, které v 18. století chátralo, až se zřítila střecha.",
+      "legenda": "Podle pověsti meč vnikl do kamene jako do másla. Když se ho později pokusil ukrást závistivý mnich, vlci mu prý utrhli ruce. Mumifikované ruce jsou dodnes vystavené v kapli.",
+      "paranormalni": "Poutníci k meči přicházejí s modlitbami. Příběh bývá přirovnáván k artušovskému meči v kameni.",
+      "skepticke": "Rozbor kovu ukázal, že meč může pocházet z 12. století. Ruce v kapli nejsou zkoumané. Spojení s legendou o králi Artušovi je jen spekulace."
     },
-    "praktickeInfo": "Pred navstevou San Galgano Abbey over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "San Galgano je asi 30 km jihozápadně od Sieny u obce Chiusdino. Vstup do opatství je placený, kaple s mečem na kopci je zdarma, vede k ní krátká cesta asi 10 minut. V létě se v opatství konají koncerty.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72775,12 +72775,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "San Galgano Abbey pridava na mapu motivy templari, legenda a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Meč v kameni",
+        "text": "Rytíř Galgano prý zarazil meč do skály, aby ukázal, že se vzdává války. Jílec trčí z kamene dodnes."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Ruce zloděje",
+        "text": "Mnich, který se pokusil meč ukrást, prý přišel o ruce - vlci mu je utrhli. Mumifikované ruce jsou v kapli."
       }
     ]
   },
@@ -72939,10 +72939,10 @@
       "fr": "monte-cristo-island"
     },
     "detailPath": "/mista/monte-cristo-island/",
-    "nazev": "Monte Cristo Island",
+    "nazev": "Ostrov Monte Cristo",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Toskánský ostrov proslavený literární představou pokladu, dnes přísně chráněná přírodní rezervace.",
+    "lead": "Žulový ostrov v Toskánsku, kde podle Dumasova románu ležel poklad hraběte Monte Christo - za rok se na něj dostane jen asi tisícovka návštěvníků.",
     "gps": {
       "lat": 42.3333,
       "lon": 10.3167
@@ -72955,21 +72955,21 @@
       "ostrov"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "střední",
+    "pristupnost": "jen s povolením",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Monte Cristo Island rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Toskansky ostrov proslaveny literarni predstavou pokladu, dnes prisne chranena prirodni rezervace.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Ostrov je skalnatý, strmý a téměř bez stromů. Je přírodní rezervací, kde žijí divoké kozy a vzácní ptáci. Na svahu jsou ruiny starého kláštera.",
+      "historie": "Na ostrově od středověku stál klášter svatého Mamiliána. V roce 1553 ho vyplenili piráti. Alexandre Dumas ostrov proslavil románem Hrabě Monte Christo (1844).",
+      "legenda": "Podle pověsti mniši ukryli na ostrově poklad, když na ně zaútočili piráti. Dumas tuto pověst použil v románu. Hledači pokladů ho prý hledali po staletí.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství tvoří nedostupnost ostrova.",
+      "skepticke": "Poklad mnichů nebyl nikdy nalezen a je nejspíš legendou. Dumasův poklad je smyšlený."
     },
-    "praktickeInfo": "Pred navstevou Monte Cristo Island over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Ostrov leží jižně od Elby. Návštěvy jsou možné jen s povolením správy parku Toskánského souostroví, roční kvóta je malá a čeká se dlouho. Výlet zahrnuje strmou túru. Bez povolení se můžete jen dívat z lodi.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -72991,12 +72991,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Monte Cristo Island pridava na mapu motivy poklad, ostrov a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Poklad mnichů",
+        "text": "Mniši prý před piráty ukryli poklad, který dodnes nikdo nenašel - a Dumas z něj udělal román."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Zakázaný ostrov",
+        "text": "Na ostrov se ročně dostane jen asi tisíc lidí, kteří čekají na povolení."
       }
     ]
   },
@@ -73014,7 +73014,7 @@
     "nazev": "Rocca Calascio",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Vysokohorská pevnost v Abruzzu, filmová ruina ve větru, která působí jako konec středověké cesty.",
+    "lead": "Jedna z nejvýše položených pevností Itálie, 1 460 metrů nad mořem v pohoří Gran Sasso - kulisa filmu Jestřábí žena.",
     "gps": {
       "lat": 42.3272,
       "lon": 13.6889
@@ -73027,21 +73027,21 @@
       "film"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Rocca Calascio rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Vysokohorska pevnost v Abruzzu, filmova ruina na vetru, ktera pusobi jako konec stredoveke cesty.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Kamenná pevnost se čtyřmi věžemi stojí na skalním hřebeni nad údolím. Pod ní leží malá vesnice a osmiboký kostel Santa Maria della Pietà.",
+      "historie": "Pevnost vznikla jako strážní věž kolem roku 1000 a později byla rozšířena. Sloužila ke kontrole cest pastevců s ovcemi. Zemětřesení v roce 1703 ji poškodilo a vesnice se vylidnila.",
+      "legenda": "Podle pověsti postavili kostel Santa Maria della Pietà na místě, kde místní porazili bandity. Pevnost se objevila ve filmech Jestřábí žena (1985) a Američan (2010).",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství tvoří mlha, vítr a samota.",
+      "skepticke": "Pověst o kostele není doložená. Historie pevnosti a zemětřesení je dobře známá."
     },
-    "praktickeInfo": "Pred navstevou Rocca Calascio over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Rocca Calascio je asi 30 km od L'Aquily. Z parkoviště vede strmá cesta pěšky asi 20 minut. Vstup zdarma. V zimě bývá sníh. Ve vesnici pod pevností jsou ubytování a restaurace.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -73063,12 +73063,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Rocca Calascio pridava na mapu motivy hrad, film a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Filmová pevnost",
+        "text": "Pevnost hrála ve filmu Jestřábí žena s Michelle Pfeiffer a Rutgerem Hauerem."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Zemětřesení 1703",
+        "text": "Silné zemětřesení pevnost poškodilo a obyvatelé vesnici postupně opustili."
       }
     ]
   },
@@ -74379,10 +74379,10 @@
       "fr": "ojcow-castle"
     },
     "detailPath": "/mista/ojcow-castle/",
-    "nazev": "Ojcow Castle",
+    "nazev": "Hrad Ojców",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Hradní ruiny v krasové krajině Ojcowa, vhodné pro propojení středověku, jeskyní a místních pověstí.",
+    "lead": "Zříceniny hradu krále Kazimíra Velikého nad krasovým údolím Ojcowa - kousek od jeskyně, kde se podle pověsti před nepřáteli ukryl král Vladislav Lokýtek.",
     "gps": {
       "lat": 50.2115,
       "lon": 19.8294
@@ -74395,21 +74395,21 @@
       "legenda"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ojcow Castle rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Hradni ruiny v krasove krajine Ojcowa, vhodne pro propojeni stredoveku, jeskyni a lokalnich povesti.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Ze hradu zůstala vstupní brána, osmiboká věž a zbytky zdí. Pod ním se vine údolí řeky Prądnik s bílými vápencovými skalami a jeskyněmi.",
+      "historie": "Hrad dal ve 14. století postavit král Kazimír Veliký jako součást obrany Krakova. V 19. století byl opuštěný a rozebrán na stavební kámen.",
+      "legenda": "V nedaleké Lokýtkově jeskyni se podle pověsti král Vladislav Lokýtek skrýval před vojsky českého krále Václava II. Pavouk zatáhl vchod pavučinou a pronásledovatelé jeskyni minuli.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství tvoří skály a jeskyně kolem.",
+      "skepticke": "Pověst o pavučině se objevuje i u jiných postav a nelze ji ověřit. Hrad je historicky doložený."
     },
-    "praktickeInfo": "Pred navstevou Ojcow Castle over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Ojców je v Ojcowském národním parku asi 25 km severně od Krakova. Hrad je přístupný v sezóně za malé vstupné. Kombinujte s Lokýtkovou jeskyní, Herkulovou palicí a zámkem Pieskowa Skała.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -74431,12 +74431,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ojcow Castle pridava na mapu motivy hrad, legenda a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Pavučina u vchodu",
+        "text": "Pavouk zakryl vchod do jeskyně pavučinou a vojáci, kteří hledali krále Lokýtka, prošli kolem."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Hrad na stavební kámen",
+        "text": "V 19. století lidé hrad rozebrali a kameny použili na domy v okolí."
       }
     ]
   },
@@ -74451,10 +74451,10 @@
       "fr": "ogrodzieniec-castle"
     },
     "detailPath": "/mista/ogrodzieniec-castle/",
-    "nazev": "Ogrodzieniec Castle",
+    "nazev": "Hrad Ogrodzieniec",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Rozsáhlé zříceniny na Orlích hnízdech s legendou o černém psovi a silnou filmovou atmosférou.",
+    "lead": "Obří zříceniny na vápencových skalách polské Jury, kde prý v noci obchází černý pes s řetězem - a kde se natáčela bitva ze seriálu Zaklínač.",
     "gps": {
       "lat": 50.451,
       "lon": 19.552
@@ -74467,21 +74467,21 @@
       "duchove"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ogrodzieniec Castle rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Rozsahle zriceniny na Orlich hnizdech s legendou o cernem psu a silnou filmovou atmosferou.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Zdi hradu vyrůstají přímo ze skal a splývají s nimi. Hrad je největší na Stezce Orlích hnízd, která spojuje hrady na vápencových skalách mezi Krakovem a Čenstochovou.",
+      "historie": "Hrad dal v 16. století přestavět rod Bonerů na renesanční sídlo. V roce 1655 ho poškodili Švédové. Poslední majitelé ho opustili v 18. století a od té doby je zříceninou.",
+      "legenda": "Podle pověsti po hradě v noci obchází velký černý pes s řetězem. Je to prý duch kastelána Stanisława Warszyckiego, který byl krutý ke služebnictvu.",
+      "paranormalni": "Návštěvníci hlásí řinčení řetězu a stíny psa mezi skalami. Na hradě se pořádají noční prohlídky s duchy.",
+      "skepticke": "Černý pes je běžný motiv evropských pověstí. Hrad je dobře prozkoumaný a historie Warszyckého je reálná."
     },
-    "praktickeInfo": "Pred navstevou Ogrodzieniec Castle over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Hrad je v obci Podzamcze, asi 60 km severozápadně od Krakova. Je otevřený celoročně za vstupné. V létě se konají rytířské turnaje. Pod hradem je zábavní park a stezky na skály.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -74503,12 +74503,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ogrodzieniec Castle pridava na mapu motivy hrad, duchove a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Černý pes",
+        "text": "Po hradě prý v noci obchází černý pes s řetězem - duch krutého kastelána Warszyckého."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Zaklínač",
+        "text": "Na hradě se natáčela bitva o Sodden ze seriálu Zaklínač s Henrym Cavillem."
       }
     ]
   },
@@ -74667,10 +74667,10 @@
       "fr": "housesteads-roman-fort"
     },
     "detailPath": "/mista/housesteads-roman-fort/",
-    "nazev": "Housesteads Roman Fort",
+    "nazev": "Římská pevnost Housesteads",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Rimska pevnost na Hadrianove valu, hranicni krajina duchu imperia, vojenske disciplíny a vetru.",
+    "lead": "Nejlépe zachovaná pevnost na Hadriánově valu, s římskými latrínami - a s „domem vraždy“, kde archeologové našli dvě kostry pod podlahou.",
     "gps": {
       "lat": 55.013,
       "lon": -2.331
@@ -74683,21 +74683,21 @@
       "archeologie"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, mediální nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Housesteads Roman Fort rozsiruje osmnactou vlnu MysteryMap jako bod s jasnou polohou, tematickou vrstvou a samostatnym profilem: Rimska pevnost na Hadrianove valu, hranicni krajina duchu imperia, vojenske disciplíny a vetru.",
-      "historie": "Historicka vrstva slouzi jako zakladni orientace v identite mista. Profil je pripraveny pro doplneni presnejsich lokalnich zdroju, spravcovskych pravidel a licencovanych fotografii.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto objevuje v mapach zahad: muze jit o hrad, hbitov, podzemi, ostrov, opustenou vesnici, pamatku konfliktu nebo prirodni anomalni krajinu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako lokalni vypraveni, turisticka tradice, medialni stopa nebo folklor. Nejsou prezentovana jako overena skutecnost.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, architektonicka, psychologicka a medialni vysvetleni. To pomaha drzet profil pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Zbytky pevnosti stojí na hřebeni nad severní Anglií. Jsou zde kasárny, sýpky, nemocnice a slavné kamenné latríny.",
+      "historie": "Pevnost Vercovicium vznikla kolem roku 124 u Hadriánova valu. Žilo v ní asi 800 vojáků. Kolem vyrostla civilní osada s obchody a hostinci.",
+      "legenda": "Ve 30. letech archeologové našli pod podlahou jednoho domu v osadě kostry muže a ženy. V žebrech muže byl hrot nože. Domu se od té doby říká dům vraždy.",
+      "paranormalni": "Turisté vyprávějí o postavách římských vojáků na valu. Konkrétní doložené zprávy ale nejsou.",
+      "skepticke": "Kostry pod podlahou jsou skutečné a svědčí o zločinu, který pachatelé ukryli. Římští duchové jsou folklor."
     },
-    "praktickeInfo": "Pred navstevou Housesteads Roman Fort over aktualni pristup, vstupne, pravidla fotografovani, mistni bezpecnost a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Housesteads je u silnice B6318 v Northumberlandu, asi 50 km západně od Newcastlu. Z parkoviště vede cesta do kopce asi 15 minut. Vstup je placený (English Heritage). Odtud můžete jít pěšky podél valu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -74719,12 +74719,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Housesteads Roman Fort pridava na mapu motivy valka, archeologie a vytvari dalsi samostatnou vstupni stranku pro hledani, sitemap a tematicke prolinkovani."
+        "nazev": "Dům vraždy",
+        "text": "Pod podlahou domu ležely dvě kostry. Hrot nože v žebrech ukazuje, že šlo o vraždu."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni prameny, presne navstevnicke informace, fotografie s jasnou licenci a jazykove varianty detailu podle priority navstevnosti."
+        "nazev": "Římské latríny",
+        "text": "Vojáci tu sedávali vedle sebe na kamenných latrínách nad tekoucí vodou."
       }
     ]
   },
