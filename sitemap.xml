@@ -409,8 +409,13 @@
   <url><loc>https://mysterymap.online/cs/mista/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/greyfriars-kirkyard/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ancient-ram-inn/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/pluckley-village/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/chillingham-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/glamis-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ballygally-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dragsholm-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/moosham-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/rasnov-citadel/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eilean-donan-castle/</loc></url>
@@ -418,12 +423,17 @@
   <url><loc>https://mysterymap.online/cs/mista/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mystras/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/spinalonga/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/raynham-hall/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/hellfire-caves/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/krzyztopor-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/mary-kings-close/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/broceliande-forest/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kotor-fortress/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/rila-monastery/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dargavs-city-of-the-dead/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/gouffre-de-padirac/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cueva-de-altamira/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/capuchin-crypt-palermo/</loc></url>
@@ -630,8 +640,13 @@
   <url><loc>https://mysterymap.online/zh/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/greyfriars-kirkyard/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/ancient-ram-inn/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/pluckley-village/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/chillingham-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/glamis-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/ballygally-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dragsholm-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/moosham-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rasnov-citadel/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eilean-donan-castle/</loc></url>
@@ -639,12 +654,17 @@
   <url><loc>https://mysterymap.online/zh/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/mystras/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/spinalonga/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/raynham-hall/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hellfire-caves/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/krzyztopor-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/mary-kings-close/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/broceliande-forest/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/kotor-fortress/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rila-monastery/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dargavs-city-of-the-dead/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/gouffre-de-padirac/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cueva-de-altamira/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/capuchin-crypt-palermo/</loc></url>
@@ -820,8 +840,13 @@
   <url><loc>https://mysterymap.online/ja/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/greyfriars-kirkyard/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/ancient-ram-inn/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/pluckley-village/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/chillingham-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/glamis-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/ballygally-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dragsholm-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/moosham-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rasnov-citadel/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eilean-donan-castle/</loc></url>
@@ -829,12 +854,17 @@
   <url><loc>https://mysterymap.online/ja/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/mystras/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/spinalonga/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/raynham-hall/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hellfire-caves/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/krzyztopor-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/mary-kings-close/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/broceliande-forest/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/kotor-fortress/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rila-monastery/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dargavs-city-of-the-dead/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/gouffre-de-padirac/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cueva-de-altamira/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/capuchin-crypt-palermo/</loc></url>
@@ -1010,8 +1040,13 @@
   <url><loc>https://mysterymap.online/ko/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/kaunas-ninth-fort/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/greyfriars-kirkyard/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/ancient-ram-inn/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/pluckley-village/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/chillingham-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/glamis-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/ballygally-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dragsholm-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/moosham-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/rasnov-citadel/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/bock-casemates/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eilean-donan-castle/</loc></url>
@@ -1019,12 +1054,17 @@
   <url><loc>https://mysterymap.online/ko/places/sacra-di-san-michele/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/mystras/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/spinalonga/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/raynham-hall/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hellfire-caves/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/krzyztopor-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/mary-kings-close/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/rocamadour/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/broceliande-forest/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/skocjan-caves/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/giant-s-causeway/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/kotor-fortress/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/rila-monastery/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dargavs-city-of-the-dead/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/gouffre-de-padirac/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cueva-de-altamira/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/capuchin-crypt-palermo/</loc></url>
