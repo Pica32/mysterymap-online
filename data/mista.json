@@ -9097,7 +9097,7 @@
     "nazev": "Nuraghe Su Nuraxi",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Nuragický kamenný komplex na Sardinii, kde místní civilizace zanechala monumentální a stále tajemnou architekturu.",
+    "lead": "Kamenná pevnost z doby bronzové na Sardinii, kterou odkryla až silná bouře - nejznámější z tisíců záhadných věží nuragické civilizace.",
     "gps": {
       "lat": 39.705,
       "lon": 8.991
@@ -9110,21 +9110,21 @@
       "ztracena-mesta"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní a místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Nuraghe Su Nuraxi rozsiruje svetovou databazi MysteryMap jako misto s jasnou polohou a silnou verejnou asociaci: Nuragsky kamenny komplex na Sardinii, kde lokalni civilizace zanechala monumentalni a stale tajemnou architekturu. Profil je postaveny jako overitelny seed pro dalsi redakcni praci.",
-      "historie": "Historicka vrstva popisuje stabilni identitu mista a jeho verejne dohledatelny kontext. U velkeho globalniho importu je hlavni udrzet souradnice, zakladni popis a zdroje pripravené k dalsimu overovani.",
-      "legenda": "Legendova vrstva zachycuje kulturni pamet, opakovane vypraveni, cestovatelskou reputaci nebo spornou interpretaci. Tvrzeni nejsou prezentovana jako dukaz, ale jako tema k overeni.",
-      "paranormalni": "Paranormalni cast zviditelnuje to, co lide s mistem spojuji: stiny, zjeveni, prokleti, anomalie, ritualy, opustene stavby, zahadne zvuky nebo pocit posvatneho prostoru podle typu lokace.",
-      "skepticke": "Skepticky ramec drzi prirodni, historicka, psychologicka, turisticka a medialni vysvetleni oddelene od legend. To pomaha ctenarum i vyhledavacum pochopit, co je fakt a co interpretace."
+      "zahada": "Uprostřed stojí centrální věž obklopená čtyřmi menšími věžemi a hradbami. Kolem leží vesnice kruhových chýší. Uvnitř se prochází úzkými chodbami a po strmých schodech.",
+      "historie": "Nejstarší část vznikla přibližně v 16. století př. n. l. Na Sardinii je přes 7 000 nuraghů, ale jejich účel - pevnosti, chrámy, sídla náčelníků - je stále předmětem debat. Su Nuraxi odkryl archeolog Giovanni Lilliu v 50. letech. Na seznamu UNESCO je od roku 1997.",
+      "legenda": "Místní vyprávějí, že nuraghy stavěli obři nebo že je postavili mytičtí Šardanové - jeden z „mořských národů“, kteří útočili na Egypt.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Tajemná je kultura, která nezanechala písmo.",
+      "skepticke": "Spojení s mořskými národy je hypotéza. Obři jsou typické lidové vysvětlení megalitů."
     },
-    "praktickeInfo": "Pred navstevou Nuraghe Su Nuraxi over aktualni pristup, pravni omezeni, mistni pravidla, sezonu, bezpecnost a respekt k lokalni kulture. GPS neni povoleni ke vstupu.",
+    "praktickeInfo": "Su Nuraxi je u vesnice Barumini, asi hodinu autem z Cagliari. Prohlídky jsou jen s průvodcem, trvají asi hodinu a vedou i dovnitř věží - vezměte si pevnou obuv. V létě přijďte ráno, je tu velké horko.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -9146,12 +9146,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Globalni uzel",
-        "text": "Nuraghe Su Nuraxi je vhodny uzel pro mapu diky kombinaci verejne dohledatelne polohy, silneho motivu mytologie, ztracena-mesta a potencialu pro dalsi lokalni zdroje."
+        "nazev": "Bouře odkryla pevnost",
+        "text": "Pevnost byla schovaná pod kopcem, dokud ji silné deště nezačaly odkrývat."
       },
       {
-        "nazev": "Dalsi overeni",
-        "text": "Seedovy profil je zaklad. Dalsi redakcni kolo ma doplnit mistni instituce, presnejsi historii, licencovane fotografie, alternativni nazvy a jazykove nuance."
+        "nazev": "Sedm tisíc věží",
+        "text": "Na Sardinii je přes 7 000 nuraghů - tolik, že stojí skoro v každém údolí."
       }
     ]
   },
@@ -23165,7 +23165,7 @@
     "nazev": "Carnuntum",
     "zeme": "Rakousko",
     "kontinent": "Evropa",
-    "lead": "Římské město u Dunaje, kde vojenská hranice impéria zanechala rekonstruovatelnou archeologickou krajinu.",
+    "lead": "Římské město na Dunaji u Vídně, kde Marcus Aurelius psal Hovory k sobě, kde byl prohlášen císař Septimius Severus - a kde radar našel celou gladiátorskou školu.",
     "gps": {
       "lat": 48.112,
       "lon": 16.865
@@ -23178,21 +23178,21 @@
       "ritual"
     ],
     "indexTajemna": 73,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Carnuntum je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Rimske mesto u Dunaje, kde vojenska hranice imperia zanechala rekonstruovatelnou archeologickou krajinu. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "V Carnuntu stojí rekonstruované římské domy, lázně a městská čtvrť postavené původními technikami. Nad polem se tyčí Pohanská brána (Heidentor), monumentální oblouk ze 4. století.",
+      "historie": "Carnuntum bylo vojenským táborem a hlavním městem provincie Horní Panonie s desítkami tisíc obyvatel. Marcus Aurelius zde během markomanských válek psal část Hovorů k sobě. V roce 193 tu byl prohlášen císařem Septimius Severus a v roce 308 se tu sešla konference císařů. V roce 2011 radar odhalil pod zemí gladiátorskou školu.",
+      "legenda": "Lidé ve středověku považovali Pohanskou bránu za hrob obra nebo pohanského krále. Podle pověsti pod ní leží poklad.",
+      "paranormalni": "Paranormální hlášení nejsou běžná. Zajímavý je spíše pocit, že se městem dá skutečně projít.",
+      "skepticke": "Pohanská brána je triumfální památník, ne hrob. Pověst vznikla, protože středověcí lidé nevěděli, co oblouk znamená."
     },
-    "praktickeInfo": "Pred navstevou Carnuntum over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Carnuntum je asi 40 km východně od Vídně, dojedete vlakem S7 do Petronell-Carnuntum. Archeologický park má více částí: římské město, amfiteátr a muzeum v Bad Deutsch-Altenburgu. Otevřeno od března do listopadu. Počítejte s půl dnem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -23214,12 +23214,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Carnuntum rozsiruje mapu o motivy ztracena-mesta, ritual a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Filozof na frontě",
+        "text": "Marcus Aurelius psal Hovory k sobě ve vojenském táboře na Dunaji."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Škola gladiátorů",
+        "text": "Radar v roce 2011 odhalil pod polem celou gladiátorskou školu s cvičištěm."
       }
     ]
   },
@@ -23666,10 +23666,10 @@
       "fr": "val-camonica-rock-drawings"
     },
     "detailPath": "/mista/val-camonica-rock-drawings/",
-    "nazev": "Val Camonica Rock Drawings",
+    "nazev": "Skalní rytiny ve Val Camonica",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Jedna z největších evropských koncentrací skalních rytin, kamenný archiv dlouhé lidské imaginace.",
+    "lead": "Údolí v Lombardii s desítkami tisíc pravěkých rytin, vytvářených po tisíce let - první italská památka UNESCO a zdroj symbolu Lombardie, kamunské růže.",
     "gps": {
       "lat": 45.957,
       "lon": 10.3
@@ -23682,21 +23682,21 @@
       "mytologie"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Val Camonica Rock Drawings je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Jedna z nejvetsich evropskych koncentraci skalnich rytin, kamenny archiv dlouhe lidske imaginace. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Na vyhlazených skalách ledovcem jsou vyryté lovecké scény, bojovníci, zvířata, domy, mapy polí i záhadné postavy. Nejznámější je kamunská růže - čtyřlistý symbol, jehož význam nikdo přesně nezná.",
+      "historie": "Rytiny vznikaly od pozdního paleolitu přes dobu železnou až po římskou dobu, tedy během několika tisíc let. Počet rytin se odhaduje na více než sto tisíc. V roce 1979 se údolí stalo první italskou památkou UNESCO.",
+      "legenda": "Místní pověsti mluví o kouzelných znacích a skalách, kde se scházely čarodějnice. Někteří zastánci alternativních teorií tu vidí „astronauty“ - postavy s kruhovými hlavami.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Tajemství je v tom, co lidé po tisíce let chtěli sdělit.",
+      "skepticke": "Postavy s kruhovými hlavami jsou běžnou stylizací. Výklady o astronautech nemají oporu v archeologii."
     },
-    "praktickeInfo": "Pred navstevou Val Camonica Rock Drawings over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Hlavní park Naquane je v Capo di Ponte, asi 2 hodiny autem z Milána nebo Bergama. Do údolí jezdí i vlak z Brescie. V údolí je několik parků, počítejte s celým dnem. Nejlepší světlo pro rytiny je ráno a večer.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -23718,12 +23718,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Val Camonica Rock Drawings rozsiruje mapu o motivy ritual, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Kamunská růže",
+        "text": "Pravěký symbol z kamene se stal oficiálním znakem regionu Lombardie."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Pravěké mapy",
+        "text": "Některé rytiny jsou považovány za nejstarší mapy polí a sídel v Evropě."
       }
     ]
   },
@@ -25322,10 +25322,10 @@
       "fr": "pyramid-of-the-sun-bosnia"
     },
     "detailPath": "/mista/pyramid-of-the-sun-bosnia/",
-    "nazev": "Pyramid of the Sun Bosnia",
+    "nazev": "„Bosenská pyramida“ Visočica",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Kopec Visočica spojovaný se spornou pyramidovou teorií, vhodný pro jasný skeptický rámec.",
+    "lead": "Kopec u Visoka, který v roce 2005 jeden podnikatel prohlásil za největší pyramidu světa - vědci to odmítají jako přírodní útvar, ale tunely a turismus vzkvétají.",
     "gps": {
       "lat": 43.988,
       "lon": 18.178
@@ -25338,21 +25338,21 @@
       "pseudoveda"
     ],
     "indexTajemna": 81,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, tunely placené",
     "atmosfera": 4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Pyramid of the Sun Bosnia je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Kopec Visocica spojovany se spornou pyramidovou teorii, vhodny pro jasny skepticky ramec. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Visočica má z některých úhlů pravidelný trojúhelníkový tvar. Pod ní vedou tunely Ravne, ve kterých se podle příznivců teorie nachází „léčivá energie“.",
+      "historie": "V roce 2005 Semir Osmanagić prohlásil, že kopec je pyramida starší než egyptské. Evropská asociace archeologů a další odborníci to v roce 2006 označili za podvod. Na vrcholu kopce ve skutečnosti stálo středověké královské město Visoki.",
+      "legenda": "Příznivci tvrdí, že pod pyramidou jsou komory s ultrazvukovým paprskem a energetickým polem. Kolem se rozvinula celá síť dalších „pyramid“ - Měsíce, Draka a Lásky.",
+      "paranormalni": "Návštěvníci tunelů popisují pocity uvolnění a energie. Měření „energetických polí“ nebyla nikdy nezávisle potvrzena.",
+      "skepticke": "Geologové vysvětlují tvar kopce jako přírodní flatiron, vrstvy zvětralých hornin. Tunely jsou převážně novodobé. Místo je zajímavým příkladem pseudoarcheologie a jejího vlivu na místní ekonomiku."
     },
-    "praktickeInfo": "Pred navstevou Pyramid of the Sun Bosnia over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Visoko je asi 30 km od Sarajeva. Výstup na Visočici a výhled jsou zdarma, tunely Ravne jsou placené. Starší středověké město Visoki je na vrcholu kopce. Berte místo jako zajímavost o tom, jak vzniká moderní mýtus.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25374,12 +25374,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Pyramid of the Sun Bosnia rozsiruje mapu o motivy konspirace, pseudoveda a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Pyramida z kopce",
+        "text": "Kopec s ruinami středověkého města se v roce 2005 přes noc stal „největší pyramidou světa“."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Energie v tunelu",
+        "text": "Turisté chodí do tunelů Ravne pro údajnou léčivou energii, kterou vědci nikdy nenaměřili."
       }
     ]
   },
@@ -25394,10 +25394,10 @@
       "fr": "jajce-catacombs"
     },
     "detailPath": "/mista/jajce-catacombs/",
-    "nazev": "Jajce Catacombs",
+    "nazev": "Katakomby v Jajci",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Podzemní královská kaple v Jajci, vytesaná do skály a spojená s bosenskou středověkou mocí.",
+    "lead": "Podzemní kostel vytesaný do skály v posledním hlavním městě bosenského království - se symboly Slunce a Měsíce a pověstí o pohřbu velmože Hrvoje.",
     "gps": {
       "lat": 44.341,
       "lon": 17.27
@@ -25410,21 +25410,21 @@
       "umrti"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": false,
     "popisy": {
-      "zahada": "Jajce Catacombs rozsiruje sestadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Podzemni kralovska kaple v Jajce, vytesana do skaly a spojena s bosenskou stredovekou moci.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o pevnost, zanikle mesto, podzemi, posvatnou krajinu, prirodni anomalni tvar nebo opustenou infrastrukturu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Ve skále pod hradem je vytesaný dvoupatrový prostor s oltářem, výklenky pro hroby a reliéfy kříže, Slunce a půlměsíce. Význam symbolů a přesné využití prostoru jsou předmětem dohadů.",
+      "historie": "Katakomby nechal zřejmě kolem roku 1400 vytesat bosenský velmož Hrvoje Vukčić Hrvatinić. Jajce bylo posledním sídlem bosenských králů do pádu Osmanům v roce 1463. Uprostřed města padá vodopád řeky Plivy.",
+      "legenda": "Podle pověsti si Hrvoje nechal katakomby vytesat jako svou hrobku, ale nikdy v nich nebyl pohřben. Symboly Slunce a Měsíce bývají spojovány s bosenskou církví a jejími tajemstvími.",
+      "paranormalni": "Paranormální hlášení nejsou častá. Chladné, tiché podzemí však vyvolává silný pocit.",
+      "skepticke": "Výklady o tajných kultech bosenské církve nejsou spolehlivě doložené. Symboly jsou běžné ve středověkém umění."
     },
-    "praktickeInfo": "Pred navstevou Jajce Catacombs over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Jajce je asi 2,5 hodiny autem ze Sarajeva. Katakomby jsou ve starém městě, vstupné je symbolické. Kombinujte s pevností, vodopádem Plivy a mlýnky na Plivských jezerech. Prohlídka zabere asi 20 minut.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25446,12 +25446,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Jajce Catacombs posiluje geograficke pokryti mapy motivy podzemi, umrti a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Hrob, který zůstal prázdný",
+        "text": "Velmož Hrvoje si podle pověsti nechal vytesat hrobku, ale pohřben v ní nikdy nebyl."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Vodopád uprostřed města",
+        "text": "Řeka Pliva padá vodopádem přímo pod starým městem Jajce."
       }
     ]
   },
@@ -25613,7 +25613,7 @@
     "nazev": "Salona",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Ruiny hlavního města římské Dalmácie, kde amfiteátr a nekropole tvoří rozsáhlou mrtvou mapu.",
+    "lead": "Ruiny hlavního města římské Dalmácie u Splitu - amfiteátr, raně křesťanské hřbitovy a město, jehož uprchlíci se usadili v Diokleciánově paláci a založili Split.",
     "gps": {
       "lat": 43.541,
       "lon": 16.487
@@ -25626,21 +25626,21 @@
       "umrti"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Salona je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Ruiny hlavniho mesta rimske Dalmacie, kde amfiteatr a nekropole tvori rozsahlou mrtvou mapu. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Mezi olivovníky a vinicemi leží zbytky hradeb, bazilik, lázní a amfiteátru pro zhruba 18 000 diváků. Na hřbitově Manastirine jsou hroby raných křesťanských mučedníků.",
+      "historie": "Salona byla jedním z největších měst římské Dalmácie. Nedaleko se pravděpodobně narodil císař Dioklecián, který si poblíž postavil palác. Na počátku 7. století město zpustošili Avaři a Slované a jeho obyvatelé utekli do paláce - tak vznikl Split.",
+      "legenda": "Místní tradice vypráví o mučednících pronásledovaných za Diokleciána, jejichž ostatky byly později přeneseny do Splitu a Říma. Podle pověsti jsou v ruinách dodnes ukryté poklady uprchlíků.",
+      "paranormalni": "Paranormální hlášení nejsou běžná. Návštěvníci mluví o klidné atmosféře rozlehlého mrtvého města.",
+      "skepticke": "Pověsti o pokladech jsou typické pro každé opuštěné antické město. Archeologové zde pracují od 19. století."
     },
-    "praktickeInfo": "Pred navstevou Salona over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Salona leží v Solinu, asi 5 km od centra Splitu, dojedete městským autobusem. Areál je rozlehlý, počítejte se 2 hodinami a vezměte si vodu - stín je málo. Kombinujte s Diokleciánovým palácem a pevností Klis.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25662,12 +25662,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Salona rozsiruje mapu o motivy ztracena-mesta, umrti a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Město, které dalo vznik Splitu",
+        "text": "Uprchlíci ze Salony se usadili v Diokleciánově paláci a z jeho zdí vyrostlo dnešní město Split."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Amfiteátr v polích",
+        "text": "Amfiteátr pro tisíce diváků dnes stojí na kraji vinic a sadů."
       }
     ]
   },
@@ -25682,10 +25682,10 @@
       "fr": "fort-lovrijenac"
     },
     "detailPath": "/mista/fort-lovrijenac/",
-    "nazev": "Fort Lovrijenac",
+    "nazev": "Pevnost Lovrijenac",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Dubrovnická pevnost na skále, v popkultuře známá jako filmové ztělesnění moci a obléhání.",
+    "lead": "Dubrovnická pevnost na 37metrové skále s nápisem o svobodě, kterou podle pověsti postavili za tři měsíce, aby předběhli Benátčany - a filmový Rudý hrad ze Hry o trůny.",
     "gps": {
       "lat": 42.641,
       "lon": 18.105
@@ -25698,21 +25698,21 @@
       "hrad"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Fort Lovrijenac je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Dubrovnicka pevnost na skale, v popkulture znama jako filmove ztelesneni moci a oblehani. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Pevnost stojí na útesu za západní branou města. Zdi do moře jsou silné až 12 metrů, ale zeď obrácená k městu má jen asi 60 centimetrů - aby se pevnost nedala obrátit proti Dubrovníku, kdyby ji ovládl zrádný velitel.",
+      "historie": "Podle tradice pevnost vznikla v 11. století, písemně je doložena ze 14. století a dnešní podobu získala v 16. století. Nad branou je nápis Non bene pro toto libertas venditur auro - Svoboda se neprodává ani za všechno zlato. V létě zde Dubrovnické letní hry uvádějí Hamleta.",
+      "legenda": "Podle pověsti chtěli Benátčané na skále postavit vlastní pevnost a ovládnout město. Obyvatelé Dubrovníku je předběhli a postavili Lovrijenac za tři měsíce.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Večer, když se scéna mění v divadlo, má místo silnou atmosféru.",
+      "skepticke": "Pověst o třech měsících je zjednodušení - pevnost se stavěla a přestavovala po staletí."
     },
-    "praktickeInfo": "Pred navstevou Fort Lovrijenac over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Lovrijenac je asi 5 minut pěšky od brány Pile. Vstupenka na městské hradby platí i pro pevnost. Nejlepší výhled na pevnost je z hradeb nebo z pláže Šulići. V létě přijďte brzy ráno - dav z výletních lodí je velký.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25734,12 +25734,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Fort Lovrijenac rozsiruje mapu o motivy film, hrad a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Tenká zeď k městu",
+        "text": "Zeď směrem k Dubrovníku je záměrně slabá, aby se pevnost nedala použít proti městu."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Svoboda za zlato",
+        "text": "Nápis nad branou připomíná, že svoboda se neprodává ani za všechno zlato světa."
       }
     ]
   },
@@ -25829,7 +25829,7 @@
     "nazev": "Puzzlewood",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Les ve Forest of Dean s kořeny, skalami a cestami, často působící jako fantasy krajina.",
+    "lead": "Starý les ve Forest of Dean, kde se mezi mechem porostlými skalami a kořeny vinou stezky staré těžby železa - kulisa Star Wars i Doctora Who.",
     "gps": {
       "lat": 51.789,
       "lon": -2.609
@@ -25842,21 +25842,21 @@
       "mytologie"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Puzzlewood je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Les ve Forest of Dean s koreny, skalami a cestami, casto pusobici jako fantasy krajina. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Les tvoří prohlubně a rokle zvané scowles, porostlé mechem, kapradím a kořeny. Stezky se kroutí přes můstky a mezi skalami, takže se snadno ztratíte. Atmosféra připomíná pohádkový les.",
+      "historie": "Scowles jsou pozůstatky povrchové těžby železné rudy z doby železné a římské. V 19. století majitel vybudoval stezky, aby les zpřístupnil. Natáčely se zde scény pro Star Wars: Síla se probouzí, Doctor Who a Merlin.",
+      "legenda": "Místní vyprávějí, že les inspiroval J. R. R. Tolkiena při psaní o Fangornu. Podle jiné pověsti v něm žijí víly a lesní duchové.",
+      "paranormalni": "Návštěvníci popisují pocit, že jsou v jiném světě. Paranormální jevy nejsou hlášeny.",
+      "skepticke": "Tolkienova návštěva není doložena, je to spíš místní legenda. Les je ve skutečnosti krajinou staré průmyslové těžby."
     },
-    "praktickeInfo": "Pred navstevou Puzzlewood over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Puzzlewood je u Colefordu v hrabství Gloucestershire, asi 1 hodinu autem z Bristolu. Vstupné je placené, okruh trvá asi hodinu. Po dešti je terén kluzký, vezměte pevnou obuv. Areál je vhodný pro děti.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25878,12 +25878,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Puzzlewood rozsiruje mapu o motivy film, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Les ze Star Wars",
+        "text": "Scény z planety Takodana ze Star Wars: Síla se probouzí se natáčely právě tady."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Tolkien v lese?",
+        "text": "Místní tvrdí, že les inspiroval Tolkiena - ověřené to ale není."
       }
     ]
   },
@@ -26045,7 +26045,7 @@
     "nazev": "Bodmin Moor",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Cornwallské vřesoviště spojované s legendami, bestií z Bodminu a opuštěnými kamennými stopami.",
+    "lead": "Cornwallské vřesoviště s „bestií z Bodminu“, kamennými kruhy zkamenělých hráčů a jezírkem, do kterého prý byl vržen meč Excalibur.",
     "gps": {
       "lat": 50.574,
       "lon": -4.603
@@ -26058,21 +26058,21 @@
       "duchove"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bodmin Moor je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Cornwallske vresoviste spojovane s legendami, bestii z Bodminu a opustenymi kamennymi stopami. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Vřesoviště se rozkládá na žulové vysočině s mlhou, pustými pastvinami a pravěkými kameny. Nejvyšším bodem Cornwallu je vrch Brown Willy (420 m).",
+      "historie": "Na vřesovišti jsou stovky pravěkých památek, kamenných kruhů a chýší. Hostinec Jamaica Inn proslavil román Daphne du Maurier z roku 1936. V 80. a 90. letech se množila hlášení o velké kočce, takzvané bestii z Bodminu.",
+      "legenda": "Kamenné kruhy The Hurlers jsou podle pověsti hráči, kteří zkameněli za trest, že hráli v neděli. Podle artušovské tradice vrhl rytíř Bedivere meč Excalibur do jezírka Dozmary Pool, kde ho převzala Paní jezera.",
+      "paranormalni": "Hlášení o velké černé kočce pokračují dodnes. Jamaica Inn je oblíbeným cílem lovců duchů.",
+      "skepticke": "Vládní šetření z roku 1995 nenašlo žádné ověřitelné důkazy o šelmě. Pozorování mohou být velké kočky domácí nebo psi, případně uprchlé šelmy."
     },
-    "praktickeInfo": "Pred navstevou Bodmin Moor over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Bodmin Moor je na A30 mezi Launcestonem a Bodminem. Jamaica Inn je u silnice, Dozmary Pool asi 2 km od něj. The Hurlers jsou u vesnice Minions. Počasí se rychle mění, vezměte nepromokavou bundu a mapu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -26094,12 +26094,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Bodmin Moor rozsiruje mapu o motivy mytologie, duchove a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Zkamenělí hráči",
+        "text": "Muži, kteří hráli míčovou hru hurling v neděli, se podle pověsti proměnili v kámen."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Meč v jezírku",
+        "text": "Do Dozmary Pool byl podle legendy vržen Excalibur a Paní jezera ho odnesla pod hladinu."
       }
     ]
   },
@@ -26117,7 +26117,7 @@
     "nazev": "Men-an-Tol",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Kámen s kruhovým otvorem v Cornwallu, spojovaný s léčivými a průchodovými rituály.",
+    "lead": "Kámen s kruhovým otvorem mezi dvěma stojícími kameny v Cornwallu - kdo jím prolezl, měl se podle pověsti uzdravit nebo otěhotnět.",
     "gps": {
       "lat": 50.158,
       "lon": -5.605
@@ -26130,21 +26130,21 @@
       "mytologie"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Men-an-Tol je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Kamen s kruhovym otvorem v Cornwallu, spojovany s lecivymi a pruchodovymi ritualy. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Na vřesovišti stojí tři kameny - dva svislé a mezi nimi kruhový kámen s otvorem, kterým může prolézt dospělý člověk. Původní uspořádání ani účel nejsou jisté.",
+      "historie": "Památka je pravděpodobně z doby bronzové, může být zbytkem hrobky nebo kamenného kruhu. Kameny byly v minulosti nejspíš přemístěny.",
+      "legenda": "Podle lidové tradice se děti s křivicí protahovaly otvorem devětkrát proti směru slunce. Ženy, které chtěly otěhotnět, jím prolézaly za úplňku. Kameny prý střeží skřítek pixie, který dokáže zázračně léčit.",
+      "paranormalni": "Návštěvníci dodnes otvorem prolézají a nechávají u kamenů drobné dary. Místo je oblíbené mezi příznivci novopohanství.",
+      "skepticke": "Léčivé účinky nejsou doložené. Původní uspořádání kamenů bylo patrně jiné, než jak je vidíme dnes."
     },
-    "praktickeInfo": "Pred navstevou Men-an-Tol over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Men-an-Tol je na poloostrově Penwith, asi 15 minut autem z Penzance. U silnice mezi Madronem a Morvah je malé parkoviště, ke kamenům vede asi 20minutová cesta po polní stezce. Nedaleko je dolmen Lanyon Quoit.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -26166,12 +26166,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Men-an-Tol rozsiruje mapu o motivy ritual, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Devětkrát otvorem",
+        "text": "Děti nemocné křivicí prý musely kamenem prolézt devětkrát proti směru slunce."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Skřítek u kamenů",
+        "text": "Podle pověsti kameny střeží pixie, který dokáže zázračně léčit."
       }
     ]
   },
