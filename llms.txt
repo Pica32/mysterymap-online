@@ -102,7 +102,7 @@ MysteryMap.online is a multilingual map and editorial database of mysterious pla
 
 - Hrad Houska: https://mysterymap.online/en/places/hrad-houska/ (CS: https://mysterymap.online/cs/mista/hrad-houska/)
 - Tunguská katastrofa: https://mysterymap.online/en/places/tunguska-event/ (CS: https://mysterymap.online/cs/mista/tunguska-event/)
-- Cernobylska vyloucena zona: https://mysterymap.online/en/places/chernobyl-exclusion-zone/ (CS: https://mysterymap.online/cs/mista/cernobylska-vyloucena-zona/)
+- Černobylská uzavřená zóna: https://mysterymap.online/en/places/chernobyl-exclusion-zone/ (CS: https://mysterymap.online/cs/mista/cernobylska-vyloucena-zona/)
 - Tower of London: https://mysterymap.online/en/places/tower-of-london/ (CS: https://mysterymap.online/cs/mista/tower-of-london/)
 - Area 51: https://mysterymap.online/en/places/area-51/ (CS: https://mysterymap.online/cs/mista/area-51/)
 - Stonehenge: https://mysterymap.online/en/places/stonehenge/ (CS: https://mysterymap.online/cs/mista/stonehenge/)

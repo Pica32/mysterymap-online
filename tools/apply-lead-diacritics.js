@@ -29,5 +29,5 @@ fs.readdirSync(fixesDir).filter((file) => file.endsWith(".json")).sort().forEach
 });
 
 fs.writeFileSync(placesPath, `${JSON.stringify(places, null, 2)}\n`, "utf8");
-if (reworded.length) console.log(`Reworded (check):\n${reworded.join("\n")}`);
+if (reworded.length && process.argv.includes("--verbose")) console.log(`Reworded (check):\n${reworded.join("\n")}`);
 console.log(`Applied ${applied} lead diacritics fixes.`);
