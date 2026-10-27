@@ -50291,10 +50291,10 @@
       "fr": "kola-superdeep-borehole"
     },
     "detailPath": "/mista/kola-superdeep-borehole/",
-    "nazev": "Kola Superdeep Borehole",
+    "nazev": "Kolský superhluboký vrt",
     "zeme": "Rusko",
     "kontinent": "Evropa",
-    "lead": "Nejhlubší vrt své doby, zdroj moderních legend o zvucích z pekla a skutečné vědecké hranice.",
+    "lead": "Nejhlubší díra, kterou kdy lidé vyvrtali - přes 12 kilometrů do země. Odtud pochází slavná fáma o křicích z pekla.",
     "gps": {
       "lat": 69.396,
       "lon": 30.608
@@ -50307,21 +50307,21 @@
       "dabel"
     ],
     "indexTajemna": 84,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "slavná legenda",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "střední",
+    "pristupnost": "volně přístupné, odlehlé",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kola Superdeep Borehole rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Nejhlubsi vrt sve doby, zdroj modernich legend o zvucich z pekla a skutecne vedecke hranice.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na poloostrově Kola za polárním kruhem stojí rozpadlá budova vrtné věže. Uprostřed je přivařený kovový poklop o průměru několika desítek centimetrů. Pod ním je díra hluboká přes 12 kilometrů.",
+      "historie": "Sovětští vědci začali vrtat v roce 1970. V roce 1989 dosáhli hloubky 12 262 metrů. Ve velké hloubce bylo kolem 180 °C a vrtání se zastavilo. Projekt skončil v 90. letech.",
+      "legenda": "Od roku 1989 koluje příběh, že vědci spustili do vrtu mikrofon a nahráli křik zatracených duší. Příběh se šířil křesťanským rádiem a později internetem jako „Studna do pekla“.",
+      "paranormalni": "Nahrávka „křiku z pekla“ je známý podvod, pravděpodobně upravený zvuk z hororového filmu. Vědci nic takového nehlásili.",
+      "skepticke": "Vrt je skutečný vědecký úspěch. Objevili v něm třeba mikroskopické fosilie v hloubce kilometrů a vodu v horninách."
     },
-    "praktickeInfo": "Pred navstevou Kola Superdeep Borehole over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Vrt je u městečka Zapoljarnyj v Murmanské oblasti, blízko norské hranice. Areál je opuštěný a budovy se rozpadají. Před cestou do Ruska ověřte aktuální cestovní doporučení.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50343,12 +50343,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kola Superdeep Borehole pridava motivy podzemi, dabel a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Studna do pekla",
+        "text": "Podle fámy vědci spustili do vrtu mikrofon a uslyšeli křik zatracených. Jde o známý podvod."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Fosilie z hlubin",
+        "text": "Vědci ve vrtu našli mikroskopické fosilie v hloubce několika kilometrů - skutečný objev."
       }
     ]
   },
@@ -50363,10 +50363,10 @@
       "fr": "chernobyl-duga-radar"
     },
     "detailPath": "/mista/chernobyl-duga-radar/",
-    "nazev": "Chernobyl Duga Radar",
+    "nazev": "Radar Duga",
     "zeme": "Ukrajina",
     "kontinent": "Evropa",
-    "lead": "Obří radar v černobylské zóně, studenoválečná konstrukce s mimozemskou siluetou.",
+    "lead": "Obří sovětská anténa u Černobylu, jejíž signál rušil rádia po celém světě - radioamatéři mu říkali „ruský datel“.",
     "gps": {
       "lat": 51.305,
       "lon": 30.066
@@ -50379,21 +50379,21 @@
       "valka"
     ],
     "indexTajemna": 84,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "vysoká",
+    "pristupnost": "uzavřeno",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Chernobyl Duga Radar rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Obri radar v Cernobylske zone, studenovalecna konstrukce s mimozemskou siluetou.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Ocelová konstrukce je vysoká asi 150 metrů a dlouhá několik set metrů. Stojí v lese v uzavřené zóně, nedaleko tajného města Černobyl-2.",
+      "historie": "Radar byl součástí sovětského systému včasného varování před raketami. Fungoval od 70. do konce 80. let. Po havárii jaderné elektrárny v roce 1986 byl opuštěn.",
+      "legenda": "Rytmický zvuk, který radar vysílal, rušil vysílání po celém světě. Lidé spekulovali o ovládání mysli nebo počasí.",
+      "paranormalni": "Teorie o ovládání mysli nemají žádný důkaz. Rušení bylo vedlejším efektem radaru.",
+      "skepticke": "Účel radaru je dnes známý - měl zachytit odpálené rakety. Klepání „ruského datla“ bylo technickým projevem jeho vysílání."
     },
-    "praktickeInfo": "Pred navstevou Chernobyl Duga Radar over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Radar leží v černobylské uzavřené zóně. Od roku 2022 je zóna kvůli válce pro turisty uzavřená. Neplánujte návštěvu, dokud úřady návštěvy znovu nepovolí. Sledujte aktuální cestovní doporučení.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50415,12 +50415,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Chernobyl Duga Radar pridava motivy zakazane-zony, valka a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Ruský datel",
+        "text": "Radioamatéři po celém světě slyšeli rytmické klepání, které rušilo vysílání. Říkali mu ruský datel."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Tajné město",
+        "text": "U radaru stálo tajné město Černobyl-2, které nebylo na mapách. Oficiálně tu byl pionýrský tábor."
       }
     ]
   },
@@ -61347,10 +61347,10 @@
       "fr": "mamerki-bunkers"
     },
     "detailPath": "/mista/mamerki-bunkers/",
-    "nazev": "Mamerki Bunkers",
+    "nazev": "Bunkry Mamerki",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Zachovalý bunkrový areál vrchního velení, méně známý soused slavnějšího Vlčího doupěte.",
+    "lead": "Ukryté velitelství německé armády v mazurských lesích, jen 18 km od Vlčího doupěte - jeden z nejlépe zachovaných bunkrových komplexů v Evropě a místo, kde někteří hledají Jantarovou komnatu.",
     "gps": {
       "lat": 54.147,
       "lon": 21.681
@@ -61363,21 +61363,21 @@
       "politika"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Mamerki Bunkers rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Zachovaly bunkrovy areal vrchniho veleni, mene znamy soused slavnejsi Wolfsschanze.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V lese u jezera stojí desítky železobetonových bunkrů se stěnami silnými několik metrů. Na rozdíl od Vlčího doupěte nebyly vyhozeny do vzduchu, takže zůstaly skoro celé.",
+      "historie": "Komplex Mauerwald vznikl v letech 1940–1944 jako hlavní stan velení pozemního vojska (OKH). Sídlili tu nejvyšší důstojníci wehrmachtu. V roce 1945 ho Němci opustili bez boje.",
+      "legenda": "Podle jedné teorie mohla být v okolí ukryta Jantarová komnata, ukradená z Ruska. Hledači pokladů tu kopali a prozkoumávali okolí.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Atmosféru tvoří tmavé chodby bunkrů v lese.",
+      "skepticke": "Pro ukrytí Jantarové komnaty v Mamerkách nejsou důkazy. Historie velitelství je ale dobře doložená."
     },
-    "praktickeInfo": "Pred navstevou Mamerki Bunkers over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Mamerki jsou u Węgorzewa v Mazursku. Areál je otevřený celoročně, je tu muzeum, rozhledna a model Jantarové komnaty. Do bunkrů si vezměte baterku. Kombinujte s Vlčím doupětem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61399,12 +61399,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Mamerki Bunkers pridava motivy valka, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Velitelství v lese",
+        "text": "Zatímco Hitler sídlil ve Vlčím doupěti, hlavní velení armády se skrývalo v bunkrech v Mamerkách."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Hledání Jantarové komnaty",
+        "text": "Někteří hledači věří, že v okolí leží Jantarová komnata. Zatím ji nikdo nenašel."
       }
     ]
   },
@@ -61419,10 +61419,10 @@
       "fr": "borne-sulinowo-ghost-base"
     },
     "detailPath": "/mista/borne-sulinowo-ghost-base/",
-    "nazev": "Borne Sulinowo Ghost Base",
+    "nazev": "Borne Sulinowo",
     "zeme": "Polsko",
     "kontinent": "Evropa",
-    "lead": "Bývalé tajné sovětské město a vojenský prostor, dlouho vymazaný z běžných map.",
+    "lead": "Město, které padesát let nebylo na mapách - tajná sovětská posádka v polských lesích, dnes s opuštěnými kasárnami vedle obydlených ulic.",
     "gps": {
       "lat": 53.576,
       "lon": 16.533
@@ -61435,21 +61435,21 @@
       "zakazane-zony"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Borne Sulinowo Ghost Base rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Byvale tajne sovetske mesto a vojensky prostor, dlouho vymazany z beznych map.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Uprostřed lesů Západního Pomořanska leží město s kasárnami, cvičištěm a opuštěnými bloky. Některé budovy jsou opravené, jiné se rozpadají.",
+      "historie": "Ve 30. letech zde Němci postavili vojenskou posádku. Po roce 1945 ji převzala sovětská armáda a město zmizelo z map. Polští občané sem nesměli. Sověti odešli v roce 1992 a město se otevřelo.",
+      "legenda": "Místní vyprávějí o podzemních chodbách, skladech zbraní a tajných bunkrech, které armáda ukrývala. Část příběhů se týká nevyjasněných událostí z doby posádky.",
+      "paranormalni": "Nadpřirozené jevy se nepopisují. Záhadu tvoří život města, které oficiálně neexistovalo.",
+      "skepticke": "Mnoho pověstí o tajných podzemích je přehnaných. Historie posádky je ale dobře zdokumentovaná."
     },
-    "praktickeInfo": "Pred navstevou Borne Sulinowo Ghost Base over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Borne Sulinowo je asi 25 km od Szczecinku. Město je obydlené, opuštěné budovy jsou soukromé nebo nebezpečné - nevstupujte do nich. V létě se zde koná setkání milovníků vojenské techniky.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61471,12 +61471,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Borne Sulinowo Ghost Base pridava motivy valka, zakazane-zony a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Město mimo mapy",
+        "text": "Padesát let bylo Borne Sulinowo na mapách jen lesem. Žily tu tisíce sovětských vojáků a jejich rodin."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Den odchodu",
+        "text": "V roce 1992 sovětští vojáci odešli a Poláci poprvé vstoupili do města, které celý život míjeli."
       }
     ]
   },
@@ -61635,10 +61635,10 @@
       "fr": "karosta-prison"
     },
     "detailPath": "/mista/karosta-prison/",
-    "nazev": "Karosta Prison",
+    "nazev": "Věznice Karosta",
     "zeme": "Lotyšsko",
     "kontinent": "Evropa",
-    "lead": "Vojenská věznice v Liepāji, známá temnou historií, inscenovanými prohlídkami a duchařskou pověstí.",
+    "lead": "Vojenská věznice v Liepāji, která sloužila carům, nacistům i sovětům až do roku 1997 - dnes si v ní můžete zažít noc jako vězeň.",
     "gps": {
       "lat": 56.552,
       "lon": 21.012
@@ -61651,21 +61651,21 @@
       "duchove"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "známé případy",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Karosta Prison rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Vojenska veznice v Liepaji, znama temnou historii, inscenovanymi prohlidkami a ducharskou povesti.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Cihlová budova stojí ve čtvrti Karosta, bývalém námořním přístavu. Uvnitř jsou cely, samotky a chodby se zdmi poškrábanými vězni.",
+      "historie": "Věznice vznikla na začátku 20. století pro carské námořnictvo. Postupně ji využívala lotyšská armáda, nacisté a sovětská armáda. Poslední vězni odešli v roce 1997.",
+      "legenda": "Podle pověstí v celách bloudí duchové vězňů, kteří tu zemřeli. Nejznámější je prý žena v bílém, zahlédnutá na chodbě.",
+      "paranormalni": "Zaměstnanci a návštěvníci hlásí bouchání dveří a kroky. Věznici zkoumali lovci duchů z televizního pořadu Ghost Hunters International.",
+      "skepticke": "Zjevení nejsou doložená a věznice s duchařskou pověstí pracuje jako s turistickou atrakcí. Historie věznění je ale skutečná."
     },
-    "praktickeInfo": "Pred navstevou Karosta Prison over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Karosta je severní čtvrť Liepāji, asi 200 km od Rigy. Věznice nabízí prohlídky a interaktivní program, kde si na hodinu zahrajete na vězně. Odvážní mohou přespat v cele. Prohlídky hlavně v létě.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61687,12 +61687,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Karosta Prison pridava motivy veznice, duchove a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Noc v cele",
+        "text": "Návštěvníci mohou přespat v cele na kavalci a zažít drsné zacházení dozorců - jako v sovětské době."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Žena v bílém",
+        "text": "Na chodbách věznice prý zahlédli ženu v bílém, i když tu byli vězněni hlavně muži."
       }
     ]
   },
@@ -61851,10 +61851,10 @@
       "fr": "plokstine-missile-base"
     },
     "detailPath": "/mista/plokstine-missile-base/",
-    "nazev": "Plokstine Missile Base",
+    "nazev": "Raketová základna Plokštinė",
     "zeme": "Litva",
     "kontinent": "Evropa",
-    "lead": "Sovětská podzemní raketová základna v lesích, dnes muzeum studené války a skryté infrastruktury.",
+    "lead": "Tajná sovětská základna jaderných raket ukrytá v litevském lese - do jednoho ze sil můžete nahlédnout dodnes.",
     "gps": {
       "lat": 56.038,
       "lon": 21.873
@@ -61867,21 +61867,21 @@
       "politika"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Plokstine Missile Base rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Sovetska podzemni raketova zakladna v lesich, dnes muzeum studene valky a skryte infrastruktury.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Nad zemí jsou vidět jen betonové kopule a pahorky. Pod nimi jsou čtyři hluboká sila pro rakety a chodby s řídícími místnostmi.",
+      "historie": "Základnu postavila sovětská armáda tajně na začátku 60. let. Sila sloužila pro rakety R-12 s jadernými hlavicemi, které mohly zasáhnout západní Evropu. Základna fungovala do konce 70. let.",
+      "legenda": "Místní prý během stavby nesměli vědět, co se v lese staví. Vznikaly zvěsti o tajných podzemních městech.",
+      "paranormalni": "Nadpřirozené jevy se nepopisují. Strach budí to, co se tu mohlo stát.",
+      "skepticke": "Historie základny je dobře doložená. Dnes je v ní Muzeum studené války."
     },
-    "praktickeInfo": "Pred navstevou Plokstine Missile Base over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Plokštinė je v Žemaitijském národním parku asi 25 km od Plungė. Muzeum studené války nabízí prohlídky s průvodcem. Kombinujte s jezerem Plateliai.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61903,12 +61903,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Plokstine Missile Base pridava motivy technologie, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Pohled do sila",
+        "text": "Z ochozu můžete nahlédnout do hlubokého sila, kde kdysi stála jaderná raketa."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Tajná stavba",
+        "text": "Základnu stavěli vojáci tajně a místní obyvatelé nesměli vědět, co se v lese staví."
       }
     ]
   },
@@ -61995,10 +61995,10 @@
       "fr": "jihlava-underground"
     },
     "detailPath": "/mista/jihlava-underground/",
-    "nazev": "Jihlava Underground",
+    "nazev": "Jihlavské podzemí",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Rozsáhlé historické chodby pod Jihlavou, spojované s luminiscenční stěnou a městskými pověstmi.",
+    "lead": "Kilometry chodeb pod historickým centrem Jihlavy - se záhadnou „svítící chodbou“, objevenou v roce 1996, a pověstí o varhanách hrajících v podzemí.",
     "gps": {
       "lat": 49.395,
       "lon": 15.591
@@ -62011,21 +62011,21 @@
       "duchove"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Jihlava Underground rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Rozsahle historicke chodby pod Jihlavou, spojovane s luminiscencni stenou a mestskymi povestmi.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Pod náměstím a domy se ve třech patrech táhnou chodby a sklepy dlouhé přes 20 kilometrů. Část trasy vede ke svítící chodbě, jejíž stěny po zhasnutí světla zeleně září.",
+      "historie": "Podzemí vzniklo hlavně ve 14. a 15. století jako sklepy měšťanských domů. Sloužilo ke skladování a v dobách válek k úkrytu. Chodby se postupně propojily pod celým centrem. Svítící chodbu objevili v roce 1996.",
+      "legenda": "Podle pověsti se v podzemí občas ozývají varhany, i když tam žádné nejsou. Jiné pověsti vyprávějí o ukrytých pokladech jihlavských horníků a stříbrných dolech.",
+      "paranormalni": "Návštěvníci popisují zvuky hudby a krok za zády. Svítící chodba vzbudila spekulace o neznámém přírodním jevu.",
+      "skepticke": "Rozbory svítící stěny nedaly jednoznačný výsledek. Podle jedné teorie byla na stěnu nanesena svítivá látka. Zvuky varhan mohou být ozvěny z ulice nebo kostela nad podzemím."
     },
-    "praktickeInfo": "Pred navstevou Jihlava Underground over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Vstup je z Masarykova náměstí, prohlídky s průvodcem trvají asi hodinu. Jsou dvě trasy, jedna vede ke svítící chodbě. V podzemí je kolem 10 °C, vezměte si mikinu. Jihlava je na dálnici D1 mezi Prahou a Brnem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -62047,12 +62047,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Jihlava Underground pridava motivy podzemi, duchove a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Svítící chodba",
+        "text": "Když průvodce zhasne, stěny jedné chodby zeleně září. Proč, se dodnes přesně neví."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Varhany v podzemí",
+        "text": "V chodbách se prý ozývá hra varhan, i když žádné varhany v podzemí nikdy nebyly."
       }
     ]
   },
@@ -62067,10 +62067,10 @@
       "fr": "znojmo-underground"
     },
     "detailPath": "/mista/znojmo-underground/",
-    "nazev": "Znojmo Underground",
+    "nazev": "Znojemské podzemí",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Středověký labyrint chodeb pod Znojmem, obranný a hospodářský systém ukrytý pod městem.",
+    "lead": "Jeden z největších podzemních labyrintů ve střední Evropě - desítky kilometrů chodeb ve čtyřech patrech pod Znojmem, s trasou pro odvážné v kombinéze a s baterkou.",
     "gps": {
       "lat": 48.855,
       "lon": 16.048
@@ -62083,21 +62083,21 @@
       "stredovek"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Znojmo Underground rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Stredoveky labyrint chodeb pod Znojmem, obranny a hospodarsky system ukryty pod mestem.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Pod historickým centrem se chodby a sklepy větví až ve čtyřech patrech nad sebou. Jejich celková délka se odhaduje na desítky kilometrů. Na prohlídce uvidíte studny, větrací šachty a strašidelné scény.",
+      "historie": "Chodby vznikaly od 14. století. Sloužily jako sklepy na víno a potraviny, propojení domů a úkryty při obléhání. Znojmo bylo pohraniční město a podzemí mu pomáhalo přežít války.",
+      "legenda": "Pověsti vyprávějí o rytířích a mniších, kteří v podzemí ukryli poklady, a o duších obránců z dob obléhání. Na prohlídce vás provede i postava čerta.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Prohlídka pracuje se strašidelnými efekty, které jsou součástí zážitku.",
+      "skepticke": "Strašidelné postavy na trase jsou divadlo. Podzemí je ale skutečné a historicky dobře zmapované."
     },
-    "praktickeInfo": "Pred navstevou Znojmo Underground over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Vstup je ze Slepičího trhu v centru Znojma. Klasická prohlídka trvá asi 45 minut. Adrenalinová trasa se chodí v kombinéze, helmě a s baterkou, je nutná rezervace. Uvnitř je chladno.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -62119,12 +62119,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Znojmo Underground pridava motivy podzemi, stredovek a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Adrenalinová trasa",
+        "text": "Na speciální trase se plazíte úzkými chodbami v kombinéze a s čelovkou, jako první průzkumníci."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Město nad městem",
+        "text": "Podzemí pomáhalo Znojmu přežít obléhání - lidé se v něm schovávali a ukrývali zásoby."
       }
     ]
   },
@@ -62139,10 +62139,10 @@
       "fr": "slavonice-underground"
     },
     "detailPath": "/mista/slavonice-underground/",
-    "nazev": "Slavonice Underground",
+    "nazev": "Slavonické podzemí",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Městské chodby pod Slavonicemi, menší podzemní vrstva renesančního města u hranic.",
+    "lead": "Chodby vytesané do skály pod renesančními domy Slavonic - nikdo přesně neví, k čemu sloužily a kam až vedou.",
     "gps": {
       "lat": 48.997,
       "lon": 15.352
@@ -62155,21 +62155,21 @@
       "stredovek"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Slavonice Underground rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Mestske chodby pod Slavonicemi, mensi podzemni vrstva renesancniho mesta u hranice.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Pod domy na náměstí se ve dvou až třech úrovních táhnou úzké chodby a místnůstky vytesané do skály. Vstupuje se do nich ze sklepů měšťanských domů.",
+      "historie": "Slavonice zbohatly v 16. století na obchodní cestě z Prahy do Vídně. Z té doby pochází renesanční náměstí se sgrafity i podzemí pod ním. Chodby sloužily zřejmě ke skladování a úkrytu.",
+      "legenda": "Podle pověsti vedou tajné chodby až pod hradby nebo k okolním hradům. Lidé si vyprávějí o pokladech ukrytých za husitských válek a třicetileté války.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Záhadu tvoří účel chodeb a jejich neznámý rozsah.",
+      "skepticke": "Dlouhé chodby k hradům nejsou doložené. Většina podzemí jsou propojené sklepy a úkryty."
     },
-    "praktickeInfo": "Pred navstevou Slavonice Underground over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Prohlídky podzemí začínají v informačním centru na náměstí, hlavně od jara do podzimu. Slavonice jsou kousek od rakouské hranice v jižních Čechách. Spojte s prohlídkou sgrafit a s bunkry linie opevnění v okolí.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -62191,12 +62191,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Slavonice Underground pridava motivy podzemi, stredovek a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Chodby pod náměstím",
+        "text": "Ze sklepů renesančních domů vedou úzké chodby vytesané do skály, které tvoří malý labyrint."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Poklady z válek",
+        "text": "Podle pověsti obyvatelé za válek ukryli v podzemí poklady, které nikdo nenašel."
       }
     ]
   },
@@ -62283,10 +62283,10 @@
       "fr": "kalemegdan-roman-well"
     },
     "detailPath": "/mista/kalemegdan-roman-well/",
-    "nazev": "Kalemegdan Roman Well",
+    "nazev": "Římská studna na Kalemegdanu",
     "zeme": "Srbsko",
     "kontinent": "Evropa",
-    "lead": "Hluboká studna v bělehradské pevnosti, opředená pověstmi a mylným názvem o římském původu.",
+    "lead": "Desítky metrů hluboká studna v bělehradské pevnosti, která vůbec není římská - podle pověstí v ní mizeli vězni a ukrývali se poklady.",
     "gps": {
       "lat": 44.823,
       "lon": 20.45
@@ -62299,21 +62299,21 @@
       "legenda"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kalemegdan Roman Well rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Hluboka studna v belehradske pevnosti, opredena povestmi a mylnym nazvem rimskeho puvodu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Studna je hluboká přes 50 metrů a po stěně vedou točitá schodiště. Dno je zaplavené. Studna vypadá jako vstup do podsvětí.",
+      "historie": "Studnu postavili Rakušané v 18. století, když drželi Bělehrad. Měla zásobovat pevnost vodou při obléhání. Název „římská“ vznikl omylem.",
+      "legenda": "Podle pověstí do studny shazovali vězně a v hloubce je ukrytý poklad. Mluví se i o vraždách a sebevraždách na dně.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství tvoří hloubka a tma.",
+      "skepticke": "Pověsti nejsou doložené. Studna je technickou památkou rakouského opevnění."
     },
-    "praktickeInfo": "Pred navstevou Kalemegdan Roman Well over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Studna je v Horním městě bělehradské pevnosti Kalemegdan. Otevírá se jen občas a na prohlídky. Pevnost samotná je volně přístupná, nabízí výhled na soutok Sávy a Dunaje.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -62335,12 +62335,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kalemegdan Roman Well pridava motivy podzemi, legenda a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Omylem římská",
+        "text": "Studna se jmenuje římská, ale postavili ji Rakušané v 18. století."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Poklad na dně",
+        "text": "Podle pověsti je na zaplaveném dně studny ukrytý poklad. Nikdo ho nenašel."
       }
     ]
   },
