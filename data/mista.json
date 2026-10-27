@@ -25754,10 +25754,10 @@
       "fr": "longleat-hedge-maze"
     },
     "detailPath": "/mista/longleat-hedge-maze/",
-    "nazev": "Longleat Hedge Maze",
+    "nazev": "Bludiště Longleat",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Velky zivý labyrint u Longleat, civilizovana verze motivu bloudeni a ztraty orientace.",
+    "lead": "Jedno z nejdelších živých bludišť světa u renesančního sídla, kde podle pověsti bloudí Zelená paní.",
     "gps": {
       "lat": 51.185,
       "lon": -2.275
@@ -25770,21 +25770,21 @@
       "mytologie"
     ],
     "indexTajemna": 70,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Longleat Hedge Maze je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Velky zivý labyrint u Longleat, civilizovana verze motivu bloudeni a ztraty orientace. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Bludiště z tisíců tisů má cestičky dlouhé skoro 3 kilometry a dřevěné mosty, ze kterých je vidět cíl. Najít cestu trvá i hodinu.",
+      "historie": "Bludiště vytvořil Greg Bright v roce 1975. Sídlo Longleat je renesanční dům ze 16. století. Jako první v Británii zde v roce 1966 otevřeli safari park.",
+      "legenda": "Podle pověsti v sídle bloudí Zelená paní - Louisa Carteret, jejíhož milence prý zabil žárlivý manžel a pohřbil ve sklepě.",
+      "paranormalni": "Zaměstnanci prý cítí v jedné chodbě chlad. Konkrétní doložené zprávy nejsou.",
+      "skepticke": "Příběh Zelené paní je rodová tradice. Bludiště je moderní zahradní dílo."
     },
-    "praktickeInfo": "Pred navstevou Longleat Hedge Maze over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Longleat je ve Wiltshiru, asi 30 km jižně od Bathu. Vstupenka zahrnuje dům, bludiště a safari park. Kombinujte s Bathem a Stonehenge.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25806,12 +25806,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Longleat Hedge Maze rozsiruje mapu o motivy prirodni-labyrint, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Zelená paní",
+        "text": "Manžel lady Louisy prý zabil jejího milence a ona bloudí chodbou jako Zelená paní."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Bludiště z tisů",
+        "text": "Tisíce tisů tvoří bludiště, ve kterém hledání cíle může trvat i hodinu."
       }
     ]
   },
@@ -47555,10 +47555,10 @@
       "fr": "cinecitta-studios"
     },
     "detailPath": "/mista/cinecitta-studios/",
-    "nazev": "Cinecitta Studios",
+    "nazev": "Studia Cinecittà",
     "zeme": "Itálie",
     "kontinent": "Evropa",
-    "lead": "Římské filmové studio, kde vznikala část evropské i světové filmové mytologie.",
+    "lead": "Filmové město v Římě, které založil Mussolini - natáčel se tu Ben Hur, Felliniho filmy i scény z Prázdnin v Římě.",
     "gps": {
       "lat": 41.85,
       "lon": 12.574
@@ -47571,21 +47571,21 @@
       "popkultura"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "filmová legenda",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem",
+    "atmosfera": 4.3,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Cinecitta Studios rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Rimske filmove studio, kde vznikala cast evropske i svetove filmove mytologie.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Za branou studia stojí kulisy starověkého Říma, středověké ulice a renesanční náměstí. Ve studiu č. 5 natáčel Federico Fellini.",
+      "historie": "Studia založil v roce 1937 Mussolini, podle hesla „Film je nejsilnější zbraň“. Po válce sloužila několik let jako tábor pro uprchlíky. V 50. letech se tu natáčely americké velkofilmy jako Ben Hur, říkalo se jim „Hollywood na Tibeře“.",
+      "legenda": "Podle filmařských historek v kulisách bloudí duch Felliniho. Herci prý ve studiu 5 cítí jeho přítomnost.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Kouzlo místa je filmové.",
+      "skepticke": "Historky o duších jsou filmařská legenda. Historie studií je dobře zdokumentovaná."
     },
-    "praktickeInfo": "Pred navstevou Cinecitta Studios over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Cinecittà je na jihovýchodě Říma, metro linky A, stanice Cinecittà. Výstava Cinecittà si Mostra a prohlídky kulis s průvodcem. Ověřte otevírací dobu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -47607,12 +47607,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Cinecitta Studios pridava motivy film, popkultura a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Hollywood na Tibeře",
+        "text": "V 50. letech sem přijížděli americké hvězdy a natáčel se tu Ben Hur s velkým závodem vozů."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Felliniho studio",
+        "text": "Ve studiu č. 5 natáčel Fellini své filmy, včetně slavného Sladkého života."
       }
     ]
   },
@@ -48419,10 +48419,10 @@
       "fr": "hatfield-house-film-rooms"
     },
     "detailPath": "/mista/hatfield-house-film-rooms/",
-    "nazev": "Hatfield House Film Rooms",
+    "nazev": "Hatfield House",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Historický dům často využívaný pro filmové interiéry moci, aristokracie a temných paláců.",
+    "lead": "Sídlo, kde se Alžběta I. dozvěděla, že je královnou - podle pověsti ji zpráva zastihla pod dubem v parku. Dnes oblíbená filmová kulisa.",
     "gps": {
       "lat": 51.76,
       "lon": -0.21
@@ -48435,21 +48435,21 @@
       "hrad"
     ],
     "indexTajemna": 72,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Hatfield House Film Rooms rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Historicky dum casto vyuzivany pro filmove interiery moci, aristokracie a temnych palacu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Jakobovský palác z červených cihel stojí v rozlehlém parku. Vedle něj je starý královský palác, kde vyrůstala princezna Alžběta.",
+      "historie": "Alžběta zde žila jako mladá princezna. V roce 1558 se tu dozvěděla o smrti své sestry Marie a o tom, že se stala královnou. Dnešní dům postavil v roce 1611 Robert Cecil a rodina Cecilů zde žije dodnes. Natáčely se zde filmy jako Favoritka nebo Shakespeare v lásce.",
+      "legenda": "Podle pověsti Alžběta seděla pod dubem v parku a četla, když jí přinesli zprávu o korunovaci. V domě prý straší Alžbětin duch.",
+      "paranormalni": "Zaměstnanci prý vídají ženskou postavu v chodbách starého paláce. Konkrétní doložené zprávy nejsou.",
+      "skepticke": "Příběh o dubu je tradice. Dub, který tu stál, uschl a dnes je zde jen jeho nástupce."
     },
-    "praktickeInfo": "Pred navstevou Hatfield House Film Rooms over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Hatfield je asi 30 km severně od Londýna, vlak z King's Cross jede asi 20 minut. Dům je otevřen zhruba od dubna do září. Park je vhodný na procházku.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48471,12 +48471,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Hatfield House Film Rooms pridava motivy film, hrad a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Zpráva pod dubem",
+        "text": "Princezna Alžběta prý četla pod dubem, když jí přinesli zprávu, že je královnou Anglie."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Filmová kulisa",
+        "text": "V sídle se natáčela řada filmů a seriálů, například Favoritka nebo Shakespeare v lásce."
       }
     ]
   },
@@ -48491,10 +48491,10 @@
       "fr": "alnwick-castle-film-grounds"
     },
     "detailPath": "/mista/alnwick-castle-film-grounds/",
-    "nazev": "Alnwick Castle Film Grounds",
+    "nazev": "Hrad Alnwick",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Hrad známý z filmové magie i skutečné historie, kde popkultura posílila středověkou identitu.",
+    "lead": "Hrad, který v prvních filmech o Harrym Potterovi hrál Bradavice - a kde podle kroniky z 12. století řádil upír.",
     "gps": {
       "lat": 55.4156,
       "lon": -1.7064
@@ -48507,21 +48507,21 @@
       "hrad"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Alnwick Castle Film Grounds rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Hrad znamy z filmove magie i realne historie, kde popkultura posilila stredovekou identitu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na nádvoří hradu se natáčely lekce létání na koštěti. Hrad je dodnes sídlem vévodů z Northumberlandu.",
+      "historie": "Hrad stojí od 11. století a od roku 1309 patří rodu Percyů. V prvních dvou filmech o Harrym Potterovi hrál Bradavice, objevil se i v seriálu Panství Downton.",
+      "legenda": "Kronikář William z Newburghu ve 12. století zapsal příběh o mrtvém muži, který vstával z hrobu a šířil nákazu. Lidé ho vykopali, probodli a spálili.",
+      "paranormalni": "Upír z Alnwicku je jeden z nejstarších zapsaných příběhů o upírech v Anglii.",
+      "skepticke": "Příběh odráží strach z epidemie. Šlo o lidovou víru, ne o skutečného upíra."
     },
-    "praktickeInfo": "Pred navstevou Alnwick Castle Film Grounds over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Alnwick je v Northumberlandu, asi 55 km severně od Newcastlu. Hrad je otevřen od jara do podzimu. Na hradě si můžete vyzkoušet lekci létání na koštěti. Kombinujte s Alnwickou zahradou.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48543,12 +48543,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Alnwick Castle Film Grounds pridava motivy film, hrad a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Lekce létání",
+        "text": "Na hradním nádvoří se Harry učil létat na koštěti - dnes si to tu mohou zkusit i návštěvníci."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Upír z kroniky",
+        "text": "Podle středověké kroniky mrtvý muž vstával z hrobu, dokud ho lidé nespálili."
       }
     ]
   },
@@ -48563,10 +48563,10 @@
       "fr": "lacock-abbey-film-cloisters"
     },
     "detailPath": "/mista/lacock-abbey-film-cloisters/",
-    "nazev": "Lacock Abbey Film Cloisters",
+    "nazev": "Opatství Lacock",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Klaster a chodby spojene s filmovou skolou magie i dlouhou naboženskou historii.",
+    "lead": "Středověké opatství, jehož chodby hrály Bradavice v Harrym Potterovi - a kde vznikla nejstarší dochovaná fotografie na negativu.",
     "gps": {
       "lat": 51.414,
       "lon": -2.116
@@ -48579,21 +48579,21 @@
       "ritual"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "filmová a místní legenda",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Lacock Abbey Film Cloisters rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Klaster a chodby spojene s filmovou skolou magie i dlouhou naboženskou historii.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Gotické ambity s klenbami působí jako z pohádky. V místnostech se natáčely scény Bradavic, například Zrcadlo z Erisedu a Snapeova učebna.",
+      "historie": "Opatství založila v roce 1232 Ela, hraběnka ze Salisbury. Po zrušení klášterů se stalo domovem. William Henry Fox Talbot zde v roce 1835 vyfotografoval okno - jde o nejstarší dochovaný negativ na světě. Vesnice Lacock je jako ze 18. století.",
+      "legenda": "Podle pověsti v opatství bloudí duch abatyše Ely. Návštěvníci rádi hledají místa, kde chodil Harry Potter.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství je filmové.",
+      "skepticke": "Opatství je dobře zdokumentované. Duch abatyše je místní tradice."
     },
-    "praktickeInfo": "Pred navstevou Lacock Abbey Film Cloisters over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Lacock je ve Wiltshiru, asi 20 km od Bathu. Opatství patří National Trust. Vesnice se objevila i ve filmech a seriálech. Kombinujte s Bathem a Stonehenge.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48615,12 +48615,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Lacock Abbey Film Cloisters pridava motivy film, ritual a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Bradavice",
+        "text": "V ambitech a místnostech opatství se natáčely chodby a učebny Bradavic z prvních filmů o Harrym Potterovi."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "První negativ",
+        "text": "Fox Talbot zde v roce 1835 vyfotografoval okno - nejstarší dochovaný negativ fotografie."
       }
     ]
   },
@@ -48635,10 +48635,10 @@
       "fr": "oxford-christ-church-film-hall"
     },
     "detailPath": "/mista/oxford-christ-church-film-hall/",
-    "nazev": "Oxford Christ Church Film Hall",
+    "nazev": "Christ Church v Oxfordu",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Univerzitní interiéry a sály, které se staly součástí globální filmové představy kouzelnické školy.",
+    "lead": "Kolej, jejíž jídelna inspirovala Velkou síň v Bradavicích - a kde vznikla Alenka v říši divů.",
     "gps": {
       "lat": 51.75,
       "lon": -1.255
@@ -48651,21 +48651,21 @@
       "ritual"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "literární legenda",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Oxford Christ Church Film Hall rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Univerzitni interiery a saly, ktere se staly soucasti globalni filmove predstavy kouzelnicke skoly.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Velká síň s dlouhými stoly a portréty pod dřevěným stropem je předlohou filmové Velké síně v Bradavicích. Na schodišti se natáčelo uvítání prváků profesorkou McGonagallovou.",
+      "historie": "Kolej založil kardinál Wolsey v roce 1525, později ji obnovil Jindřich VIII. Učil zde matematik Charles Dodgson, který jako Lewis Carroll napsal Alenku v říši divů pro dceru děkana Alici Liddellovou.",
+      "legenda": "Podle tradice postavy Alenky vycházejí z koleje - králík, dveře a zahrada. V síni je okno s Alenkou a postavami z knihy.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Síň ve filmu byla postavena ve studiu podle oxfordské předlohy, schodiště je skutečné."
     },
-    "praktickeInfo": "Pred navstevou Oxford Christ Church Film Hall over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Christ Church je v centru Oxfordu, asi hodinu vlakem z Londýna. Síň bývá kvůli jídlu studentů v poledne zavřená, ověřte otevírací dobu. Kombinujte s knihovnou Bodleian.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -48687,12 +48687,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Oxford Christ Church Film Hall pridava motivy film, ritual a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Velká síň",
+        "text": "Jídelna koleje se stala předlohou pro Velkou síň v Bradavicích."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Alenka",
+        "text": "Charles Dodgson zde vyprávěl dceři děkana Alici příběhy, ze kterých vznikla Alenka v říši divů."
       }
     ]
   },
@@ -79491,10 +79491,10 @@
       "fr": "aletsch-glacier"
     },
     "detailPath": "/mista/aletsch-glacier/",
-    "nazev": "Aletsch Glacier",
+    "nazev": "Aletschský ledovec",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Největší alpský ledovec, mohutný pruh ledu ukazující změnu klimatu i horské měřítko.",
+    "lead": "Největší ledovec Alp, dlouhý asi 20 kilometrů - podle vallisských pověstí v jeho ledu bloudí „ubohé duše“, které si odpykávají své hříchy.",
     "gps": {
       "lat": 46.5,
       "lon": 8.033
@@ -79507,21 +79507,21 @@
       "prirodni-anomalie"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "střední",
+    "pristupnost": "volně přístupné, lanovky placené",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Aletsch Glacier rozsiruje jednadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Nejvetsi alpsky ledovec, mohutny pruh ledu ukazujici zmenu klimatu i horske meritko.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o svatyni, jeskyni, skalni krajinu, zanikle mesto, prirodni anomalni tvar nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Obrovská řeka ledu se táhne od Jungfrau dolů údolím. Na povrchu jsou vidět tmavé pruhy - morény. Ledovec se zmenšuje a každý rok ustupuje.",
+      "historie": "Ledovec je jádrem oblasti UNESCO Jungfrau-Aletsch. V minulosti se led rozšiřoval a ohrožoval vesnice, lidé se modlili za jeho zastavení. Dnes kvůli oteplování rychle taje.",
+      "legenda": "Podle vallisských pověstí jsou v ledu uvězněny „ubohé duše“ hříšníků. V noci prý z ledovce slyšet nářek a vzdechy. Místní věřili, že s modlitbami se duše vysvobodí.",
+      "paranormalni": "Zvuky z ledovce lidé dodnes popisují jako sténání. Ledovec skutečně praská a vydává zvuky.",
+      "skepticke": "Zvuky vydává pohybující se led a voda. Pověsti o duších vysvětlovaly hrozivý jev, kterému lidé nerozuměli."
     },
-    "praktickeInfo": "Pred navstevou Aletsch Glacier over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Nejlepší výhled je z Eggishornu, Bettmerhornu nebo Moosfluh, kam vedou lanovky z Fiesch, Bettmeralpu a Riederalpu. Začátek ledovce uvidíte z Jungfraujochu. Na ledovec choďte jen s horským vůdcem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -79543,12 +79543,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Aletsch Glacier posiluje geograficke pokryti mapy motivy led, prirodni-anomalie a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Ubohé duše v ledu",
+        "text": "V ledu prý bloudí duše hříšníků. V noci je slyšet jejich nářek."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Ustupující ledovec",
+        "text": "Kdysi se lidé modlili, aby ledovec přestal růst. Dnes se modlí, aby přestal tát."
       }
     ]
   },
@@ -79563,10 +79563,10 @@
       "fr": "trummelbach-falls"
     },
     "detailPath": "/mista/trummelbach-falls/",
-    "nazev": "Trummelbach Falls",
+    "nazev": "Vodopády Trümmelbach",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Ledovcové vodopády uvnitř hory, kde voda burácí skalním systémem Lauterbrunnenu.",
+    "lead": "Deset ledovcových vodopádů hřmí uvnitř hory v údolí Lauterbrunnen - údolí, které prý inspirovalo Tolkiena k Roklince.",
     "gps": {
       "lat": 46.571,
       "lon": 7.913
@@ -79579,21 +79579,21 @@
       "voda"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup, sezónně",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Trummelbach Falls rozsiruje jednadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Ledovcove vodopady uvnitr hory, kde voda buraci skalnim systemem Lauterbrunnenu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o svatyni, jeskyni, skalni krajinu, zanikle mesto, prirodni anomalni tvar nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Voda z ledovců Eigeru, Mönchu a Jungfrau se prodírá skalou v úzkých soutěskách. Výtah vyveze návštěvníky do nitra hory, kde řev vody přehluší hlas.",
+      "historie": "Vodopády byly zpřístupněny koncem 19. století a výtah v hoře přibyl později. Údolí Lauterbrunnen má 72 vodopádů. J. R. R. Tolkien zde v roce 1911 putoval a údolí ho prý inspirovalo k Roklince.",
+      "legenda": "Místní pověsti vyprávějí o horských skřítcích, kteří v soutěskách kovají. Hukot vody prý zní jako buchary trpaslíků.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Hukot je zvuk tisíců litrů vody za sekundu v úzké soutěsce. Tolkienova inspirace je pravděpodobná, ale nepotvrdil ji přímo v díle."
     },
-    "praktickeInfo": "Pred navstevou Trummelbach Falls over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Vodopády jsou v údolí Lauterbrunnen, z Interlakenu jede vlak do Lauterbrunnenu a pak autobus. Otevřeno zhruba od dubna do listopadu. Uvnitř je vlhko a chladno, vezměte si bundu. Kombinujte s Jungfraujochem a Mürrenem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -79615,12 +79615,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Trummelbach Falls posiluje geograficke pokryti mapy motivy podzemi, voda a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Roklinka",
+        "text": "Tolkien putoval údolím Lauterbrunnen v roce 1911 - podle mnohých odtud pochází Roklinka z Pána prstenů."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Hora, která hřmí",
+        "text": "Uvnitř hory teče až 20 000 litrů vody za sekundu a hukot je slyšet zdaleka."
       }
     ]
   },
@@ -79635,10 +79635,10 @@
       "fr": "holloch-cave"
     },
     "detailPath": "/mista/holloch-cave/",
-    "nazev": "Holloch Cave",
+    "nazev": "Jeskyně Hölloch",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Rozsáhlá jeskynní soustava v Muotathalu, podzemní labyrint chodeb, vody a speleologické nejistoty.",
+    "lead": "Jedna z nejdelších jeskyní světa ve švýcarském údolí Muotatal - v roce 1952 v ní povodeň uvěznila badatele na deset dní.",
     "gps": {
       "lat": 46.975,
       "lon": 8.78
@@ -79651,21 +79651,21 @@
       "prirodni-labyrint"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "střední",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Holloch Cave rozsiruje jednadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Rozsahla jeskynni soustava v Muotathalu, podzemni labyrint chodbi, vody a speleologicke nejistoty.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o svatyni, jeskyni, skalni krajinu, zanikle mesto, prirodni anomalni tvar nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Chodby jeskyně jsou dlouhé přes 200 kilometrů a stále se objevují nové. Uvnitř jsou propasti, podzemní řeky a obří sály.",
+      "historie": "Jeskyni objevil v roce 1875 místní zemědělec Alois Ulrich. V roce 1952 badatele Alfreda Bögliho a jeho druhy uvěznila v jeskyni povodeň na deset dní. Přežili a později pokračovali v průzkumu.",
+      "legenda": "Jméno Hölloch znamená „pekelná díra“. Místní věřili, že jeskyně vede do pekla, a vyhýbali se jí.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tma a délka jeskyně tvoří tajemnou atmosféru.",
+      "skepticke": "Jméno pochází nejspíš od slova pro kluzký vstup, ne od pekla. Jeskyně je dílem vody ve vápenci."
     },
-    "praktickeInfo": "Pred navstevou Holloch Cave over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Jeskyně je v údolí Muotatal, asi hodinu jízdy od Luzernu. Nabízejí se krátké prohlídky i vícedenní výpravy s přespáním v jeskyni. Je nutná rezervace a vhodné oblečení.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -79687,12 +79687,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Holloch Cave posiluje geograficke pokryti mapy motivy podzemi, prirodni-labyrint a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Deset dní ve tmě",
+        "text": "V roce 1952 povodeň zatarasila badatelům cestu ven. Deset dní čekali v jeskyni, než voda opadla."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Pekelná díra",
+        "text": "Místní věřili, že jeskyně vede do pekla - odtud její jméno Hölloch."
       }
     ]
   },
@@ -79707,10 +79707,10 @@
       "fr": "dachstein-ice-cave"
     },
     "detailPath": "/mista/dachstein-ice-cave/",
-    "nazev": "Dachstein Ice Cave",
+    "nazev": "Obří ledová jeskyně Dachstein",
     "zeme": "Rakousko",
     "kontinent": "Evropa",
-    "lead": "Ledová jeskynní krajina Dachsteinu, kde skála a mráz vytvářejí sezónně se měnící podzemní scény.",
+    "lead": "Ledový palác v hoře nad Hallstattem - místní se jeskyni dlouho vyhýbali, protože v ní prý sídlili zlí duchové.",
     "gps": {
       "lat": 47.545,
       "lon": 13.716
@@ -79723,21 +79723,21 @@
       "led"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem, sezónně",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Dachstein Ice Cave rozsiruje jednadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Ledova jeskynni krajina Dachsteinu, kde skala a mraz vytvareji sezonne menici se podzemni sceny.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o svatyni, jeskyni, skalni krajinu, zanikle mesto, prirodni anomalni tvar nebo citlivou pamet katastrofy.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Uvnitř hory jsou sály plné ledových sloupů, ledopádů a zamrzlých jezer. Led je místy starý stovky let. Sály nesou jména z artušovských pověstí - Parsifalův dóm nebo Dóm krále Artuše.",
+      "historie": "Jeskyni prozkoumali speleologové v roce 1910 a brzy ji zpřístupnili. Je součástí oblasti UNESCO Hallstatt-Dachstein. Nedaleko je i Mamutí jeskyně a vyhlídka Five Fingers.",
+      "legenda": "Místní pastevci se vchodu do jeskyně vyhýbali, protože z něj vane ledový vítr. Věřili, že v hoře sídlí zlí duchové a obři, kteří střeží poklady.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Ledová tma a ozvěna tvoří tajemnou atmosféru.",
+      "skepticke": "Led vzniká, protože studený vzduch v zimě klesá do jeskyně a v létě v ní zůstává. Studený průvan vysvětluje pověsti o duších."
     },
-    "praktickeInfo": "Pred navstevou Dachstein Ice Cave over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Jeskyně je u Obertraunu, kousek od Hallstattu. Z údolí jede lanovka Krippenstein, od stanice je to asi 15 minut pěšky. Prohlídka trvá asi hodinu, uvnitř je kolem 0 °C, vezměte si bundu. Otevřeno zhruba od května do října.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -79759,12 +79759,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Dachstein Ice Cave posiluje geograficke pokryti mapy motivy podzemi, led a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Dech hory",
+        "text": "Z jeskyně vane ledový vítr, a pastevci proto věřili, že uvnitř dýchají zlí duchové."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Dóm krále Artuše",
+        "text": "Objevitelé dali ledovým sálům jména podle artušovských pověstí - Parsifal a král Artuš."
       }
     ]
   },
