@@ -50435,10 +50435,10 @@
       "fr": "petrova-gora-monument"
     },
     "detailPath": "/mista/petrova-gora-monument/",
-    "nazev": "Petrova Gora Monument",
+    "nazev": "Památník Petrova Gora",
     "zeme": "Chorvatsko",
     "kontinent": "Evropa",
-    "lead": "Futuristický památník partyzánů, dnes poškozený a opuštěný jako kovová ruina paměti.",
+    "lead": "Futuristická věž v chorvatském lese, kdysi pokrytá lesklou ocelí - dnes vykradená kovová kostra, která připomíná vrak vesmírné lodi.",
     "gps": {
       "lat": 45.27,
       "lon": 15.8
@@ -50451,21 +50451,21 @@
       "politika"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "střední (rozpadlé budovy)",
+    "pristupnost": "volně přístupné, dovnitř nevstupovat",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Petrova Gora Monument rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Futuristicky pamatnik partyzanu, dnes poskozeny a opusteny jako kovova ruina pameti.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na vrcholu kopce v lese stojí vlnitá betonová stavba vysoká přes 30 metrů. Kdysi byla obložená nerezovou ocelí a uvnitř bylo muzeum. Dnes zůstala jen kostra s otvory.",
+      "historie": "Památník připomíná partyzánskou nemocnici, která se v lesích Petrovy Gory skrývala za druhé světové války, a oběti z regionu Kordun. Navrhli ho Vojin Bakić a Berislav Šerbetić, dokončen byl v roce 1981. Po válce v 90. letech zůstal opuštěný a lidé z něj odnesli ocel.",
+      "legenda": "Místní vyprávějí o tajné nemocnici, kterou Němci nikdy nenašli, a o podzemních bunkrech v lese. Nemocnice byla skutečná, ukrytá v zemljankách.",
+      "paranormalni": "Nadpřirozené jevy se nepopisují. Atmosféru tvoří opuštěnost a vítr hvízdající v kostře stavby.",
+      "skepticke": "Stavba je dílem modernistické architektury a historie partyzánské nemocnice je dobře doložená."
     },
-    "praktickeInfo": "Pred navstevou Petrova Gora Monument over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Petrova Gora je asi 70 km jižně od Záhřebu, poblíž Vojniće. Na vrchol vede úzká silnice. Dovnitř nevstupujte - hrozí pád trosek. V lese jsou stezky k zemljankám nemocnice.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50487,12 +50487,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Petrova Gora Monument pridava motivy valka, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Nemocnice v lese",
+        "text": "Za války se v lesích ukrývala partyzánská nemocnice, kterou nepřítel nikdy nenašel."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Vykradená ocel",
+        "text": "Po válce v 90. letech lidé z památníku sundali ocelové obložení, zůstala jen kostra."
       }
     ]
   },
@@ -50507,10 +50507,10 @@
       "fr": "spomenik-tjentiste"
     },
     "detailPath": "/mista/spomenik-tjentiste/",
-    "nazev": "Spomenik Tjentiste",
+    "nazev": "Spomenik Tjentište",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Monument v Tjentišti, betonová forma válečné paměti zasazená do horské krajiny.",
+    "lead": "Dva obří betonové bloky v Údolí hrdinů v národním parku Sutjeska - připomínají jednu z nejkrvavějších bitev partyzánů v roce 1943.",
     "gps": {
       "lat": 43.35,
       "lon": 18.69
@@ -50523,21 +50523,21 @@
       "politika"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Spomenik Tjentiste rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Monument v Tjentisti, betonova forma valecne pameti zasazena do horske krajiny.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na louce mezi horami stojí dvě rozevřené betonové skály. Mezi nimi vede cesta, jako by se horská krajina rozestoupila. Kolem jsou kamenné bloky se jmény padlých.",
+      "historie": "V červnu 1943 se partyzáni vedení Titem probíjeli z obklíčení německých a italských vojsk. Bitva na Sutjesce stála život tisíce partyzánů. Památník podle návrhu sochaře Miodraga Živkoviće byl odhalen v roce 1971.",
+      "legenda": "Podle místních vyprávění se na louce v noci ozývají kroky a hlasy. Památník měl připomínat průlom skrz skály.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Tajemství tvoří rozměr stavby a ticho hor.",
+      "skepticke": "Bitva je historicky doložená. Památník je umělecké dílo jugoslávské modernistické architektury."
     },
-    "praktickeInfo": "Pred navstevou Spomenik Tjentiste over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Tjentište je v národním parku Sutjeska u silnice z Foči do Gacka. Vstup je zdarma. Nedaleko je muzeum bitvy a vyhlídky na vodopád Skakavac a horu Maglić.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50559,12 +50559,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Spomenik Tjentiste pridava motivy valka, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Průlom",
+        "text": "Dvě betonové skály symbolizují průlom, kterým se partyzáni probili z obklíčení."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Údolí hrdinů",
+        "text": "V údolí jsou pohřbeny tisíce padlých, jejich jména jsou na kamenných blocích kolem."
       }
     ]
   },
@@ -50579,10 +50579,10 @@
       "fr": "kosmaj-monument"
     },
     "detailPath": "/mista/kosmaj-monument/",
-    "nazev": "Kosmaj Monument",
+    "nazev": "Památník na Kosmaji",
     "zeme": "Srbsko",
     "kontinent": "Evropa",
-    "lead": "Abstraktní spomenik na Kosmaji, kde socialistická paměť získala skoro sci-fi podobu.",
+    "lead": "Pět 40 metrů vysokých betonových hrotů v lese nad Bělehradem - spomenik, který vypadá jako přistávající kosmická loď.",
     "gps": {
       "lat": 44.455,
       "lon": 20.56
@@ -50595,21 +50595,21 @@
       "politika"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kosmaj Monument rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Abstraktni spomenik na Kosmaji, kde socialisticka pamet ziskala skoro sci-fi podobu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na vrcholu hory Kosmaj stojí pět spojených betonových křídel, která se rozevírají ke středu. Z některých úhlů připomínají hvězdu, z jiných raketu.",
+      "historie": "Památník byl odhalen v roce 1971 na počest partyzánského oddílu z Kosmaje. Navrhli ho sochař Vojin Stojić a architekt Gradimir Medaković.",
+      "legenda": "Lidé o památníku vyprávějí jako o místě, kde se scházeli UFO nadšenci. Jeho tvar inspiroval sci-fi příběhy.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Památník je ukázkou jugoslávské abstraktní architektury, nemá nic společného s mimozemšťany."
     },
-    "praktickeInfo": "Pred navstevou Kosmaj Monument over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Kosmaj je asi 50 km jižně od Bělehradu u Sopotu. K památníku vede lesní cesta od parkoviště asi 10 minut. Vstup zdarma.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50631,12 +50631,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kosmaj Monument pridava motivy valka, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Hvězda v lese",
+        "text": "Pět betonových křídel tvoří z výšky hvězdu - symbol partyzánů."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Kosmická loď",
+        "text": "Návštěvníci často říkají, že památník vypadá jako kosmická loď, která přistála v lese."
       }
     ]
   },
@@ -50651,10 +50651,10 @@
       "fr": "kadinjaca-memorial"
     },
     "detailPath": "/mista/kadinjaca-memorial/",
-    "nazev": "Kadinjača Memorial",
+    "nazev": "Památník Kadinjača",
     "zeme": "Srbsko",
     "kontinent": "Evropa",
-    "lead": "Jugoslávský památník s dramatickou betonovou krajinou odporu a obětí.",
+    "lead": "Betonová krajina u Užice připomínající Dělnický prapor, který v listopadu 1941 bojoval do posledního muže.",
     "gps": {
       "lat": 43.86,
       "lon": 19.76
@@ -50667,21 +50667,21 @@
       "politika"
     ],
     "indexTajemna": 75,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kadinjača Memorial rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Jugoslavsky pamatnik s dramatickou betonovou krajinou odporu a obeti.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na kopci stojí řada betonových kvádrů a stél, které vedou k ostrým tvarům připomínajícím skály. Cesta mezi nimi stoupá k vrcholu.",
+      "historie": "V listopadu 1941 zde Dělnický prapor z Užice kryl ústup partyzánů z takzvané Užické republiky. Většina bojovníků padla. Památník podle návrhu sochaře Miodraga Živkoviće byl odhalen v roce 1979.",
+      "legenda": "Podle vyprávění bojovníci zpívali, když šli do posledního boje. Památník vyjadřuje jejich odvahu.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Bitva je historicky doložená. Památník je modernistická socha v krajině."
     },
-    "praktickeInfo": "Pred navstevou Kadinjača Memorial over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Kadinjača je asi 14 km západně od Užice u silnice na Bajinu Baštu. Vstup zdarma. Kombinujte s Užicem a národním parkem Tara.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50703,12 +50703,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kadinjača Memorial pridava motivy valka, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Dělnický prapor",
+        "text": "Bojovníci z Užice kryli ústup partyzánů a většina z nich padla."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Cesta k vrcholu",
+        "text": "Návštěvník stoupá mezi betonovými bloky jako bojovníci k poslednímu boji."
       }
     ]
   },
@@ -50723,10 +50723,10 @@
       "fr": "ilinden-makedonium"
     },
     "detailPath": "/mista/ilinden-makedonium/",
-    "nazev": "Ilinden Makedonium",
+    "nazev": "Makedonium v Kruševu",
     "zeme": "Severní Makedonie",
     "kontinent": "Evropa",
-    "lead": "Makedonsky futuristicky pamatnik, kde narodní mytus dostal podivnou organickou architekturu.",
+    "lead": "Kulovitý památník nad Kruševem, který vypadá jako přistávající mimozemská loď - připomíná Ilindenské povstání z roku 1903.",
     "gps": {
       "lat": 41.366,
       "lon": 21.249
@@ -50739,21 +50739,21 @@
       "mytologie"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ilinden Makedonium rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Makedonsky futuristicky pamatnik, kde narodní mytus dostal podivnou organickou architekturu.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Bílá kopule je pokrytá hroty a okny z barevného skla. Uvnitř je kruhový prostor se světlem, které padá dolů z okének. Kolem jsou betonové tvary jako přetržené řetězy.",
+      "historie": "Památník byl postaven v roce 1974 podle návrhu Jordana a Iskry Grabulových. Připomíná Ilindenské povstání proti Osmanům v roce 1903, kdy povstalci vyhlásili v Kruševu krátce trvající republiku.",
+      "legenda": "Kruševská republika trvala jen deset dní, než ji Osmané potlačili. Památník je pro Makedonce symbolem svobody.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou. Lidé památníku přezdívají UFO.",
+      "skepticke": "Stavba je umělecké dílo jugoslávské architektury. Historie povstání je dobře doložená."
     },
-    "praktickeInfo": "Pred navstevou Ilinden Makedonium over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Kruševo je horské město asi 50 km od Bitoly. Památník je nad městem, vstup do kopule je placený. Kruševo je také známé tradiční architekturou a lyžováním.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50775,12 +50775,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ilinden Makedonium pridava motivy politika, mytologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Desetidenní republika",
+        "text": "V roce 1903 vyhlásili povstalci v Kruševu republiku, která trvala jen deset dní."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "UFO nad městem",
+        "text": "Díky kulatému tvaru s hroty se památníku mezi místními i turisty přezdívá UFO."
       }
     ]
   },
@@ -50795,10 +50795,10 @@
       "fr": "ufo-monument-shumen"
     },
     "detailPath": "/mista/ufo-monument-shumen/",
-    "nazev": "UFO Monument Shumen",
+    "nazev": "Památník Tvůrcům bulharského státu",
     "zeme": "Bulharsko",
     "kontinent": "Evropa",
-    "lead": "Monument u Šumenu, jehoz brutalistni forma casto pusobi jako opustena kosmicka stavba.",
+    "lead": "Gigantický betonový monument na plošině nad Šumenem, postavený k 1300. výročí Bulharska - z dálky připomíná přistávající kosmickou stavbu.",
     "gps": {
       "lat": 43.27,
       "lon": 26.93
@@ -50811,21 +50811,21 @@
       "politika"
     ],
     "indexTajemna": 74,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "výborná",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "UFO Monument Shumen rozsiruje MysteryMap jako dalsi overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Monument u Šumenu, jehoz brutalistni forma casto pusobi jako opustena kosmicka stavba.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: filmova pamet, podzemi, zanikle mesto, ritual, katastrofa, okultni vyklad nebo prirodni anomalie.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, historicka, psychologicka, politicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Na plošině nad městem se zvedají obří betonové postavy chánů a carů středověkého Bulharska. Uvnitř jsou mozaiky. Ke stavbě vede dlouhé schodiště.",
+      "historie": "Památník byl dokončen v roce 1981 k 1300. výročí založení bulharského státu. Je to jeden z největších monumentů socialistického Bulharska.",
+      "legenda": "Lidé památníku přezdívají UFO, protože z dálky vypadá jako přistávající kosmická loď. Podobně se mluví i o Buzludže.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Památník je socialistická architektura a s UFO nemá nic společného."
     },
-    "praktickeInfo": "Pred navstevou UFO Monument Shumen over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Šumen je na severovýchodě Bulharska, asi 90 km od Varny. K památníku vede schodiště z města nebo silnice. Vstup je placený. Kombinujte s pevností Šumen a Madarským jezdcem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -50847,12 +50847,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "UFO Monument Shumen pridava motivy ufo, politika a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "1300 let Bulharska",
+        "text": "Monument vznikl k oslavě 1300. výročí založení bulharského státu v roce 681."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "UFO nad Šumenem",
+        "text": "Z dálky působí jako kosmická stavba, a tak se mu přezdívá UFO."
       }
     ]
   },
@@ -99795,10 +99795,10 @@
       "fr": "kokino-observatory"
     },
     "detailPath": "/mista/kokino-observatory/",
-    "nazev": "Kokino Observatory",
+    "nazev": "Kokino",
     "zeme": "Severní Makedonie",
     "kontinent": "Evropa",
-    "lead": "Horské naleziště z doby bronzové vykládané jako pravěká observatoř.",
+    "lead": "Pravěká observatoř z doby bronzové na skalním vrcholu v Severní Makedonii - kamenné značky sledovaly východ slunce a měsíce.",
     "gps": {
       "lat": 42.263,
       "lon": 21.953
@@ -99811,21 +99811,21 @@
       "kosmicka-anomalie"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Kokino Observatory rozsiruje sestadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Bronzove horske naleziste vykladane jako praveka observator.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o pevnost, zanikle mesto, podzemi, posvatnou krajinu, prirodni anomalni tvar nebo opustenou infrastrukturu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Na vrcholu sopečného kopce jsou skály se zářezy. Z vyrytých sedátek je vidět, jak slunce v určité dny vychází přesně ve značkách na obzoru.",
+      "historie": "Naleziště objevil archeolog Jovica Stankovski v roce 2001. Podle výzkumu bylo využíváno zhruba od roku 1800 př. n. l. Archeologové zde našli střepy nádob, které sem lidé nosili jako dary.",
+      "legenda": "Lidé věří, že zde starověcí kněží sledovali slunovraty a určovali čas setí a sklizně.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Interpretace jako observatoř je podložená měřením, ale někteří odborníci ji považují za přehnanou."
     },
-    "praktickeInfo": "Pred navstevou Kokino Observatory over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Kokino je asi 30 km severovýchodně od Kumanova. K nalezišti vede polní cesta a pak krátký výstup. Vstup zdarma. Nejzajímavější je při východu slunce o slunovratu.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -99847,12 +99847,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Kokino Observatory posiluje geograficke pokryti mapy motivy archeologie, kosmicka-anomalie a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Sluneční značky",
+        "text": "V určité dny slunce vychází přesně v zářezech skal - podle archeologů záměrně."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Dary bohům",
+        "text": "Archeologové našli spousty střepů nádob, které sem lidé nosili jako dary."
       }
     ]
   },
@@ -99867,10 +99867,10 @@
       "fr": "markovi-kuli-prilep"
     },
     "detailPath": "/mista/markovi-kuli-prilep/",
-    "nazev": "Markovi Kuli Prilep",
+    "nazev": "Markovy věže v Prilepu",
     "zeme": "Severní Makedonie",
     "kontinent": "Evropa",
-    "lead": "Pevnostní ruiny nad Prilepem, balvany, legendy o králi Markovi a výhledy.",
+    "lead": "Zříceniny pevnosti krále Marka mezi obřími žulovými balvany nad Prilepem - hrdina balkánských písní prý házel kameny jako oblázky.",
     "gps": {
       "lat": 41.37,
       "lon": 21.553
@@ -99883,21 +99883,21 @@
       "hory"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Markovi Kuli Prilep rozsiruje sestadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Pevnostni ruiny nad Prilepem, balvany, legendy o kralu Markovi a vyhledy.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o pevnost, zanikle mesto, podzemi, posvatnou krajinu, prirodni anomalni tvar nebo opustenou infrastrukturu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Na kopci nad městem leží obrovské oblé balvany, mezi kterými jsou zdi a věže pevnosti. Zdá se, že balvany někdo rozházel.",
+      "historie": "Pevnost ve 14. století patřila králi Markovi, synovi krále Vukašina. Marko byl vazalem Osmanů a zemřel v bitvě v roce 1395.",
+      "legenda": "V balkánských písních je Marko obr s nadlidskou silou, který jezdí na koni Šarcovi. Balvany prý rozházel, když si hrál. Podle pověsti Marko nezemřel, ale spí v jeskyni a jednou se vrátí.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Balvany jsou přírodní útvary vzniklé zvětráváním žuly. Skutečný Marko se od legendárního hrdiny liší."
     },
-    "praktickeInfo": "Pred navstevou Markovi Kuli Prilep over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Markovy věže jsou nad Prilepem, cesta pěšky z města trvá asi 40 minut. Vstup zdarma. Nejhezčí je při západu slunce. Kombinujte s klášterem Treskavec.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -99919,12 +99919,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Markovi Kuli Prilep posiluje geograficke pokryti mapy motivy pevnost, hory a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Obrovy oblázky",
+        "text": "Král Marko prý házel balvany jako oblázky - proto jich je kolem pevnosti tolik."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Spící král",
+        "text": "Podle pověsti Marko nezemřel, ale spí v jeskyni a jednou se vrátí."
       }
     ]
   },
@@ -100011,10 +100011,10 @@
       "fr": "blagaj-tekija"
     },
     "detailPath": "/mista/blagaj-tekija/",
-    "nazev": "Blagaj Tekija",
+    "nazev": "Tekija v Blagaji",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Dervišský klášter u vývěru Buny, voda, skála a poutní ticho.",
+    "lead": "Dervišský dům pod 200 metrů vysokou skálou u vývěru řeky Buny - jednoho z největších krasových pramenů Evropy.",
     "gps": {
       "lat": 43.257,
       "lon": 17.903
@@ -100027,21 +100027,21 @@
       "voda"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "duchovní tradice",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Blagaj Tekija rozsiruje sestadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Dervissky klaster u vyveru Buny, voda, skala a poutni ticho.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o pevnost, zanikle mesto, podzemi, posvatnou krajinu, prirodni anomalni tvar nebo opustenou infrastrukturu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "Bílý dům s dřevěnými balkony stojí na břehu průzračné řeky, která vytéká přímo z jeskyně pod skálou. Voda je ledová a tmavě modrá.",
+      "historie": "Tekiju - dům dervišů - postavili v 16. století. Sloužila súfijskému řádu k modlitbám a meditaci. Na skále nad ní stojí zřícenina hradu Stjepan Grad.",
+      "legenda": "Podle pověsti v jeskyni žil drak, kterého zabil hrdina. Derviši věřili, že místo je posvátné kvůli síle vody.",
+      "paranormalni": "Poutníci zde vyprávějí o pocitu klidu. Jde o duchovní tradici, ne o nadpřirozené jevy.",
+      "skepticke": "Drak je legenda. Pramen je krasový jev, kde podzemní voda vyvěrá na povrch."
     },
-    "praktickeInfo": "Pred navstevou Blagaj Tekija over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Blagaj je asi 12 km jižně od Mostaru. Vstup do tekiji je placený, ženy dostanou šátek. Na řece můžete jet lodičkou ke vchodu do jeskyně. Na břehu jsou restaurace s pstruhy.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -100063,12 +100063,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Blagaj Tekija posiluje geograficke pokryti mapy motivy ritual, voda a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Drak v jeskyni",
+        "text": "Podle pověsti v jeskyni pod skálou žil drak, kterého zabil hrdina."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Řeka ze skály",
+        "text": "Řeka Buna vytéká přímo ze skály a hned je dost velká, aby po ní jezdily lodě."
       }
     ]
   },
@@ -100083,10 +100083,10 @@
       "fr": "vjetrenica-cave"
     },
     "detailPath": "/mista/vjetrenica-cave/",
-    "nazev": "Vjetrenica Cave",
+    "nazev": "Jeskyně Vjetrenica",
     "zeme": "Bosna a Hercegovina",
     "kontinent": "Evropa",
-    "lead": "Dlouhá krasová jeskyně Hercegoviny, vítr, voda a podzemní biodiverzita.",
+    "lead": "Největší jeskyně Bosny a Hercegoviny, ze které neustále vane vítr - patří k místům s nejbohatší podzemní faunou na světě.",
     "gps": {
       "lat": 42.845,
       "lon": 17.984
@@ -100099,21 +100099,21 @@
       "prirodni-anomalie"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, přírodní nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4.1,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen s průvodcem",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Vjetrenica Cave rozsiruje sestadvacatou vlnu MysteryMap jako mapovy bod s jasnou polohou a motivem: Dlouha krasova jeskyne Hercegoviny, vitr, voda a podzemni biodiverzita.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista, kontinent, stat, GPS a tematicke zarazeni. Profil je seed pro dalsi lokalni zdroje a presnejsi navstevnicke informace.",
-      "legenda": "Legendova vrstva vysvetluje, proc se misto dostava do mapy: muze jit o pevnost, zanikle mesto, podzemi, posvatnou krajinu, prirodni anomalni tvar nebo opustenou infrastrukturu.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, cestovatelska tradice, medialni asociace nebo lokalni vypraveni. Nejsou zamichana do overitelne historie.",
-      "skepticke": "Skepticky ramec prednostne hleda geologicke, archeologicke, klimaticke, historicke a medialni vysvetleni. Profil tak muze zustat zajimavy bez prehnanych tvrzeni."
+      "zahada": "U vchodu do jeskyně fouká silný vítr, který podle ročního období proudí ven nebo dovnitř. Chodby jsou dlouhé přes 7 kilometrů s jezírky a krápníky.",
+      "historie": "Jeskyni zmiňoval již římský autor Plinius starší. Moderní průzkum začal v 19. století. Žije v ní velké množství endemických živočichů, například macarát jeskynní.",
+      "legenda": "Místní věřili, že vítr přichází z moře podzemními chodbami. Podle pověsti jeskyně vede až k Jadranu.",
+      "paranormalni": "Konkrétní zprávy o nadpřirozených jevech nejsou.",
+      "skepticke": "Vítr způsobuje rozdíl teplot uvnitř a venku. Spojení s mořem není prokázané."
     },
-    "praktickeInfo": "Pred navstevou Vjetrenica Cave over aktualni pristup, mistni pravidla, povoleni, dopravu a ochranu lokality. GPS je orientacni a u odlehlych mist vyzaduje lokalni overeni.",
+    "praktickeInfo": "Vjetrenica je u vesnice Zavala v Popově poli, asi 60 km od Dubrovníku. Prohlídky s průvodcem trvají asi hodinu. Uvnitř je chladno.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -100135,12 +100135,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Vjetrenica Cave posiluje geograficke pokryti mapy motivy podzemi, prirodni-anomalie a vytvari dalsi samostatny detail pro sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Dech jeskyně",
+        "text": "U vchodu fouká vítr tak silný, že zhasne svíčka - jeskyně jako by dýchala."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na doplneni lokalnich spravcovskych zdroju, puvodnich nazvu, licencovanych fotografii a jazykovych detailu podle priority navstevnosti."
+        "nazev": "Cesta k moři",
+        "text": "Místní věřili, že chodby vedou až k Jadranu, odkud přichází vítr."
       }
     ]
   },
