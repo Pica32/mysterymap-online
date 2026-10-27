@@ -21,7 +21,7 @@ places.forEach((place) => {
     ["jsonld", /application\/ld\+json/],
     ["breadcrumb", /BreadcrumbList|Drobečková navigace/],
     ["tourist-attraction", /TouristAttraction/],
-    ["trust-panel", /Ověřený redakční profil místa/],
+    ["trust-panel", /class="trust-panel"/],
     ["sources", /Zdroje a licence/],
     ["skeptical", /Skeptické vysvětlení/],
     ["gps", /Mapa a GPS/]

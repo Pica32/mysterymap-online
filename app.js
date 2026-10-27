@@ -1,14 +1,17 @@
+const CARD_PAGE_SIZE = 24;
+
 const state = {
   places: [],
   activeId: null,
   query: "",
-  minMystery: 50,
+  minMystery: 0,
   mapMode: "all",
   mapZoom: 3,
   mapCenter: { lat: 22, lon: 10 },
   mapDrag: null,
   categories: new Set(),
-  themes: new Set()
+  themes: new Set(),
+  cardLimit: 24
 };
 
 const mapBounds = {
@@ -67,8 +70,8 @@ init();
 async function init() {
   const response = await fetch("data/mista.json");
   state.places = await response.json();
-  state.categories = new Set(uniqueFlat(state.places, "kategorie"));
-  state.themes = new Set(uniqueFlat(state.places, "temata"));
+  state.categories = new Set();
+  state.themes = new Set();
   state.activeId = state.places[0]?.id;
   renderFilterControls();
   bindEvents();
@@ -110,12 +113,16 @@ function bindCommunityForm() {
 function bindEvents() {
   els.search.addEventListener("input", (event) => {
     state.query = event.target.value.trim().toLowerCase();
+    state.cardLimit = CARD_PAGE_SIZE;
+    updateFilterReset();
     render();
   });
 
   els.range.addEventListener("input", (event) => {
     state.minMystery = Number(event.target.value);
     els.rangeValue.textContent = `${state.minMystery}+`;
+    state.cardLimit = CARD_PAGE_SIZE;
+    updateFilterReset();
     render();
   });
 
@@ -124,7 +131,30 @@ function bindEvents() {
     const targetSet = event.target.closest(".theme-filters") ? state.themes : state.categories;
     if (event.target.checked) targetSet.add(event.target.value);
     else targetSet.delete(event.target.value);
+    state.cardLimit = CARD_PAGE_SIZE;
+    updateFilterReset();
     render();
+  });
+
+  els.controls.addEventListener("click", (event) => {
+    if (!event.target.closest("[data-filter-reset]")) return;
+    state.categories.clear();
+    state.themes.clear();
+    state.query = "";
+    state.minMystery = 0;
+    els.range.value = "0";
+    els.rangeValue.textContent = "0+";
+    const search = els.controls.querySelector("#search");
+    if (search) search.value = "";
+    state.cardLimit = CARD_PAGE_SIZE;
+    renderFilterControls();
+    render();
+  });
+
+  els.grid.addEventListener("click", (event) => {
+    if (!event.target.closest("[data-more-cards]")) return;
+    state.cardLimit += CARD_PAGE_SIZE;
+    renderCards(getFilteredPlaces());
   });
 
   els.mapModes?.addEventListener("click", (event) => {
@@ -249,8 +279,9 @@ function getFilteredPlaces() {
       .join(" ")
       .toLowerCase()
       .includes(state.query);
-    const matchesCategory = place.kategorie.some((category) => state.categories.has(category));
-    const matchesTheme = !place.temata?.length || place.temata.some((theme) => state.themes.has(theme));
+    // Prázdná sada filtrů znamená „vše“; vybrané čipy zužují výsledek.
+    const matchesCategory = !state.categories.size || place.kategorie.some((category) => state.categories.has(category));
+    const matchesTheme = !state.themes.size || (place.temata || []).some((theme) => state.themes.has(theme));
     return matchesMapMode && matchesQuery && matchesCategory && matchesTheme && place.indexTajemna >= state.minMystery;
   });
 }
@@ -482,13 +513,36 @@ function pointerMidpoint(a, b) {
   return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 };
 }
 
+// Čipy řazené podle četnosti; vzácné motivy bez překladu do filtru nepatří.
+function countedValues(field, minCount) {
+  const counts = new Map();
+  state.places.forEach((place) => (place[field] || []).forEach((value) => counts.set(value, (counts.get(value) || 0) + 1)));
+  return Array.from(counts.entries())
+    .filter(([, count]) => count >= minCount)
+    .sort((a, b) => b[1] - a[1])
+    .map(([value]) => value);
+}
+
+function filterChip(value, label, checked) {
+  return `<label class="filter-chip"><input type="checkbox" value="${value}" ${checked ? "checked" : ""}> <span>${label}</span></label>`;
+}
+
 function renderFilterControls() {
-  els.categoryFilters.innerHTML = `<legend data-i18n="filters.categories">${t("filters.categories", "Kategorie")}</legend>` + uniqueFlat(state.places, "kategorie")
-    .map((category) => `<label><input type="checkbox" value="${category}" ${state.categories.has(category) ? "checked" : ""}> <span>${filterCategoryLabel(category)}</span></label>`)
+  els.categoryFilters.innerHTML = `<legend data-i18n="filters.categories">${t("filters.categories", "Kategorie")}</legend>` + countedValues("kategorie", 1)
+    .filter((category) => CATEGORY_LABELS.en[category])
+    .map((category) => filterChip(category, filterCategoryLabel(category), state.categories.has(category)))
     .join("");
-  els.themeFilters.innerHTML = `<legend data-i18n="filters.themes">${t("filters.themes", "Motivy")}</legend>` + uniqueFlat(state.places, "temata")
-    .map((theme) => `<label><input type="checkbox" value="${theme}" ${state.themes.has(theme) ? "checked" : ""}> <span>${filterThemeLabel(theme)}</span></label>`)
+  els.themeFilters.innerHTML = `<legend data-i18n="filters.themes">${t("filters.themes", "Motivy")}</legend>` + countedValues("temata", 10)
+    .filter((theme) => THEME_LABELS.en[theme] && !CATEGORY_LABELS.en[theme])
+    .map((theme) => filterChip(theme, filterThemeLabel(theme), state.themes.has(theme)))
     .join("");
+  updateFilterReset();
+}
+
+function updateFilterReset() {
+  const button = els.controls?.querySelector("[data-filter-reset]");
+  if (!button) return;
+  button.hidden = !(state.categories.size || state.themes.size || state.query || state.minMystery > 0);
 }
 
 function mapChromeMarkup(totalCount, shownCount) {
@@ -514,17 +568,23 @@ function renderCards(places) {
     return;
   }
 
-  els.grid.innerHTML = places.map((place) => `
+  const visible = places.slice(0, state.cardLimit);
+  const remaining = places.length - visible.length;
+  els.grid.innerHTML = visible.map((place) => {
+    const tags = Array.from(new Set([
+      ...place.kategorie.map(filterCategoryLabel),
+      ...(place.temata || []).map(filterThemeLabel)
+    ])).slice(0, 3);
+    return `
     <a class="place-card" href="${localizedPlacePath(place)}" data-id="${place.id}" data-place-id="${place.id}">
-      <span class="score">${place.indexTajemna}</span>
+      <span class="card-top"><span class="card-country">${localPlace(place, "zeme")}</span><span class="score" title="${t("filters.mysteryIndex", "Index tajemna")}">${place.indexTajemna}</span></span>
       <h3>${localPlace(place, "nazev")}</h3>
-      <p>${localPlace(place, "zeme")} · ${localPlace(place, "lead")}</p>
-      <span class="tags">
-        ${place.kategorie.map((tag) => `<span class="tag">${filterCategoryLabel(tag)}</span>`).join("")}
-        ${(place.temata || []).slice(0, 2).map((tag) => `<span class="tag theme-tag">${filterThemeLabel(tag)}</span>`).join("")}
-      </span>
-    </a>
-  `).join("");
+      ${localPlace(place, "lead") ? `<p>${localPlace(place, "lead")}</p>` : ""}
+      <span class="tags">${tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}</span>
+    </a>`;
+  }).join("") + (remaining > 0
+    ? `<div class="cards-more"><button type="button" class="button secondary" data-more-cards>${t("places.more", "Zobrazit další")} (${remaining})</button></div>`
+    : "");
 
 }
 
@@ -577,7 +637,9 @@ function renderOverview() {
     .join("");
 
   els.themes.innerHTML = Array.from(themeMap.entries())
+    .filter(([name]) => THEME_LABELS.en[name] && !CATEGORY_LABELS.en[name])
     .sort((a, b) => b[1] - a[1])
+    .slice(0, 12)
     .map(([name, count]) => compactLink(labelTheme(name), countPlaces(count), `landing/tema-${slugify(name)}.html`))
     .join("");
 }
@@ -694,88 +756,28 @@ function uniqueFlat(items, key) {
 }
 
 const CATEGORY_LABELS = {
-  cs: {
-    hrad: "Hrady a zamky",
-    podzemi: "Podzemi",
-    priroda: "Prirodni mista",
-    legenda: "Legendy",
-    veznice: "Veznice",
-    ostrov: "Ostrovy",
-    katastrofa: "Katastrofy",
-    historie: "Historie",
-    "filmova-lokace": "Filmove lokace",
-    "zakazane-zony": "Zakazane zony",
-    "ztracena-mesta": "Ztracena mista"
-  },
-  en: {
-    hrad: "Castles and chateaus",
-    podzemi: "Underground",
-    priroda: "Natural places",
-    legenda: "Legends",
-    veznice: "Prisons",
-    ostrov: "Islands",
-    katastrofa: "Disasters",
-    historie: "History",
-    "filmova-lokace": "Film locations",
-    "zakazane-zony": "Forbidden zones",
-    "ztracena-mesta": "Lost places"
-  },
-  de: {
-    hrad: "Burgen und Schlosser",
-    podzemi: "Untergrund",
-    priroda: "Naturorte",
-    legenda: "Legenden",
-    veznice: "Gefangnisse",
-    ostrov: "Inseln",
-    katastrofa: "Katastrophen",
-    historie: "Geschichte",
-    "filmova-lokace": "Filmorte",
-    "zakazane-zony": "Sperrzonen",
-    "ztracena-mesta": "Verlorene Orte"
-  },
-  es: {
-    hrad: "Castillos y palacios",
-    podzemi: "Subterraneo",
-    priroda: "Lugares naturales",
-    legenda: "Leyendas",
-    veznice: "Prisiones",
-    ostrov: "Islas",
-    katastrofa: "Desastres",
-    historie: "Historia",
-    "filmova-lokace": "Localizaciones de cine",
-    "zakazane-zony": "Zonas prohibidas",
-    "ztracena-mesta": "Lugares perdidos"
-  },
-  fr: {
-    hrad: "Chateaux et palais",
-    podzemi: "Souterrains",
-    priroda: "Lieux naturels",
-    legenda: "Legendes",
-    veznice: "Prisons",
-    ostrov: "Iles",
-    katastrofa: "Catastrophes",
-    historie: "Histoire",
-    "filmova-lokace": "Lieux de tournage",
-    "zakazane-zony": "Zones interdites",
-    "ztracena-mesta": "Lieux perdus"
-  }
+  cs: { hrad: "Hrady a zámky", podzemi: "Podzemí", priroda: "Přírodní místa", legenda: "Legendy", veznice: "Věznice", ostrov: "Ostrovy", katastrofa: "Katastrofy", historie: "Historie", "filmova-lokace": "Filmové lokace", "zakazane-zony": "Zakázané zóny", "ztracena-mesta": "Ztracená města", opustene: "Opuštěná místa" },
+  en: { hrad: "Castles", podzemi: "Underground", priroda: "Nature", legenda: "Legends", veznice: "Prisons", ostrov: "Islands", katastrofa: "Disasters", historie: "History", "filmova-lokace": "Film locations", "zakazane-zony": "Forbidden zones", "ztracena-mesta": "Lost cities", opustene: "Abandoned places" },
+  de: { hrad: "Burgen und Schlösser", podzemi: "Untergrund", priroda: "Naturorte", legenda: "Legenden", veznice: "Gefängnisse", ostrov: "Inseln", katastrofa: "Katastrophen", historie: "Geschichte", "filmova-lokace": "Drehorte", "zakazane-zony": "Sperrzonen", "ztracena-mesta": "Verlorene Städte", opustene: "Verlassene Orte" },
+  es: { hrad: "Castillos y palacios", podzemi: "Subterráneo", priroda: "Naturaleza", legenda: "Leyendas", veznice: "Prisiones", ostrov: "Islas", katastrofa: "Desastres", historie: "Historia", "filmova-lokace": "Lugares de rodaje", "zakazane-zony": "Zonas prohibidas", "ztracena-mesta": "Ciudades perdidas", opustene: "Lugares abandonados" },
+  fr: { hrad: "Châteaux", podzemi: "Souterrains", priroda: "Nature", legenda: "Légendes", veznice: "Prisons", ostrov: "Îles", katastrofa: "Catastrophes", historie: "Histoire", "filmova-lokace": "Lieux de tournage", "zakazane-zony": "Zones interdites", "ztracena-mesta": "Cités perdues", opustene: "Lieux abandonnés" }
 };
 
 const THEME_LABELS = {
   cs: {
-    archeologie: "Archeologie", carodejnictvi: "Carodejnictvi", dabel: "Dabel", duchove: "Duchove", film: "Film", hrad: "Hrad", impakt: "Impakty", karantena: "Karantena", katastrofa: "Katastrofa", konspirace: "Konspirace", "kosmicka-anomalie": "Kosmicka anomalie", legenda: "Legenda", media: "Media", more: "More", mytologie: "Mytologie", nataceni: "Nataceni", nebezpeci: "Nebezpeci", oceany: "Oceany", okultismus: "Okultismus", ostrov: "Ostrov", pirati: "Pirati", podzemi: "Podzemi", poklad: "Poklad", politika: "Politika", popkultura: "Popkultura", poust: "Poust", "prirodni-anomalie": "Prirodni anomalie", "prirodni-labyrint": "Prirodni labyrint", prokleti: "Prokleti", pseudoveda: "Pseudoveda", ritual: "Ritualy", skeptic: "Skeptik", sopky: "Sopky", stredovek: "Stredovek", "tajne-spolecnosti": "Tajne spolecnosti", technologie: "Technologie", templari: "Templari", ufo: "UFO", umrti: "Smrt a pamet", valka: "Valka", veznice: "Veznice", vrazdy: "Vrazdy", "zakazane-zony": "Zakazane zony", zemetreseni: "Zemetreseni", zmizeni: "Zmizeni", "ztracena-mesta": "Ztracena mista", "ztracena-mista": "Ztracena mista", zvirata: "Zvirata"
+    archeologie: "Archeologie", carodejnictvi: "Čarodějnictví", dabel: "Ďábel", duchove: "Duchové", film: "Film", hrad: "Hrad", impakt: "Impakty", karantena: "Karanténa", katastrofa: "Katastrofa", konspirace: "Konspirace", "kosmicka-anomalie": "Kosmická anomálie", legenda: "Legenda", media: "Média", more: "Moře", mytologie: "Mytologie", nataceni: "Natáčení", nebezpeci: "Nebezpečí", oceany: "Oceány", okultismus: "Okultismus", ostrov: "Ostrov", pirati: "Piráti", podzemi: "Podzemí", poklad: "Poklad", politika: "Politika", popkultura: "Popkultura", poust: "Poušť", "prirodni-anomalie": "Přírodní anomálie", "prirodni-labyrint": "Přírodní labyrint", prokleti: "Prokletí", pseudoveda: "Pseudověda", ritual: "Rituály", skeptic: "Skeptik", sopky: "Sopky", stredovek: "Středověk", "tajne-spolecnosti": "Tajné společnosti", technologie: "Technologie", templari: "Templáři", ufo: "UFO", umrti: "Smrt a paměť", valka: "Válka", veznice: "Věznice", vrazdy: "Vraždy", "zakazane-zony": "Zakázané zóny", zemetreseni: "Zemětřesení", zmizeni: "Zmizení", "ztracena-mesta": "Ztracená města", "ztracena-mista": "Ztracená místa", zvirata: "Zvířata", voda: "Voda", hory: "Hory", pevnost: "Pevnosti", opustene: "Opuštěná místa", symboly: "Symboly", led: "Led", "skalni-umeni": "Skalní umění", prales: "Prales", dolovani: "Doly", les: "Les", zlato: "Zlato", nemocnice: "Nemocnice"
   },
   en: {
-    archeologie: "Archaeology", carodejnictvi: "Witchcraft", dabel: "Devil", duchove: "Ghosts", film: "Film", hrad: "Castle", impakt: "Impacts", karantena: "Quarantine", katastrofa: "Disaster", konspirace: "Conspiracy", "kosmicka-anomalie": "Cosmic anomaly", legenda: "Legend", media: "Media", more: "Sea", mytologie: "Mythology", nataceni: "Filming", nebezpeci: "Danger", oceany: "Oceans", okultismus: "Occultism", ostrov: "Island", pirati: "Pirates", podzemi: "Underground", poklad: "Treasure", politika: "Politics", popkultura: "Pop culture", poust: "Desert", "prirodni-anomalie": "Natural anomaly", "prirodni-labyrint": "Natural labyrinth", prokleti: "Curse", pseudoveda: "Pseudoscience", ritual: "Rituals", skeptic: "Skeptic", sopky: "Volcanoes", stredovek: "Middle Ages", "tajne-spolecnosti": "Secret societies", technologie: "Technology", templari: "Templars", ufo: "UFO", umrti: "Death and memory", valka: "War", veznice: "Prisons", vrazdy: "Murders", "zakazane-zony": "Forbidden zones", zemetreseni: "Earthquakes", zmizeni: "Disappearances", "ztracena-mesta": "Lost places", "ztracena-mista": "Lost places", zvirata: "Animals"
+    archeologie: "Archaeology", carodejnictvi: "Witchcraft", dabel: "Devil", duchove: "Ghosts", film: "Film", hrad: "Castle", impakt: "Impacts", karantena: "Quarantine", katastrofa: "Disaster", konspirace: "Conspiracy", "kosmicka-anomalie": "Cosmic anomaly", legenda: "Legend", media: "Media", more: "Sea", mytologie: "Mythology", nataceni: "Filming", nebezpeci: "Danger", oceany: "Oceans", okultismus: "Occultism", ostrov: "Island", pirati: "Pirates", podzemi: "Underground", poklad: "Treasure", politika: "Politics", popkultura: "Pop culture", poust: "Desert", "prirodni-anomalie": "Natural anomaly", "prirodni-labyrint": "Natural labyrinth", prokleti: "Curse", pseudoveda: "Pseudoscience", ritual: "Rituals", skeptic: "Skeptic", sopky: "Volcanoes", stredovek: "Middle Ages", "tajne-spolecnosti": "Secret societies", technologie: "Technology", templari: "Templars", ufo: "UFO", umrti: "Death and memory", valka: "War", veznice: "Prisons", vrazdy: "Murders", "zakazane-zony": "Forbidden zones", zemetreseni: "Earthquakes", zmizeni: "Disappearances", "ztracena-mesta": "Lost cities", "ztracena-mista": "Lost places", zvirata: "Animals", voda: "Water", hory: "Mountains", pevnost: "Fortresses", opustene: "Abandoned", symboly: "Symbols", led: "Ice", "skalni-umeni": "Rock art", prales: "Rainforest", dolovani: "Mines", les: "Forest", zlato: "Gold", nemocnice: "Hospitals"
   },
   de: {
-    archeologie: "Archaologie", carodejnictvi: "Hexerei", dabel: "Teufel", duchove: "Geister", film: "Film", hrad: "Burg", impakt: "Einschlage", karantena: "Quarantane", katastrofa: "Katastrophe", konspirace: "Verschworung", "kosmicka-anomalie": "Kosmische Anomalie", legenda: "Legende", media: "Medien", more: "Meer", mytologie: "Mythologie", nataceni: "Drehorte", nebezpeci: "Gefahr", oceany: "Ozeane", okultismus: "Okkultismus", ostrov: "Insel", pirati: "Piraten", podzemi: "Untergrund", poklad: "Schatz", politika: "Politik", popkultura: "Popkultur", poust: "Wuste", "prirodni-anomalie": "Naturliche Anomalie", "prirodni-labyrint": "Naturliches Labyrinth", prokleti: "Fluch", pseudoveda: "Pseudowissenschaft", ritual: "Rituale", skeptic: "Skeptik", sopky: "Vulkane", stredovek: "Mittelalter", "tajne-spolecnosti": "Geheimgesellschaften", technologie: "Technologie", templari: "Templer", ufo: "UFO", umrti: "Tod und Erinnerung", valka: "Krieg", veznice: "Gefangnisse", vrazdy: "Morde", "zakazane-zony": "Sperrzonen", zemetreseni: "Erdbeben", zmizeni: "Verschwinden", "ztracena-mesta": "Verlorene Orte", "ztracena-mista": "Verlorene Orte", zvirata: "Tiere"
+    archeologie: "Archäologie", carodejnictvi: "Hexerei", dabel: "Teufel", duchove: "Geister", film: "Film", hrad: "Burg", impakt: "Einschläge", karantena: "Quarantäne", katastrofa: "Katastrophe", konspirace: "Verschwörung", "kosmicka-anomalie": "Kosmische Anomalie", legenda: "Legende", media: "Medien", more: "Meer", mytologie: "Mythologie", nataceni: "Dreharbeiten", nebezpeci: "Gefahr", oceany: "Ozeane", okultismus: "Okkultismus", ostrov: "Insel", pirati: "Piraten", podzemi: "Untergrund", poklad: "Schatz", politika: "Politik", popkultura: "Popkultur", poust: "Wüste", "prirodni-anomalie": "Naturanomalie", "prirodni-labyrint": "Naturlabyrinth", prokleti: "Fluch", pseudoveda: "Pseudowissenschaft", ritual: "Rituale", skeptic: "Skeptik", sopky: "Vulkane", stredovek: "Mittelalter", "tajne-spolecnosti": "Geheimbünde", technologie: "Technik", templari: "Templer", ufo: "UFO", umrti: "Tod und Erinnerung", valka: "Krieg", veznice: "Gefängnisse", vrazdy: "Morde", "zakazane-zony": "Sperrzonen", zemetreseni: "Erdbeben", zmizeni: "Verschwinden", "ztracena-mesta": "Verlorene Städte", "ztracena-mista": "Verlorene Orte", zvirata: "Tiere", voda: "Wasser", hory: "Berge", pevnost: "Festungen", opustene: "Verlassen", symboly: "Symbole", led: "Eis", "skalni-umeni": "Felskunst", prales: "Urwald", dolovani: "Bergbau", les: "Wald", zlato: "Gold", nemocnice: "Krankenhäuser"
   },
   es: {
-    archeologie: "Arqueologia", carodejnictvi: "Brujeria", dabel: "Diablo", duchove: "Fantasmas", film: "Cine", hrad: "Castillo", impakt: "Impactos", karantena: "Cuarentena", katastrofa: "Catastrofe", konspirace: "Conspiracion", "kosmicka-anomalie": "Anomalia cosmica", legenda: "Leyenda", media: "Medios", more: "Mar", mytologie: "Mitologia", nataceni: "Rodaje", nebezpeci: "Peligro", oceany: "Oceanos", okultismus: "Ocultismo", ostrov: "Isla", pirati: "Piratas", podzemi: "Subterraneo", poklad: "Tesoro", politika: "Politica", popkultura: "Cultura pop", poust: "Desierto", "prirodni-anomalie": "Anomalia natural", "prirodni-labyrint": "Laberinto natural", prokleti: "Maldicion", pseudoveda: "Pseudociencia", ritual: "Rituales", skeptic: "Esceptico", sopky: "Volcanes", stredovek: "Edad Media", "tajne-spolecnosti": "Sociedades secretas", technologie: "Tecnologia", templari: "Templarios", ufo: "OVNI", umrti: "Muerte y memoria", valka: "Guerra", veznice: "Prisiones", vrazdy: "Asesinatos", "zakazane-zony": "Zonas prohibidas", zemetreseni: "Terremotos", zmizeni: "Desapariciones", "ztracena-mesta": "Lugares perdidos", "ztracena-mista": "Lugares perdidos", zvirata: "Animales"
+    archeologie: "Arqueología", carodejnictvi: "Brujería", dabel: "Diablo", duchove: "Fantasmas", film: "Cine", hrad: "Castillo", impakt: "Impactos", karantena: "Cuarentena", katastrofa: "Catástrofe", konspirace: "Conspiración", "kosmicka-anomalie": "Anomalía cósmica", legenda: "Leyenda", media: "Medios", more: "Mar", mytologie: "Mitología", nataceni: "Rodaje", nebezpeci: "Peligro", oceany: "Océanos", okultismus: "Ocultismo", ostrov: "Isla", pirati: "Piratas", podzemi: "Subterráneo", poklad: "Tesoro", politika: "Política", popkultura: "Cultura pop", poust: "Desierto", "prirodni-anomalie": "Anomalía natural", "prirodni-labyrint": "Laberinto natural", prokleti: "Maldición", pseudoveda: "Pseudociencia", ritual: "Rituales", skeptic: "Escéptico", sopky: "Volcanes", stredovek: "Edad Media", "tajne-spolecnosti": "Sociedades secretas", technologie: "Tecnología", templari: "Templarios", ufo: "OVNI", umrti: "Muerte y memoria", valka: "Guerra", veznice: "Prisiones", vrazdy: "Asesinatos", "zakazane-zony": "Zonas prohibidas", zemetreseni: "Terremotos", zmizeni: "Desapariciones", "ztracena-mesta": "Ciudades perdidas", "ztracena-mista": "Lugares perdidos", zvirata: "Animales", voda: "Agua", hory: "Montañas", pevnost: "Fortalezas", opustene: "Abandonados", symboly: "Símbolos", led: "Hielo", "skalni-umeni": "Arte rupestre", prales: "Selva", dolovani: "Minas", les: "Bosque", zlato: "Oro", nemocnice: "Hospitales"
   },
   fr: {
-    archeologie: "Archeologie", carodejnictvi: "Sorcellerie", dabel: "Diable", duchove: "Fantomes", film: "Film", hrad: "Chateau", impakt: "Impacts", karantena: "Quarantaine", katastrofa: "Catastrophe", konspirace: "Conspiration", "kosmicka-anomalie": "Anomalie cosmique", legenda: "Legende", media: "Medias", more: "Mer", mytologie: "Mythologie", nataceni: "Tournage", nebezpeci: "Danger", oceany: "Oceans", okultismus: "Occultisme", ostrov: "Ile", pirati: "Pirates", podzemi: "Souterrain", poklad: "Tresor", politika: "Politique", popkultura: "Culture pop", poust: "Desert", "prirodni-anomalie": "Anomalie naturelle", "prirodni-labyrint": "Labyrinthe naturel", prokleti: "Malediction", pseudoveda: "Pseudoscience", ritual: "Rituels", skeptic: "Sceptique", sopky: "Volcans", stredovek: "Moyen Age", "tajne-spolecnosti": "Societes secretes", technologie: "Technologie", templari: "Templiers", ufo: "OVNI", umrti: "Mort et memoire", valka: "Guerre", veznice: "Prisons", vrazdy: "Meurtres", "zakazane-zony": "Zones interdites", zemetreseni: "Seismes", zmizeni: "Disparitions", "ztracena-mesta": "Lieux perdus", "ztracena-mista": "Lieux perdus", zvirata: "Animaux"
+    archeologie: "Archéologie", carodejnictvi: "Sorcellerie", dabel: "Diable", duchove: "Fantômes", film: "Film", hrad: "Château", impakt: "Impacts", karantena: "Quarantaine", katastrofa: "Catastrophe", konspirace: "Complot", "kosmicka-anomalie": "Anomalie cosmique", legenda: "Légende", media: "Médias", more: "Mer", mytologie: "Mythologie", nataceni: "Tournage", nebezpeci: "Danger", oceany: "Océans", okultismus: "Occultisme", ostrov: "Île", pirati: "Pirates", podzemi: "Souterrain", poklad: "Trésor", politika: "Politique", popkultura: "Culture pop", poust: "Désert", "prirodni-anomalie": "Anomalie naturelle", "prirodni-labyrint": "Labyrinthe naturel", prokleti: "Malédiction", pseudoveda: "Pseudoscience", ritual: "Rituels", skeptic: "Sceptique", sopky: "Volcans", stredovek: "Moyen Âge", "tajne-spolecnosti": "Sociétés secrètes", technologie: "Technologie", templari: "Templiers", ufo: "OVNI", umrti: "Mort et mémoire", valka: "Guerre", veznice: "Prisons", vrazdy: "Meurtres", "zakazane-zony": "Zones interdites", zemetreseni: "Séismes", zmizeni: "Disparitions", "ztracena-mesta": "Cités perdues", "ztracena-mista": "Lieux perdus", zvirata: "Animaux", voda: "Eau", hory: "Montagnes", pevnost: "Forteresses", opustene: "Abandonnés", symboly: "Symboles", led: "Glace", "skalni-umeni": "Art rupestre", prales: "Forêt vierge", dolovani: "Mines", les: "Forêt", zlato: "Or", nemocnice: "Hôpitaux"
   }
 };
 
@@ -895,9 +897,49 @@ function countPlaces(count) {
 
 function localPlace(place, field) {
   const language = window.MysteryMapI18n?.language || "cs";
-  if (!place.i18n?.[language]?.[field] && language === "de" && field === "lead") return generatedLead(place, language);
-  if (!place.i18n?.[language]?.[field] && language === "de" && field === "praktickeInfo") return generatedDescription(place, "prakticke", language);
-  return place.i18n?.[language]?.[field] || localValue(place[field], language);
+  const translated = place.i18n?.[language]?.[field];
+  if (translated) return translated;
+  if (language !== "cs" && field === "nazev") return idTitle(place.id);
+  if (language !== "cs" && field === "zeme") return countryName(place.zeme, language);
+  // Bez překladu raději nic než český text v cizojazyčném rozhraní.
+  if (language !== "cs" && field === "lead") return "";
+  if (language === "de" && field === "praktickeInfo") return generatedDescription(place, "prakticke", language);
+  return localValue(place[field], language);
+}
+
+const TITLE_SMALL_WORDS = new Set(["de", "da", "do", "di", "del", "des", "du", "la", "le", "les", "of", "the", "and", "y", "e", "a", "el", "van", "von"]);
+
+function idTitle(id) {
+  return String(id)
+    .replace(/-s-/g, "'s-")
+    .split("-")
+    .map((word, index) => (index && TITLE_SMALL_WORDS.has(word) ? word : word.charAt(0).toUpperCase() + word.slice(1)))
+    .join(" ");
+}
+
+const COUNTRY_CODES = {
+  "Česko": "CZ", "Spojené království": "GB", "Francie": "FR", "Japonsko": "JP", "Spojené státy": "US", "Austrálie": "AU", "Rusko": "RU", "Peru": "PE", "Turkmenistán": "TM", "Rumunsko": "RO", "Indie": "IN", "Ukrajina": "UA", "Nový Zéland": "NZ", "Irsko": "IE", "Chorvatsko": "HR", "Jordansko": "JO", "Egypt": "EG", "Turecko": "TR", "Itálie": "IT", "Německo": "DE", "Pákistán": "PK", "Sri Lanka": "LK", "Laos": "LA", "Čína": "CN", "Chile": "CL", "Mexiko": "MX", "Belize": "BZ", "Tanzanie": "TZ", "Mauritánie": "MR", "Alžírsko": "DZ", "Kanada": "CA", "Švýcarsko": "CH", "Slovinsko": "SI", "Bulharsko": "BG", "Severní Makedonie": "MK", "Srbsko": "RS", "Slovensko": "SK", "Polsko": "PL", "Litva": "LT", "Estonsko": "EE", "Finsko": "FI", "Švédsko": "SE", "Norsko": "NO", "Řecko": "GR", "Izrael": "IL", "Palestina": "PS", "Libanon": "LB", "Sýrie": "SY", "Írán": "IR", "Irák": "IQ", "Afghánistán": "AF", "Uzbekistán": "UZ", "Kyrgyzstán": "KG", "Gruzie": "GE", "Arménie": "AM", "Jemen": "YE", "Bahrajn": "BH", "Mali": "ML", "Maroko": "MA", "Súdán": "SD", "Keňa": "KE", "Namibie": "NA", "Nigérie": "NG", "Senegal": "SN", "Ghana": "GH", "Jihoafrická republika": "ZA", "Botswana": "BW", "Brazílie": "BR", "Argentina": "AR", "Ekvádor": "EC", "Kolumbie": "CO", "Bolívie": "BO", "Jamajka": "JM", "Guatemala": "GT", "Honduras": "HN", "Francouzská Polynésie": "PF", "Indonésie": "ID", "Kambodža": "KH", "Myanmar": "MM", "Etiopie": "ET", "Tunisko": "TN", "Libye": "LY", "DR Kongo": "CD", "Zambie": "ZM", "Filipíny": "PH", "Vietnam": "VN", "Thajsko": "TH", "Fidži": "FJ", "Rakousko": "AT", "Albánie": "AL", "Černá Hora": "ME", "Bosna a Hercegovina": "BA", "Island": "IS", "Hongkong": "HK", "Tchaj-wan": "TW", "Jižní Korea": "KR", "Korea": "KR", "Bhútán": "BT", "Nepál": "NP", "Bangladéš": "BD", "Kazachstán": "KZ", "Tádžikistán": "TJ", "Ázerbájdžán": "AZ", "Guyana": "GY", "Venezuela": "VE", "Panama": "PA", "Kostarika": "CR", "Nikaragua": "NI", "Salvador": "SV", "Dominika": "DM", "Montserrat": "MS", "Svatý Vincenc a Grenadiny": "VC", "Svatý Kryštof a Nevis": "KN", "Haiti": "HT", "Portoriko": "PR", "Uruguay": "UY", "Paraguay": "PY", "Gambie": "GM", "Madagaskar": "MG", "Mauricius": "MU", "Seychely": "SC", "Omán": "OM", "Katar": "QA", "Spojené arabské emiráty": "AE", "Cookovy ostrovy": "CK", "Tonga": "TO", "Mikronésie": "FM", "Palau": "PW", "Vanuatu": "VU", "Šalamounovy ostrovy": "SB", "Papua-Nová Guinea": "PG", "Marshallovy ostrovy": "MH", "Gabon": "GA", "Kamerun": "CM", "Uganda": "UG", "Portugalsko": "PT", "Španělsko": "ES", "Zimbabwe": "ZW", "Saúdská Arábie": "SA", "Tuvalu": "TV", "Kiribati": "KI", "Nauru": "NR", "Samoa": "WS", "Malta": "MT", "Lotyšsko": "LV", "Belgie": "BE", "Malajsie": "MY", "Kongo": "CG", "Dánsko": "DK", "Lucembursko": "LU", "Nová Kaledonie": "NC", "Moldavsko": "MD", "Mongolsko": "MN", "Benin": "BJ", "Svatý Tomáš a Princův ostrov": "ST", "Rovníková Guinea": "GQ", "Středoafrická republika": "CF", "Wallis a Futuna": "WF", "Pitcairnovy ostrovy": "PN", "Severní Korea": "KP"
+};
+
+const REGION_NAMES = {
+  "Atlantik": { en: "Atlantic Ocean", de: "Atlantik", es: "Atlántico", fr: "Atlantique" },
+  "Tibet": { en: "Tibet", de: "Tibet", es: "Tíbet", fr: "Tibet" },
+  "Skotsko": { en: "Scotland", de: "Schottland", es: "Escocia", fr: "Écosse" },
+  "Wales": { en: "Wales", de: "Wales", es: "Gales", fr: "Pays de Galles" },
+  "Severní Irsko": { en: "Northern Ireland", de: "Nordirland", es: "Irlanda del Norte", fr: "Irlande du Nord" },
+  "Somaliland": { en: "Somaliland", de: "Somaliland", es: "Somalilandia", fr: "Somaliland" }
+};
+
+let countryDisplayNames = null;
+
+function countryName(value, language) {
+  if (REGION_NAMES[value]?.[language]) return REGION_NAMES[value][language];
+  const code = COUNTRY_CODES[value];
+  if (!code || typeof Intl.DisplayNames !== "function") return localValue(value, language);
+  if (countryDisplayNames?.language !== language) {
+    countryDisplayNames = { language, names: new Intl.DisplayNames([language], { type: "region" }) };
+  }
+  return countryDisplayNames.names.of(code) || value;
 }
 
 function localDescription(place, field) {
@@ -949,15 +991,6 @@ function generatedDescription(place, field, language = window.MysteryMapI18n?.la
   return place.popisy?.[field] || "";
 }
 
-function generatedLead(place, language = window.MysteryMapI18n?.language || "cs") {
-  if (language === "de") {
-    const country = localValue(place.zeme, language);
-    const themes = (place.temata || []).slice(0, 2).map(filterThemeLabel).join(" und ");
-    return `MysteryMap-Ort in ${country} mit Schwerpunkt ${themes || "Legenden"} und einem Mystery-Index von ${place.indexTajemna}/100.`;
-  }
-  return place.lead;
-}
-
 function slugify(value) {
   return value
     .toLowerCase()
@@ -975,6 +1008,7 @@ function localizedPlacePath(place) {
 }
 
 function renderBadges() {
+  if (!els.badges) return;
   els.badges.innerHTML = badges.map(([title, text]) => `
     <div class="badge">
       <strong>${t(title, title)}</strong>

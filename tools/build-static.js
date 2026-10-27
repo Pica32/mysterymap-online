@@ -99,6 +99,8 @@ places.forEach((place) => {
   });
 });
 
+const ABOUT_EYEBROW = { cs: "O obsahu", en: "About this guide", de: "Über diesen Text", es: "Sobre esta guía", fr: "À propos", zh: "关于本页", ja: "このページについて", ko: "이 페이지에 대해" };
+
 function isTemplatePlace(place) {
   const repeated = ["historie", "legenda", "paranormalni", "skepticke"].filter((field) => {
     const key = `${field}:${String(place.popisy?.[field] || "").replaceAll(place.nazev, "")}`;
@@ -142,12 +144,12 @@ const uiText = {
     gps: "Mapa a GPS",
     sources: "Zdroje a licence",
     sourceIntro: "Zdroje slouží k ověření faktů a orientace. Text stránky není kopie zdrojových textů.",
-    trustTitle: "Ověřený redakční profil místa",
+    trustTitle: "Jak tento průvodce vznikl",
     trustCopy: "Text je vlastní redakční zpracování. Fakta, GPS a praktické informace jsou oddělené od legend a interpretací. Každá stránka obsahuje skeptické vysvětlení a explicitní zdroje.",
     contentType: "Typ obsahu",
     themes: "Motivy",
     sourceCount: "Počet zdrojů",
-    lastBuild: "Poslední build",
+    lastBuild: "Aktualizováno",
     storyHooks: "Příběhy a motivy",
     paranormalLayer: "Paranormální vrstva",
     paranormalClaims: "Co se o místě paranormálně tvrdí",
@@ -186,12 +188,12 @@ const uiText = {
     gps: "Map and GPS",
     sources: "Sources and Licenses",
     sourceIntro: "Sources are used to verify facts, orientation and provenance. The page text is original editorial work, not copied source prose.",
-    trustTitle: "Verified Editorial Place Profile",
+    trustTitle: "How this guide was made",
     trustCopy: "This is original editorial writing. Facts, GPS and practical information are separated from legends and interpretations. Each page includes skeptical context and explicit sources.",
     contentType: "Content type",
     themes: "Themes",
     sourceCount: "Source count",
-    lastBuild: "Last build",
+    lastBuild: "Updated",
     storyHooks: "Stories and Motifs",
     paranormalLayer: "Paranormal Layer",
     paranormalClaims: "What people claim happens here",
@@ -230,12 +232,12 @@ const uiText = {
     gps: "Karte und GPS",
     sources: "Quellen und Lizenzen",
     sourceIntro: "Quellen dienen zur Prüfung von Fakten, Orientierung und Herkunft. Der Seitentext ist eigenständige Redaktion, keine Kopie fremder Texte.",
-    trustTitle: "Geprüftes redaktionelles Ortsprofil",
+    trustTitle: "So entstand dieser Reiseführer",
     trustCopy: "Fakten, GPS und praktische Informationen werden von Legenden und Interpretationen getrennt. Jede Seite enthält skeptischen Kontext und klare Quellen.",
     contentType: "Inhaltstyp",
     themes: "Motive",
     sourceCount: "Quellenanzahl",
-    lastBuild: "Letzter Build",
+    lastBuild: "Aktualisiert",
     storyHooks: "Geschichten und Motive",
     paranormalLayer: "Paranormale Ebene",
     paranormalClaims: "Was Menschen hier behaupten",
@@ -274,12 +276,12 @@ const uiText = {
     gps: "Mapa y GPS",
     sources: "Fuentes y licencias",
     sourceIntro: "Las fuentes sirven para verificar hechos, orientación y procedencia. El texto de la página es redacción original, no copia de fuentes.",
-    trustTitle: "Perfil editorial verificado del lugar",
+    trustTitle: "Cómo se elaboró esta guía",
     trustCopy: "Los hechos, GPS e información práctica se separan de leyendas e interpretaciones. Cada página incluye contexto escéptico y fuentes explícitas.",
     contentType: "Tipo de contenido",
     themes: "Motivos",
     sourceCount: "Número de fuentes",
-    lastBuild: "Última compilación",
+    lastBuild: "Actualizado",
     storyHooks: "Historias y motivos",
     paranormalLayer: "Capa paranormal",
     paranormalClaims: "Qué se afirma que ocurre aquí",
@@ -318,12 +320,12 @@ const uiText = {
     gps: "Carte et GPS",
     sources: "Sources et licences",
     sourceIntro: "Les sources servent à vérifier les faits, l'orientation et la provenance. Le texte de la page est une rédaction originale, pas une copie.",
-    trustTitle: "Profil éditorial vérifié du lieu",
+    trustTitle: "Comment ce guide a été rédigé",
     trustCopy: "Les faits, le GPS et les informations pratiques sont séparés des légendes et interprétations. Chaque page inclut un contexte sceptique et des sources explicites.",
     contentType: "Type de contenu",
     themes: "Motifs",
     sourceCount: "Nombre de sources",
-    lastBuild: "Dernier build",
+    lastBuild: "Mis à jour",
     storyHooks: "Histoires et motifs",
     paranormalLayer: "Couche paranormale",
     paranormalClaims: "Ce que l'on affirme ici",
@@ -892,7 +894,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta property="og:image" content="${siteUrl}/assets/hero-mystery-map.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="/styles.css?v=20261026-asia1">
+    <link rel="stylesheet" href="/styles.css?v=20261027-design1">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     ${structuredData}
   </head>
@@ -911,7 +913,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20261026-asia1" defer></script>
+    <script src="/i18n.js?v=20261027-design1" defer></script>
     ${script}
   </body>
 </html>
@@ -948,19 +950,6 @@ function placePage(place, language = "cs") {
               : `<a href="${escapeHtml(item.href)}">${escapeHtml(item.name)}</a>
             <span aria-hidden="true">›</span>`).join("\n            ")}
           </nav>
-          <section class="trust-panel" aria-labelledby="trust-title">
-            <div>
-              <p class="eyebrow">E-E-A-T</p>
-              <h2 id="trust-title">${escapeHtml(tt(language, "trustTitle"))}</h2>
-              <p>${escapeHtml(tt(language, "trustCopy"))}</p>
-            </div>
-            <dl>
-              <div><dt>${escapeHtml(tt(language, "contentType"))}</dt><dd>${escapeHtml(place.kategorie.map((category) => categoryText(language, category)).join(", "))}</dd></div>
-              ${locales[language].onlyTranslated ? "" : `<div><dt>${escapeHtml(tt(language, "themes"))}</dt><dd>${escapeHtml((place.temata || []).join(", "))}</dd></div>`}
-              <div><dt>${escapeHtml(tt(language, "sourceCount"))}</dt><dd>${place.zdroje.length}</dd></div>
-              <div><dt>${escapeHtml(tt(language, "lastBuild"))}</dt><dd>${buildDate}</dd></div>
-            </dl>
-          </section>
           <div class="metric-grid">
             ${metric(tt(language, "mysteryIndex"), `${place.indexTajemna}/100`)}
             ${metric(tt(language, "activity"), placeField(place, "paranormalniAktivita", language))}
@@ -971,13 +960,12 @@ function placePage(place, language = "cs") {
             ${metric(tt(language, "night"), place.nocniVhodnost ? tt(language, "yes") : tt(language, "no"))}
             ${metric(tt(language, "kids"), place.vhodneProDeti ? tt(language, "yes") : tt(language, "notReally"))}
           </div>
-          ${paranormalClaimPanel(place, language)}
+          <section class="detail-section practical-highlight" id="prakticke-info"><h2>${escapeHtml(tt(language, "practical"))}</h2><p>${escapeHtml(placeField(place, "praktickeInfo", language))}</p></section>
           <section class="detail-section" id="zahada"><h2>${escapeHtml(tt(language, "mystery"))}</h2><p>${escapeHtml(placeDescription(place, "zahada", language))}</p></section>
           <section class="detail-section" id="historie"><h2>${escapeHtml(tt(language, "history"))}</h2><p>${escapeHtml(placeDescription(place, "historie", language))}</p></section>
           <section class="detail-section" id="legenda"><h2>${escapeHtml(tt(language, "legend"))}</h2><p>${escapeHtml(placeDescription(place, "legenda", language))}</p></section>
           <section class="detail-section" id="svedectvi"><h2>${escapeHtml(tt(language, "paranormal"))}</h2><p>${escapeHtml(placeDescription(place, "paranormalni", language))}</p></section>
           <section class="detail-section" id="skepticke-vysvetleni"><h2>${escapeHtml(tt(language, "skeptic"))}</h2><p>${escapeHtml(placeDescription(place, "skepticke", language))}</p></section>
-          <section class="detail-section" id="prakticke-info"><h2>${escapeHtml(tt(language, "practical"))}</h2><p>${escapeHtml(placeField(place, "praktickeInfo", language))}</p></section>
           ${storyList(place, language)}
           <section class="detail-section" id="gps">
             <h2>${escapeHtml(tt(language, "gps"))}</h2>
@@ -988,6 +976,18 @@ function placePage(place, language = "cs") {
             <h2>${escapeHtml(tt(language, "sources"))}</h2>
             <p>${escapeHtml(tt(language, "sourceIntro"))}</p>
             <ul>${sourceLinks(place)}</ul>
+          </section>
+          <section class="trust-panel" aria-labelledby="trust-title">
+            <div>
+              <p class="eyebrow">${escapeHtml(ABOUT_EYEBROW[language] || ABOUT_EYEBROW.en)}</p>
+              <h2 id="trust-title">${escapeHtml(tt(language, "trustTitle"))}</h2>
+              <p>${escapeHtml(tt(language, "trustCopy"))}</p>
+            </div>
+            <dl>
+              <div><dt>${escapeHtml(tt(language, "contentType"))}</dt><dd>${escapeHtml(place.kategorie.map((category) => categoryText(language, category)).join(", "))}</dd></div>
+              <div><dt>${escapeHtml(tt(language, "sourceCount"))}</dt><dd>${place.zdroje.length}</dd></div>
+              <div><dt>${escapeHtml(tt(language, "lastBuild"))}</dt><dd>${buildDate}</dd></div>
+            </dl>
           </section>
           ${continueDiscovery(place, language)}
         </section>
@@ -1072,7 +1072,7 @@ function articlePage(article, language = "cs") {
           </nav>
           <section class="trust-panel" aria-labelledby="article-trust-title">
             <div>
-              <p class="eyebrow">E-E-A-T</p>
+              <p class="eyebrow">O článku</p>
               <h2 id="article-trust-title">Redakční průvodce s ověřitelnými zdroji</h2>
               <p>Článek propojuje publikované stránky, autoritativní zdroje a redakční metodiku. Neslouží jako senzacechtivý seznam, ale jako orientační rozcestník pro čtenáře i vyhledávače.</p>
             </div>
@@ -1080,7 +1080,7 @@ function articlePage(article, language = "cs") {
               <div><dt>Téma</dt><dd>${escapeHtml(article.themes.join(", "))}</dd></div>
               <div><dt>Napojená místa</dt><dd>${relatedPlaces.length}</dd></div>
               <div><dt>Zdrojové registry</dt><dd>${relatedSources.length}</dd></div>
-              <div><dt>Poslední build</dt><dd>${buildDate}</dd></div>
+              <div><dt>Aktualizováno</dt><dd>${buildDate}</dd></div>
             </dl>
           </section>
           ${article.sections.map((section) => `
