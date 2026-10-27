@@ -556,6 +556,7 @@
   <url><loc>https://mysterymap.online/cs/mista/basilica-holy-blood-bruges/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/little-mermaid-copenhagen/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/rovaniemi-aurora-fox-fires/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/edinburgh-vaults/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/chateau-de-brissac/</loc></url>
@@ -571,6 +572,7 @@
   <url><loc>https://mysterymap.online/zh/places/highgate-cemetery/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/leap-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hellfire-club-dublin/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/poveglia-island/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/burg-eltz/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/bastei-bridge/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/corvin-castle/</loc></url>
@@ -803,7 +805,10 @@
   <url><loc>https://mysterymap.online/zh/places/markovi-kuli-prilep/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/blagaj-tekija/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/vjetrenica-cave/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hrad-bezdez/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/hradek-kutna-hora/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cite-de-carcassonne/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/prague-astronomical-clock/</loc></url>
@@ -834,6 +839,7 @@
   <url><loc>https://mysterymap.online/zh/places/basilica-holy-blood-bruges/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/little-mermaid-copenhagen/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/rovaniemi-aurora-fox-fires/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/edinburgh-vaults/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/chateau-de-brissac/</loc></url>
@@ -849,6 +855,7 @@
   <url><loc>https://mysterymap.online/ja/places/highgate-cemetery/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/leap-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hellfire-club-dublin/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/poveglia-island/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/burg-eltz/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/bastei-bridge/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/corvin-castle/</loc></url>
@@ -1081,7 +1088,10 @@
   <url><loc>https://mysterymap.online/ja/places/markovi-kuli-prilep/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/blagaj-tekija/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/vjetrenica-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hrad-bezdez/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/hradek-kutna-hora/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cite-de-carcassonne/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/prague-astronomical-clock/</loc></url>
@@ -1112,6 +1122,7 @@
   <url><loc>https://mysterymap.online/ja/places/basilica-holy-blood-bruges/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/little-mermaid-copenhagen/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/rovaniemi-aurora-fox-fires/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hrad-houska/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/tower-of-london/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/edinburgh-vaults/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/chateau-de-brissac/</loc></url>
@@ -1127,6 +1138,7 @@
   <url><loc>https://mysterymap.online/ko/places/highgate-cemetery/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/leap-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hellfire-club-dublin/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/poveglia-island/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/burg-eltz/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/bastei-bridge/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/corvin-castle/</loc></url>
@@ -1359,7 +1371,10 @@
   <url><loc>https://mysterymap.online/ko/places/markovi-kuli-prilep/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/blagaj-tekija/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/vjetrenica-cave/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/blanik/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hrad-bezdez/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/zamek-cesky-krumlov/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/hradek-kutna-hora/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/catacombes-de-paris/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cite-de-carcassonne/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/prague-astronomical-clock/</loc></url>

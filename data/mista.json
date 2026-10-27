@@ -6,7 +6,7 @@
     "nazev": "Hrad Houska",
     "zeme": "Česko",
     "kontinent": "Evropa",
-    "lead": "Byl postaven kvůli obraně, nebo aby zakryl místo, kterého se lidé báli?",
+    "lead": "Gotický hrad u Prahy, který podle pověsti postavili, aby zakryl díru do pekla - kaple prý stojí přímo nad propastí bez dna.",
     "gps": {
       "lat": 50.49037,
       "lon": 14.62492
@@ -24,13 +24,13 @@
     "nocniVhodnost": true,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Houska je známá pověstí o propasti a bráně do pekla. Zajímavá je i poloha hradu mimo hlavní obchodní cesty a mimo klasickou obrannou logiku.",
-      "historie": "Jádro hradu vzniklo ve 13. století a patří k výrazným památkám v oblasti Kokořínska. Historická vrstva je důležitá pro oddělení doložených faktů od pozdějších legend.",
-      "legenda": "Podle pověsti měla kaple stát nad nebezpečnou puklinou. Web tuto linku prezentuje jako legendu, ne jako historicky ověřený fakt.",
-      "paranormalni": "V moderních vyprávěních se objevují kroky, stíny, zvláštní zvuky a tísnivý pocit v okolí kaple.",
-      "skepticke": "Neobvyklou dispozici lze vysvětlovat symbolikou, pozdějšími stavebními úpravami, šířením romantických pověstí a očekáváním návštěvníků."
+      "zahada": "Hrad stojí v lesích Kokořínska mimo obchodní cesty, neměl zdroj vody ani kuchyni a jeho obranné prvky prý míří dovnitř, ne ven. Gotická kaple je vyzdobená freskami s podivnými bytostmi - napůl lidmi, napůl zvířaty.",
+      "historie": "Hrad vznikl ve druhé polovině 13. století za vlády Přemysla Otakara II. Během staletí se měnili majitelé a hrad byl přestavován. Dnes je soukromý a v sezóně otevřený pro veřejnost.",
+      "legenda": "Podle pověsti byla ve skále díra tak hluboká, že nikdo nedohlédl na dno, a v noci z ní vylézaly zrůdy. Odsouzenci na smrt prý nabídli milost, když se dají spustit dolů. První z nich začal po chvíli křičet; když ho vytáhli, měl bílé vlasy, jako by zestárl o třicet let, a za pár dní zemřel. Díru pak zakryli kaplí.",
+      "paranormalni": "Návštěvníci a zaměstnanci popisují kroky, stíny, zvuky zpod podlahy kaple a tísnivý pocit. Podle moderních pověstí na hradě za války působili nacisté a prováděli okultní pokusy.",
+      "skepticke": "Neobvyklou dispozici lze vysvětlit tím, že hrad sloužil spíš jako správní sídlo než pevnost. Pověst o díře do pekla je doložena až z novější doby a pověst o nacistech nemá oporu v pramenech."
     },
-    "praktickeInfo": "Otevírací dobu a vstupné je nutné ověřit před cestou na oficiálním webu. Přístup autem i pěšky, okolí je vhodné pro výlet.",
+    "praktickeInfo": "Houska je asi 50 km severně od Prahy, u obce Blatce na Kokořínsku. Hrad je otevřený v sezóně, prohlídky s průvodcem. Ověřte otevírací dobu. Kombinujte s Bezdězem a skalami Kokořínska.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -57,12 +57,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Kaple nad propastí",
-        "text": "Hlavní příběh Housky stojí na napětí mezi sakrálním prostorem a pověstí o nebezpečné díře v zemi."
+        "nazev": "Muž, který zešedivěl",
+        "text": "Odsouzený muž, kterého spustili do díry, se prý vrátil s bílými vlasy a za pár dní zemřel."
       },
       {
-        "nazev": "Brána, kterou nikdo neměl otevřít",
-        "text": "Legenda dává místu výrazný motiv ďábla a uzavřeného průchodu do jiného světa."
+        "nazev": "Kaple jako pečeť",
+        "text": "Kaple prý byla postavena jako pečeť, která uzavírá bránu do pekla pod hradem."
       }
     ]
   },
