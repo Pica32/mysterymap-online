@@ -28,6 +28,14 @@ budgets.forEach(([relative, maxBytes]) => {
 const legacyPng = fs.statSync(path.join(root, "assets", "hero-mystery-map.png")).size;
 if (legacyPng > 1_000_000) warnings.push("hero PNG fallback is large; keep WebP preload active and use PNG only as social/fallback image.");
 
+// JS a CSS se cachují na rok (immutable), takže všechny odkazy musí nést stejnou verzi,
+// jinak návštěvníci dostanou starý skript k novému HTML.
+["index.html", "misto.html"].forEach((file) => {
+  const html = fs.readFileSync(path.join(root, file), "utf8");
+  const versions = new Set(Array.from(html.matchAll(/(?:src|href)="[^"]+\.(?:js|css)\?v=([^"]+)"/g), (match) => match[1]));
+  if (versions.size > 1) errors.push(`${file}: mixed asset versions ${Array.from(versions).join(", ")}`);
+});
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exit(1);

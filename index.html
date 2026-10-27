@@ -23,7 +23,7 @@
     <meta name="twitter:description" content="Mapa záhad, legend, historie, filmových lokací a praktických výprav.">
     <meta name="theme-color" content="#111713">
     <link rel="preload" href="assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="styles.css?v=20261027-design2">
+    <link rel="stylesheet" href="styles.css?v=20261027-design4">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     <script type="application/ld+json">
       {
@@ -85,22 +85,25 @@
       <section class="control-band" aria-label="Filtry míst">
         <div class="control-row">
           <div class="search-wrap">
-            <label for="search" data-i18n="filters.searchLabel">Hledat místo</label>
+            <label class="visually-hidden" for="search" data-i18n="filters.searchLabel">Hledat místo</label>
             <input id="search" type="search" placeholder="Hrad, ostrov, země, legenda..." autocomplete="off" data-i18n-placeholder="filters.searchPlaceholder">
           </div>
+          <button type="button" class="button secondary filter-toggle" id="filterToggle" aria-expanded="false" aria-controls="filterPanel"><span data-i18n="filters.toggle">Filtry</span><span class="filter-count" id="filterCount" hidden></span></button>
+          <button type="button" class="button secondary filter-reset" data-filter-reset hidden data-i18n="filters.reset">Zrušit filtry</button>
+        </div>
+        <div class="filter-panel" id="filterPanel" hidden>
+          <fieldset class="filters">
+            <legend data-i18n="filters.categories">Kategorie</legend>
+          </fieldset>
+          <fieldset class="filters theme-filters">
+            <legend data-i18n="filters.themes">Motivy</legend>
+          </fieldset>
           <label class="range-wrap" for="mysteryRange">
             <span data-i18n="filters.mysteryIndex">Index tajemna</span>
             <input id="mysteryRange" type="range" min="0" max="100" value="0">
             <strong id="rangeValue">0+</strong>
           </label>
-          <button type="button" class="button secondary filter-reset" data-filter-reset hidden data-i18n="filters.reset">Zrušit filtry</button>
         </div>
-        <fieldset class="filters">
-          <legend data-i18n="filters.categories">Kategorie</legend>
-        </fieldset>
-        <fieldset class="filters theme-filters">
-          <legend data-i18n="filters.themes">Motivy</legend>
-        </fieldset>
       </section>
 
       <section class="stats-band" aria-label="Souhrn databáze">
@@ -221,9 +224,9 @@
       <a href="docs/sources.md">Zdroje dat</a>
     </footer>
 
-    <script src="i18n.js?v=20261027-design2" defer></script>
-    <script src="app.js?v=20260722-map6" defer></script>
-    <script src="engage.js?v=20260529-growth1" defer></script>
+    <script src="i18n.js?v=20261027-design4" defer></script>
+    <script src="app.js?v=20261027-design4" defer></script>
+    <script src="engage.js?v=20261027-design4" defer></script>
     <noscript>Interaktivní mapa, filtry a plán výprav vyžadují zapnutý JavaScript. Statické stránky míst jsou dostupné přes sitemap.xml.</noscript>
   </body>
 </html>

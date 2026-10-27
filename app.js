@@ -6,8 +6,8 @@ const state = {
   query: "",
   minMystery: 0,
   mapMode: "all",
-  mapZoom: 3,
-  mapCenter: { lat: 22, lon: 10 },
+  mapZoom: 4,
+  mapCenter: { lat: 49, lon: 15 },
   mapDrag: null,
   categories: new Set(),
   themes: new Set(),
@@ -111,6 +111,14 @@ function bindCommunityForm() {
 }
 
 function bindEvents() {
+  // Filtry jsou ve výchozím stavu sbalené, aby nezahltily stránku.
+  document.querySelector("#filterToggle")?.addEventListener("click", (event) => {
+    const panel = document.querySelector("#filterPanel");
+    const open = panel.hidden;
+    panel.hidden = !open;
+    event.currentTarget.setAttribute("aria-expanded", String(open));
+  });
+
   els.search.addEventListener("input", (event) => {
     state.query = event.target.value.trim().toLowerCase();
     state.cardLimit = CARD_PAGE_SIZE;
@@ -542,6 +550,11 @@ function updateFilterReset() {
   const button = els.controls?.querySelector("[data-filter-reset]");
   if (!button) return;
   button.hidden = !(state.categories.size || state.themes.size || state.query || state.minMystery > 0);
+  const count = document.querySelector("#filterCount");
+  if (!count) return;
+  const active = state.categories.size + state.themes.size + (state.minMystery > 0 ? 1 : 0);
+  count.textContent = String(active);
+  count.hidden = active === 0;
 }
 
 function mapChromeMarkup(totalCount, shownCount) {
@@ -650,83 +663,25 @@ function renderDetail() {
     return;
   }
 
+  // Panel u mapy je jen rychlý náhled; celý obsah je na vlastní stránce místa.
+  const language = window.MysteryMapI18n?.language || "cs";
+  const lead = localPlace(place, "lead");
+  const practical = language === "cs" ? localPlace(place, "praktickeInfo") : "";
   els.detail.innerHTML = `
     <p class="eyebrow">${t("detail.eyebrow", "Vybrané místo")}</p>
     <h2>${localPlace(place, "nazev")}</h2>
-    <p><strong>${localPlace(place, "zeme")} · ${localPlace(place, "kontinent")}</strong></p>
-    <p><strong>${localPlace(place, "lead")}</strong></p>
+    <p class="detail-country">${localPlace(place, "zeme")}</p>
+    ${lead ? `<p class="detail-lead">${lead}</p>` : ""}
     <div class="metric-grid">
       ${metric(t("metric.mystery", "Index tajemna"), `${place.indexTajemna}/100`)}
-      ${metric(t("metric.activity", "Aktivita"), localPlace(place, "paranormalniAktivita"))}
-      ${metric(t("metric.evidence", "Doloženost"), localPlace(place, "historickaDolozenost"))}
-      ${metric(t("metric.danger", "Nebezpečnost"), localPlace(place, "nebezpecnost"))}
-      ${metric(t("metric.access", "Přístupnost"), localPlace(place, "pristupnost"))}
       ${metric(t("metric.atmosphere", "Atmosféra"), `${place.atmosfera}/5`)}
       ${metric(t("metric.night", "Noční vhodnost"), place.nocniVhodnost ? t("common.yes", "ano") : t("common.no", "ne"))}
       ${metric(t("metric.kids", "Vhodné pro děti"), place.vhodneProDeti ? t("common.yes", "ano") : t("common.notReally", "spíše ne"))}
     </div>
-    ${paranormalClaimPanel(place)}
-    ${detailSection(t("detail.mystery", "Záhada místa"), localDescription(place, "zahada"))}
-    ${detailSection(t("detail.history", "Historie"), localDescription(place, "historie"))}
-    ${detailSection(t("detail.legend", "Legenda"), localDescription(place, "legenda"))}
-    ${detailSection(t("detail.paranormal", "Paranormální svědectví"), localDescription(place, "paranormalni"))}
-    ${detailSection(t("detail.skeptic", "Skeptické vysvětlení"), localDescription(place, "skepticke"))}
-    ${detailSection(t("detail.practical", "Praktické info"), localPlace(place, "praktickeInfo"))}
-    ${storySection(place)}
-    <div class="detail-section">
-      <h3>${t("detail.mapGps", "Mapa a GPS")}</h3>
-      <p>${place.gps.lat.toFixed(5)}, ${place.gps.lon.toFixed(5)}</p>
+    ${practical ? `<div class="detail-section"><h3>${t("detail.practical", "Praktické info")}</h3><p>${practical}</p></div>` : ""}
+    <div class="detail-actions">
+      <a class="button primary" href="${localizedPlacePath(place)}">${t("detail.openPage", "Zobrazit celé místo")}</a>
       <a class="button secondary" target="_blank" rel="noreferrer" href="https://www.google.com/maps?q=${place.gps.lat},${place.gps.lon}">${t("detail.navigate", "Navigovat")}</a>
-      <a class="button primary" href="${localizedPlacePath(place)}">${t("detail.openPage", "Otevřít vlastní stránku")}</a>
-    </div>
-    <div class="detail-section">
-      <h3>${t("detail.sources", "Zdroje")}</h3>
-      <p>${place.zdroje.map((source) => `<a target="_blank" rel="noreferrer" href="${source.url}">${source.nazev}</a>`).join(" · ")}</p>
-    </div>
-    <div class="detail-section">
-      <button class="button primary" type="button" id="checkinButton">Check-in</button>
-      <p id="checkinStatus">${t("checkin.ready", "GPS ověření bude napojeno na POST /api/checkin.")}</p>
-    </div>
-  `;
-
-  document.querySelector("#checkinButton").addEventListener("click", handleCheckin);
-}
-
-function paranormalClaimPanel(place) {
-  return `
-    <div class="paranormal-claims compact-claims">
-      <div>
-        <p class="eyebrow">${t("detail.paranormalLayer", "Paranormální vrstva")}</p>
-        <h3>${t("detail.paranormalClaims", "Co se o místě paranormálně tvrdí")}</h3>
-        <p>${localDescription(place, "paranormalni")}</p>
-      </div>
-      <div class="claim-grid">
-        <article>
-          <strong>${t("detail.legendClaims", "Co se píše v legendách")}</strong>
-          <span>${localDescription(place, "legenda")}</span>
-        </article>
-        <article>
-          <strong>${t("detail.verifyClaims", "Jak to ověřujeme")}</strong>
-          <span>${localDescription(place, "skepticke")}</span>
-        </article>
-      </div>
-    </div>
-  `;
-}
-
-function storySection(place) {
-  if (!place.pribehy?.length) return "";
-  return `
-    <div class="detail-section">
-      <h3>${t("detail.storyHooks", "Příběhy a motivy")}</h3>
-      <div class="compact-list">
-        ${place.pribehy.map((story) => `
-          <div class="compact-link">
-            <strong>${story.nazev}</strong>
-            <span>${story.text}</span>
-          </div>
-        `).join("")}
-      </div>
     </div>
   `;
 }
@@ -1041,30 +996,8 @@ function endMapDrag(event) {
   render();
 }
 
-function handleCheckin() {
-  const status = document.querySelector("#checkinStatus");
-  if (!navigator.geolocation) {
-    status.textContent = t("checkin.unsupported", "Prohlížeč nepodporuje GPS. Použije se foto fallback.");
-    return;
-  }
-  status.textContent = t("checkin.waiting", "Čekám na polohu...");
-  navigator.geolocation.getCurrentPosition(
-    () => {
-      status.textContent = t("checkin.success", "Poloha načtena. V produkci se odešle spolu s fotkou na POST /api/checkin.");
-    },
-    () => {
-      status.textContent = t("checkin.failed", "GPS se nepodařilo načíst. V produkci nabídneme ruční ověření fotkou.");
-    },
-    { enableHighAccuracy: true, timeout: 8000 }
-  );
-}
-
 function metric(label, value) {
   return `<div class="metric"><span>${label}</span><strong>${value}</strong></div>`;
-}
-
-function detailSection(title, text) {
-  return `<div class="detail-section"><h3>${title}</h3><p>${text}</p></div>`;
 }
 
 function projectLon(lon) {

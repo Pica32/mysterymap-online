@@ -908,7 +908,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
     <meta property="og:image" content="${siteUrl}/assets/hero-mystery-map.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="preload" href="/assets/hero-mystery-map-1600.webp" as="image" type="image/webp">
-    <link rel="stylesheet" href="/styles.css?v=20261027-design2">
+    <link rel="stylesheet" href="/styles.css?v=20261027-design4">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944037956815415" crossorigin="anonymous"></script>
     ${structuredData}
   </head>
@@ -927,7 +927,7 @@ function pageShell({ title, description, body, script = "", canonical = "/", str
       </label>
     </header>
     ${body}
-    <script src="/i18n.js?v=20261027-design2" defer></script>
+    <script src="/i18n.js?v=20261027-design4" defer></script>
     ${script}
   </body>
 </html>

@@ -603,9 +603,39 @@ input[type="search"] {
 
 .control-row {
   display: grid;
-  grid-template-columns: minmax(240px, 1.6fr) minmax(200px, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 10px;
+  align-items: center;
+}
+
+.control-band input[type="search"] {
+  min-height: 48px;
+}
+
+.filter-toggle {
+  gap: 8px;
+}
+
+.filter-count {
+  display: inline-grid;
+  place-items: center;
+  min-width: 22px;
+  height: 22px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #17130a;
+  font-size: 0.8rem;
+}
+
+.filter-panel {
+  display: grid;
   gap: 18px;
-  align-items: end;
+  padding-top: 6px;
+}
+
+.filter-panel .range-wrap {
+  max-width: 420px;
 }
 
 .range-wrap {
@@ -1486,7 +1516,11 @@ input[type="range"] {
   }
 
   .control-row {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr auto;
+  }
+
+  .control-row .filter-reset {
+    grid-column: 1 / -1;
   }
 
   .hero {
@@ -1691,4 +1725,26 @@ input[type="range"] {
 
 .detail-hero h1 {
   max-width: 20ch;
+}
+
+
+.detail-country {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.detail-lead {
+  line-height: 1.6;
+}
+
+.detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.detail-panel h2 {
+  font-size: clamp(1.6rem, 2.6vw, 2.3rem);
 }
