@@ -22805,7 +22805,7 @@
     "nazev": "Prora",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Obří nacistický rekreační komplex na Rujaně, kde měřítko propagandy zůstalo zapsané do pobřežní architektury.",
+    "lead": "Čtyři a půl kilometru dlouhý nacistický rekreační kolos na Rujáně, kde měly dovolenkovat desítky tisíc dělníků - nikdy neviděl jediného rekreanta.",
     "gps": {
       "lat": 54.437,
       "lon": 13.574
@@ -22818,21 +22818,21 @@
       "politika"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, muzeum placené",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Prora je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Obri nacisticky rekreacni komplex na Rujane, kde meritko propagandy zustalo zapsane do pobrezni architektury. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Podél pláže se táhne šest stejných šestipatrových bloků. Monotónní řada budov působí jako zastavená vize masové turistiky totalitního státu.",
+      "historie": "Komplex začal stavět nacistický program Kraft durch Freude (Síla skrze radost) v roce 1936. Měl nabídnout tisíce lůžek s výhledem na moře. Válka stavbu zastavila. Po válce areál využívala východoněmecká armáda. Dnes jsou části přestavěné na byty, hotely a ubytovnu mládeže.",
+      "legenda": "Místní vyprávějí o prázdných chodbách a přízračných rekreantech, kteří nikdy nepřijeli.",
+      "paranormalni": "Prázdné bloky za šera vytvářejí silnou atmosféru opuštění. Doložené jevy chybí.",
+      "skepticke": "Atmosféra vychází z architektury a historie, ne z paranormálních jevů."
     },
-    "praktickeInfo": "Pred navstevou Prora over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Prora je na ostrově Rujána u Binzu, asi 3 hodiny autem z Berlína. Dokumentační centrum ukazuje historii areálu. Pláž je volně přístupná. Nejlépe se to dá spojit s křídovými útesy v NP Jasmund.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -22854,12 +22854,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Prora rozsiruje mapu o motivy valka, politika a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Dovolená, která nikdy nebyla",
+        "text": "Komplex postavený pro dovolenou dělníků nikdy nepřivítal ani jednoho rekreanta."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Kasárna místo hotelu",
+        "text": "Po válce areál obsadila armáda a místo turistů tu bydleli vojáci."
       }
     ]
   },
@@ -23090,10 +23090,10 @@
       "fr": "branitz-pyramids"
     },
     "detailPath": "/mista/branitz-pyramids/",
-    "nazev": "Branitz Pyramids",
+    "nazev": "Pyramidy v Branitz",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Parkové pyramidy v Branitz, neobvyklé evropské pohřební místo s egyptizující symbolikou.",
+    "lead": "Zemní pyramidy v parku knížete Pücklera u Chotěbuzi - jedna stojí uprostřed jezera a skrývá hrob výstředního cestovatele a zahradního umělce.",
     "gps": {
       "lat": 51.743,
       "lon": 14.367
@@ -23106,21 +23106,21 @@
       "mytologie"
     ],
     "indexTajemna": 73,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "velmi dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "park zdarma, zámek placený",
+    "atmosfera": 4.4,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Branitz Pyramids je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Parkove pyramidy v Branitz, neobvykle evropske sepulkralni misto s egyptizujici symbolikou. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "V krajinářském parku stojí dvě zemní pyramidy. Jezerní pyramida (Tumulus) vystupuje z vody, zemní pyramida má vyhlídkovou plošinu. Severoevropský park s egyptskými tvary působí neobvykle.",
+      "historie": "Kníže Hermann von Pückler-Muskau byl cestovatel, spisovatel a zahradní architekt, který procestoval Egypt a Blízký východ. Park v Branitz budoval od 50. let 19. století. Po smrti v roce 1871 byl pohřben v jezerní pyramidě, kam byly později uloženy i ostatky jeho manželky Lucie.",
+      "legenda": "Vypráví se, že si Pückler přál, aby jeho tělo bylo v rakvi rozpuštěno chemikáliemi a nic z něj nezůstalo. Pověsti o egyptských rituálech jsou spíše fantazií.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Zvláštní je kontrast mezi parkem a egyptskou symbolikou.",
+      "skepticke": "Pyramidy jsou romantický prvek krajinářského parku 19. století, ne tajemné stavby. Pověsti o rituálech nejsou doložené."
     },
-    "praktickeInfo": "Pred navstevou Branitz Pyramids over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Park Branitz je na okraji Chotěbuzi (Cottbus), asi 1,5 hodiny autem z Berlína a 2,5 hodiny z Prahy. Park je volně přístupný, zámek a muzeum jsou placené. Na jezerní pyramidu se nevstupuje.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -23142,12 +23142,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Branitz Pyramids rozsiruje mapu o motivy umrti, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Hrob v jezeře",
+        "text": "Kníže Pückler odpočívá v pyramidě, která vystupuje přímo z vody."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Egypt v Lužici",
+        "text": "Cestovatel si z Egypta přivezl inspiraci pro pyramidy uprostřed německého parku."
       }
     ]
   },
@@ -23594,10 +23594,10 @@
       "fr": "sphinx-observatory"
     },
     "detailPath": "/mista/sphinx-observatory/",
-    "nazev": "Sphinx Observatory",
+    "nazev": "Observatoř Sphinx (Jungfraujoch)",
     "zeme": "Švýcarsko",
     "kontinent": "Evropa",
-    "lead": "Vysokohorská observatoř na Jungfraujochu, kde vědecký objekt působí jako stanice na hranici světa.",
+    "lead": "Vědecká observatoř na skále ve výšce 3 571 metrů nad Aletschským ledovcem - nejvyšší vyhlídka „Top of Europe“, kam vede železnice tunelem skrz Eiger.",
     "gps": {
       "lat": 46.5475,
       "lon": 7.985
@@ -23610,21 +23610,21 @@
       "prirodni-anomalie"
     ],
     "indexTajemna": 76,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "žádná",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "střední",
+    "pristupnost": "placený vstup, vlak",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Sphinx Observatory je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Vysokohorska observator na Jungfraujoch, kde vedecky objekt pusobi jako stanice na hranici sveta. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Observatoř stojí na skalním vrcholu jako stanice na hranici světa. Z vyhlídkové terasy je vidět Aletschský ledovec, nejdelší v Alpách. Vzduch je řídký a počasí se mění během minut.",
+      "historie": "Železnice Jungfraubahn byla dokončena v roce 1912 a vede tunelem skrz Eiger a Mönch. Observatoř Sphinx byla otevřena v roce 1937 a dodnes slouží výzkumu atmosféry a klimatu.",
+      "legenda": "Horské pověsti vyprávějí o duchu, který straží ledovec, a o lidech, kteří se v mlze ztratili. Severní stěna Eigeru je známá jako jedna z nejnebezpečnějších horolezeckých stěn.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Výška může způsobit závratě a únavu.",
+      "skepticke": "Výšková nemoc a rychle se měnící počasí jsou skutečná rizika, nikoli záhady."
     },
-    "praktickeInfo": "Pred navstevou Sphinx Observatory over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Na Jungfraujoch jezdí vlak z Interlakenu přes Grindelwald nebo Lauterbrunnen a Kleine Scheidegg. Cesta trvá asi 2 hodiny a jízdenka je drahá. Vezměte teplé oblečení, sluneční brýle a pohybujte se pomalu kvůli výšce. Zkontrolujte předem počasí - v mlze není nic vidět.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -23646,12 +23646,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Sphinx Observatory rozsiruje mapu o motivy kosmicka-anomalie, prirodni-anomalie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Vlak skrz Eiger",
+        "text": "Železnice vede tunelem uvnitř hory Eiger a zastavuje u oken ve skalní stěně."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Laboratoř v oblacích",
+        "text": "Vědci tu desítky let měří změny atmosféry a klimatu."
       }
     ]
   },
@@ -25901,7 +25901,7 @@
     "nazev": "Wistman's Wood",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Prastarý dubový les na Dartmooru, kde pokroucené stromy a mlha vytvářejí silnou folklorní atmosféru.",
+    "lead": "Prastarý zakrslý dubový les na Dartmooru, kde zkroucené stromy rostou mezi balvany pokrytými mechem - a podle pověsti tudy štve ďábel své přízračné psy.",
     "gps": {
       "lat": 50.578,
       "lon": -3.961
@@ -25914,21 +25914,21 @@
       "mytologie"
     ],
     "indexTajemna": 77,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "dobrá",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné",
+    "atmosfera": 4.8,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Wistman's Wood je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Prastary dubovy les na Dartmooru, kde pokroucene stromy a mlha vytvareji silnou folklorni atmosferu. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Duby jsou nízké a pokroucené, jejich větve visí mechem a lišejníky. Rostou mezi žulovými balvany ve výšce kolem 400 metrů na holém vřesovišti. Les působí, jako by se v něm zastavil čas.",
+      "historie": "Jde o pozůstatek lesa, který kdysi pokrýval část Dartmooru. Vzácné mechy a lišejníky z něj dělají chráněnou přírodní rezervaci. V 18. století romantici tvrdili, že jde o posvátný háj druidů.",
+      "legenda": "Podle pověsti vyrážejí z lesa wisht hounds - přízrační černí psi, které vede ďábel na divokém honu přes vřesoviště. Kdo je potká, prý do roka zemře. Mezi balvany se údajně plazí neobvykle mnoho zmijí.",
+      "paranormalni": "Návštěvníci popisují náhlou mlhu, ticho a pocit, že je někdo sleduje. Les se objevuje v mnoha knihách o strašidelné Anglii.",
+      "skepticke": "Spojení s druidy nemá archeologický podklad. Atmosféru vytváří mlha, zkroucené stromy a izolace vřesoviště."
     },
-    "praktickeInfo": "Pred navstevou Wistman's Wood over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Les je asi 2,5 km od parkoviště Two Bridges na Dartmooru, cesta trvá asi 40 minut po kamenité stezce. Nelezte po balvanech - poškozujete vzácné mechy. Počasí na Dartmooru se rychle mění, vezměte mapu a nepromokavé oblečení.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -25950,12 +25950,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Wistman's Wood rozsiruje mapu o motivy duchove, mytologie a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Divoký hon",
+        "text": "Ďábel prý z lesa vyráží se smečkou přízračných psů a štve je přes Dartmoor."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Háj druidů",
+        "text": "Romantici v 18. století tu viděli posvátný háj druidů - archeologie to nepotvrzuje."
       }
     ]
   },
@@ -25970,10 +25970,10 @@
       "fr": "dartmoor-prison"
     },
     "detailPath": "/mista/dartmoor-prison/",
-    "nazev": "Dartmoor Prison",
+    "nazev": "Věznice Dartmoor",
     "zeme": "Spojené království",
     "kontinent": "Evropa",
-    "lead": "Věznice v drsné krajině Dartmooru, kde izolace a mlha přidávají místu temný psychologický profil.",
+    "lead": "Žulová věznice v mlhou zahaleném Princetownu, postavená pro francouzské zajatce Napoleonových válek - s krvavým incidentem z roku 1815 a pověstí o duchách vězňů.",
     "gps": {
       "lat": 50.548,
       "lon": -3.995
@@ -25986,21 +25986,21 @@
       "duchove"
     ],
     "indexTajemna": 78,
-    "paranormalniAktivita": "kulturní, historická nebo místní tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "silné pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "jen muzeum",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Dartmoor Prison je dalsi vlastni seed MysteryMap s overitelnou polohou a jasnou verejnou asociaci: Veznice v drsne krajine Dartmooru, kde izolace a mlha pridavaji mistu temny psychologicky profil. Profil je pripraveny pro dalsi lokalni zdroje, fotky a jazykove rozsireni.",
-      "historie": "Historicka vrstva zatim drzi stabilni identitu mista, jeho geografii a dohledatelny kontext. Cilem je mit mnoho samostatnych stranek, ktere lze postupne prohlubovat bez kopirovani cizi databaze.",
-      "legenda": "Legendova vrstva popisuje, proc se misto vypravi: ruina, posvatny prostor, zanikle mesto, katakomba, opticka iluze, UFO pribeh, filmovy obraz nebo prirodni anomalie.",
-      "paranormalni": "Paranormalni vrstva je viditelne oddelena jako tvrzeni, folklor nebo popularni interpretace. Muze jit o zjeveni, zvuky, svetla, prokleti, pocit sledovani, zmizeni nebo posvatnou auru.",
-      "skepticke": "Skepticky ramec hleda geologii, historii, psychologii, architekturu, medialni opakovani a cestovatelsky marketing. Tim profil zustava citelny pro lidi, Google i LLM vyhledavani."
+      "zahada": "Věznice stojí v jednom z nejvýše položených a nejmlžnějších míst Anglie. Šedé žulové budovy uprostřed vřesoviště vytvářejí pochmurný obraz izolace, který inspiroval i Arthura Conana Doyla.",
+      "historie": "Věznice byla postavena v letech 1806-1809 pro francouzské válečné zajatce, později v ní byli i Američané z války roku 1812. V dubnu 1815 stráže střílely do amerických zajatců a několik jich zabily. Od roku 1850 sloužila jako trestnice. V roce 2024 byla kvůli zvýšené hladině radonu vyklizena.",
+      "legenda": "Vypráví se o duších francouzských a amerických zajatců, které je vidět v mlze kolem zdí. Na hřbitově zajatců u věznice prý v noci zní kroky.",
+      "paranormalni": "Návštěvníci muzea a bývalí zaměstnanci popisují zvuky a stíny. Princetown je oblíbený cíl duchařských prohlídek.",
+      "skepticke": "Mlha, izolace a smutná historie místa přirozeně podporují duchařské příběhy. Doložené jevy chybí."
     },
-    "praktickeInfo": "Pred navstevou Dartmoor Prison over aktualni pristup, mistni pravidla, vlastnictvi pozemku, bezpecnost a ochranu pamatky. GPS je orientacni bod, ne povoleni vstupu.",
+    "praktickeInfo": "Princetown je uprostřed Dartmooru, asi 40 minut autem z Plymouthu. Věznici samotnou navštívit nelze, ale Dartmoor Prison Museum v Princetownu ukazuje její historii. V Princetownu je i informační centrum národního parku.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -26022,12 +26022,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Proc je v pate vlne",
-        "text": "Dartmoor Prison rozsiruje mapu o motivy veznice, duchove a pomaha vytvaret hustsi globalni katalog mist, ktera lze dale overovat a propojovat."
+        "nazev": "Zajatci z dvou válek",
+        "text": "V jedné věznici byli zavřeni francouzští vojáci Napoleona i američtí námořníci z války roku 1812."
       },
       {
-        "nazev": "Co doplnit pozdeji",
-        "text": "Dalsi redakcni krok ma pridat lokalni zdroje, presne navstevnicke informace, kvalitni licencovane fotografie a lepsi texty pro konkretni jazykove publikum."
+        "nazev": "Sherlock v mlze",
+        "text": "Ponurá krajina kolem věznice inspirovala Arthura Conana Doyla v Psu baskervillském."
       }
     ]
   },
@@ -60411,10 +60411,10 @@
       "fr": "ouvrage-hackenberg"
     },
     "detailPath": "/mista/ouvrage-hackenberg/",
-    "nazev": "Ouvrage Hackenberg",
+    "nazev": "Pevnost Hackenberg (Maginotova linie)",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Obří pevnost Maginotovy linie, podzemní vlak, kasárny a dělostřelectvo jako město ukryté v kopci.",
+    "lead": "Největší pevnost Maginotovy linie - podzemní město s kilometry chodeb, elektrickým vláčkem a kasárnami pro více než tisíc vojáků ukryté v kopci v Lotrinsku.",
     "gps": {
       "lat": 49.385,
       "lon": 6.347
@@ -60427,21 +60427,21 @@
       "valka"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup s průvodcem",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Ouvrage Hackenberg rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Obri pevnost Maginotovy linie, podzemni vlak, kasarny a delostrelectvo jako mesto ukryte v kopci.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Pod kopcem vede asi 10 km chodeb, které spojují bojové bloky, elektrárnu, kuchyně, nemocnici a muniční sklady. Po hlavní chodbě jezdí elektrický vláček.",
+      "historie": "Pevnost byla postavena v letech 1929-1935 jako součást francouzské Maginotovy linie. V roce 1940 ji Němci obešli přes Belgii, a tak skutečnému útoku nečelila. V listopadu 1944 o ni bojovaly americké jednotky s Němci, kteří ji drželi.",
+      "legenda": "Místní vyprávějí o zapomenutých chodbách a o vojácích, kteří v pevnosti zůstali. Pevnost je symbolem hesla „neprojdou“, které se nikdy nenaplnilo.",
+      "paranormalni": "Návštěvníci popisují v dlouhých tichých chodbách pocit tísně. Doložené jevy nejsou.",
+      "skepticke": "Maginotova linie nebyla prolomena, ale obejita - pevnost tedy fungovala technicky, selhala strategie."
     },
-    "praktickeInfo": "Pred navstevou Ouvrage Hackenberg over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Hackenberg je u vesnice Veckring, asi 30 km severně od Met. Prohlídky pořádá místní spolek, trvají asi 2 hodiny a zahrnují jízdu vláčkem. Uvnitř je kolem 12 °C. Termíny prohlídek ověřte předem.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -60463,12 +60463,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Ouvrage Hackenberg pridava motivy podzemi, valka a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Vláček v kopci",
+        "text": "Po hlavní chodbě dlouhé několik kilometrů jezdí dodnes elektrický vláček."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Pevnost, kterou obešli",
+        "text": "Němci v roce 1940 pevnost obešli přes Belgii, a tak nikdy nečelila útoku, pro který byla postavena."
       }
     ]
   },
@@ -60699,10 +60699,10 @@
       "fr": "fort-vaux"
     },
     "detailPath": "/mista/fort-vaux/",
-    "nazev": "Fort Vaux",
+    "nazev": "Pevnost Vaux",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Menší pevnost u Verdunu, kde tunely, žízeň a obléhání vytvořily komorní obraz válečné krajnosti.",
+    "lead": "Malá pevnost u Verdunu, kde se v červnu 1916 posádka bránila týden v podzemí bez vody - a poslední zprávu odnesl poštovní holub Vaillant.",
     "gps": {
       "lat": 49.201,
       "lon": 5.466
@@ -60715,21 +60715,21 @@
       "umrti"
     ],
     "indexTajemna": 79,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Fort Vaux rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Mensi pevnost u Verdunu, kde tunely, zizen a oblehani vytvorily komorni obraz valecne krajnosti.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "V úzkých chodbách pevnosti se v červnu 1916 bojovalo granáty a plamenomety. Na stěnách zůstaly stopy po boji a pamětní desky.",
+      "historie": "Od 1. do 7. června 1916 bránil major Sylvain-Eugène Raynal pevnost proti německému útoku. Posádka bojovala v chodbách a nakonec se vzdala kvůli žízni. Poslední zprávu do Verdunu odnesl holub Vaillant, který po přeletu přes plyn zemřel. Raynal byl za obranu oceněn i nepřítelem - německý korunní princ mu prý jako projev úcty daroval šavli.",
+      "legenda": "Vypráví se, že v chodbách je slyšet kroky a hlasy vojáků. Holub Vaillant se stal symbolem Verdunu.",
+      "paranormalni": "Návštěvníci popisují v nejhlubších částech pevnosti chlad a tíseň.",
+      "skepticke": "Chlad je dán betonovým podzemím. Pocity odpovídají znalosti tragického boje."
     },
-    "praktickeInfo": "Pred navstevou Fort Vaux over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Pevnost Vaux leží asi 10 km severovýchodně od Verdunu, kousek od pevnosti Douaumont. Prohlídka trvá asi hodinu. Kombinujte s Douaumontem, kostnicí a Mémorial de Verdun.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -60751,12 +60751,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Fort Vaux pridava motivy valka, umrti a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Poslední holub",
+        "text": "Holub Vaillant odnesl poslední zprávu z obklíčené pevnosti a po přeletu přes plyn zemřel."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Kapitulace z žízně",
+        "text": "Posádka bojovala v chodbách celý týden a vzdala se, až když jí úplně došla pitná voda."
       }
     ]
   },
@@ -60771,10 +60771,10 @@
       "fr": "vauquois-mine-craters"
     },
     "detailPath": "/mista/vauquois-mine-craters/",
-    "nazev": "Vauquois Mine Craters",
+    "nazev": "Krátery u Vauquois",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Kopec roztrhaný minovou válkou, kde podzemní exploze přepsaly vesnici i reliéf.",
+    "lead": "Kopec v Argonnách, pod nímž Francouzi a Němci tři roky hloubili tunely a odpálili stovky min - vesnice zmizela a zůstala jen řada obřích kráterů.",
     "gps": {
       "lat": 49.204,
       "lon": 5.069
@@ -60787,21 +60787,21 @@
       "valka"
     ],
     "indexTajemna": 80,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "volně přístupné, tunely občas",
+    "atmosfera": 4.6,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Vauquois Mine Craters rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Kopec roztrhany minovou valkou, kde podzemni exploze prepsaly vesnici i relief.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Hřeben kopce je rozdělen řadou obrovských kráterů, které oddělovaly francouzské a německé linie. Pod zemí vedou kilometry chodeb, kde se bojovalo dynamitem.",
+      "historie": "V letech 1915-1918 zde probíhala minová válka. Obě strany odpálily přes 500 min. V květnu 1916 německá mina zabila 108 francouzských vojáků. Vesnice Vauquois byla zcela zničena a nikdy nebyla obnovena na původním místě.",
+      "legenda": "Místní vyprávějí o vojácích, kteří zůstali pohřbeni v tunelech a jejichž ostatky nebyly nikdy nalezeny.",
+      "paranormalni": "Návštěvníci popisují tíživou atmosféru nad krátery a v tunelech. Doložené jevy nejsou.",
+      "skepticke": "Tíseň vyvolává skutečná tragédie a představa tisíců mužů pod zemí."
     },
-    "praktickeInfo": "Pred navstevou Vauquois Mine Craters over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Vauquois je asi 25 km severozápadně od Verdunu. Krátery jsou volně přístupné. Tunely zpřístupňuje spolek Les Amis de Vauquois obvykle první neděli v měsíci. Vezměte pevnou obuv a nepohybujte se mimo cesty.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -60823,12 +60823,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Vauquois Mine Craters pridava motivy podzemi, valka a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Vesnice, která zmizela",
+        "text": "Pod kopcem bylo odpáleno tolik min, že z vesnice nezůstal ani kámen."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Válka pod zemí",
+        "text": "Vojáci kopali tunely tak blízko nepříteli, že slyšeli jeho krumpáče."
       }
     ]
   },
@@ -60843,10 +60843,10 @@
       "fr": "la-coupole-bunker"
     },
     "detailPath": "/mista/la-coupole-bunker/",
-    "nazev": "La Coupole Bunker",
+    "nazev": "La Coupole",
     "zeme": "Francie",
     "kontinent": "Evropa",
-    "lead": "Obří nacistický bunkr pro rakety V2, temná technologická krajina mezi okupací a kosmickým věkem.",
+    "lead": "Obří betonová kupole u Saint-Omer, odkud chtěli nacisté odpalovat rakety V-2 na Londýn - nikdy nebyla dokončena a dnes je v ní muzeum a planetárium.",
     "gps": {
       "lat": 50.706,
       "lon": 2.243
@@ -60859,21 +60859,21 @@
       "valka"
     ],
     "indexTajemna": 81,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "placený vstup",
+    "atmosfera": 4.5,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "La Coupole Bunker rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Obri nacisticky bunkr pro rakety V2, temna technologicka krajina mezi okupaci a kosmickym vekem.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Kupole má průměr 71 metrů a silnou betonovou vrstvu. Pod ní jsou tunely a sály, kde se měly připravovat rakety V-2 k odpalu.",
+      "historie": "Nacisté začali bunkr stavět v roce 1943 s pomocí nucených pracovníků. Spojenecké bombardování stavbu poškodilo, takže nikdy nebyla dokončena a rakety odsud nevzlétly. Dnes je v La Coupole muzeum o válce, raketách a dobývání vesmíru, včetně planetária.",
+      "legenda": "Místní vyprávějí o tajných chodbách, které vedou dál, než ukazuje muzeum. Spekulace o ukrytých raketách nejsou podložené.",
+      "paranormalni": "Paranormální jevy nejsou hlášeny. Silný je kontrast mezi válkou a pozdějším vesmírným programem.",
+      "skepticke": "Muzeum ukazuje i nucenou práci a souvislost s pozdějším vesmírným výzkumem bez mýtů."
     },
-    "praktickeInfo": "Pred navstevou La Coupole Bunker over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "La Coupole je u Helfautu, asi 5 km od Saint-Omer a hodinu autem z Calais. Prohlídka trvá 2-3 hodiny. Kombinujte s Blockhaus d'Éperlecques nedaleko.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -60895,12 +60895,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "La Coupole Bunker pridava motivy technologie, valka a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Kupole, která neodpálila",
+        "text": "Spojenecké nálety bunkr poškodily tak, že z něj nikdy nevzlétla ani jedna raketa."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Od války ke hvězdám",
+        "text": "Muzeum ukazuje, jak raketová technika nacistů vedla k pozdějším vesmírným letům."
       }
     ]
   },
@@ -61059,10 +61059,10 @@
       "fr": "bunker-valentin"
     },
     "detailPath": "/mista/bunker-valentin/",
-    "nazev": "Bunker Valentin",
+    "nazev": "Bunkr Valentin",
     "zeme": "Německo",
     "kontinent": "Evropa",
-    "lead": "Nedokončená ponorková továrna u Brém, masivní betonový doklad nucené práce a pozdní válečné logistiky.",
+    "lead": "Obří nedokončený bunkr na montáž ponorek u Brém, který stavěly tisíce nuceně nasazených - dnes památník jejich utrpení.",
     "gps": {
       "lat": 53.221,
       "lon": 8.505
@@ -61075,21 +61075,21 @@
       "technologie"
     ],
     "indexTajemna": 82,
-    "paranormalniAktivita": "kulturní, mediální nebo historická tvrzení",
-    "historickaDolozenost": "ověřitelná základní identita",
-    "nebezpecnost": "ověřit na místě",
-    "pristupnost": "ověřit před cestou",
-    "atmosfera": 4,
+    "paranormalniAktivita": "místní pověsti",
+    "historickaDolozenost": "vynikající",
+    "nebezpecnost": "nízká",
+    "pristupnost": "zdarma",
+    "atmosfera": 4.7,
     "nocniVhodnost": false,
     "vhodneProDeti": true,
     "popisy": {
-      "zahada": "Bunker Valentin rozsiruje ctrnactou vlnu MysteryMap jako overitelny bod s GPS, tematem a vlastnim redakcnim seedem: Nedokoncena ponorkova tovarna u Brem, masivni betonovy doklad nucene prace a pozdni valecne logistiky.",
-      "historie": "Historicka vrstva popisuje zakladni identitu mista a slouzi jako podklad pro pozdejsi lokalni overeni. Profil ma stabilni URL, zdroje a strukturu pro dalsi praci.",
-      "legenda": "Legendova vrstva ukazuje, proc se misto dostava do mapy: podzemni infrastruktura, pohranicni pevnost, opusteny dul, praveka krajina, ritual nebo zanikla komunita.",
-      "paranormalni": "Zahadova tvrzeni jsou uvedena jako folklor, svedectvi, popkulturni asociace nebo medialni vrstva. Nejsou michana s overenou historii a praktickymi informacemi.",
-      "skepticke": "Skepticky ramec hleda prirodni, archeologicka, historicka, psychologicka a medialni vysvetleni. To udrzuje obsah pouzitelny pro ctenare i vyhledavace."
+      "zahada": "Betonová hala na břehu Vesery je dlouhá přes 400 metrů. Strop je silný až 7 metrů. Uvnitř je obrovský prázdný prostor, který měl sloužit jako montážní linka pro ponorky.",
+      "historie": "Stavba začala v roce 1943. Pracovalo na ní na 10 000 nuceně nasazených, válečných zajatců a vězňů koncentračních táborů. Při stavbě zemřelo podle odhadů přes tisíc lidí. Bunkr nebyl nikdy dokončen. V roce 2015 zde byl otevřen památník.",
+      "legenda": "Místní vyprávějí o pohřbených dělnících v betonu. Žádné nálezy to nepotvrzují, ale smrt při stavbě je doložená.",
+      "paranormalni": "Návštěvníci popisují v obrovské hale tíživé ticho.",
+      "skepticke": "Památník se drží historických faktů - utrpení nuceně nasazených je dostatečně doložené."
     },
-    "praktickeInfo": "Pred navstevou Bunker Valentin over aktualni pristup, povoleni, bezpecnost, mistni pravidla a ochranu pamatky. GPS je orientacni.",
+    "praktickeInfo": "Bunkr je v Bremen-Farge, asi 40 minut autem nebo vlakem z centra Brém. Vstup je zdarma, k dispozici je audio průvodce. Prohlídka trvá 1-2 hodiny.",
     "obrazky": [],
     "audio": [],
     "zdroje": [
@@ -61111,12 +61111,12 @@
     ],
     "pribehy": [
       {
-        "nazev": "Duvod zarazeni",
-        "text": "Bunker Valentin pridava motivy valka, technologie a vytvari dalsi samostatnou vstupni stranku pro mapu, sitemap, hledani a tematicke prolinkovani."
+        "nazev": "Továrna, která nevyrobila nic",
+        "text": "Bunkr měl vyrábět ponorky, ale nikdy nebyl dokončen."
       },
       {
-        "nazev": "Dalsi prace",
-        "text": "Seed je pripraveny na lokalni zdroje, licencovane fotografie, puvodni nazvy, presnejsi navstevnicka pravidla a kvalitni preklady do vsech jazykovych verzi."
+        "nazev": "Tisíce rukou",
+        "text": "Na stavbě pracovalo kolem deseti tisíc lidí z celé Evropy."
       }
     ]
   },

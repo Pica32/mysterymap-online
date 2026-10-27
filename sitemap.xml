@@ -158,14 +158,17 @@
   <url><loc>https://mysterymap.online/cs/mista/wewelsburg-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/prora/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hohenzollern-castle/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/branitz-pyramids/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/carnuntum/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/eisriesenwelt/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/burg-kreuzenstein/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/chateau-de-gruyeres/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/sphinx-observatory/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/val-camonica-rock-drawings/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/cerveteri-necropolis/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/tarquinia-necropolis/</loc></url>
@@ -194,6 +197,8 @@
   <url><loc>https://mysterymap.online/cs/mista/salona/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/fort-lovrijenac/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/puzzlewood/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/wistman-s-wood/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/dartmoor-prison/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/bodmin-moor/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/men-an-tol/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/st-michael-s-mount/</loc></url>
@@ -384,7 +389,12 @@
   <url><loc>https://mysterymap.online/cs/mista/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/ouvrage-hackenberg/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/fort-vaux/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/vauquois-mine-craters/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/la-coupole-bunker/</loc></url>
+  <url><loc>https://mysterymap.online/cs/mista/bunker-valentin/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/cs/mista/kaunas-ninth-fort/</loc></url>
@@ -526,14 +536,17 @@
   <url><loc>https://mysterymap.online/zh/places/wewelsburg-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/prora/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hohenzollern-castle/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/branitz-pyramids/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/carnuntum/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/eisriesenwelt/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/burg-kreuzenstein/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/chateau-de-gruyeres/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/sphinx-observatory/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/val-camonica-rock-drawings/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/cerveteri-necropolis/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/tarquinia-necropolis/</loc></url>
@@ -562,6 +575,8 @@
   <url><loc>https://mysterymap.online/zh/places/salona/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/fort-lovrijenac/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/puzzlewood/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/wistman-s-wood/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/dartmoor-prison/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/bodmin-moor/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/men-an-tol/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/st-michael-s-mount/</loc></url>
@@ -585,7 +600,12 @@
   <url><loc>https://mysterymap.online/zh/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/ouvrage-hackenberg/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/fort-vaux/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/vauquois-mine-craters/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/la-coupole-bunker/</loc></url>
+  <url><loc>https://mysterymap.online/zh/places/bunker-valentin/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/zh/places/kaunas-ninth-fort/</loc></url>
@@ -696,14 +716,17 @@
   <url><loc>https://mysterymap.online/ja/places/wewelsburg-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/prora/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hohenzollern-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/branitz-pyramids/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/carnuntum/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/eisriesenwelt/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/burg-kreuzenstein/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/chateau-de-gruyeres/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/sphinx-observatory/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/val-camonica-rock-drawings/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/cerveteri-necropolis/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/tarquinia-necropolis/</loc></url>
@@ -732,6 +755,8 @@
   <url><loc>https://mysterymap.online/ja/places/salona/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/fort-lovrijenac/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/puzzlewood/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/wistman-s-wood/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/dartmoor-prison/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/bodmin-moor/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/men-an-tol/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/st-michael-s-mount/</loc></url>
@@ -755,7 +780,12 @@
   <url><loc>https://mysterymap.online/ja/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/ouvrage-hackenberg/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/fort-vaux/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/vauquois-mine-craters/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/la-coupole-bunker/</loc></url>
+  <url><loc>https://mysterymap.online/ja/places/bunker-valentin/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ja/places/kaunas-ninth-fort/</loc></url>
@@ -866,14 +896,17 @@
   <url><loc>https://mysterymap.online/ko/places/wewelsburg-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/teufelsberg/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/beelitz-heilstatten/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/prora/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/drachenfels/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hohenzollern-castle/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/branitz-pyramids/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/carnuntum/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hallstatt-ossuary/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hochosterwitz-castle/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/eisriesenwelt/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/burg-kreuzenstein/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/chateau-de-gruyeres/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/sphinx-observatory/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/val-camonica-rock-drawings/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/cerveteri-necropolis/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/tarquinia-necropolis/</loc></url>
@@ -902,6 +935,8 @@
   <url><loc>https://mysterymap.online/ko/places/salona/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/fort-lovrijenac/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/puzzlewood/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/wistman-s-wood/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/dartmoor-prison/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/bodmin-moor/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/men-an-tol/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/st-michael-s-mount/</loc></url>
@@ -925,7 +960,12 @@
   <url><loc>https://mysterymap.online/ko/places/tarxien-temples/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/hypogeum-of-hal-saflieni/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/skara-brae/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/ouvrage-hackenberg/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/fort-douaumont/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/fort-vaux/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/vauquois-mine-craters/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/la-coupole-bunker/</loc></url>
+  <url><loc>https://mysterymap.online/ko/places/bunker-valentin/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/mittelwerk-dora-tunnels/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/patarei-sea-fortress-prison/</loc></url>
   <url><loc>https://mysterymap.online/ko/places/kaunas-ninth-fort/</loc></url>
